@@ -1,0 +1,13 @@
+{
+  "title": "Pigments by Family",
+  "intro": "Explore pigment families, learn common codes, and compare paints by their core pigments.",
+  "items": [
+    { "code": "PB29", "name": "Ultramarine Blue", "family": "Blue", "description": "The standard warm blue." },
+    { "code": "PB15:3", "name": "Phthalo Blue (GS)", "family": "Blue", "description": "Intense, cool blue." },
+    { "code": "PR101", "name": "Synthetic Red Iron Oxide", "family": "Brown", "description": "Versatile earth red, ranges from orange to maroon." },
+    { "code": "PY150", "name": "Nickel Azo Yellow", "family": "Yellow", "description": "Transparent, high-chroma yellow." },
+    { "code": "PV19", "name": "Quinacridone Rose", "family": "Red", "description": "Cool red/rose, very transparent." },
+    { "code": "PG7", "name": "Phthalo Green (BS)", "family": "Green", "description": "Standard cool green." },
+    { "code": "PBr7", "name": "Burnt Sienna", "family": "Brown", "description": "Classic earth pigment." }
+  ]
+}
