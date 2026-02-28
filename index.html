@@ -3,29 +3,41 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pigment Database</title>
+    <title>TintMap</title>
+    <meta name="description" content="TintMap is the pigment atlas for artist paints. Compare pigment codes, performance, and brand collections." />
+    <meta name="theme-color" content="#f7f3ed" />
+    <meta property="og:title" content="TintMap" />
+    <meta property="og:description" content="The pigment atlas for artist paints. Compare pigment codes, performance, and brand collections." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tintmap.com" />
+    <meta property="og:image" content="https://tintmap.com/logo.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="TintMap" />
+    <meta name="twitter:description" content="The pigment atlas for artist paints. Compare pigment codes, performance, and brand collections." />
+    <meta name="twitter:image" content="https://tintmap.com/logo.svg" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script>
       tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
-              sans: ['Inter', 'sans-serif'],
+              sans: ['Space Grotesk', 'sans-serif'],
+              display: ['Fraunces', 'serif'],
             },
             colors: {
-              pg50: '#00C4B4', // Cobalt Titanate Green
-              brand: '#66B2B2', // Brand Page Highlight
-              watercolor: {
-                silver: '#D2D0C8', // Warm Silver
-                taupe: '#B0A89D', // Warm Taupe
-                tan: '#C9B7A6', // Sandy Tan
-                brown: '#AC9179', // Medium Warm Brown
-                rose: '#977466', // Rose-Taupe
-                olive: '#6B6D5E', // Sage Olive
-                sage: '#7E816E', // Soft Sage
+              tint: {
+                ink: '#1f2937',
+                paper: '#f7f3ed',
+                clay: '#e6d9c6',
+                ember: '#d2643b',
+                teal: '#0f766e',
+                gold: '#d6a14b',
+                moss: '#556b5f',
               },
               neutral: {
                 50: '#f9fafb',
@@ -45,10 +57,30 @@
       }
     </script>
     <style>
+      :root {
+        --tm-ink: #1f2937;
+        --tm-paper: #f7f3ed;
+        --tm-teal: #0f766e;
+        --tm-ember: #d2643b;
+        --tm-gold: #d6a14b;
+      }
       body {
-        font-family: 'Inter', sans-serif;
-        background-color: #ffffff;
-        color: #111827;
+        font-family: 'Space Grotesk', sans-serif;
+        background:
+          radial-gradient(1200px 600px at 10% 0%, rgba(214, 161, 75, 0.10), transparent 60%),
+          radial-gradient(900px 500px at 90% 0%, rgba(15, 118, 110, 0.12), transparent 60%),
+          #f7f3ed;
+        color: #1f2937;
+      }
+      .tm-grid {
+        background-image:
+          linear-gradient(to right, rgba(31, 41, 55, 0.06) 1px, transparent 1px),
+          linear-gradient(to bottom, rgba(31, 41, 55, 0.06) 1px, transparent 1px);
+        background-size: 48px 48px;
+        mask-image: radial-gradient(circle at 50% 20%, rgba(0, 0, 0, 0.9), transparent 70%);
+      }
+      .tm-noise {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.05'/%3E%3C/svg%3E");
       }
       /* Hide scrollbar for horizontal scrolling areas */
       .no-scrollbar::-webkit-scrollbar {
@@ -72,7 +104,17 @@
   }
 }
 </script>
-<link rel="stylesheet" href="/index.css">
+<script>
+  (function () {
+    const params = new URLSearchParams(window.location.search);
+    const p = params.get('p');
+    if (p) {
+      const decoded = decodeURIComponent(p);
+      const newPath = decoded.startsWith('/') ? decoded : '/' + decoded;
+      window.history.replaceState(null, '', newPath);
+    }
+  })();
+</script>
 </head>
   <body>
     <div id="root"></div>

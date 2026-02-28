@@ -1,11 +1,12 @@
 {
-  "name": "pigment-database-&-comparison-tool",
+  "name": "tintmap",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "tinacms dev -c \"vite\"",
     "build": "tinacms build && vite build",
+    "build:pages": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {

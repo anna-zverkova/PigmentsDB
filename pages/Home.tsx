@@ -8,60 +8,48 @@ import homeContent from '../content/home.json';
 export const Home: React.FC = () => {
   const { hero, cta, features, featured } = homeContent;
   const featureIcons = [Search, BarChart2, BookOpen];
-  const featureIconClasses = ['text-watercolor-rose', 'text-watercolor-olive', 'text-watercolor-sage'];
-  const featureBgClasses = ['bg-blue-50', 'bg-purple-50', 'bg-green-50'];
+  const featureIconClasses = ['text-tint-ember', 'text-tint-teal', 'text-tint-moss'];
+  const featureBgClasses = ['bg-tint-ember/10', 'bg-tint-teal/10', 'bg-tint-gold/15'];
 
   return (
     <div className="space-y-20 pb-20">
       {/* Hero Section with Watercolor Design */}
-      <section className="relative py-28 md:py-40 overflow-hidden bg-white">
-        {/* Abstract Watercolor Background Layers */}
+      <section className="relative py-28 md:py-40 overflow-hidden bg-tint-paper">
+        {/* Map-inspired background layers */}
         <div className="absolute inset-0 pointer-events-none select-none overflow-hidden">
-          {/* Base soft wash */}
-          <div className="absolute inset-0 bg-watercolor-silver/10"></div>
-          
-          {/* Blob 1: Sandy Tan - Top Left */}
-          <div className="absolute -top-32 -left-32 w-[600px] h-[600px] bg-watercolor-tan/30 rounded-[40%] blur-[80px] mix-blend-multiply opacity-80 animate-pulse" style={{animationDuration: '8s'}}></div>
-          
-          {/* Blob 2: Rose Taupe - Bottom Right */}
-          <div className="absolute -bottom-40 -right-20 w-[700px] h-[600px] bg-watercolor-rose/20 rounded-[45%] blur-[100px] mix-blend-multiply opacity-70"></div>
-          
-          {/* Blob 3: Soft Sage - Top Right */}
-          <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-watercolor-sage/20 rounded-full blur-[90px] mix-blend-multiply opacity-60"></div>
-          
-          {/* Blob 4: Warm Taupe - Center/Left offset */}
-          <div className="absolute top-1/2 left-1/4 -translate-y-1/2 w-[800px] h-[400px] bg-watercolor-taupe/20 rounded-[50%] blur-[120px] mix-blend-multiply opacity-50"></div>
-          
-          {/* Blob 5: Sage Olive Accent */}
-          <div className="absolute bottom-20 left-20 w-[300px] h-[300px] bg-watercolor-olive/15 rounded-full blur-[60px] mix-blend-multiply opacity-60"></div>
+          <div className="absolute inset-0 tm-grid opacity-50"></div>
+          <div className="absolute inset-0 tm-noise opacity-40"></div>
+          <div className="absolute -top-32 -left-32 w-[620px] h-[620px] bg-tint-gold/20 rounded-[40%] blur-[90px] mix-blend-multiply opacity-80 animate-pulse" style={{animationDuration: '10s'}}></div>
+          <div className="absolute -bottom-48 -right-20 w-[720px] h-[620px] bg-tint-teal/20 rounded-[45%] blur-[110px] mix-blend-multiply opacity-70"></div>
+          <div className="absolute top-12 right-10 w-[420px] h-[420px] bg-tint-ember/15 rounded-full blur-[90px] mix-blend-multiply opacity-70"></div>
         </div>
 
         <div className="container mx-auto px-4 relative z-10 text-center max-w-4xl">
           {/* Pill Badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/60 backdrop-blur-sm border border-neutral-200/50 text-sm font-medium text-neutral-600 mb-8 shadow-sm">
-            <span className="w-2 h-2 rounded-full bg-pg50 animate-pulse"></span>
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/70 backdrop-blur-sm border border-tint-ink/10 text-sm font-medium text-neutral-700 mb-8 shadow-sm">
+            <span className="w-2 h-2 rounded-full bg-tint-ember animate-pulse"></span>
             {hero.badge}
           </div>
 
-          <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-8 text-neutral-900 leading-[1.1]">
+          <h1 className="text-5xl md:text-7xl font-bold font-display tracking-tight mb-8 text-tint-ink leading-[1.1]">
             {hero.titleLead} <br/>
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-watercolor-rose via-watercolor-brown to-watercolor-olive">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-tint-ember via-tint-gold to-tint-teal">
               {hero.titleAccent}
             </span>
           </h1>
           
-          <p className="text-xl md:text-2xl text-neutral-600 mb-10 max-w-2xl mx-auto leading-relaxed font-light">
+          <p className="text-xl md:text-2xl text-neutral-700 mb-10 max-w-2xl mx-auto leading-relaxed font-light">
             {hero.subtitle}
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
              <Link to={cta.primaryHref}>
-              <Button size="lg" className="w-full sm:w-auto text-base px-8 h-12 shadow-xl shadow-neutral-200/50 hover:shadow-2xl hover:-translate-y-0.5 transition-all duration-300">
+              <Button size="lg" className="w-full sm:w-auto text-base px-8 h-12 shadow-xl shadow-neutral-300/50 hover:shadow-2xl hover:-translate-y-0.5 transition-all duration-300">
                 {cta.primaryText}
               </Button>
             </Link>
              <Link to={cta.secondaryHref}>
-              <Button variant="outline" size="lg" className="w-full sm:w-auto h-12 px-8 bg-white/40 backdrop-blur-md border-neutral-300 hover:bg-white/80 text-neutral-700">
+              <Button variant="outline" size="lg" className="w-full sm:w-auto h-12 px-8 bg-white/50 backdrop-blur-md border-tint-ink/20 hover:bg-white/80 text-tint-ink">
                 {cta.secondaryText}
               </Button>
             </Link>
@@ -86,7 +74,7 @@ export const Home: React.FC = () => {
                   <Icon size={28} className={iconClass} />
                 </div>
                 <h3 className="text-xl font-bold mb-3 text-neutral-900">{feature.title}</h3>
-                <p className="text-neutral-500 mb-6 leading-relaxed">{feature.description}</p>
+                <p className="text-neutral-600 mb-6 leading-relaxed">{feature.description}</p>
                 <Link
                   to={feature.href}
                   className={`text-sm font-semibold ${linkClass} flex items-center gap-2 hover:gap-3 transition-all`}
@@ -100,15 +88,15 @@ export const Home: React.FC = () => {
       </section>
       
       {/* Featured Swatches Mockup */}
-      <section className="py-24 border-t border-neutral-100 bg-gradient-to-b from-white to-neutral-50">
+      <section className="py-24 border-t border-tint-ink/10 bg-gradient-to-b from-tint-paper to-white">
          <div className="container mx-auto px-4 text-center">
-            <h2 className="text-3xl font-bold mb-4 text-neutral-900">{featured.title}</h2>
-            <p className="text-neutral-500 mb-12 max-w-xl mx-auto">{featured.subtitle}</p>
+            <h2 className="text-3xl font-bold font-display mb-4 text-tint-ink">{featured.title}</h2>
+            <p className="text-neutral-600 mb-12 max-w-xl mx-auto">{featured.subtitle}</p>
             
             <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
                 {[...Array(5)].map((_, i) => (
                     <div key={i} className="group cursor-pointer">
-                        <div className="aspect-[4/5] bg-white p-3 rounded-2xl shadow-sm border border-neutral-100 flex flex-col items-center group-hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
+                        <div className="aspect-[4/5] bg-white p-3 rounded-2xl shadow-sm border border-tint-ink/10 flex flex-col items-center group-hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
                             <div className={`w-full flex-1 rounded-xl mb-4 bg-neutral-100 relative overflow-hidden`}>
                                 <div className="absolute inset-0 opacity-80" style={{background: `hsl(${45 + (i * 35)}, 60%, ${85 - (i * 5)}%)`}}></div>
                                 {/* Mock Watercolor Texture Overlay */}

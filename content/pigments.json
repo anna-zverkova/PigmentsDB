@@ -1,5 +1,5 @@
 {
-  "title": "Pigments by Family",
+  "title": "Pigment Families",
   "intro": "Explore pigment families, learn common codes, and compare paints by their core pigments.",
   "items": [
     { "code": "PB29", "name": "Ultramarine Blue", "family": "Blue", "description": "The standard warm blue." },

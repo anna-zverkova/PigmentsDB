@@ -1,6 +1,6 @@
 {
   "title": "Watercolors by Brand",
-  "intro": "In the watercolor database you find great information about 3800+ watercolor paints, including detailed information about each paint and hand drawn swatches on watercolor paper showcasing each paint. There are two ways these paints are organised by: Paints by Pigments (where you can find paints by their pigment codes) and Paints by Brands. You'll also find extra information on each Paints by Brands page about the brands, as well as all the swatches in one place.",
+  "intro": "TintMap brings together pigment codes, performance notes, and brand libraries so you can compare watercolors in one place. Browse paints by pigment code or by brand, then dive into swatches and technical details.",
   "items": [
     { "id": "art-spectrum", "name": "Art Spectrum", "logo": "AS", "description": "", "website": "#" },
     { "id": "blick", "name": "Blick Own Brand", "logo": "B", "description": "", "website": "#" },

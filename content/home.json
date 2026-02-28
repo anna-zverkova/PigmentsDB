@@ -1,38 +1,38 @@
 {
   "hero": {
-    "badge": "The Open Source Pigment Database",
-    "titleLead": "The Definitive Database for",
+    "badge": "TintMap — The Pigment Atlas",
+    "titleLead": "Map the DNA of",
     "titleAccent": "Artist Paints",
-    "subtitle": "Compare technical attributes, explore pigment histories, and find the perfect color from over 50 top brands."
+    "subtitle": "Trace pigment codes, compare performance, and navigate color families across top brands."
   },
   "cta": {
-    "primaryText": "Browse Paints",
+    "primaryText": "Explore Paints",
     "primaryHref": "/paints",
-    "secondaryText": "Explore Pigments",
+    "secondaryText": "View Pigments",
     "secondaryHref": "/pigments"
   },
   "features": [
     {
-      "title": "Smart Search",
-      "description": "Filter by opacity, granulation, staining, and more to find exactly what you need.",
-      "ctaText": "Search paints",
-      "href": "/paints"
+      "title": "Signal-Rich Search",
+      "description": "Filter by opacity, granulation, staining, and lightfastness to pinpoint the right paint.",
+      "ctaText": "Search the library",
+      "href": "/pigments"
     },
     {
       "title": "Side-by-Side Compare",
-      "description": "Select up to 4 paints to compare their swatches and technical specs directly.",
-      "ctaText": "Start comparing",
+      "description": "Compare swatches and performance notes across multiple paints at once.",
+      "ctaText": "Build a compare set",
       "href": "/compare"
     },
     {
-      "title": "Paint Library",
-      "description": "Browse curated paint profiles with pigment codes, performance notes, and brand details.",
-      "ctaText": "Browse paints",
+      "title": "Pigment Atlas",
+      "description": "Navigate pigment families and discover how brands interpret the same codes.",
+      "ctaText": "Explore pigments",
       "href": "/paints"
     }
   ],
   "featured": {
     "title": "Featured Colors",
-    "subtitle": "Discover recently tested paints added to our growing collection of professional grade watercolors."
+    "subtitle": "Newly mapped paints added to the growing TintMap collection."
   }
 }
