@@ -25,28 +25,6 @@
       "collection": "Extra Fine Watercolors"
     },
     {
-      "id": "wn-pb29",
-      "brandId": "wn",
-      "name": "French Ultramarine",
-      "pigmentCodes": [
-        "PB29"
-      ],
-      "hex": "#1A1A80",
-      "transparency": "Semi-Transparent",
-      "staining": "Low-Staining",
-      "granulation": "Medium",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "0303263",
-      "series": "2",
-      "stainingVsLifting": "Lifts easily",
-      "flow": "High",
-      "tintingStrength": "High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Professional Water Colour"
-    },
-    {
       "id": "hol-pb29",
       "brandId": "holbein",
       "name": "Ultramarine Deep",
@@ -89,28 +67,6 @@
       "performance": "Professional",
       "toxicity": "None",
       "collection": "Extra Fine Watercolors"
-    },
-    {
-      "id": "wn-pr101",
-      "brandId": "wn",
-      "name": "Burnt Sienna",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#803010",
-      "transparency": "Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "Low",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "0303074",
-      "series": "1",
-      "stainingVsLifting": "Moderate",
-      "flow": "Medium",
-      "tintingStrength": "High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Professional Water Colour"
     },
     {
       "id": "ds-py150",
@@ -177,28 +133,6 @@
       "performance": "Professional",
       "toxicity": "None",
       "collection": "Extra Fine Watercolors"
-    },
-    {
-      "id": "wn-pv19",
-      "brandId": "wn",
-      "name": "Permanent Rose",
-      "pigmentCodes": [
-        "PV19"
-      ],
-      "hex": "#E0356A",
-      "transparency": "Transparent",
-      "staining": "Medium Staining",
-      "granulation": "None",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "0303502",
-      "series": "3",
-      "stainingVsLifting": "Hard to lift",
-      "flow": "High",
-      "tintingStrength": "High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Professional Water Colour"
     },
     {
       "id": "ds-pg7",
@@ -5361,6 +5295,1759 @@
       "toxicity": "No",
       "collection": "Metamorphoses Limited Edition",
       "isDiscontinued": false
+    },
+    {
+      "id": "wn-lemon-yellow",
+      "brandId": "wn",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Lemon-Yellow-Nickel-Titanate.png"
+    },
+    {
+      "id": "wn-bismuth-yellow",
+      "brandId": "wn",
+      "name": "Bismuth Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Bismuth-Yellow.png"
+    },
+    {
+      "id": "wn-cadmium-free-lemon",
+      "brandId": "wn",
+      "name": "Cadmium-Free Lemon",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Lemon.png"
+    },
+    {
+      "id": "wn-cadmium-yellow-lemon",
+      "brandId": "wn",
+      "name": "Cadmium Yellow Lemon",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Lemon.png"
+    },
+    {
+      "id": "wn-winsor-lemon",
+      "brandId": "wn",
+      "name": "Winsor Lemon",
+      "pigmentCodes": [
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Lemon.png"
+    },
+    {
+      "id": "wn-winsor-yellow",
+      "brandId": "wn",
+      "name": "Winsor Yellow",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Yellow.png"
+    },
+    {
+      "id": "wn-lemon-yellow-deep",
+      "brandId": "wn",
+      "name": "Lemon Yellow Deep",
+      "pigmentCodes": [
+        "PY159"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Lemon-Yellow-Deep.png"
+    },
+    {
+      "id": "wn-aureolin",
+      "brandId": "wn",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Aureolin.png"
+    },
+    {
+      "id": "wn-transparent-yellow",
+      "brandId": "wn",
+      "name": "Transparent Yellow",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "wn-cadmium-free-yellow-pale",
+      "brandId": "wn",
+      "name": "Cadmium-Free Yellow Pale",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Pale.png"
+    },
+    {
+      "id": "wn-cadmium-yellow-pale",
+      "brandId": "wn",
+      "name": "Cadmium Yellow Pale",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow-Pale.png"
+    },
+    {
+      "id": "wn-turner-s-yellow",
+      "brandId": "wn",
+      "name": "Turner\u2019s Yellow",
+      "pigmentCodes": [
+        "PY216"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Turners-Yellow.png"
+    },
+    {
+      "id": "wn-new-gamboge",
+      "brandId": "wn",
+      "name": "New Gamboge",
+      "pigmentCodes": [
+        "PR209",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-New-Gamboge.png"
+    },
+    {
+      "id": "wn-cadmium-yellow",
+      "brandId": "wn",
+      "name": "Cadmium Yellow",
+      "pigmentCodes": [
+        "PO20",
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow.png"
+    },
+    {
+      "id": "wn-cadmium-free-yellow",
+      "brandId": "wn",
+      "name": "Cadmium-Free Yellow",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow.png"
+    },
+    {
+      "id": "wn-winsor-yellow-deep",
+      "brandId": "wn",
+      "name": "Winsor Yellow Deep",
+      "pigmentCodes": [
+        "PY65"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Yellow-Deep.png"
+    },
+    {
+      "id": "wn-indian-yellow",
+      "brandId": "wn",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PO62",
+        "PY139"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Indian-Yellow.png"
+    },
+    {
+      "id": "wn-cadmium-yellow-deep",
+      "brandId": "wn",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PR108. PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow-Deep.png"
+    },
+    {
+      "id": "wn-cadmium-free-yellow-deep",
+      "brandId": "wn",
+      "name": "Cadmium-Free Yellow Deep",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Deep.png"
+    },
+    {
+      "id": "wn-cadmium-orange",
+      "brandId": "wn",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PR108. PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-cadmium-Orange.png"
+    },
+    {
+      "id": "wn-cadmium-free-orange",
+      "brandId": "wn",
+      "name": "Cadmium-Free Orange",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-orange.png"
+    },
+    {
+      "id": "wn-winsor-orange",
+      "brandId": "wn",
+      "name": "Winsor Orange",
+      "pigmentCodes": [
+        "PO62"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Orange.png"
+    },
+    {
+      "id": "wn-winsor-orange-rs",
+      "brandId": "wn",
+      "name": "Winsor Orange (RS)",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Orange-RS.png"
+    },
+    {
+      "id": "wn-transparent-orange",
+      "brandId": "wn",
+      "name": "Transparent Orange",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "wn-cadmium-scarlet",
+      "brandId": "wn",
+      "name": "Cadmium Scarlet",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-SCarlet.png"
+    },
+    {
+      "id": "wn-cadmium-free-scarlet",
+      "brandId": "wn",
+      "name": "Cadmium-Free Scarlet",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Scarlet.png"
+    },
+    {
+      "id": "wn-scarlet-lake",
+      "brandId": "wn",
+      "name": "Scarlet Lake",
+      "pigmentCodes": [
+        "PR188"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Scarlet-Lake.png"
+    },
+    {
+      "id": "wn-cadmium-red",
+      "brandId": "wn",
+      "name": "Cadmium Red",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Red.png"
+    },
+    {
+      "id": "wn-cadmium-free-red",
+      "brandId": "wn",
+      "name": "Cadmium-Free Red",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Red.png"
+    },
+    {
+      "id": "wn-cadmium-red-deep",
+      "brandId": "wn",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Red-Deep.png"
+    },
+    {
+      "id": "wn-cadmium-free-red-deep",
+      "brandId": "wn",
+      "name": "Cadmium-Free Red Deep",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Red-Deep.png"
+    },
+    {
+      "id": "wn-winsor-red",
+      "brandId": "wn",
+      "name": "Winsor Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Red.png"
+    },
+    {
+      "id": "wn-rose-madder-genuine",
+      "brandId": "wn",
+      "name": "Rose Madder Genuine",
+      "pigmentCodes": [
+        "NR9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Rose-Madder-Genuine.png"
+    },
+    {
+      "id": "wn-quinacridone-red",
+      "brandId": "wn",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Red.png"
+    },
+    {
+      "id": "wn-winsor-red-deep",
+      "brandId": "wn",
+      "name": "Winsor Red Deep",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Red-Deep.png"
+    },
+    {
+      "id": "wn-permanent-alizarin-crimson",
+      "brandId": "wn",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-permanent-Alizarin-Crimson.png"
+    },
+    {
+      "id": "wn-alizarin-crimson",
+      "brandId": "wn",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Alizarin-Crimson.png"
+    },
+    {
+      "id": "wn-permanent-carmine",
+      "brandId": "wn",
+      "name": "Permanent Carmine",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Permanent-Carmine.png"
+    },
+    {
+      "id": "wn-permanent-rose",
+      "brandId": "wn",
+      "name": "Permanent Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-permanent-Rose.png"
+    },
+    {
+      "id": "wn-opera-rose",
+      "brandId": "wn",
+      "name": "Opera Rose",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Opera-Rose.png"
+    },
+    {
+      "id": "wn-quinacridone-magenta",
+      "brandId": "wn",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Magenta.png"
+    },
+    {
+      "id": "wn-permanent-magenta",
+      "brandId": "wn",
+      "name": "Permanent Magenta",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Permanent-Magenta.png"
+    },
+    {
+      "id": "wn-cobalt-violet",
+      "brandId": "wn",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Violet.png"
+    },
+    {
+      "id": "wn-permanent-mauve",
+      "brandId": "wn",
+      "name": "Permanent Mauve",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Permanent-Mauve.png"
+    },
+    {
+      "id": "wn-quinacridone-violet",
+      "brandId": "wn",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Violet.png"
+    },
+    {
+      "id": "wn-ultramarine-violet",
+      "brandId": "wn",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Ultramarine-Violet.png"
+    },
+    {
+      "id": "wn-winsor-violet-dioxazine",
+      "brandId": "wn",
+      "name": "Winsor Violet (Dioxazine)",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Violet-Dioxazine.png"
+    },
+    {
+      "id": "wn-indanthrone-blue",
+      "brandId": "wn",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Indanthrene-Blue.png"
+    },
+    {
+      "id": "wn-smalt-dumont-s-blue",
+      "brandId": "wn",
+      "name": "Smalt (Dumont\u2019s Blue)",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Smalt-Dumonts-Blue.png"
+    },
+    {
+      "id": "wn-cobalt-blue-deep",
+      "brandId": "wn",
+      "name": "Cobalt Blue Deep",
+      "pigmentCodes": [
+        "PB74"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Blue-Deep.png"
+    },
+    {
+      "id": "wn-french-ultramarine",
+      "brandId": "wn",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-French-Ultramarine.png"
+    },
+    {
+      "id": "wn-ultramarine-gs",
+      "brandId": "wn",
+      "name": "Ultramarine (GS)",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Ultramarine-GS.png"
+    },
+    {
+      "id": "wn-cobalt-blue",
+      "brandId": "wn",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Blue.png"
+    },
+    {
+      "id": "wn-winsor-blue-rs",
+      "brandId": "wn",
+      "name": "Winsor Blue (RS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Blue-RS.png"
+    },
+    {
+      "id": "wn-antwerp-blue",
+      "brandId": "wn",
+      "name": "Antwerp Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Antwerp-Blue.png"
+    },
+    {
+      "id": "wn-prussian-blue",
+      "brandId": "wn",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Prussian-Blue.png"
+    },
+    {
+      "id": "wn-winsor-blue-gs",
+      "brandId": "wn",
+      "name": "Winsor Blue (GS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Blue-GS.png"
+    },
+    {
+      "id": "wn-cerulean-blue-rs",
+      "brandId": "wn",
+      "name": "Cerulean Blue (RS)",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cerulean-Blue-RS.png"
+    },
+    {
+      "id": "wn-cerulean-blue",
+      "brandId": "wn",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cerulean-Blue.png"
+    },
+    {
+      "id": "wn-manganese-blue-hue",
+      "brandId": "wn",
+      "name": "Manganese Blue Hue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Manganese-Blue-Hue.png"
+    },
+    {
+      "id": "wn-phthalo-turquoise",
+      "brandId": "wn",
+      "name": "Phthalo Turquoise",
+      "pigmentCodes": [
+        "PB16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Phthalo-Turquoise.png"
+    },
+    {
+      "id": "wn-cobalt-turquoise-light",
+      "brandId": "wn",
+      "name": "Cobalt Turquoise Light",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Turquoise-Light.png"
+    },
+    {
+      "id": "wn-cobalt-turquoise",
+      "brandId": "wn",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB28",
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Turquoise.png"
+    },
+    {
+      "id": "wn-aqua-green",
+      "brandId": "wn",
+      "name": "Aqua Green",
+      "pigmentCodes": [
+        "\u2014"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Aqua-Green.png"
+    },
+    {
+      "id": "wn-cobalt-green",
+      "brandId": "wn",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Green.png"
+    },
+    {
+      "id": "wn-cobalt-green-deep",
+      "brandId": "wn",
+      "name": "Cobalt Green Deep",
+      "pigmentCodes": [
+        "PG26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Green-Deep.png"
+    },
+    {
+      "id": "wn-winsor-green-bs",
+      "brandId": "wn",
+      "name": "Winsor Green (BS)",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Green-BS.png"
+    },
+    {
+      "id": "wn-viridian",
+      "brandId": "wn",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Viridian.png"
+    },
+    {
+      "id": "wn-winsor-green-ys",
+      "brandId": "wn",
+      "name": "Winsor Green (YS)",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Winsor-Green-YS.png"
+    },
+    {
+      "id": "wn-terre-verte",
+      "brandId": "wn",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PB28",
+        "PG18",
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Terre-Verte.png"
+    },
+    {
+      "id": "wn-perylene-green",
+      "brandId": "wn",
+      "name": "Perylene Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Perylene-Green.png"
+    },
+    {
+      "id": "wn-oxide-of-chromium",
+      "brandId": "wn",
+      "name": "Oxide of Chromium",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Oxide-of-Chromium.png"
+    },
+    {
+      "id": "wn-hooker-s-green",
+      "brandId": "wn",
+      "name": "Hooker\u2019s Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Hookers-Green.png"
+    },
+    {
+      "id": "wn-permanent-sap-green",
+      "brandId": "wn",
+      "name": "Permanent Sap Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Permanent-Sap-Green.png"
+    },
+    {
+      "id": "wn-olive-green",
+      "brandId": "wn",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PB15:6",
+        "PR101",
+        "PY65"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Olive-Green.png"
+    },
+    {
+      "id": "wn-terre-verte-ys",
+      "brandId": "wn",
+      "name": "Terre Verte (YS)",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Terre-Verte-Yellow-Shade.png"
+    },
+    {
+      "id": "wn-green-gold",
+      "brandId": "wn",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Green-Gold.png"
+    },
+    {
+      "id": "wn-naples-yellow",
+      "brandId": "wn",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PBr24",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Naples-Yellow.png"
+    },
+    {
+      "id": "wn-naples-yellow-deep",
+      "brandId": "wn",
+      "name": "Naples Yellow Deep",
+      "pigmentCodes": [
+        "PBr24"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Naples-Yellow-Deep.png"
+    },
+    {
+      "id": "wn-yellow-ochre-light",
+      "brandId": "wn",
+      "name": "Yellow Ochre Light",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "wn-yellow-ochre",
+      "brandId": "wn",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Yellow-Ochre.png"
+    },
+    {
+      "id": "wn-raw-sienna",
+      "brandId": "wn",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Raw-Sienna.png"
+    },
+    {
+      "id": "wn-gold-ochre",
+      "brandId": "wn",
+      "name": "Gold Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Gold-Ochre.png"
+    },
+    {
+      "id": "wn-quinacridone-gold",
+      "brandId": "wn",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PR206",
+        "PV19",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Gold.png"
+    },
+    {
+      "id": "wn-brown-ochre",
+      "brandId": "wn",
+      "name": "Brown Ochre",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Brown-Ochre.png"
+    },
+    {
+      "id": "wn-magnesium-brown",
+      "brandId": "wn",
+      "name": "Magnesium Brown",
+      "pigmentCodes": [
+        "PY119"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Magnesium-Brown.png"
+    },
+    {
+      "id": "wn-burnt-sienna",
+      "brandId": "wn",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Burnt-Sienna.png"
+    },
+    {
+      "id": "wn-light-red",
+      "brandId": "wn",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Light-Red.png"
+    },
+    {
+      "id": "wn-venetian-red",
+      "brandId": "wn",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Venetian-Red.png"
+    },
+    {
+      "id": "wn-indian-red",
+      "brandId": "wn",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Indian-Red.png"
+    },
+    {
+      "id": "wn-brown-madder",
+      "brandId": "wn",
+      "name": "Brown Madder",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Brown-Madder.png"
+    },
+    {
+      "id": "wn-potter-s-pink",
+      "brandId": "wn",
+      "name": "Potter\u2019s Pink",
+      "pigmentCodes": [
+        "PR233"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Potters-Pink.png"
+    },
+    {
+      "id": "wn-perylene-maroon",
+      "brandId": "wn",
+      "name": "Perylene Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Perylene-Maroon.png"
+    },
+    {
+      "id": "wn-perylene-violet",
+      "brandId": "wn",
+      "name": "Perylene Violet",
+      "pigmentCodes": [
+        "PV29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Perylene-Violet.png"
+    },
+    {
+      "id": "wn-caput-mortuum-violet",
+      "brandId": "wn",
+      "name": "Caput Mortuum Violet",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Caput-Mortuum-Violet.png"
+    },
+    {
+      "id": "wn-raw-umber",
+      "brandId": "wn",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Raw-Umber.png"
+    },
+    {
+      "id": "wn-burnt-umber",
+      "brandId": "wn",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Burnt-Umber.png"
+    },
+    {
+      "id": "wn-vandyke-brown",
+      "brandId": "wn",
+      "name": "Vandyke Brown",
+      "pigmentCodes": [
+        "PBk6",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Vandyke-Brown.png"
+    },
+    {
+      "id": "wn-sepia",
+      "brandId": "wn",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBk6",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Sepia.png"
+    },
+    {
+      "id": "wn-indigo",
+      "brandId": "wn",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Indigo.png"
+    },
+    {
+      "id": "wn-payne-s-grey",
+      "brandId": "wn",
+      "name": "Payne\u2019s Grey",
+      "pigmentCodes": [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Paynes-Gray.png"
+    },
+    {
+      "id": "wn-neutral-tint",
+      "brandId": "wn",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Neutral-Tint.png"
+    },
+    {
+      "id": "wn-ivory-black",
+      "brandId": "wn",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Ivory-Black.png"
+    },
+    {
+      "id": "wn-lamp-black",
+      "brandId": "wn",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6",
+        "7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Lamp-Black.png"
+    },
+    {
+      "id": "wn-mars-black",
+      "brandId": "wn",
+      "name": "Mars Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Mars-Black.png"
+    },
+    {
+      "id": "wn-davy-s-gray",
+      "brandId": "wn",
+      "name": "Davy\u2019s Gray",
+      "pigmentCodes": [
+        "PBk19",
+        "PBk6",
+        "PG17",
+        "PW5"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Davys-Gray.png"
+    },
+    {
+      "id": "wn-chinese-white",
+      "brandId": "wn",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Chinese-White.png"
+    },
+    {
+      "id": "wn-titanium-white",
+      "brandId": "wn",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/winsor-newton/WN-Titanium-White.png"
     }
   ]
 }
