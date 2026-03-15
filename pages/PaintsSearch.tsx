@@ -16,7 +16,7 @@ export const PaintsSearch: React.FC = () => {
   );
   
   // Basic filtering logic mocking Algolia
-  const filteredPaints = PAINTS.filter(paint => {
+  const visiblePaints = PAINTS.filter(paint => {
       const matchesSearch = paint.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
                             paint.pigmentCodes.some(c => c.toLowerCase().includes(searchTerm.toLowerCase()));
       
@@ -104,10 +104,10 @@ export const PaintsSearch: React.FC = () => {
             {/* Results Grid */}
             <div className="flex-1">
                 <div className="mb-4 text-sm text-neutral-500">
-                    Showing {filteredPaints.length} results
+                    Showing {visiblePaints.length} results
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-                    {filteredPaints.map(paint => {
+                    {visiblePaints.map(paint => {
                         const brand = BRANDS.find(b => b.id === paint.brandId);
                         return (
                             <Link key={paint.id} to={`/paints/${paint.id}`} className="group block h-full">
