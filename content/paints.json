@@ -7048,6 +7048,781 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Titanium-White.png"
+    },
+    {
+      "id": "wnc-lemon-yellow-hue",
+      "brandId": "wn-cotman",
+      "name": "Lemon Yellow Hue",
+      "pigmentCodes": [
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cadmium-yellow-pale-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Yellow Pale Hue",
+      "pigmentCodes": [
+        "PY175",
+        "PY65"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-yellow-pale-hue.png"
+    },
+    {
+      "id": "wnc-gamboge-hue",
+      "brandId": "wn-cotman",
+      "name": "Gamboge Hue",
+      "pigmentCodes": [
+        "PR209",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cadmium-yellow-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Yellow Hue",
+      "pigmentCodes": [
+        "PY65",
+        "PY97"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cadmium-orange-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Orange Hue",
+      "pigmentCodes": [
+        "PO43",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cadmium-red-pale-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Red Pale Hue",
+      "pigmentCodes": [
+        "PR255",
+        "PY65"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-red-pale-hue.png"
+    },
+    {
+      "id": "wnc-cadmium-red-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Red Hue",
+      "pigmentCodes": [
+        "PR149",
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-red-hue.png"
+    },
+    {
+      "id": "wnc-cadmium-red-deep-hue",
+      "brandId": "wn-cotman",
+      "name": "Cadmium Red Deep Hue",
+      "pigmentCodes": [
+        "PR188",
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-alizarin-crimson-hue",
+      "brandId": "wn-cotman",
+      "name": "Alizarin Crimson Hue",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-permanent-rose",
+      "brandId": "wn-cotman",
+      "name": "Permanent Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-permanent-rose.png"
+    },
+    {
+      "id": "wnc-rose-madder-hue",
+      "brandId": "wn-cotman",
+      "name": "Rose Madder Hue",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-rose-madder-hue.png"
+    },
+    {
+      "id": "wnc-purple-lake",
+      "brandId": "wn-cotman",
+      "name": "Purple Lake",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-purple-lake.png"
+    },
+    {
+      "id": "wnc-mauve",
+      "brandId": "wn-cotman",
+      "name": "Mauve",
+      "pigmentCodes": [
+        "PR122",
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-dioxazine-violet",
+      "brandId": "wn-cotman",
+      "name": "Dioxazine Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-ultramarine",
+      "brandId": "wn-cotman",
+      "name": "Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cobalt-blue-hue",
+      "brandId": "wn-cotman",
+      "name": "Cobalt Blue Hue",
+      "pigmentCodes": [
+        "PB29",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-cerulean-blue-hue",
+      "brandId": "wn-cotman",
+      "name": "Cerulean Blue Hue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-cerulean-blue-hue.png"
+    },
+    {
+      "id": "wnc-turquoise",
+      "brandId": "wn-cotman",
+      "name": "Turquoise",
+      "pigmentCodes": [
+        "PB15",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-turquoise.png"
+    },
+    {
+      "id": "wnc-intense-blue-phthalo-blue",
+      "brandId": "wn-cotman",
+      "name": "Intense Blue (Phthalo Blue)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-intense-blue-phthalo-blue.png"
+    },
+    {
+      "id": "wnc-prussian-blue",
+      "brandId": "wn-cotman",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-intense-green-phthalo-green",
+      "brandId": "wn-cotman",
+      "name": "Intense Green (Phthalo Green)",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-intense-green-phthalo-green.png"
+    },
+    {
+      "id": "wnc-viridian-hue",
+      "brandId": "wn-cotman",
+      "name": "Viridian Hue",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-viridian-hue.png"
+    },
+    {
+      "id": "wnc-emerald",
+      "brandId": "wn-cotman",
+      "name": "Emerald",
+      "pigmentCodes": [
+        "PG7",
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-emerald.png"
+    },
+    {
+      "id": "wnc-hooker-s-green-dark",
+      "brandId": "wn-cotman",
+      "name": "Hooker\u2019s Green Dark",
+      "pigmentCodes": [
+        "PB15",
+        "PG7",
+        "PY139"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-hookers-green-dark.png"
+    },
+    {
+      "id": "wnc-hooker-s-green-light",
+      "brandId": "wn-cotman",
+      "name": "Hooker\u2019s Green Light",
+      "pigmentCodes": [
+        "PB15",
+        "PG7",
+        "PY139"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-hookers-green-light.png"
+    },
+    {
+      "id": "wnc-sap-green",
+      "brandId": "wn-cotman",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG36",
+        "PR101",
+        "PY139"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-sap-green.png"
+    },
+    {
+      "id": "wnc-raw-sienna",
+      "brandId": "wn-cotman",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-yellow-ochre",
+      "brandId": "wn-cotman",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-yellow-ochre.png"
+    },
+    {
+      "id": "wnc-raw-umber",
+      "brandId": "wn-cotman",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-Raw-umber.png"
+    },
+    {
+      "id": "wnc-burnt-sienna",
+      "brandId": "wn-cotman",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-burnt-sienna.png"
+    },
+    {
+      "id": "wnc-light-red",
+      "brandId": "wn-cotman",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-light-red.png"
+    },
+    {
+      "id": "wnc-indian-red",
+      "brandId": "wn-cotman",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-Indian-red.png"
+    },
+    {
+      "id": "wnc-burnt-umber",
+      "brandId": "wn-cotman",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-burnt-umber.png"
+    },
+    {
+      "id": "wnc-vandyke-brown",
+      "brandId": "wn-cotman",
+      "name": "Vandyke Brown",
+      "pigmentCodes": [
+        "PBr7",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-vandyke-brown.png"
+    },
+    {
+      "id": "wnc-sepia",
+      "brandId": "wn-cotman",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBk7",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-sepia.png"
+    },
+    {
+      "id": "wnc-indigo",
+      "brandId": "wn-cotman",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PB29",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-indigo.png"
+    },
+    {
+      "id": "wnc-payne-s-gray",
+      "brandId": "wn-cotman",
+      "name": "Payne\u2019s Gray",
+      "pigmentCodes": [
+        "PB15",
+        "PB29",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-ivory-black",
+      "brandId": "wn-cotman",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-ivory-black.png"
+    },
+    {
+      "id": "wnc-lamp-black",
+      "brandId": "wn-cotman",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-lamp-black.png"
+    },
+    {
+      "id": "wnc-chinese-white",
+      "brandId": "wn-cotman",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW5"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/winsor-newton-cotman/COT-chinese-white.png"
+    },
+    {
+      "id": "wnc-iridescent-blue",
+      "brandId": "wn-cotman",
+      "name": "Iridescent Blue",
+      "pigmentCodes": [
+        "Mica",
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-yellow-gold",
+      "brandId": "wn-cotman",
+      "name": "Yellow Gold",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-bronze",
+      "brandId": "wn-cotman",
+      "name": "Bronze",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-red-copper",
+      "brandId": "wn-cotman",
+      "name": "Red Copper",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-silver",
+      "brandId": "wn-cotman",
+      "name": "Silver",
+      "pigmentCodes": [
+        "Mica",
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-pewter",
+      "brandId": "wn-cotman",
+      "name": "Pewter",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-iridescent-black",
+      "brandId": "wn-cotman",
+      "name": "Iridescent Black",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
+    },
+    {
+      "id": "wnc-iridescent-white",
+      "brandId": "wn-cotman",
+      "name": "Iridescent White",
+      "pigmentCodes": [
+        "Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Student"
     }
   ]
 }
