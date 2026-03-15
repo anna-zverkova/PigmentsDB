@@ -47,7 +47,16 @@ export const Comparison: React.FC = () => {
                     return (
                         <div key={paint.id} className="bg-white rounded-xl border border-neutral-200 shadow-sm overflow-hidden flex flex-col">
                             {/* Header */}
-                            <div className="relative aspect-[4/3]" style={{ backgroundColor: paint.hex }}>
+                            <div className="relative aspect-[4/3] overflow-hidden">
+                                {paint.swatchImage ? (
+                                    <img
+                                        src={paint.swatchImage}
+                                        alt={`${paint.name} swatch`}
+                                        className="absolute inset-0 w-full h-full object-cover"
+                                    />
+                                ) : (
+                                    <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
+                                )}
                                 <div className="absolute inset-0 shadow-[inset_0_0_30px_rgba(0,0,0,0.1)]"></div>
                                 <button 
                                     onClick={() => removePaint(paint.id)} // Note: this removes from context but URL state needs manual update in a real app

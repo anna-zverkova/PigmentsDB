@@ -103,10 +103,16 @@ export const PaintsSearch: React.FC = () => {
                         return (
                             <Link key={paint.id} to={`/paints/${paint.id}`} className="group block h-full">
                                 <Card className="h-full overflow-hidden hover:shadow-md transition-shadow flex flex-col">
-                                    <div 
-                                        className="aspect-square w-full relative group-hover:scale-105 transition-transform duration-500"
-                                        style={{ backgroundColor: paint.hex }}
-                                    >
+                                    <div className="aspect-square w-full relative overflow-hidden group-hover:scale-105 transition-transform duration-500">
+                                        {paint.swatchImage ? (
+                                            <img
+                                                src={paint.swatchImage}
+                                                alt={`${paint.name} swatch`}
+                                                className="absolute inset-0 w-full h-full object-cover"
+                                            />
+                                        ) : (
+                                            <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
+                                        )}
                                         <div className="absolute inset-0 shadow-[inset_0_0_20px_rgba(0,0,0,0.1)]"></div>
                                     </div>
                                     <div className="p-4 flex-1 flex flex-col">
