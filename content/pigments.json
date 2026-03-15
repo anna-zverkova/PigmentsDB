@@ -2,12 +2,1175 @@
   "title": "Pigment Families",
   "intro": "Explore pigment families, learn common codes, and compare paints by their core pigments.",
   "items": [
-    { "code": "PB29", "name": "Ultramarine Blue", "family": "Blue", "description": "The standard warm blue." },
-    { "code": "PB15:3", "name": "Phthalo Blue (GS)", "family": "Blue", "description": "Intense, cool blue." },
-    { "code": "PR101", "name": "Synthetic Red Iron Oxide", "family": "Brown", "description": "Versatile earth red, ranges from orange to maroon." },
-    { "code": "PY150", "name": "Nickel Azo Yellow", "family": "Yellow", "description": "Transparent, high-chroma yellow." },
-    { "code": "PV19", "name": "Quinacridone Rose", "family": "Red", "description": "Cool red/rose, very transparent." },
-    { "code": "PG7", "name": "Phthalo Green (BS)", "family": "Green", "description": "Standard cool green." },
-    { "code": "PBr7", "name": "Burnt Sienna", "family": "Brown", "description": "Classic earth pigment." }
+    {
+      "code": "PB29",
+      "name": "Ultramarine Blue",
+      "family": "Blue",
+      "description": "The standard warm blue."
+    },
+    {
+      "code": "PB15:3",
+      "name": "Phthalo Blue (GS)",
+      "family": "Blue",
+      "description": "Intense, cool blue."
+    },
+    {
+      "code": "PR101",
+      "name": "Synthetic Red Iron Oxide",
+      "family": "Red",
+      "description": "Versatile earth red, ranges from orange to maroon."
+    },
+    {
+      "code": "PY150",
+      "name": "Nickel Azo Yellow",
+      "family": "Yellow",
+      "description": "Transparent, high-chroma yellow."
+    },
+    {
+      "code": "PV19",
+      "name": "Quinacridone Rose",
+      "family": "Violet",
+      "description": "Cool red/rose, very transparent."
+    },
+    {
+      "code": "PG7",
+      "name": "Phthalo Green (BS)",
+      "family": "Green",
+      "description": "Standard cool green."
+    },
+    {
+      "code": "PBr7",
+      "name": "Burnt Sienna",
+      "family": "Brown",
+      "description": "Classic earth pigment."
+    },
+    {
+      "code": "PB1",
+      "name": "PB1",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15",
+      "name": "PB15",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15:0",
+      "name": "PB15:0",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15:1",
+      "name": "PB15:1",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15:2",
+      "name": "PB15:2",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15:4",
+      "name": "PB15:4",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB15:6",
+      "name": "PB15:6",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB16",
+      "name": "PB16",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB23",
+      "name": "PB23",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB27",
+      "name": "PB27",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB28",
+      "name": "PB28",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB33",
+      "name": "PB33",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB35",
+      "name": "PB35",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB36",
+      "name": "PB36",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB36:1",
+      "name": "PB36:1",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB60",
+      "name": "PB60",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB66",
+      "name": "PB66",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB72",
+      "name": "PB72",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB73",
+      "name": "PB73",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB74",
+      "name": "PB74",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PB82",
+      "name": "PB82",
+      "family": "Blue",
+      "description": ""
+    },
+    {
+      "code": "PBk1",
+      "name": "PBk1",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk10",
+      "name": "PBk10",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk11",
+      "name": "PBk11",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk19",
+      "name": "PBk19",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk26",
+      "name": "PBk26",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk27",
+      "name": "PBk27",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk31",
+      "name": "PBk31",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk32",
+      "name": "PBk32",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk6",
+      "name": "PBk6",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk7",
+      "name": "PBk7",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk8",
+      "name": "PBk8",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBk9",
+      "name": "PBk9",
+      "family": "Black",
+      "description": ""
+    },
+    {
+      "code": "PBr11",
+      "name": "PBr11",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr23",
+      "name": "PBr23",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr24",
+      "name": "PBr24",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr25",
+      "name": "PBr25",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr29",
+      "name": "PBr29",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr31",
+      "name": "PBr31",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr33",
+      "name": "PBr33",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr41",
+      "name": "PBr41",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr43",
+      "name": "PBr43",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr6",
+      "name": "PBr6",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr8",
+      "name": "PBr8",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PBr9",
+      "name": "PBr9",
+      "family": "Brown",
+      "description": ""
+    },
+    {
+      "code": "PG17",
+      "name": "PG17",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG18",
+      "name": "PG18",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG19",
+      "name": "PG19",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG23",
+      "name": "PG23",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG26",
+      "name": "PG26",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG37",
+      "name": "PG37",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG50",
+      "name": "PG50",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PG8",
+      "name": "PG8",
+      "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PO NA",
+      "name": "PO NA",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO13",
+      "name": "PO13",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO16",
+      "name": "PO16",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO17",
+      "name": "PO17",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO20",
+      "name": "PO20",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO34",
+      "name": "PO34",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO36",
+      "name": "PO36",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO43",
+      "name": "PO43",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO48",
+      "name": "PO48",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO59",
+      "name": "PO59",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO61",
+      "name": "PO61",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO62",
+      "name": "PO62",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO64",
+      "name": "PO64",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO67",
+      "name": "PO67",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO71",
+      "name": "PO71",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO72",
+      "name": "PO72",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO73",
+      "name": "PO73",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PO82",
+      "name": "PO82",
+      "family": "Orange",
+      "description": ""
+    },
+    {
+      "code": "PR NA",
+      "name": "PR NA",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR102",
+      "name": "PR102",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR107",
+      "name": "PR107",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR108",
+      "name": "PR108",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR112",
+      "name": "PR112",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR12",
+      "name": "PR12",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR122",
+      "name": "PR122",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR144",
+      "name": "PR144",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR149",
+      "name": "PR149",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR166",
+      "name": "PR166",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR168",
+      "name": "PR168",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR17",
+      "name": "PR17",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR170",
+      "name": "PR170",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR170-F3RK-70",
+      "name": "PR170-F3RK-70",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR170-F5K",
+      "name": "PR170-F5K",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR170:1",
+      "name": "PR170:1",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR171",
+      "name": "PR171",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR175",
+      "name": "PR175",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR176",
+      "name": "PR176",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR177",
+      "name": "PR177",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR178",
+      "name": "PR178",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR179",
+      "name": "PR179",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR187",
+      "name": "PR187",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR188",
+      "name": "PR188",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR19",
+      "name": "PR19",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR2",
+      "name": "PR2",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR202",
+      "name": "PR202",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR206",
+      "name": "PR206",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR207",
+      "name": "PR207",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR208",
+      "name": "PR208",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR209",
+      "name": "PR209",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR214",
+      "name": "PR214",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR23",
+      "name": "PR23",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR233",
+      "name": "PR233",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR242",
+      "name": "PR242",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR251",
+      "name": "PR251",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR254",
+      "name": "PR254",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR255",
+      "name": "PR255",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR258",
+      "name": "PR258",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR259",
+      "name": "PR259",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR264",
+      "name": "PR264",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR287",
+      "name": "PR287",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR290",
+      "name": "PR290",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR3",
+      "name": "PR3",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR4",
+      "name": "PR4",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR48:1",
+      "name": "PR48:1",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR48:4",
+      "name": "PR48:4",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR5",
+      "name": "PR5",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR53",
+      "name": "PR53",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR63:1",
+      "name": "PR63:1",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR81",
+      "name": "PR81",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR83",
+      "name": "PR83",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR83:1",
+      "name": "PR83:1",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR88",
+      "name": "PR88",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PR9",
+      "name": "PR9",
+      "family": "Red",
+      "description": ""
+    },
+    {
+      "code": "PV14",
+      "name": "PV14",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV15",
+      "name": "PV15",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV16",
+      "name": "PV16",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV2",
+      "name": "PV2",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV23",
+      "name": "PV23",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV29",
+      "name": "PV29",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV3",
+      "name": "PV3",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV32",
+      "name": "PV32",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV37",
+      "name": "PV37",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV3:1",
+      "name": "PV3:1",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV42",
+      "name": "PV42",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV47",
+      "name": "PV47",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV49",
+      "name": "PV49",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV55",
+      "name": "PV55",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV58",
+      "name": "PV58",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PV62",
+      "name": "PV62",
+      "family": "Violet",
+      "description": ""
+    },
+    {
+      "code": "PY1",
+      "name": "PY1",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY100",
+      "name": "PY100",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY108",
+      "name": "PY108",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY109",
+      "name": "PY109",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY110",
+      "name": "PY110",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY119",
+      "name": "PY119",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY120",
+      "name": "PY120",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY128",
+      "name": "PY128",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY129",
+      "name": "PY129",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY13",
+      "name": "PY13",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY138",
+      "name": "PY138",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY139",
+      "name": "PY139",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY14",
+      "name": "PY14",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY151",
+      "name": "PY151",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY152",
+      "name": "PY152",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY153",
+      "name": "PY153",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY154",
+      "name": "PY154",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY159",
+      "name": "PY159",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY164",
+      "name": "PY164",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY165",
+      "name": "PY165",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY167",
+      "name": "PY167",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY168",
+      "name": "PY168",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY17",
+      "name": "PY17",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY175",
+      "name": "PY175",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY181",
+      "name": "PY181",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY183",
+      "name": "PY183",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY184",
+      "name": "PY184",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY216",
+      "name": "PY216",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY223",
+      "name": "PY223",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY227",
+      "name": "PY227",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY3",
+      "name": "PY3",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY32",
+      "name": "PY32",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY35",
+      "name": "PY35",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY37",
+      "name": "PY37",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY40",
+      "name": "PY40",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY42",
+      "name": "PY42",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY43",
+      "name": "PY43",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY53",
+      "name": "PY53",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY61",
+      "name": "PY61",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY65",
+      "name": "PY65",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY73",
+      "name": "PY73",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY74",
+      "name": "PY74",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY81",
+      "name": "PY81",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY83",
+      "name": "PY83",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY93",
+      "name": "PY93",
+      "family": "Yellow",
+      "description": ""
+    },
+    {
+      "code": "PY97",
+      "name": "PY97",
+      "family": "Yellow",
+      "description": ""
+    }
   ]
 }
