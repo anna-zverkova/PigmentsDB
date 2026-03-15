@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { PAINTS, BRANDS, PIGMENT_FAMILIES } from '../constants';
+import { PAINTS, BRANDS, PIGMENT_FAMILIES, PIGMENTS } from '../constants';
 import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Link } from 'react-router-dom';
@@ -9,27 +9,24 @@ export const PaintsSearch: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedFamilies, setSelectedFamilies] = useState<string[]>([]);
   const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
-  const brandNameById = new Map(BRANDS.map(b => [b.id, b.name.toLowerCase()]));
   const selectedBrandIds = new Set(selectedBrands);
-  const selectedBrandNames = new Set(
-    selectedBrands.map(id => brandNameById.get(id) || id.toLowerCase())
-  );
+  const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
   
   // Basic filtering logic mocking Algolia
   const visiblePaints = PAINTS.filter(paint => {
       const matchesSearch = paint.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
                             paint.pigmentCodes.some(c => c.toLowerCase().includes(searchTerm.toLowerCase()));
       
-      const matchesFamily = selectedFamilies.length === 0 || 
-                            // This is loose logic since paints mock doesn't have explicit family, normally joined via pigments
-                            // For demo we assume mock data is enough to show UI
-                            true; 
+      const matchesFamily =
+        selectedFamilies.length === 0 ||
+        paint.pigmentCodes.some(code => {
+          const family = pigmentFamilyByCode.get(code);
+          return family ? selectedFamilies.includes(family) : false;
+        });
 
-      const paintBrandName = brandNameById.get(paint.brandId);
       const matchesBrand =
         selectedBrands.length === 0 ||
-        selectedBrandIds.has(paint.brandId) ||
-        (paintBrandName ? selectedBrandNames.has(paintBrandName) : false);
+        selectedBrandIds.has(paint.brandId);
 
       return matchesSearch && matchesFamily && matchesBrand;
   });
