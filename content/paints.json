@@ -3,28 +3,6 @@
   "intro": "Browse paints by brand, pigment code, and performance characteristics.",
   "items": [
     {
-      "id": "ds-pb29",
-      "brandId": "ds",
-      "name": "Ultramarine Blue",
-      "pigmentCodes": [
-        "PB29"
-      ],
-      "hex": "#1C1C75",
-      "transparency": "Transparent",
-      "staining": "Low-Staining",
-      "granulation": "High",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "284600179",
-      "series": "1",
-      "stainingVsLifting": "Easy to lift",
-      "flow": "Medium",
-      "tintingStrength": "High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Extra Fine Watercolors"
-    },
-    {
       "id": "hol-pb29",
       "brandId": "holbein",
       "name": "Ultramarine Deep",
@@ -47,50 +25,6 @@
       "collection": "Artists Watercolor"
     },
     {
-      "id": "ds-pr101",
-      "brandId": "ds",
-      "name": "Burnt Sienna",
-      "pigmentCodes": [
-        "PBr7"
-      ],
-      "hex": "#8B4513",
-      "transparency": "Semi-Transparent",
-      "staining": "Low-Staining",
-      "granulation": "Medium",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "284600010",
-      "series": "1",
-      "stainingVsLifting": "Granulating lift",
-      "flow": "Low",
-      "tintingStrength": "Medium",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Extra Fine Watercolors"
-    },
-    {
-      "id": "ds-py150",
-      "brandId": "ds",
-      "name": "Nickel Azo Yellow",
-      "pigmentCodes": [
-        "PY150"
-      ],
-      "hex": "#E5A00F",
-      "transparency": "Transparent",
-      "staining": "High-Staining",
-      "granulation": "Low",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "284600061",
-      "series": "2",
-      "stainingVsLifting": "Stains",
-      "flow": "High",
-      "tintingStrength": "Very High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Extra Fine Watercolors"
-    },
-    {
       "id": "sch-py150",
       "brandId": "schmincke",
       "name": "Transparent Yellow",
@@ -111,50 +45,6 @@
       "performance": "Professional",
       "toxicity": "None",
       "collection": "Horadam Aquarell"
-    },
-    {
-      "id": "ds-pv19",
-      "brandId": "ds",
-      "name": "Quinacridone Rose",
-      "pigmentCodes": [
-        "PV19"
-      ],
-      "hex": "#D62F65",
-      "transparency": "Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "Low",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "284600092",
-      "series": "2",
-      "stainingVsLifting": "Stains",
-      "flow": "High",
-      "tintingStrength": "High",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Extra Fine Watercolors"
-    },
-    {
-      "id": "ds-pg7",
-      "brandId": "ds",
-      "name": "Phthalo Green (BS)",
-      "pigmentCodes": [
-        "PG7"
-      ],
-      "hex": "#006B3C",
-      "transparency": "Transparent",
-      "staining": "High-Staining",
-      "granulation": "Low",
-      "lightfastness": "I",
-      "isVegan": true,
-      "paintNumber": "284600078",
-      "series": "1",
-      "stainingVsLifting": "Aggressive stain",
-      "flow": "Very High",
-      "tintingStrength": "Extreme",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Extra Fine Watercolors"
     },
     {
       "id": "wn-100",
@@ -7823,6 +7713,2895 @@
       "lightfastness": "Unknown",
       "isVegan": true,
       "performance": "Student"
+    },
+    {
+      "id": "ds-buff-titanium",
+      "brandId": "ds",
+      "name": "Buff Titanium",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Buff-Titanium.png"
+    },
+    {
+      "id": "ds-nickel-titanate-yellow",
+      "brandId": "ds",
+      "name": "Nickel Titanate Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Nickel-Titanate-Yellow.png"
+    },
+    {
+      "id": "ds-bismuth-vanadate-yellow",
+      "brandId": "ds",
+      "name": "Bismuth Vanadate Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Bismuth-Vanadate.png"
+    },
+    {
+      "id": "ds-hansa-yellow-light",
+      "brandId": "ds",
+      "name": "Hansa Yellow Light",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Light.png"
+    },
+    {
+      "id": "ds-azo-yellow",
+      "brandId": "ds",
+      "name": "Azo Yellow",
+      "pigmentCodes": [
+        "PY151"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Azo-Yellow.png"
+    },
+    {
+      "id": "ds-quinophthalone-yellow",
+      "brandId": "ds",
+      "name": "Quinophthalone Yellow",
+      "pigmentCodes": [
+        "PY138"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinophthalone-Yellow.png"
+    },
+    {
+      "id": "ds-cadmium-yellow-light-hue",
+      "brandId": "ds",
+      "name": "Cadmium Yellow Light Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY138",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Light-Hue.png"
+    },
+    {
+      "id": "ds-cadmium-yellow-medium-hue",
+      "brandId": "ds",
+      "name": "Cadmium Yellow Medium Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY151",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Medium-Hue.png"
+    },
+    {
+      "id": "ds-aureolin-cobalt-yellow",
+      "brandId": "ds",
+      "name": "Aureolin (Cobalt Yellow)",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Aureolin.png"
+    },
+    {
+      "id": "ds-cadmium-yellow-deep-hue",
+      "brandId": "ds",
+      "name": "Cadmium Yellow Deep Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Deep-Hue.png"
+    },
+    {
+      "id": "ds-hansa-yellow-medium",
+      "brandId": "ds",
+      "name": "Hansa Yellow Medium",
+      "pigmentCodes": [
+        "PY97"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Medium.png"
+    },
+    {
+      "id": "ds-mayan-yellow",
+      "brandId": "ds",
+      "name": "Mayan Yellow",
+      "pigmentCodes": [
+        "PY223"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Yellow.png"
+    },
+    {
+      "id": "ds-lemon-yellow",
+      "brandId": "ds",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-indian-yellow",
+      "brandId": "ds",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY97",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indian-Yellow.png"
+    },
+    {
+      "id": "ds-naples-yellow",
+      "brandId": "ds",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PW4",
+        "PY97",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Naples-Yellow.png"
+    },
+    {
+      "id": "ds-hansa-yellow-deep",
+      "brandId": "ds",
+      "name": "Hansa Yellow Deep",
+      "pigmentCodes": [
+        "PY65"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Deep.png"
+    },
+    {
+      "id": "ds-new-gamboge",
+      "brandId": "ds",
+      "name": "New Gamboge",
+      "pigmentCodes": [
+        "PY97",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-New-Gamboge.png"
+    },
+    {
+      "id": "ds-isoindoline-yellow",
+      "brandId": "ds",
+      "name": "Isoindoline Yellow",
+      "pigmentCodes": [
+        "PY139"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Isoindoline-Yellow.png"
+    },
+    {
+      "id": "ds-permanent-yellow-deep",
+      "brandId": "ds",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Yellow-Deep.png"
+    },
+    {
+      "id": "ds-aussie-red-gold",
+      "brandId": "ds",
+      "name": "Aussie Red Gold",
+      "pigmentCodes": [
+        "PY83",
+        "PR101",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Aussie-Red-Gold.png"
+    },
+    {
+      "id": "ds-pyrrol-orange",
+      "brandId": "ds",
+      "name": "Pyrrol Orange",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Orange.png"
+    },
+    {
+      "id": "ds-permanent-orange",
+      "brandId": "ds",
+      "name": "Permanent Orange",
+      "pigmentCodes": [
+        "PO62"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Orange.png"
+    },
+    {
+      "id": "ds-cadmium-orange-hue",
+      "brandId": "ds",
+      "name": "Cadmium Orange Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PO73",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Orange-Hue.png"
+    },
+    {
+      "id": "ds-perinone-orange",
+      "brandId": "ds",
+      "name": "Perinone Orange",
+      "pigmentCodes": [
+        "PO43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perinone-Orange.png"
+    },
+    {
+      "id": "ds-cadmium-red-scarlet-hue",
+      "brandId": "ds",
+      "name": "Cadmium Red Scarlet Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PR254",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Scarlet-Hue.png"
+    },
+    {
+      "id": "ds-transparent-pyrrol-orange",
+      "brandId": "ds",
+      "name": "Transparent Pyrrol Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Pyrrol-Orange.png"
+    },
+    {
+      "id": "ds-organic-vermilion",
+      "brandId": "ds",
+      "name": "Organic Vermilion",
+      "pigmentCodes": [
+        "PR188"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Organic-Vermilion.png"
+    },
+    {
+      "id": "ds-mayan-orange",
+      "brandId": "ds",
+      "name": "Mayan Orange",
+      "pigmentCodes": [
+        "PO NA"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Orange.png"
+    },
+    {
+      "id": "ds-quinacridone-coral",
+      "brandId": "ds",
+      "name": "Quinacridone Coral",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Coral.png"
+    },
+    {
+      "id": "ds-pyrrol-scarlet",
+      "brandId": "ds",
+      "name": "Pyrrol Scarlet",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Scarlet.png"
+    },
+    {
+      "id": "ds-perylene-scarlet",
+      "brandId": "ds",
+      "name": "Perylene Scarlet",
+      "pigmentCodes": [
+        "PR149"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Scarlet.png"
+    },
+    {
+      "id": "ds-anthraquinoid-scarlet",
+      "brandId": "ds",
+      "name": "Anthraquinoid Scarlet",
+      "pigmentCodes": [
+        "PR168"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Scarlet.png"
+    },
+    {
+      "id": "ds-cadmium-red-medium-hue",
+      "brandId": "ds",
+      "name": "Cadmium Red Medium Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Medium-Hue.png"
+    },
+    {
+      "id": "ds-pyrrol-red",
+      "brandId": "ds",
+      "name": "Pyrrol Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Red.png"
+    },
+    {
+      "id": "ds-perylene-red",
+      "brandId": "ds",
+      "name": "Perylene Red",
+      "pigmentCodes": [
+        "PR178"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Red.png"
+    },
+    {
+      "id": "ds-permanent-red",
+      "brandId": "ds",
+      "name": "Permanent Red",
+      "pigmentCodes": [
+        "PR170 F3RK-70"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red.png"
+    },
+    {
+      "id": "ds-permanent-red-deep",
+      "brandId": "ds",
+      "name": "Permanent Red Deep",
+      "pigmentCodes": [
+        "PR170 F5RK"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red-Deep.png"
+    },
+    {
+      "id": "ds-quinacridone-red",
+      "brandId": "ds",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Red.png"
+    },
+    {
+      "id": "ds-anthraquinoid-red",
+      "brandId": "ds",
+      "name": "Anthraquinoid Red",
+      "pigmentCodes": [
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Red.png"
+    },
+    {
+      "id": "ds-mayan-red",
+      "brandId": "ds",
+      "name": "Mayan Red",
+      "pigmentCodes": [
+        "PR287"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Red.png"
+    },
+    {
+      "id": "ds-alizarin-crimson",
+      "brandId": "ds",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Alizarin-Crimson.png"
+    },
+    {
+      "id": "ds-permanent-alizarin-crimson",
+      "brandId": "ds",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PR177",
+        "PV19",
+        "PR149"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-carmine",
+      "brandId": "ds",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR176"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Carmine.png"
+    },
+    {
+      "id": "ds-rose-madder-permanent",
+      "brandId": "ds",
+      "name": "Rose Madder Permanent",
+      "pigmentCodes": [
+        "PR209",
+        "PV19",
+        "PR202"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rose-Madder-Permanent.png"
+    },
+    {
+      "id": "ds-opera-pink",
+      "brandId": "ds",
+      "name": "Opera Pink",
+      "pigmentCodes": [
+        "PR122",
+        "Flourescent"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Opera-Pink.png"
+    },
+    {
+      "id": "ds-potters-pink",
+      "brandId": "ds",
+      "name": "Potters Pink",
+      "pigmentCodes": [
+        "PR233"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Potters-Pink.png"
+    },
+    {
+      "id": "ds-quinacridone-pink",
+      "brandId": "ds",
+      "name": "Quinacridone Pink",
+      "pigmentCodes": [
+        "PV42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Pink.png"
+    },
+    {
+      "id": "ds-quinacridone-rose",
+      "brandId": "ds",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Rose.png"
+    },
+    {
+      "id": "ds-quinacridone-lilac",
+      "brandId": "ds",
+      "name": "Quinacridone Lilac",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Lilac.png"
+    },
+    {
+      "id": "ds-quinacridone-magenta",
+      "brandId": "ds",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-magenta.png"
+    },
+    {
+      "id": "ds-pyrrol-crimson",
+      "brandId": "ds",
+      "name": "Pyrrol Crimson",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Crimson.png"
+    },
+    {
+      "id": "ds-quinacridone-fuchsia",
+      "brandId": "ds",
+      "name": "Quinacridone Fuchsia",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Fuchsia.png"
+    },
+    {
+      "id": "ds-mayan-violet",
+      "brandId": "ds",
+      "name": "Mayan Violet",
+      "pigmentCodes": [
+        "PV58"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Violet.png"
+    },
+    {
+      "id": "ds-bordeaux",
+      "brandId": "ds",
+      "name": "Bordeaux",
+      "pigmentCodes": [
+        "PV32"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Bordeaux.png"
+    },
+    {
+      "id": "ds-permanent-violet",
+      "brandId": "ds",
+      "name": "Permanent Violet",
+      "pigmentCodes": [
+        "PR202",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Violet.png"
+    },
+    {
+      "id": "ds-quinacridone-violet",
+      "brandId": "ds",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Qinacirdone-Violet.png"
+    },
+    {
+      "id": "ds-perylene-violet",
+      "brandId": "ds",
+      "name": "Perylene Violet",
+      "pigmentCodes": [
+        "PV29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Violet.png"
+    },
+    {
+      "id": "ds-cobalt-violet",
+      "brandId": "ds",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV49"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet.png"
+    },
+    {
+      "id": "ds-cobalt-violet-deep",
+      "brandId": "ds",
+      "name": "Cobalt Violet Deep",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet-Deep.png"
+    },
+    {
+      "id": "ds-ultramarine-violet",
+      "brandId": "ds",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Violet.png"
+    },
+    {
+      "id": "ds-rose-of-ultramarine",
+      "brandId": "ds",
+      "name": "Rose of Ultramarine",
+      "pigmentCodes": [
+        "PB29",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rose-of-Ultramarine.png"
+    },
+    {
+      "id": "ds-imperial-purple",
+      "brandId": "ds",
+      "name": "Imperial Purple",
+      "pigmentCodes": [
+        "PB29",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Imperial-Purple.png"
+    },
+    {
+      "id": "ds-quinacridone-purple",
+      "brandId": "ds",
+      "name": "Quinacridone Purple",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Purple.png"
+    },
+    {
+      "id": "ds-ultramarine-violet",
+      "brandId": "ds",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Red.png"
+    },
+    {
+      "id": "ds-carbazole-violet",
+      "brandId": "ds",
+      "name": "Carbazole Violet",
+      "pigmentCodes": [
+        "PV23 (RS)"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Carbazole-Violet.png"
+    },
+    {
+      "id": "ds-wisteria",
+      "brandId": "ds",
+      "name": "Wisteria",
+      "pigmentCodes": [
+        "PW6",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Wisteria.png"
+    },
+    {
+      "id": "ds-cobalt-blue-violet",
+      "brandId": "ds",
+      "name": "Cobalt Blue Violet",
+      "pigmentCodes": [
+        "PB28",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue-Violet.png"
+    },
+    {
+      "id": "ds-moonglow",
+      "brandId": "ds",
+      "name": "Moonglow",
+      "pigmentCodes": [
+        "PG18",
+        "PB29",
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Moonglow.png"
+    },
+    {
+      "id": "ds-shadow-violet",
+      "brandId": "ds",
+      "name": "Shadow Violet",
+      "pigmentCodes": [
+        "PO73",
+        "PB29",
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Shadow-Violet.png"
+    },
+    {
+      "id": "ds-indigo",
+      "brandId": "ds",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB60",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indigo.png"
+    },
+    {
+      "id": "ds-mayan-dark-blue",
+      "brandId": "ds",
+      "name": "Mayan Dark Blue",
+      "pigmentCodes": [
+        "PB82"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Dark-Blue.png"
+    },
+    {
+      "id": "ds-indanthrone-blue",
+      "brandId": "ds",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indanthrone-Blue.png"
+    },
+    {
+      "id": "ds-ultramarine-blue",
+      "brandId": "ds",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Blue.png"
+    },
+    {
+      "id": "ds-french-ultramarine",
+      "brandId": "ds",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-French-Ultramaine-.png"
+    },
+    {
+      "id": "ds-cobalt-blue",
+      "brandId": "ds",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue.png"
+    },
+    {
+      "id": "ds-phthalo-blue-gs",
+      "brandId": "ds",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-GS.png"
+    },
+    {
+      "id": "ds-verditer-blue",
+      "brandId": "ds",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB28",
+        "PB36",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Verditer-Blue.png"
+    },
+    {
+      "id": "ds-lavender",
+      "brandId": "ds",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PW6",
+        "PV15",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lavender.png"
+    },
+    {
+      "id": "ds-phthalo-blue-rs",
+      "brandId": "ds",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB15:6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-RS.png"
+    },
+    {
+      "id": "ds-prussian-blue",
+      "brandId": "ds",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Prussian-Blue.png"
+    },
+    {
+      "id": "ds-cerulean-blue",
+      "brandId": "ds",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue.png"
+    },
+    {
+      "id": "ds-cerulean-blue-chromium",
+      "brandId": "ds",
+      "name": "Cerulean Blue Chromium",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue-Chromium.png"
+    },
+    {
+      "id": "ds-manganese-blue-hue",
+      "brandId": "ds",
+      "name": "Manganese Blue Hue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-manganese-Blue-Hue.png"
+    },
+    {
+      "id": "ds-phthalo-blue-turquoise",
+      "brandId": "ds",
+      "name": "Phthalo Blue Turquoise",
+      "pigmentCodes": [
+        "PB16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-Turquoise.png"
+    },
+    {
+      "id": "ds-cobalt-teal-blue",
+      "brandId": "ds",
+      "name": "Cobalt Teal Blue",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Teal-Blue.png"
+    },
+    {
+      "id": "ds-phthalo-turquoise",
+      "brandId": "ds",
+      "name": "Phthalo Turquoise",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Tuquoise.png"
+    },
+    {
+      "id": "ds-ultramarine-turquoise",
+      "brandId": "ds",
+      "name": "Ultramarine Turquoise",
+      "pigmentCodes": [
+        "PB29",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Turquoise.png"
+    },
+    {
+      "id": "ds-cobalt-turquoise",
+      "brandId": "ds",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Turquoise.png"
+    },
+    {
+      "id": "ds-lunar-blue",
+      "brandId": "ds",
+      "name": "Lunar Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Blue.png"
+    },
+    {
+      "id": "ds-cobalt-green-pale",
+      "brandId": "ds",
+      "name": "Cobalt Green Pale",
+      "pigmentCodes": [
+        "PG19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green-pale.png"
+    },
+    {
+      "id": "ds-viridian",
+      "brandId": "ds",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Viridian.png"
+    },
+    {
+      "id": "ds-phthalo-green-bs",
+      "brandId": "ds",
+      "name": "Phthalo Green (BS)",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-BS.png"
+    },
+    {
+      "id": "ds-cascade-green",
+      "brandId": "ds",
+      "name": "Cascade Green",
+      "pigmentCodes": [
+        "PBr7",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cascade-Green.png"
+    },
+    {
+      "id": "ds-cobalt-green",
+      "brandId": "ds",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green.png"
+    },
+    {
+      "id": "ds-spring-green",
+      "brandId": "ds",
+      "name": "Spring Green",
+      "pigmentCodes": [
+        "PY53",
+        "PG36",
+        "PY151"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Spring-Green.png"
+    },
+    {
+      "id": "ds-permanent-green-light",
+      "brandId": "ds",
+      "name": "Permanent Green Light",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green-Light.png"
+    },
+    {
+      "id": "ds-phthalo-yellow-green",
+      "brandId": "ds",
+      "name": "Phthalo Yellow Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Yellow-Green.png"
+    },
+    {
+      "id": "ds-permanent-green",
+      "brandId": "ds",
+      "name": "Permanent Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green.png"
+    },
+    {
+      "id": "ds-phthalo-green-ys",
+      "brandId": "ds",
+      "name": "Phthalo Green (YS)",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-YS.png"
+    },
+    {
+      "id": "ds-hooker-s-green",
+      "brandId": "ds",
+      "name": "Hooker\u2019s Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY3",
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hookers-Green.png"
+    },
+    {
+      "id": "ds-sap-green",
+      "brandId": "ds",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PO48",
+        "PG7",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Sap-Green.png"
+    },
+    {
+      "id": "ds-chromium-green-oxide",
+      "brandId": "ds",
+      "name": "Chromium Green Oxide",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Chromium-Green-Oxide.png"
+    },
+    {
+      "id": "ds-terre-verte",
+      "brandId": "ds",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PG18",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Terre-Verte.png"
+    },
+    {
+      "id": "ds-deep-sap-green",
+      "brandId": "ds",
+      "name": "Deep Sap Green",
+      "pigmentCodes": [
+        "PO48",
+        "PY3",
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Deep-Sap-Green.png"
+    },
+    {
+      "id": "ds-perylene-green",
+      "brandId": "ds",
+      "name": "Perylene Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Green.png"
+    },
+    {
+      "id": "ds-prussian-green",
+      "brandId": "ds",
+      "name": "Prussian Green",
+      "pigmentCodes": [
+        "PB27",
+        "PY97"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Prussian-Green.png"
+    },
+    {
+      "id": "ds-rare-green-earth",
+      "brandId": "ds",
+      "name": "Rare Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rare-Green-Earth.png"
+    },
+    {
+      "id": "ds-undersea-green",
+      "brandId": "ds",
+      "name": "Undersea Green",
+      "pigmentCodes": [
+        "PB29",
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Undersea-Green.png"
+    },
+    {
+      "id": "ds-olive-green",
+      "brandId": "ds",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PY97",
+        "PB29",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Olive-Green.png"
+    },
+    {
+      "id": "ds-green-gold",
+      "brandId": "ds",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY150",
+        "PY3",
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Green-Gold.png"
+    },
+    {
+      "id": "ds-rich-green-gold",
+      "brandId": "ds",
+      "name": "Rich Green Gold",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rich-Green-Gold.png"
+    },
+    {
+      "id": "ds-nickel-azo-yellow",
+      "brandId": "ds",
+      "name": "Nickel Azo Yellow",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Nickel-Azo-Yellow.png"
+    },
+    {
+      "id": "ds-verona-gold-ochre",
+      "brandId": "ds",
+      "name": "Verona Gold Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Verona-Gold-Ochre.png"
+    },
+    {
+      "id": "ds-french-ochre",
+      "brandId": "ds",
+      "name": "French Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-French-Ochre.png"
+    },
+    {
+      "id": "ds-raw-sienna-light",
+      "brandId": "ds",
+      "name": "Raw Sienna Light",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna-Light.png"
+    },
+    {
+      "id": "ds-burgundy-yellow-ochre",
+      "brandId": "ds",
+      "name": "Burgundy Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Yellow-Ochre.png"
+    },
+    {
+      "id": "ds-yellow-ochre",
+      "brandId": "ds",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Yellow-Ochre.png"
+    },
+    {
+      "id": "ds-mars-yellow",
+      "brandId": "ds",
+      "name": "Mars Yellow",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mars-Yellow.png"
+    },
+    {
+      "id": "ds-raw-sienna",
+      "brandId": "ds",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna.png"
+    },
+    {
+      "id": "ds-quinacridone-gold",
+      "brandId": "ds",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Gold.png"
+    },
+    {
+      "id": "ds-transparent-yellow-oxide",
+      "brandId": "ds",
+      "name": "Transparent Yellow Oxide",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Tranparent-Yellow-Oxide.png"
+    },
+    {
+      "id": "ds-monte-amiata-natural-sienna",
+      "brandId": "ds",
+      "name": "Monte Amiata Natural Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Monte-Amiata-Natural-Sienna.png"
+    },
+    {
+      "id": "ds-enviro-friendly-yellow-iron-oxide",
+      "brandId": "ds",
+      "name": "Enviro-Friendly Yellow Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Yellow-Iron-Oxide.png"
+    },
+    {
+      "id": "ds-goethite-brown-ochre",
+      "brandId": "ds",
+      "name": "Goethite-Brown Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Goethite.png"
+    },
+    {
+      "id": "ds-quinacridone-deep-gold",
+      "brandId": "ds",
+      "name": "Quinacridone Deep Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Deep-Gold.png"
+    },
+    {
+      "id": "ds-italian-deep-ochre",
+      "brandId": "ds",
+      "name": "Italian Deep Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Deep-Ochre.png"
+    },
+    {
+      "id": "ds-lunar-earth",
+      "brandId": "ds",
+      "name": "Lunar Earth",
+      "pigmentCodes": [
+        "PBr11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Earth.png"
+    },
+    {
+      "id": "ds-burnt-yellow-ochre",
+      "brandId": "ds",
+      "name": "Burnt Yellow Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burnt-Yellow-Ochre.png"
+    },
+    {
+      "id": "ds-roasted-french-ochre",
+      "brandId": "ds",
+      "name": "Roasted French Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/Ds-Roasted-French-Ochre.png"
+    },
+    {
+      "id": "ds-burgundy-red-ochre",
+      "brandId": "ds",
+      "name": "Burgundy Red Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Red-Ochre.png"
+    },
+    {
+      "id": "ds-indian-red",
+      "brandId": "ds",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indian-Red.png"
+    },
+    {
+      "id": "ds-venetian-red",
+      "brandId": "ds",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Venetian-Red.png"
+    },
+    {
+      "id": "ds-italian-burnt-sienna",
+      "brandId": "ds",
+      "name": "Italian Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Burnt-Sienna.png"
+    },
+    {
+      "id": "ds-quinacridone-burnt-orange",
+      "brandId": "ds",
+      "name": "Quinacridone Burnt Orange",
+      "pigmentCodes": [
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Orange.png"
+    },
+    {
+      "id": "ds-quinacridone-sienna",
+      "brandId": "ds",
+      "name": "Quinacridone Sienna",
+      "pigmentCodes": [
+        "PO48",
+        "PR209",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Sienna.png"
+    },
+    {
+      "id": "ds-pompeii-red",
+      "brandId": "ds",
+      "name": "Pompeii Red",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pompeii-Red.png"
+    },
+    {
+      "id": "ds-terre-ercolano",
+      "brandId": "ds",
+      "name": "Terre Ercolano",
+      "pigmentCodes": [
+        "PBr7",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Terre-Ercolano.png"
+    },
+    {
+      "id": "ds-italian-venetian-red",
+      "brandId": "ds",
+      "name": "Italian Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Venetian-Red.png"
+    },
+    {
+      "id": "ds-english-red-earth",
+      "brandId": "ds",
+      "name": "English Red Earth",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-English-Red-Earth.png"
+    },
+    {
+      "id": "ds-quinacridone-burnt-scarlet",
+      "brandId": "ds",
+      "name": "Quinacridone Burnt Scarlet",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Scarlet.png"
+    },
+    {
+      "id": "ds-perylene-maroon",
+      "brandId": "ds",
+      "name": "Perylene Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Maroon.png"
+    },
+    {
+      "id": "ds-deep-scarlet",
+      "brandId": "ds",
+      "name": "Deep Scarlet",
+      "pigmentCodes": [
+        "PR175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Deep-Scarlet.png"
+    },
+    {
+      "id": "ds-napthamide-maroon",
+      "brandId": "ds",
+      "name": "Napthamide Maroon",
+      "pigmentCodes": [
+        "PR171"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Naphthamide-Maroon.png"
+    },
+    {
+      "id": "ds-lunar-red-rock",
+      "brandId": "ds",
+      "name": "Lunar Red Rock",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Red-Rock.png"
+    },
+    {
+      "id": "ds-german-greenish-raw-umber",
+      "brandId": "ds",
+      "name": "German Greenish Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-German-Greenish-Raw-Umber.png"
+    },
+    {
+      "id": "ds-grey-titanium",
+      "brandId": "ds",
+      "name": "Grey Titanium",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Grey-Titanium.png"
+    },
+    {
+      "id": "ds-permanent-brown",
+      "brandId": "ds",
+      "name": "Permanent Brown",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Brown.png"
+    },
+    {
+      "id": "ds-raw-umber-violet",
+      "brandId": "ds",
+      "name": "Raw Umber VIolet",
+      "pigmentCodes": [
+        "PBr7",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber-VIolet.png"
+    },
+    {
+      "id": "ds-transparent-brown-oxide",
+      "brandId": "ds",
+      "name": "Transparent Brown Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Brown-Oxide.png"
+    },
+    {
+      "id": "ds-transparent-red-oxide",
+      "brandId": "ds",
+      "name": "Transparent Red Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Red-Oxide.png"
+    },
+    {
+      "id": "ds-fired-gold-ochre",
+      "brandId": "ds",
+      "name": "Fired Gold Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Fired-Gold-OChre.png"
+    },
+    {
+      "id": "ds-burnt-sienna-light",
+      "brandId": "ds",
+      "name": "Burnt Sienna Light",
+      "pigmentCodes": [
+        "PR101",
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-enviro-friendly-red-iron-oxide",
+      "brandId": "ds",
+      "name": "Enviro-Friendly Red Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Red-Iron-Oxide.png"
+    },
+    {
+      "id": "ds-burnt-sienna",
+      "brandId": "ds",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-BUrnt-Sienna.png"
+    },
+    {
+      "id": "ds-english-red-ochre",
+      "brandId": "ds",
+      "name": "English Red Ochre",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-English-Red-Ochre.png"
+    },
+    {
+      "id": "ds-burnt-umber",
+      "brandId": "ds",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burnt-Umber.png"
+    },
+    {
+      "id": "ds-enviro-friendly-brown-iron-oxide",
+      "brandId": "ds",
+      "name": "Enviro-Friendly Brown Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Brown-Iron-Oxide.png"
+    },
+    {
+      "id": "ds-raw-umber",
+      "brandId": "ds",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber.png"
+    },
+    {
+      "id": "ds-sepia",
+      "brandId": "ds",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Sepia.png"
+    },
+    {
+      "id": "ds-van-dyck-brown",
+      "brandId": "ds",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "Blend of PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Van-Dycke-Brown.png"
+    },
+    {
+      "id": "ds-lunar-violet",
+      "brandId": "ds",
+      "name": "Lunar Violet",
+      "pigmentCodes": [
+        "PV15",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Violet.png"
+    },
+    {
+      "id": "ds-neutral-tint",
+      "brandId": "ds",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBk6",
+        "PV19",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Neutral-Tint.png"
+    },
+    {
+      "id": "ds-graphite-grey",
+      "brandId": "ds",
+      "name": "Graphite Grey",
+      "pigmentCodes": [
+        "PBk10"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Graphite-Grey.png"
+    },
+    {
+      "id": "ds-joseph-z-s-neutral-grey",
+      "brandId": "ds",
+      "name": "Joseph Z\u2019s Neutral Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBk9",
+        "PBk10"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-joseph-z-s-cool-grey",
+      "brandId": "ds",
+      "name": "Joseph Z\u2019s Cool Grey",
+      "pigmentCodes": [
+        "PB36",
+        "PV19",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-joseph-z-s-warm-grey",
+      "brandId": "ds",
+      "name": "Joseph Z\u2019s Warm Grey",
+      "pigmentCodes": [
+        "PY43",
+        "PV19",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-jane-s-grey",
+      "brandId": "ds",
+      "name": "Jane\u2019s Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-alvaro-s-fresco-grey",
+      "brandId": "ds",
+      "name": "Alvaro\u2019s Fresco Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-alvaro-s-caliente-grey",
+      "brandId": "ds",
+      "name": "Alvaro\u2019s Caliente Grey",
+      "pigmentCodes": [
+        "PBr7",
+        "PB29",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Alvaro-Caliente-Grey.png"
+    },
+    {
+      "id": "ds-payne-s-blue-grey",
+      "brandId": "ds",
+      "name": "Payne\u2019s Blue Grey",
+      "pigmentCodes": [
+        "PB60",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-payne-s-grey",
+      "brandId": "ds",
+      "name": "Payne\u2019s Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional"
+    },
+    {
+      "id": "ds-lamp-black",
+      "brandId": "ds",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lamp-Black.png"
+    },
+    {
+      "id": "ds-ivory-black",
+      "brandId": "ds",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ivory-Black.png"
+    },
+    {
+      "id": "ds-lunar-black",
+      "brandId": "ds",
+      "name": "Lunar Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Black.png"
+    },
+    {
+      "id": "ds-chinese-white",
+      "brandId": "ds",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Chinese-white.png"
+    },
+    {
+      "id": "ds-titanium-white",
+      "brandId": "ds",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Titanium-White.png"
     }
   ]
 }
