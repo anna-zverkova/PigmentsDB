@@ -49,6 +49,19 @@ export const PigmentFamily: React.FC = () => {
                 <h1 className="text-3xl md:text-4xl font-bold text-neutral-900">{pigmentsContent.title}</h1>
                 <p className="text-neutral-600 max-w-3xl">{pigmentsContent.intro}</p>
             </div>
+            {/* Pigment quick links */}
+            <div className="flex flex-wrap gap-2">
+              {pigmentsInFamily.map(pigment => (
+                <a
+                  key={pigment.code}
+                  href={`#${pigment.code}`}
+                  className="inline-flex items-center gap-2 rounded-full border border-neutral-200 bg-white px-3 py-1.5 text-sm font-medium text-neutral-700 hover:border-neutral-300 hover:text-neutral-900"
+                >
+                  <span className="font-mono text-xs text-neutral-500">{pigment.code}</span>
+                  <span className="truncate max-w-[140px]">{pigment.name}</span>
+                </a>
+              ))}
+            </div>
             <Card className="p-4 bg-white border-neutral-200 shadow-sm mb-8 flex flex-wrap gap-4 text-sm text-neutral-500">
                 <div className="flex items-center gap-2"><Sun size={16} /> Lightfastness</div>
                 <div className="flex items-center gap-2"><Layers size={16} /> Transparency</div>
@@ -122,9 +135,18 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                 
                                 {/* Colour (Hex Circle) */}
                                 <td className="px-4 py-3 text-center">
-                                    <div 
+                                    <div
                                         className="w-6 h-6 rounded-full border border-neutral-200 shadow-sm mx-auto"
-                                        style={{ backgroundColor: paint.hex }}
+                                        style={
+                                          paint.swatchImage
+                                            ? {
+                                                backgroundImage: `url(${paint.swatchImage})`,
+                                                backgroundSize: 'cover',
+                                                backgroundPosition: 'center'
+                                              }
+                                            : { backgroundColor: paint.hex }
+                                        }
+                                        title={paint.name}
                                     />
                                 </td>
 
