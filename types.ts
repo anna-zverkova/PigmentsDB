@@ -34,6 +34,7 @@ export interface Brand {
   logo: string;
   description: string;
   website: string;
+  country?: string;
 }
 
 export interface Paint {

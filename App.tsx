@@ -6,6 +6,7 @@ import { PigmentFamily } from './pages/PigmentFamily';
 import { PaintsSearch } from './pages/PaintsSearch';
 import { Comparison } from './pages/Comparison';
 import { Brands } from './pages/Brands';
+import { BrandDetail } from './pages/BrandDetail';
 import { ComparisonContextType } from './types';
 
 // Context for Comparison Basket
@@ -66,7 +67,7 @@ const App: React.FC = () => {
             <Route path="paints/:id" element={<div className="p-20 text-center">Paint Detail Page Placeholder</div>} />
             
             <Route path="brands" element={<Brands />} />
-            <Route path="brands/:id" element={<div className="p-20 text-center">Brand Detail Page Placeholder</div>} />
+            <Route path="brands/:id" element={<BrandDetail />} />
             
             
             <Route path="compare" element={<Comparison />} />

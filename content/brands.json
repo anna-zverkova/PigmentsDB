@@ -2,42 +2,299 @@
   "title": "Watercolors by Brand",
   "intro": "TintMap brings together pigment codes, performance notes, and brand libraries so you can compare watercolors in one place. Browse paints by pigment code or by brand, then dive into swatches and technical details.",
   "items": [
-    { "id": "art-spectrum", "name": "Art Spectrum", "logo": "AS", "description": "", "website": "#" },
-    { "id": "blick", "name": "Blick Own Brand", "logo": "B", "description": "", "website": "#" },
-    { "id": "blockx", "name": "Blockx", "logo": "Bx", "description": "", "website": "#" },
-    { "id": "cass-art", "name": "Cass Arts Own Brand", "logo": "CA", "description": "", "website": "#" },
-    { "id": "da-vinci", "name": "Da Vinci Paints", "logo": "DV", "description": "", "website": "#" },
-    { "id": "daler-rowney-prof", "name": "Daler Rowney Professional", "logo": "DRP", "description": "", "website": "#" },
-    { "id": "daler-rowney-aqua", "name": "Daler Rowney Aquafine", "logo": "DRA", "description": "", "website": "#" },
-    { "id": "ds", "name": "Daniel Smith", "logo": "DS", "description": "", "website": "#" },
-    { "id": "grumbacher-finest", "name": "Grumbacher Finest", "logo": "GF", "description": "", "website": "#" },
-    { "id": "grumbacher-academy", "name": "Grumbacher Academy", "logo": "GA", "description": "", "website": "#" },
-    { "id": "holbein", "name": "Holbein", "logo": "H", "description": "", "website": "#" },
-    { "id": "isaro", "name": "Isaro", "logo": "I", "description": "", "website": "#" },
-    { "id": "jacksons", "name": "Jackson's Own Brand", "logo": "J", "description": "", "website": "#" },
-    { "id": "ken-bromley", "name": "Ken Bromley Own Brand", "logo": "KB", "description": "", "website": "#" },
-    { "id": "kusakabe", "name": "Kusakabe", "logo": "K", "description": "", "website": "#" },
-    { "id": "lukas", "name": "Lukas Aquarell", "logo": "L", "description": "", "website": "#" },
-    { "id": "lutea", "name": "Lutea", "logo": "Lu", "description": "", "website": "#" },
-    { "id": "m-graham", "name": "M. Graham", "logo": "MG", "description": "", "website": "#" },
-    { "id": "maimeriblu", "name": "MaimeriBlu", "logo": "M", "description": "", "website": "#" },
-    { "id": "mijello", "name": "Mijello Mission Gold", "logo": "MMG", "description": "", "website": "#" },
-    { "id": "old-holland", "name": "Old Holland", "logo": "OH", "description": "", "website": "#" },
-    { "id": "qor", "name": "QoR", "logo": "Q", "description": "", "website": "#" },
-    { "id": "rembrandt", "name": "Rembrandt", "logo": "R", "description": "", "website": "#" },
-    { "id": "renesans-pans", "name": "Renesans (Pans)", "logo": "RP", "description": "", "website": "#" },
-    { "id": "renesans-tubes", "name": "Renesans (Tubes)", "logo": "RT", "description": "", "website": "#" },
-    { "id": "roman-szmal", "name": "Roman Szmal", "logo": "RS", "description": "", "website": "#" },
-    { "id": "schmincke", "name": "Schmincke", "logo": "S", "description": "", "website": "#" },
-    { "id": "sennelier", "name": "Sennelier", "logo": "Se", "description": "", "website": "#" },
-    { "id": "shinhan-pro", "name": "ShinHan Pro (Students)", "logo": "SP", "description": "", "website": "#" },
-    { "id": "shinhan-pwc", "name": "ShinHan PWC (Artist's)", "logo": "PWC", "description": "", "website": "#" },
-    { "id": "turner", "name": "Turner", "logo": "T", "description": "", "website": "#" },
-    { "id": "utrecht", "name": "Utrecht", "logo": "U", "description": "", "website": "#" },
-    { "id": "van-gogh", "name": "Van Gogh", "logo": "VG", "description": "", "website": "#" },
-    { "id": "white-nights", "name": "White Nights", "logo": "WN", "description": "", "website": "#" },
-    { "id": "wn-cotman", "name": "W&N Cotman", "logo": "WNC", "description": "", "website": "#" },
-    { "id": "wn", "name": "Winsor & Newton Professional", "logo": "WNP", "description": "", "website": "#" },
-    { "id": "prima", "name": "Prima Marketing", "logo": "PM", "description": "", "website": "#" }
+    {
+      "id": "art-spectrum",
+      "name": "Art Spectrum",
+      "logo": "AS",
+      "description": "",
+      "website": "#",
+      "country": "Australia \ud83c\udde6\ud83c\uddfa"
+    },
+    {
+      "id": "blick",
+      "name": "Blick Own Brand",
+      "logo": "B",
+      "description": "",
+      "website": "#"
+    },
+    {
+      "id": "blockx",
+      "name": "Blockx",
+      "logo": "Bx",
+      "description": "",
+      "website": "#",
+      "country": "Belgium \ud83c\udde7\ud83c\uddea"
+    },
+    {
+      "id": "cass-art",
+      "name": "Cass Arts Own Brand",
+      "logo": "CA",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "da-vinci",
+      "name": "Da Vinci Paints",
+      "logo": "DV",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "daler-rowney-prof",
+      "name": "Daler Rowney Professional",
+      "logo": "DRP",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "daler-rowney-aqua",
+      "name": "Daler Rowney Aquafine",
+      "logo": "DRA",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "ds",
+      "name": "Daniel Smith",
+      "logo": "DS",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "grumbacher-finest",
+      "name": "Grumbacher Finest",
+      "logo": "GF",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "grumbacher-academy",
+      "name": "Grumbacher Academy",
+      "logo": "GA",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "holbein",
+      "name": "Holbein",
+      "logo": "H",
+      "description": "",
+      "website": "#",
+      "country": "Japan \ud83c\uddef\ud83c\uddf5"
+    },
+    {
+      "id": "isaro",
+      "name": "Isaro",
+      "logo": "I",
+      "description": "",
+      "website": "#",
+      "country": "Belgium \ud83c\udde7\ud83c\uddea"
+    },
+    {
+      "id": "jacksons",
+      "name": "Jackson's Own Brand",
+      "logo": "J",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "ken-bromley",
+      "name": "Ken Bromley Own Brand",
+      "logo": "KB",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "kusakabe",
+      "name": "Kusakabe",
+      "logo": "K",
+      "description": "",
+      "website": "#",
+      "country": "Japan \ud83c\uddef\ud83c\uddf5"
+    },
+    {
+      "id": "lukas",
+      "name": "Lukas Aquarell",
+      "logo": "L",
+      "description": "",
+      "website": "#",
+      "country": "Germany \ud83c\udde9\ud83c\uddea"
+    },
+    {
+      "id": "lutea",
+      "name": "Lutea",
+      "logo": "Lu",
+      "description": "",
+      "website": "#",
+      "country": "Belgium \ud83c\udde7\ud83c\uddea"
+    },
+    {
+      "id": "m-graham",
+      "name": "M. Graham",
+      "logo": "MG",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "maimeriblu",
+      "name": "MaimeriBlu",
+      "logo": "M",
+      "description": "",
+      "website": "#",
+      "country": "Italy \ud83c\uddee\ud83c\uddf9"
+    },
+    {
+      "id": "mijello",
+      "name": "Mijello Mission Gold",
+      "logo": "MMG",
+      "description": "",
+      "website": "#",
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+    },
+    {
+      "id": "old-holland",
+      "name": "Old Holland",
+      "logo": "OH",
+      "description": "",
+      "website": "#",
+      "country": "The Netherlands \ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+      "id": "qor",
+      "name": "QoR",
+      "logo": "Q",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "rembrandt",
+      "name": "Rembrandt",
+      "logo": "R",
+      "description": "",
+      "website": "#",
+      "country": "The Netherlands \ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+      "id": "renesans-pans",
+      "name": "Renesans (Pans)",
+      "logo": "RP",
+      "description": "",
+      "website": "#",
+      "country": "Poland \ud83c\uddf5\ud83c\uddf1"
+    },
+    {
+      "id": "renesans-tubes",
+      "name": "Renesans (Tubes)",
+      "logo": "RT",
+      "description": "",
+      "website": "#",
+      "country": "Poland \ud83c\uddf5\ud83c\uddf1"
+    },
+    {
+      "id": "roman-szmal",
+      "name": "Roman Szmal",
+      "logo": "RS",
+      "description": "",
+      "website": "#",
+      "country": "Poland \ud83c\uddf5\ud83c\uddf1"
+    },
+    {
+      "id": "schmincke",
+      "name": "Schmincke",
+      "logo": "S",
+      "description": "",
+      "website": "#",
+      "country": "Germany \ud83c\udde9\ud83c\uddea"
+    },
+    {
+      "id": "sennelier",
+      "name": "Sennelier",
+      "logo": "Se",
+      "description": "",
+      "website": "#",
+      "country": "France \ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+      "id": "shinhan-pro",
+      "name": "ShinHan Pro (Students)",
+      "logo": "SP",
+      "description": "",
+      "website": "#",
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+    },
+    {
+      "id": "shinhan-pwc",
+      "name": "ShinHan PWC (Artist's)",
+      "logo": "PWC",
+      "description": "",
+      "website": "#",
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+    },
+    {
+      "id": "turner",
+      "name": "Turner",
+      "logo": "T",
+      "description": "",
+      "website": "#",
+      "country": "Japan \ud83c\uddef\ud83c\uddf5"
+    },
+    {
+      "id": "utrecht",
+      "name": "Utrecht",
+      "logo": "U",
+      "description": "",
+      "website": "#",
+      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "van-gogh",
+      "name": "Van Gogh",
+      "logo": "VG",
+      "description": "",
+      "website": "#",
+      "country": "The Netherlands \ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+      "id": "white-nights",
+      "name": "White Nights",
+      "logo": "WN",
+      "description": "",
+      "website": "#",
+      "country": "Russia \ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+      "id": "wn-cotman",
+      "name": "W&N Cotman",
+      "logo": "WNC",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "wn",
+      "name": "Winsor & Newton Professional",
+      "logo": "WNP",
+      "description": "",
+      "website": "#",
+      "country": "UK \ud83c\uddec\ud83c\udde7"
+    },
+    {
+      "id": "prima",
+      "name": "Prima Marketing",
+      "logo": "PM",
+      "description": "",
+      "website": "#"
+    }
   ]
 }
