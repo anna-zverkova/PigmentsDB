@@ -9,6 +9,11 @@ export const PaintsSearch: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedFamilies, setSelectedFamilies] = useState<string[]>([]);
   const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
+  const brandNameById = new Map(BRANDS.map(b => [b.id, b.name.toLowerCase()]));
+  const selectedBrandIds = new Set(selectedBrands);
+  const selectedBrandNames = new Set(
+    selectedBrands.map(id => brandNameById.get(id) || id.toLowerCase())
+  );
   
   // Basic filtering logic mocking Algolia
   const filteredPaints = PAINTS.filter(paint => {
@@ -20,7 +25,11 @@ export const PaintsSearch: React.FC = () => {
                             // For demo we assume mock data is enough to show UI
                             true; 
 
-      const matchesBrand = selectedBrands.length === 0 || selectedBrands.includes(paint.brandId);
+      const paintBrandName = brandNameById.get(paint.brandId);
+      const matchesBrand =
+        selectedBrands.length === 0 ||
+        selectedBrandIds.has(paint.brandId) ||
+        (paintBrandName ? selectedBrandNames.has(paintBrandName) : false);
 
       return matchesSearch && matchesFamily && matchesBrand;
   });

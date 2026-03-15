@@ -52,14 +52,20 @@ export const PigmentFamily: React.FC = () => {
             {/* Pigment quick links */}
             <div className="flex flex-wrap gap-2">
               {pigmentsInFamily.map(pigment => (
-                <a
+                <button
                   key={pigment.code}
-                  href={`#${pigment.code}`}
+                  type="button"
+                  onClick={() => {
+                    const el = document.getElementById(pigment.code);
+                    if (el) {
+                      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                  }}
                   className="inline-flex items-center gap-2 rounded-full border border-neutral-200 bg-white px-3 py-1.5 text-sm font-medium text-neutral-700 hover:border-neutral-300 hover:text-neutral-900"
                 >
                   <span className="font-mono text-xs text-neutral-500">{pigment.code}</span>
                   <span className="truncate max-w-[140px]">{pigment.name}</span>
-                </a>
+                </button>
               ))}
             </div>
             <Card className="p-4 bg-white border-neutral-200 shadow-sm mb-8 flex flex-wrap gap-4 text-sm text-neutral-500">
