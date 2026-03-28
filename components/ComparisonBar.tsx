@@ -18,9 +18,13 @@ export const ComparisonBar: React.FC = () => {
         <div className="flex items-center gap-2 overflow-x-auto no-scrollbar">
           {selectedPaints.map(paint => (
             <div key={paint.id} className="flex items-center gap-2 bg-neutral-100 pl-2 pr-1 py-1 rounded-full whitespace-nowrap">
-              <div 
-                className="w-4 h-4 rounded-full border border-neutral-200" 
-                style={{ backgroundColor: paint.hex }}
+              <div
+                className="w-4 h-4 rounded-full border border-neutral-200"
+                style={
+                  paint.swatchImage
+                    ? { backgroundImage: `url(${paint.swatchImage})`, backgroundSize: 'cover', backgroundPosition: 'center' }
+                    : { backgroundColor: paint.hex }
+                }
               />
               <span className="text-xs font-medium text-neutral-700">{paint.name}</span>
               <button 

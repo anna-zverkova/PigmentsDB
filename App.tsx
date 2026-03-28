@@ -4,6 +4,7 @@ import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
 import { PigmentFamily } from './pages/PigmentFamily';
 import { PaintsSearch } from './pages/PaintsSearch';
+import { PaintDetail } from './pages/PaintDetail';
 import { Comparison } from './pages/Comparison';
 import { Brands } from './pages/Brands';
 import { BrandDetail } from './pages/BrandDetail';
@@ -64,7 +65,7 @@ const App: React.FC = () => {
             <Route path="pigments/:family" element={<PigmentFamily />} />
             
             <Route path="paints" element={<PaintsSearch />} />
-            <Route path="paints/:id" element={<div className="p-20 text-center">Paint Detail Page Placeholder</div>} />
+            <Route path="paints/:id" element={<PaintDetail />} />
             
             <Route path="brands" element={<Brands />} />
             <Route path="brands/:id" element={<BrandDetail />} />

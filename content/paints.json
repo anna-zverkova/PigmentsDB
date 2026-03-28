@@ -3,7 +3,7 @@
   "intro": "Browse paints by brand, pigment code, and performance characteristics.",
   "items": [
     {
-      "id": "hol-pb29",
+      "id": "holbein-ultramarine-deep-w094",
       "brandId": "holbein",
       "name": "Ultramarine Deep",
       "pigmentCodes": [
@@ -25,7 +25,7 @@
       "collection": "Artists Watercolor"
     },
     {
-      "id": "sch-py150",
+      "id": "schmincke-transparent-yellow-14209",
       "brandId": "schmincke",
       "name": "Transparent Yellow",
       "pigmentCodes": [
@@ -47,7 +47,7 @@
       "collection": "Horadam Aquarell"
     },
     {
-      "id": "wn-100",
+      "id": "white-nights-zinc-white-100",
       "brandId": "white-nights",
       "name": "Zinc White",
       "pigmentCodes": [
@@ -71,7 +71,7 @@
       "swatchImage": "/uploads/white-nights/WH-Zinc-white.png"
     },
     {
-      "id": "wn-101",
+      "id": "white-nights-titanium-white-101",
       "brandId": "white-nights",
       "name": "Titanium White",
       "pigmentCodes": [
@@ -94,7 +94,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-201",
+      "id": "white-nights-cadmium-yellow-medium-201",
       "brandId": "white-nights",
       "name": "Cadmium Yellow Medium",
       "pigmentCodes": [
@@ -118,7 +118,7 @@
       "swatchImage": "/uploads/white-nights/WH-cadmium-yellow-medium.png"
     },
     {
-      "id": "wn-203",
+      "id": "white-nights-cadmium-lemon-203",
       "brandId": "white-nights",
       "name": "Cadmium Lemon",
       "pigmentCodes": [
@@ -142,7 +142,7 @@
       "swatchImage": "/uploads/white-nights/WH-Cadmium-lemon.png"
     },
     {
-      "id": "wn-206",
+      "id": "white-nights-ochre-light-206",
       "brandId": "white-nights",
       "name": "Ochre Light",
       "pigmentCodes": [
@@ -166,7 +166,7 @@
       "swatchImage": "/uploads/white-nights/WH-ochre-light.png"
     },
     {
-      "id": "wn-209",
+      "id": "white-nights-naples-yellow-209",
       "brandId": "white-nights",
       "name": "Naples Yellow",
       "pigmentCodes": [
@@ -193,7 +193,7 @@
       "swatchImage": "/uploads/white-nights/WH-naples-yellow(1).png"
     },
     {
-      "id": "wn-211",
+      "id": "white-nights-yellow-211",
       "brandId": "white-nights",
       "name": "Yellow",
       "pigmentCodes": [
@@ -217,7 +217,7 @@
       "swatchImage": "/uploads/white-nights/WH-Yellow.png"
     },
     {
-      "id": "wn-211",
+      "id": "white-nights-yellow-211-v2",
       "brandId": "white-nights",
       "name": "Yellow",
       "pigmentCodes": [
@@ -241,7 +241,7 @@
       "swatchImage": "/uploads/white-nights/WH-Yellow.png"
     },
     {
-      "id": "wn-214",
+      "id": "white-nights-lemon-214",
       "brandId": "white-nights",
       "name": "Lemon",
       "pigmentCodes": [
@@ -265,7 +265,7 @@
       "swatchImage": "/uploads/white-nights/WH-Lemon.png"
     },
     {
-      "id": "wn-215",
+      "id": "white-nights-hansa-yellow-215",
       "brandId": "white-nights",
       "name": "Hansa Yellow",
       "pigmentCodes": [
@@ -289,7 +289,7 @@
       "swatchImage": "/uploads/white-nights/WH-Hansa-Yellow.png"
     },
     {
-      "id": "wn-216",
+      "id": "white-nights-golden-216",
       "brandId": "white-nights",
       "name": "Golden",
       "pigmentCodes": [
@@ -314,7 +314,7 @@
       "swatchImage": "/uploads/white-nights/WH-golden(1).png"
     },
     {
-      "id": "wn-216",
+      "id": "white-nights-golden-216-v2",
       "brandId": "white-nights",
       "name": "Golden",
       "pigmentCodes": [
@@ -339,7 +339,7 @@
       "swatchImage": "/uploads/white-nights/WH-golden(1).png"
     },
     {
-      "id": "wn-217",
+      "id": "white-nights-golden-deep-217",
       "brandId": "white-nights",
       "name": "Golden Deep",
       "pigmentCodes": [
@@ -363,7 +363,7 @@
       "swatchImage": "/uploads/white-nights/WH-golden-deep.png"
     },
     {
-      "id": "wn-218",
+      "id": "white-nights-yellow-ochre-218",
       "brandId": "white-nights",
       "name": "Yellow Ochre",
       "pigmentCodes": [
@@ -388,7 +388,7 @@
       "swatchImage": "/uploads/white-nights/WH-yellow-ochre.png"
     },
     {
-      "id": "wn-218",
+      "id": "white-nights-yellow-ochre-218-v2",
       "brandId": "white-nights",
       "name": "Yellow Ochre",
       "pigmentCodes": [
@@ -413,7 +413,7 @@
       "swatchImage": "/uploads/white-nights/WH-yellow-ochre.png"
     },
     {
-      "id": "wn-219",
+      "id": "white-nights-naples-yellow-light-219",
       "brandId": "white-nights",
       "name": "Naples Yellow Light",
       "pigmentCodes": [
@@ -437,7 +437,7 @@
       "swatchImage": "/uploads/white-nights/WH-naples-yellow-light.png"
     },
     {
-      "id": "wn-222",
+      "id": "white-nights-naples-flesh-222",
       "brandId": "white-nights",
       "name": "Naples Flesh",
       "pigmentCodes": [
@@ -462,7 +462,7 @@
       "swatchImage": "/uploads/white-nights/WH-naples-flesh.png"
     },
     {
-      "id": "wn-226",
+      "id": "white-nights-titian-red-226",
       "brandId": "white-nights",
       "name": "Titian Red",
       "pigmentCodes": [
@@ -486,7 +486,7 @@
       "swatchImage": "/uploads/white-nights/WH-titan-red.png"
     },
     {
-      "id": "wn-228",
+      "id": "white-nights-indian-yellow-228",
       "brandId": "white-nights",
       "name": "Indian Yellow",
       "pigmentCodes": [
@@ -510,7 +510,7 @@
       "swatchImage": "/uploads/white-nights/WH-indian-yellow.png"
     },
     {
-      "id": "wn-244",
+      "id": "white-nights-indian-gold-244",
       "brandId": "white-nights",
       "name": "Indian Gold",
       "pigmentCodes": [
@@ -535,7 +535,7 @@
       "swatchImage": "/uploads/white-nights/WH-indian-gold.png"
     },
     {
-      "id": "wn-253",
+      "id": "white-nights-aureolin-253",
       "brandId": "white-nights",
       "name": "Aureolin",
       "pigmentCodes": [
@@ -559,7 +559,7 @@
       "swatchImage": "/uploads/white-nights/WH-aureolin.png"
     },
     {
-      "id": "wn-254",
+      "id": "white-nights-naples-orange-254",
       "brandId": "white-nights",
       "name": "Naples Orange",
       "pigmentCodes": [
@@ -583,7 +583,7 @@
       "swatchImage": "/uploads/white-nights/WH-naples-orange.png"
     },
     {
-      "id": "wn-255",
+      "id": "white-nights-dunes-255",
       "brandId": "white-nights",
       "name": "Dunes",
       "pigmentCodes": [
@@ -609,7 +609,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-256",
+      "id": "white-nights-peach-256",
       "brandId": "white-nights",
       "name": "Peach",
       "pigmentCodes": [
@@ -635,7 +635,7 @@
       "swatchImage": "/uploads/white-nights/WH-Peach(1).png"
     },
     {
-      "id": "wn-257",
+      "id": "white-nights-irgazin-yellow-257",
       "brandId": "white-nights",
       "name": "Irgazin Yellow",
       "pigmentCodes": [
@@ -659,7 +659,7 @@
       "swatchImage": "/uploads/white-nights/WH-Irgazin-yellow.png"
     },
     {
-      "id": "wn-258",
+      "id": "white-nights-petesburg-ochre-258",
       "brandId": "white-nights",
       "name": "Petesburg Ochre",
       "pigmentCodes": [
@@ -684,7 +684,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-268",
+      "id": "white-nights-yellow-tuff-268",
       "brandId": "white-nights",
       "name": "Yellow Tuff",
       "pigmentCodes": [
@@ -708,7 +708,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-270",
+      "id": "white-nights-yellow-iron-oxide-270",
       "brandId": "white-nights",
       "name": "Yellow Iron Oxide",
       "pigmentCodes": [
@@ -731,7 +731,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-271",
+      "id": "white-nights-nickel-titanate-yellow-271",
       "brandId": "white-nights",
       "name": "Nickel Titanate Yellow",
       "pigmentCodes": [
@@ -754,7 +754,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-273",
+      "id": "white-nights-isoindolinone-yellow-273",
       "brandId": "white-nights",
       "name": "Isoindolinone yellow",
       "pigmentCodes": [
@@ -777,7 +777,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-274",
+      "id": "white-nights-chrome-titanate-yellow-274",
       "brandId": "white-nights",
       "name": "Chrome Titanate Yellow",
       "pigmentCodes": [
@@ -800,7 +800,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-279",
+      "id": "white-nights-morning-brume-279",
       "brandId": "white-nights",
       "name": "Morning Brume",
       "pigmentCodes": [
@@ -824,7 +824,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-302",
+      "id": "white-nights-cadmium-red-light-302",
       "brandId": "white-nights",
       "name": "Cadmium Red Light",
       "pigmentCodes": [
@@ -848,7 +848,7 @@
       "swatchImage": "/uploads/white-nights/WH-cadmium-Red-Light.png"
     },
     {
-      "id": "wn-304",
+      "id": "white-nights-cadmium-orange-304",
       "brandId": "white-nights",
       "name": "Cadmium Orange",
       "pigmentCodes": [
@@ -872,7 +872,7 @@
       "swatchImage": "/uploads/white-nights/WH-cadmium-orange.png"
     },
     {
-      "id": "wn-309",
+      "id": "white-nights-red-ochre-309",
       "brandId": "white-nights",
       "name": "Red Ochre",
       "pigmentCodes": [
@@ -896,7 +896,7 @@
       "swatchImage": "/uploads/white-nights/WH-Red-Ochre.png"
     },
     {
-      "id": "wn-311",
+      "id": "white-nights-shakhnazarskaya-red-311",
       "brandId": "white-nights",
       "name": "Shakhnazarskaya Red",
       "pigmentCodes": [
@@ -920,7 +920,7 @@
       "swatchImage": "/uploads/white-nights/WH-shakhnazarskyaya-red.png"
     },
     {
-      "id": "wn-312",
+      "id": "white-nights-vermillion-hue-312",
       "brandId": "white-nights",
       "name": "Vermillion Hue",
       "pigmentCodes": [
@@ -944,7 +944,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-313",
+      "id": "white-nights-madder-lake-red-light-313",
       "brandId": "white-nights",
       "name": "Madder Lake Red Light",
       "pigmentCodes": [
@@ -968,7 +968,7 @@
       "swatchImage": "/uploads/white-nights/WH-Madder-Lake-Red-Light.png"
     },
     {
-      "id": "wn-315",
+      "id": "white-nights-orange-315",
       "brandId": "white-nights",
       "name": "Orange",
       "pigmentCodes": [
@@ -992,7 +992,7 @@
       "swatchImage": "/uploads/white-nights/WH-orange.png"
     },
     {
-      "id": "wn-318",
+      "id": "white-nights-scarlet-318",
       "brandId": "white-nights",
       "name": "Scarlet",
       "pigmentCodes": [
@@ -1016,7 +1016,7 @@
       "swatchImage": "/uploads/white-nights/WH-Scarlet.png"
     },
     {
-      "id": "wn-318",
+      "id": "white-nights-scarlet-318-v2",
       "brandId": "white-nights",
       "name": "Scarlet",
       "pigmentCodes": [
@@ -1041,7 +1041,7 @@
       "swatchImage": "/uploads/white-nights/WH-Scarlet.png"
     },
     {
-      "id": "wn-319",
+      "id": "white-nights-carmine-319",
       "brandId": "white-nights",
       "name": "Carmine",
       "pigmentCodes": [
@@ -1065,7 +1065,7 @@
       "swatchImage": "/uploads/white-nights/WH-carmine(1).png"
     },
     {
-      "id": "wn-320",
+      "id": "white-nights-orange-lake-320",
       "brandId": "white-nights",
       "name": "Orange Lake",
       "pigmentCodes": [
@@ -1089,7 +1089,7 @@
       "swatchImage": "/uploads/white-nights/WH-orange-lake.png"
     },
     {
-      "id": "wn-321",
+      "id": "white-nights-english-red-321",
       "brandId": "white-nights",
       "name": "English Red",
       "pigmentCodes": [
@@ -1113,7 +1113,7 @@
       "swatchImage": "/uploads/white-nights/WH-english-red.png"
     },
     {
-      "id": "wn-322",
+      "id": "white-nights-rose-322",
       "brandId": "white-nights",
       "name": "Rose",
       "pigmentCodes": [
@@ -1137,7 +1137,7 @@
       "swatchImage": "/uploads/white-nights/WH-rose.png"
     },
     {
-      "id": "wn-323",
+      "id": "white-nights-ruby-323",
       "brandId": "white-nights",
       "name": "Ruby",
       "pigmentCodes": [
@@ -1161,7 +1161,7 @@
       "swatchImage": "/uploads/white-nights/WH-Ruby.png"
     },
     {
-      "id": "wn-324",
+      "id": "white-nights-quinacridone-rose-324",
       "brandId": "white-nights",
       "name": "Quinacridone Rose",
       "pigmentCodes": [
@@ -1185,7 +1185,7 @@
       "swatchImage": "/uploads/white-nights/WH-quinacridone-rose-magenta.png"
     },
     {
-      "id": "wn-325",
+      "id": "white-nights-claret-325",
       "brandId": "white-nights",
       "name": "Claret",
       "pigmentCodes": [
@@ -1210,7 +1210,7 @@
       "swatchImage": "/uploads/white-nights/WH-claret.png"
     },
     {
-      "id": "wn-325",
+      "id": "white-nights-claret-325-v2",
       "brandId": "white-nights",
       "name": "Claret",
       "pigmentCodes": [
@@ -1234,7 +1234,7 @@
       "swatchImage": "/uploads/white-nights/WH-claret.png"
     },
     {
-      "id": "wn-328",
+      "id": "white-nights-scarlet-light-328",
       "brandId": "white-nights",
       "name": "Scarlet Light",
       "pigmentCodes": [
@@ -1259,7 +1259,7 @@
       "swatchImage": "/uploads/white-nights/WH-Sclarlet-Light(1).png"
     },
     {
-      "id": "wn-355",
+      "id": "white-nights-coral-355",
       "brandId": "white-nights",
       "name": "Coral",
       "pigmentCodes": [
@@ -1284,7 +1284,7 @@
       "swatchImage": "/uploads/white-nights/WH-coral.png"
     },
     {
-      "id": "wn-357",
+      "id": "white-nights-venetian-red-357",
       "brandId": "white-nights",
       "name": "Venetian Red",
       "pigmentCodes": [
@@ -1309,7 +1309,7 @@
       "swatchImage": "/uploads/white-nights/WH-venetian-red.png"
     },
     {
-      "id": "wn-361",
+      "id": "white-nights-quinacridone-red-361",
       "brandId": "white-nights",
       "name": "Quinacridone Red",
       "pigmentCodes": [
@@ -1333,7 +1333,7 @@
       "swatchImage": "/uploads/white-nights/WH-quinacridone-red(1).png"
     },
     {
-      "id": "wn-364",
+      "id": "white-nights-geranium-red-364",
       "brandId": "white-nights",
       "name": "Geranium Red",
       "pigmentCodes": [
@@ -1357,7 +1357,7 @@
       "swatchImage": "/uploads/white-nights/WH-geranium-red.png"
     },
     {
-      "id": "wn-365",
+      "id": "white-nights-venice-purple-365",
       "brandId": "white-nights",
       "name": "Venice Purple",
       "pigmentCodes": [
@@ -1381,7 +1381,7 @@
       "swatchImage": "/uploads/white-nights/WH-venice-purple.png"
     },
     {
-      "id": "wn-366",
+      "id": "white-nights-pink-peony-366",
       "brandId": "white-nights",
       "name": "Pink Peony",
       "pigmentCodes": [
@@ -1406,7 +1406,7 @@
       "swatchImage": "/uploads/white-nights/WH-pink-peony.png"
     },
     {
-      "id": "wn-367",
+      "id": "white-nights-rose-quartz-367",
       "brandId": "white-nights",
       "name": "Rose Quartz",
       "pigmentCodes": [
@@ -1431,7 +1431,7 @@
       "swatchImage": "/uploads/white-nights/WH-rose-quartz.png"
     },
     {
-      "id": "wn-368",
+      "id": "white-nights-neon-pink-368",
       "brandId": "white-nights",
       "name": "Neon Pink",
       "pigmentCodes": [
@@ -1456,7 +1456,7 @@
       "swatchImage": "/uploads/white-nights/WH-Neon-pink.png"
     },
     {
-      "id": "wn-369",
+      "id": "white-nights-magnolia-369",
       "brandId": "white-nights",
       "name": "Magnolia",
       "pigmentCodes": [
@@ -1481,7 +1481,7 @@
       "swatchImage": "/uploads/white-nights/WH-magnolia.png"
     },
     {
-      "id": "wn-382",
+      "id": "white-nights-rose-mist-382",
       "brandId": "white-nights",
       "name": "Rose Mist",
       "pigmentCodes": [
@@ -1505,7 +1505,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-385",
+      "id": "white-nights-quinacridone-scarlet-385",
       "brandId": "white-nights",
       "name": "Quinacridone Scarlet",
       "pigmentCodes": [
@@ -1528,7 +1528,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-386",
+      "id": "white-nights-red-brown-hematite-386",
       "brandId": "white-nights",
       "name": "Red Brown Hematite",
       "pigmentCodes": [
@@ -1551,7 +1551,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-387",
+      "id": "white-nights-ruby-mist-387",
       "brandId": "white-nights",
       "name": "Ruby Mist",
       "pigmentCodes": [
@@ -1575,7 +1575,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-388",
+      "id": "white-nights-orange-mist-388",
       "brandId": "white-nights",
       "name": "Orange Mist",
       "pigmentCodes": [
@@ -1599,7 +1599,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-389",
+      "id": "white-nights-scarlet-mist-389",
       "brandId": "white-nights",
       "name": "Scarlet Mist",
       "pigmentCodes": [
@@ -1623,7 +1623,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-393",
+      "id": "white-nights-rose-brown-393",
       "brandId": "white-nights",
       "name": "Rose Brown",
       "pigmentCodes": [
@@ -1646,7 +1646,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-396",
+      "id": "white-nights-pyrrole-red-396",
       "brandId": "white-nights",
       "name": "Pyrrole Red",
       "pigmentCodes": [
@@ -1669,7 +1669,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-398",
+      "id": "white-nights-purple-mist-398",
       "brandId": "white-nights",
       "name": "Purple Mist",
       "pigmentCodes": [
@@ -1693,7 +1693,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-399",
+      "id": "white-nights-pyrrol-orange-399",
       "brandId": "white-nights",
       "name": "Pyrrol Orange",
       "pigmentCodes": [
@@ -1716,7 +1716,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-401",
+      "id": "white-nights-vandyke-brown-401",
       "brandId": "white-nights",
       "name": "Vandyke Brown",
       "pigmentCodes": [
@@ -1740,7 +1740,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-405",
+      "id": "white-nights-raw-sienna-405",
       "brandId": "white-nights",
       "name": "Raw Sienna",
       "pigmentCodes": [
@@ -1764,7 +1764,7 @@
       "swatchImage": "/uploads/white-nights/WH-raw-sienna(1).png"
     },
     {
-      "id": "wn-405",
+      "id": "white-nights-raw-sienna-405-v2",
       "brandId": "white-nights",
       "name": "Raw Sienna",
       "pigmentCodes": [
@@ -1788,7 +1788,7 @@
       "swatchImage": "/uploads/white-nights/WH-raw-sienna(1).png"
     },
     {
-      "id": "wn-406",
+      "id": "white-nights-burnt-sienna-406",
       "brandId": "white-nights",
       "name": "Burnt Sienna",
       "pigmentCodes": [
@@ -1812,7 +1812,7 @@
       "swatchImage": "/uploads/white-nights/WH-burnt-sienna.png"
     },
     {
-      "id": "wn-408",
+      "id": "white-nights-burnt-umber-408",
       "brandId": "white-nights",
       "name": "Burnt Umber",
       "pigmentCodes": [
@@ -1836,7 +1836,7 @@
       "swatchImage": "/uploads/white-nights/WH-burnt-umber.png"
     },
     {
-      "id": "wn-412",
+      "id": "white-nights-mars-brown-412",
       "brandId": "white-nights",
       "name": "Mars Brown",
       "pigmentCodes": [
@@ -1860,7 +1860,7 @@
       "swatchImage": "/uploads/white-nights/WH-mars-brown.png"
     },
     {
-      "id": "wn-413",
+      "id": "white-nights-sepia-413",
       "brandId": "white-nights",
       "name": "Sepia",
       "pigmentCodes": [
@@ -1886,7 +1886,7 @@
       "swatchImage": "/uploads/white-nights/WH-Sepia.png"
     },
     {
-      "id": "wn-418",
+      "id": "white-nights-umber-418",
       "brandId": "white-nights",
       "name": "Umber",
       "pigmentCodes": [
@@ -1912,7 +1912,7 @@
       "swatchImage": "/uploads/white-nights/WH-umber(1).png"
     },
     {
-      "id": "wn-432",
+      "id": "white-nights-maroon-432",
       "brandId": "white-nights",
       "name": "Maroon",
       "pigmentCodes": [
@@ -1938,7 +1938,7 @@
       "swatchImage": "/uploads/white-nights/WH-maroon.png"
     },
     {
-      "id": "wn-433",
+      "id": "white-nights-mocha-433",
       "brandId": "white-nights",
       "name": "Mocha",
       "pigmentCodes": [
@@ -1964,7 +1964,7 @@
       "swatchImage": "/uploads/white-nights/WH-mocha.png"
     },
     {
-      "id": "wn-447",
+      "id": "white-nights-bistre-447",
       "brandId": "white-nights",
       "name": "Bistre",
       "pigmentCodes": [
@@ -1988,7 +1988,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-448",
+      "id": "white-nights-spinel-brown-448",
       "brandId": "white-nights",
       "name": "Spinel brown",
       "pigmentCodes": [
@@ -2011,7 +2011,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-466",
+      "id": "white-nights-mountain-brume-466",
       "brandId": "white-nights",
       "name": "Mountain Brume",
       "pigmentCodes": [
@@ -2037,7 +2037,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-467",
+      "id": "white-nights-black-mystery-467",
       "brandId": "white-nights",
       "name": "Black Mystery",
       "pigmentCodes": [
@@ -2062,7 +2062,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-503",
+      "id": "white-nights-ceruleum-blue-503",
       "brandId": "white-nights",
       "name": "Ceruleum Blue",
       "pigmentCodes": [
@@ -2085,7 +2085,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-507",
+      "id": "white-nights-turquoise-blue-507",
       "brandId": "white-nights",
       "name": "Turquoise Blue",
       "pigmentCodes": [
@@ -2110,7 +2110,7 @@
       "swatchImage": "/uploads/white-nights/WH-turquoise-blue.png"
     },
     {
-      "id": "wn-508",
+      "id": "white-nights-cobalt-blue-508",
       "brandId": "white-nights",
       "name": "Cobalt Blue",
       "pigmentCodes": [
@@ -2134,7 +2134,7 @@
       "swatchImage": "/uploads/white-nights/WH-cobalt-blue.png"
     },
     {
-      "id": "wn-509",
+      "id": "white-nights-bright-blue-509",
       "brandId": "white-nights",
       "name": "Bright Blue",
       "pigmentCodes": [
@@ -2158,7 +2158,7 @@
       "swatchImage": "/uploads/white-nights/WH-bright-blue.png"
     },
     {
-      "id": "wn-510",
+      "id": "white-nights-blue-lake-510",
       "brandId": "white-nights",
       "name": "Blue Lake",
       "pigmentCodes": [
@@ -2182,7 +2182,7 @@
       "swatchImage": "/uploads/white-nights/WH-blue-lake.png"
     },
     {
-      "id": "wn-511",
+      "id": "white-nights-ultramarine-511",
       "brandId": "white-nights",
       "name": "Ultramarine",
       "pigmentCodes": [
@@ -2206,7 +2206,7 @@
       "swatchImage": "/uploads/white-nights/WH-ultramarine.png"
     },
     {
-      "id": "wn-512",
+      "id": "white-nights-celestial-blue-512",
       "brandId": "white-nights",
       "name": "Celestial Blue",
       "pigmentCodes": [
@@ -2231,7 +2231,7 @@
       "swatchImage": "/uploads/white-nights/WH-celestrial-blue.png"
     },
     {
-      "id": "wn-513",
+      "id": "white-nights-azure-513",
       "brandId": "white-nights",
       "name": "Azure",
       "pigmentCodes": [
@@ -2255,7 +2255,7 @@
       "swatchImage": "/uploads/white-nights/WH-azure.png"
     },
     {
-      "id": "wn-515",
+      "id": "white-nights-blue-515",
       "brandId": "white-nights",
       "name": "Blue",
       "pigmentCodes": [
@@ -2279,7 +2279,7 @@
       "swatchImage": "/uploads/white-nights/WH-blue.png"
     },
     {
-      "id": "wn-516",
+      "id": "white-nights-indigo-516",
       "brandId": "white-nights",
       "name": "Indigo",
       "pigmentCodes": [
@@ -2305,7 +2305,7 @@
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png"
     },
     {
-      "id": "wn-516",
+      "id": "white-nights-indigo-516-v2",
       "brandId": "white-nights",
       "name": "Indigo",
       "pigmentCodes": [
@@ -2331,7 +2331,7 @@
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png"
     },
     {
-      "id": "wn-516",
+      "id": "white-nights-indigo-516-v3",
       "brandId": "white-nights",
       "name": "Indigo",
       "pigmentCodes": [
@@ -2357,7 +2357,7 @@
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png"
     },
     {
-      "id": "wn-518",
+      "id": "white-nights-prussian-blue-518",
       "brandId": "white-nights",
       "name": "Prussian Blue",
       "pigmentCodes": [
@@ -2381,7 +2381,7 @@
       "swatchImage": "/uploads/white-nights/WH-prussian-blue.png"
     },
     {
-      "id": "wn-519",
+      "id": "white-nights-azure-blue-519",
       "brandId": "white-nights",
       "name": "Azure Blue",
       "pigmentCodes": [
@@ -2406,7 +2406,7 @@
       "swatchImage": "/uploads/white-nights/WH-azure-blue.png"
     },
     {
-      "id": "wn-521",
+      "id": "white-nights-ultramarine-deep-521",
       "brandId": "white-nights",
       "name": "Ultramarine Deep",
       "pigmentCodes": [
@@ -2430,7 +2430,7 @@
       "swatchImage": "/uploads/white-nights/WH-ultramarine-deep.png"
     },
     {
-      "id": "wn-524",
+      "id": "white-nights-indanthrene-blue-524",
       "brandId": "white-nights",
       "name": "Indanthrene Blue",
       "pigmentCodes": [
@@ -2453,7 +2453,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-528",
+      "id": "white-nights-royal-blue-528",
       "brandId": "white-nights",
       "name": "Royal Blue",
       "pigmentCodes": [
@@ -2478,7 +2478,7 @@
       "swatchImage": "/uploads/white-nights/WH-royal-blue.png"
     },
     {
-      "id": "wn-531",
+      "id": "white-nights-cobalt-turquoise-531",
       "brandId": "white-nights",
       "name": "Cobalt Turquoise",
       "pigmentCodes": [
@@ -2502,7 +2502,7 @@
       "swatchImage": "/uploads/white-nights/WH-cobalt-turquoise.png"
     },
     {
-      "id": "wn-532",
+      "id": "white-nights-cobalt-azure-blue-532",
       "brandId": "white-nights",
       "name": "Cobalt Azure Blue",
       "pigmentCodes": [
@@ -2526,7 +2526,7 @@
       "swatchImage": "/uploads/white-nights/WH-cobalt-chrome-turquoise.png"
     },
     {
-      "id": "wn-533",
+      "id": "white-nights-cobalt-chrome-turquoise-533",
       "brandId": "white-nights",
       "name": "Cobalt Chrome Turquoise",
       "pigmentCodes": [
@@ -2550,7 +2550,7 @@
       "swatchImage": "/uploads/white-nights/WH-cobalt-chrome-turquoise.png"
     },
     {
-      "id": "wn-537",
+      "id": "white-nights-indanthrene-blue-light-537",
       "brandId": "white-nights",
       "name": "Indanthrene Blue Light",
       "pigmentCodes": [
@@ -2573,7 +2573,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-555",
+      "id": "white-nights-dark-blue-shadows-555",
       "brandId": "white-nights",
       "name": "Dark Blue Shadows",
       "pigmentCodes": [
@@ -2598,7 +2598,7 @@
       "swatchImage": "/uploads/white-nights/WH-dark-blue-shadows.png"
     },
     {
-      "id": "wn-556",
+      "id": "white-nights-blue-shadows-556",
       "brandId": "white-nights",
       "name": "Blue Shadows",
       "pigmentCodes": [
@@ -2623,7 +2623,7 @@
       "swatchImage": "/uploads/white-nights/WH-blue-shadows.png"
     },
     {
-      "id": "wn-557",
+      "id": "white-nights-sky-blue-shadows-557",
       "brandId": "white-nights",
       "name": "Sky-Blue Shadows",
       "pigmentCodes": [
@@ -2648,7 +2648,7 @@
       "swatchImage": "/uploads/white-nights/WH-sky-blue-shadow.png"
     },
     {
-      "id": "wn-558",
+      "id": "white-nights-blue-mist-558",
       "brandId": "white-nights",
       "name": "Blue Mist",
       "pigmentCodes": [
@@ -2673,7 +2673,7 @@
       "swatchImage": "/uploads/white-nights/WH-blue-mist.png"
     },
     {
-      "id": "wn-559",
+      "id": "white-nights-aquamarine-mist-559",
       "brandId": "white-nights",
       "name": "Aquamarine Mist",
       "pigmentCodes": [
@@ -2698,7 +2698,7 @@
       "swatchImage": "/uploads/white-nights/WH-aquamarine-mist.png"
     },
     {
-      "id": "wn-560",
+      "id": "white-nights-cobalt-mist-560",
       "brandId": "white-nights",
       "name": "Cobalt Mist",
       "pigmentCodes": [
@@ -2723,7 +2723,7 @@
       "swatchImage": "/uploads/white-nights/WH-cobalt-mist.png"
     },
     {
-      "id": "wn-561",
+      "id": "white-nights-turquoise-cobalt-mist-561",
       "brandId": "white-nights",
       "name": "Turquoise-Cobalt Mist",
       "pigmentCodes": [
@@ -2747,7 +2747,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-562",
+      "id": "white-nights-grey-blue-mist-562",
       "brandId": "white-nights",
       "name": "Grey-Blue Mist",
       "pigmentCodes": [
@@ -2772,7 +2772,7 @@
       "swatchImage": "/uploads/white-nights/WG-grey-blue-mist.png"
     },
     {
-      "id": "wn-563",
+      "id": "white-nights-chromium-cobalt-mist-563",
       "brandId": "white-nights",
       "name": "Chromium-Cobalt Mist",
       "pigmentCodes": [
@@ -2797,7 +2797,7 @@
       "swatchImage": "/uploads/white-nights/WH-chromium-cobalt-mist.png"
     },
     {
-      "id": "wn-570",
+      "id": "white-nights-blue-dream-570",
       "brandId": "white-nights",
       "name": "Blue Dream",
       "pigmentCodes": [
@@ -2821,7 +2821,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-571",
+      "id": "white-nights-blue-mystery-571",
       "brandId": "white-nights",
       "name": "Blue Mystery",
       "pigmentCodes": [
@@ -2846,7 +2846,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-595",
+      "id": "white-nights-sea-mist-595",
       "brandId": "white-nights",
       "name": "Sea Mist",
       "pigmentCodes": [
@@ -2870,7 +2870,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-596",
+      "id": "white-nights-helio-blue-596",
       "brandId": "white-nights",
       "name": "Helio Blue",
       "pigmentCodes": [
@@ -2893,7 +2893,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-602",
+      "id": "white-nights-cobalt-violet-light-602",
       "brandId": "white-nights",
       "name": "Cobalt Violet Light",
       "pigmentCodes": [
@@ -2916,7 +2916,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-603",
+      "id": "white-nights-cobalt-violet-deep-603",
       "brandId": "white-nights",
       "name": "Cobalt Violet Deep",
       "pigmentCodes": [
@@ -2939,7 +2939,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-604",
+      "id": "white-nights-caput-mortuum-604",
       "brandId": "white-nights",
       "name": "Caput Mortuum",
       "pigmentCodes": [
@@ -2963,7 +2963,7 @@
       "swatchImage": "/uploads/white-nights/WH-caput-mortuum.png"
     },
     {
-      "id": "wn-607",
+      "id": "white-nights-violet-607",
       "brandId": "white-nights",
       "name": "Violet",
       "pigmentCodes": [
@@ -2987,7 +2987,7 @@
       "swatchImage": "/uploads/white-nights/WH-violet.png"
     },
     {
-      "id": "wn-608",
+      "id": "white-nights-violet-rose-608",
       "brandId": "white-nights",
       "name": "Violet Rose",
       "pigmentCodes": [
@@ -3011,7 +3011,7 @@
       "swatchImage": "/uploads/white-nights/WH-Violet-Rose.png"
     },
     {
-      "id": "wn-609",
+      "id": "white-nights-quinacridone-lilac-609",
       "brandId": "white-nights",
       "name": "Quinacridone Lilac",
       "pigmentCodes": [
@@ -3035,7 +3035,7 @@
       "swatchImage": "/uploads/white-nights/WH-quinacridone-lilac.png"
     },
     {
-      "id": "wn-613",
+      "id": "white-nights-ultramarine-violet-613",
       "brandId": "white-nights",
       "name": "Ultramarine Violet",
       "pigmentCodes": [
@@ -3059,7 +3059,7 @@
       "swatchImage": "/uploads/white-nights/WH-ultramarine-violet.png"
     },
     {
-      "id": "wn-614",
+      "id": "white-nights-manganese-violet-light-614",
       "brandId": "white-nights",
       "name": "Manganese violet light",
       "pigmentCodes": [
@@ -3082,7 +3082,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-621",
+      "id": "white-nights-quinacridone-violet-621",
       "brandId": "white-nights",
       "name": "Quinacridone Violet",
       "pigmentCodes": [
@@ -3106,7 +3106,7 @@
       "swatchImage": "/uploads/white-nights/WH-quinacridone-violet.png"
     },
     {
-      "id": "wn-622",
+      "id": "white-nights-quinacridone-violet-rose-622",
       "brandId": "white-nights",
       "name": "Quinacridone Violet Rose",
       "pigmentCodes": [
@@ -3130,7 +3130,7 @@
       "swatchImage": "/uploads/white-nights/WH-quinacridone-violet-rose(1).png"
     },
     {
-      "id": "wn-625",
+      "id": "white-nights-lavender-625",
       "brandId": "white-nights",
       "name": "Lavender",
       "pigmentCodes": [
@@ -3156,7 +3156,7 @@
       "swatchImage": "/uploads/white-nights/WH-lavender.png"
     },
     {
-      "id": "wn-626",
+      "id": "white-nights-lilac-626",
       "brandId": "white-nights",
       "name": "Lilac",
       "pigmentCodes": [
@@ -3181,7 +3181,7 @@
       "swatchImage": "/uploads/white-nights/WH-lilac.png"
     },
     {
-      "id": "wn-627",
+      "id": "white-nights-perylene-violet-627",
       "brandId": "white-nights",
       "name": "Perylene Violet",
       "pigmentCodes": [
@@ -3205,7 +3205,7 @@
       "swatchImage": "/uploads/white-nights/WH-perylene-violet.png"
     },
     {
-      "id": "wn-628",
+      "id": "white-nights-dioxazine-violet-628",
       "brandId": "white-nights",
       "name": "Dioxazine Violet",
       "pigmentCodes": [
@@ -3229,7 +3229,7 @@
       "swatchImage": "/uploads/white-nights/WH-dioxazine-violet.png"
     },
     {
-      "id": "wn-629",
+      "id": "white-nights-violet-shadows-629",
       "brandId": "white-nights",
       "name": "Violet Shadows",
       "pigmentCodes": [
@@ -3253,7 +3253,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-630",
+      "id": "white-nights-violet-mist-630",
       "brandId": "white-nights",
       "name": "Violet Mist",
       "pigmentCodes": [
@@ -3279,7 +3279,7 @@
       "swatchImage": "/uploads/white-nights/WH-violet-mist.png"
     },
     {
-      "id": "wn-631",
+      "id": "white-nights-lilac-mist-631",
       "brandId": "white-nights",
       "name": "Lilac Mist",
       "pigmentCodes": [
@@ -3304,7 +3304,7 @@
       "swatchImage": "/uploads/white-nights/WH-lilac-mist.png"
     },
     {
-      "id": "wn-632",
+      "id": "white-nights-hematite-mist-632",
       "brandId": "white-nights",
       "name": "Hematite Mist",
       "pigmentCodes": [
@@ -3329,7 +3329,7 @@
       "swatchImage": "/uploads/white-nights/WH-hematite-mist.png"
     },
     {
-      "id": "wn-633",
+      "id": "white-nights-augite-porphyite-633",
       "brandId": "white-nights",
       "name": "Augite Porphyite",
       "pigmentCodes": [
@@ -3352,7 +3352,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-634",
+      "id": "white-nights-grey-violet-granite-634",
       "brandId": "white-nights",
       "name": "Grey-Violet Granite",
       "pigmentCodes": [
@@ -3375,7 +3375,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-635",
+      "id": "white-nights-sunset-mist-635",
       "brandId": "white-nights",
       "name": "Sunset Mist",
       "pigmentCodes": [
@@ -3399,7 +3399,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-704",
+      "id": "white-nights-chromium-oxide-704",
       "brandId": "white-nights",
       "name": "Chromium Oxide",
       "pigmentCodes": [
@@ -3423,7 +3423,7 @@
       "swatchImage": "/uploads/white-nights/WH-chromium-oxide.png"
     },
     {
-      "id": "wn-705",
+      "id": "white-nights-cobalt-green-deep-705",
       "brandId": "white-nights",
       "name": "Cobalt Green Deep",
       "pigmentCodes": [
@@ -3446,7 +3446,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-713",
+      "id": "white-nights-emerald-green-713",
       "brandId": "white-nights",
       "name": "Emerald Green",
       "pigmentCodes": [
@@ -3470,7 +3470,7 @@
       "swatchImage": "/uploads/white-nights/WH-emerald-green.png"
     },
     {
-      "id": "wn-716",
+      "id": "white-nights-sap-green-716",
       "brandId": "white-nights",
       "name": "Sap Green",
       "pigmentCodes": [
@@ -3496,7 +3496,7 @@
       "swatchImage": "/uploads/white-nights/WH-sap-green.png"
     },
     {
-      "id": "wn-717",
+      "id": "white-nights-green-light-717",
       "brandId": "white-nights",
       "name": "Green Light",
       "pigmentCodes": [
@@ -3520,7 +3520,7 @@
       "swatchImage": "/uploads/white-nights/WH-green-light.png"
     },
     {
-      "id": "wn-718",
+      "id": "white-nights-yellowish-green-718",
       "brandId": "white-nights",
       "name": "Yellowish Green",
       "pigmentCodes": [
@@ -3545,7 +3545,7 @@
       "swatchImage": "/uploads/white-nights/WH-yellowish-green.png"
     },
     {
-      "id": "wn-719",
+      "id": "white-nights-green-original-719",
       "brandId": "white-nights",
       "name": "Green Original",
       "pigmentCodes": [
@@ -3570,7 +3570,7 @@
       "swatchImage": "/uploads/white-nights/WH-green-original.png"
     },
     {
-      "id": "wn-725",
+      "id": "white-nights-green-725",
       "brandId": "white-nights",
       "name": "Green",
       "pigmentCodes": [
@@ -3594,7 +3594,7 @@
       "swatchImage": "/uploads/white-nights/WH-green.png"
     },
     {
-      "id": "wn-727",
+      "id": "white-nights-olive-green-727",
       "brandId": "white-nights",
       "name": "Olive Green",
       "pigmentCodes": [
@@ -3620,7 +3620,7 @@
       "swatchImage": "/uploads/white-nights/WH-olive-green.png"
     },
     {
-      "id": "wn-727",
+      "id": "white-nights-olive-green-727-v2",
       "brandId": "white-nights",
       "name": "Olive Green",
       "pigmentCodes": [
@@ -3646,7 +3646,7 @@
       "swatchImage": "/uploads/white-nights/WH-olive-green.png"
     },
     {
-      "id": "wn-730",
+      "id": "white-nights-green-earth-730",
       "brandId": "white-nights",
       "name": "Green Earth",
       "pigmentCodes": [
@@ -3671,7 +3671,7 @@
       "swatchImage": "/uploads/white-nights/WH-green-earth.png"
     },
     {
-      "id": "wn-735",
+      "id": "white-nights-mint-735",
       "brandId": "white-nights",
       "name": "Mint",
       "pigmentCodes": [
@@ -3696,7 +3696,7 @@
       "swatchImage": "/uploads/white-nights/WH-mint.png"
     },
     {
-      "id": "wn-745",
+      "id": "white-nights-may-green-745",
       "brandId": "white-nights",
       "name": "May Green",
       "pigmentCodes": [
@@ -3721,7 +3721,7 @@
       "swatchImage": "/uploads/white-nights/WH-may-green(1).png"
     },
     {
-      "id": "wn-747",
+      "id": "white-nights-warm-green-747",
       "brandId": "white-nights",
       "name": "Warm Green",
       "pigmentCodes": [
@@ -3747,7 +3747,7 @@
       "swatchImage": "/uploads/white-nights/WH-warm-green.png"
     },
     {
-      "id": "wn-760",
+      "id": "white-nights-green-shadows-760",
       "brandId": "white-nights",
       "name": "Green Shadows",
       "pigmentCodes": [
@@ -3772,7 +3772,7 @@
       "swatchImage": "/uploads/white-nights/WH-green-shadows.png"
     },
     {
-      "id": "wn-761",
+      "id": "white-nights-taiga-mist-761",
       "brandId": "white-nights",
       "name": "Taiga Mist",
       "pigmentCodes": [
@@ -3797,7 +3797,7 @@
       "swatchImage": "/uploads/white-nights/WH-taiga-mist.png"
     },
     {
-      "id": "wn-762",
+      "id": "white-nights-green-mist-762",
       "brandId": "white-nights",
       "name": "Green Mist",
       "pigmentCodes": [
@@ -3821,7 +3821,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-763",
+      "id": "white-nights-yellowis-green-mist-763",
       "brandId": "white-nights",
       "name": "Yellowis Green Mist",
       "pigmentCodes": [
@@ -3845,7 +3845,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-765",
+      "id": "white-nights-cobalt-titanate-green-765",
       "brandId": "white-nights",
       "name": "Cobalt Titanate Green",
       "pigmentCodes": [
@@ -3868,7 +3868,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-766",
+      "id": "white-nights-spinel-green-766",
       "brandId": "white-nights",
       "name": "Spinel green",
       "pigmentCodes": [
@@ -3891,7 +3891,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-776",
+      "id": "white-nights-mint-dream-776",
       "brandId": "white-nights",
       "name": "Mint Dream",
       "pigmentCodes": [
@@ -3916,7 +3916,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-777",
+      "id": "white-nights-green-dream-777",
       "brandId": "white-nights",
       "name": "Green Dream",
       "pigmentCodes": [
@@ -3941,7 +3941,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-778",
+      "id": "white-nights-forest-brume-778",
       "brandId": "white-nights",
       "name": "Forest Brume",
       "pigmentCodes": [
@@ -3966,7 +3966,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-779",
+      "id": "white-nights-green-mystery-779",
       "brandId": "white-nights",
       "name": "Green Mystery",
       "pigmentCodes": [
@@ -3991,7 +3991,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-800",
+      "id": "white-nights-mars-black-800",
       "brandId": "white-nights",
       "name": "Mars Black",
       "pigmentCodes": [
@@ -4014,7 +4014,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-801",
+      "id": "white-nights-lamp-black-801",
       "brandId": "white-nights",
       "name": "Lamp Black",
       "pigmentCodes": [
@@ -4038,7 +4038,7 @@
       "swatchImage": "/uploads/white-nights/WH-lamp-black.png"
     },
     {
-      "id": "wn-805",
+      "id": "white-nights-neutral-black-805",
       "brandId": "white-nights",
       "name": "Neutral Black",
       "pigmentCodes": [
@@ -4064,7 +4064,7 @@
       "swatchImage": "/uploads/white-nights/WH-neutral-black.png"
     },
     {
-      "id": "wn-806",
+      "id": "white-nights-voronezhskaya-black-806",
       "brandId": "white-nights",
       "name": "Voronezhskaya Black",
       "pigmentCodes": [
@@ -4088,7 +4088,7 @@
       "swatchImage": "/uploads/white-nights/WH-Voronezhskaya-Black.png"
     },
     {
-      "id": "wn-811",
+      "id": "white-nights-ivory-black-hue-811",
       "brandId": "white-nights",
       "name": "Ivory Black Hue",
       "pigmentCodes": [
@@ -4112,7 +4112,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-812",
+      "id": "white-nights-payne-s-gray-812",
       "brandId": "white-nights",
       "name": "Payne's Gray",
       "pigmentCodes": [
@@ -4137,7 +4137,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-812",
+      "id": "white-nights-payne-s-gray-812-v2",
       "brandId": "white-nights",
       "name": "Payne's Gray",
       "pigmentCodes": [
@@ -4162,7 +4162,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-812",
+      "id": "white-nights-payne-s-gray-812-v3",
       "brandId": "white-nights",
       "name": "Payne's Gray",
       "pigmentCodes": [
@@ -4187,7 +4187,7 @@
       "isDiscontinued": true
     },
     {
-      "id": "wn-818",
+      "id": "white-nights-marengo-818",
       "brandId": "white-nights",
       "name": "Marengo",
       "pigmentCodes": [
@@ -4213,7 +4213,7 @@
       "swatchImage": "/uploads/white-nights/WH-marengo.png"
     },
     {
-      "id": "wn-819",
+      "id": "white-nights-pearl-grey-819",
       "brandId": "white-nights",
       "name": "Pearl Grey",
       "pigmentCodes": [
@@ -4239,7 +4239,7 @@
       "swatchImage": "/uploads/white-nights/WH-pearl-grey.png"
     },
     {
-      "id": "wn-832",
+      "id": "white-nights-grey-pink-mist-832",
       "brandId": "white-nights",
       "name": "Grey-Pink Mist",
       "pigmentCodes": [
@@ -4264,7 +4264,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-837",
+      "id": "white-nights-spinel-grey-837",
       "brandId": "white-nights",
       "name": "Spinel Grey",
       "pigmentCodes": [
@@ -4287,7 +4287,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-838",
+      "id": "white-nights-chromium-iron-oxide-838",
       "brandId": "white-nights",
       "name": "Chromium Iron Oxide",
       "pigmentCodes": [
@@ -4310,7 +4310,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-839",
+      "id": "white-nights-perylene-green-839",
       "brandId": "white-nights",
       "name": "Perylene green",
       "pigmentCodes": [
@@ -4333,7 +4333,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-840",
+      "id": "white-nights-neutral-tint-840",
       "brandId": "white-nights",
       "name": "Neutral Tint",
       "pigmentCodes": [
@@ -4358,7 +4358,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-961",
+      "id": "white-nights-silver-light-961",
       "brandId": "white-nights",
       "name": "Silver Light",
       "pigmentCodes": [
@@ -4382,7 +4382,7 @@
       "swatchImage": "/uploads/white-nights/WH-silver-light.png"
     },
     {
-      "id": "wn-962",
+      "id": "white-nights-silver-deep-962",
       "brandId": "white-nights",
       "name": "Silver Deep",
       "pigmentCodes": [
@@ -4406,7 +4406,7 @@
       "swatchImage": "/uploads/white-nights/WH-silver-deep.png"
     },
     {
-      "id": "wn-963",
+      "id": "white-nights-bronze-963",
       "brandId": "white-nights",
       "name": "Bronze",
       "pigmentCodes": [
@@ -4430,7 +4430,7 @@
       "swatchImage": "/uploads/white-nights/WH-bronze.png"
     },
     {
-      "id": "wn-964",
+      "id": "white-nights-copper-964",
       "brandId": "white-nights",
       "name": "Copper",
       "pigmentCodes": [
@@ -4454,7 +4454,7 @@
       "swatchImage": "/uploads/white-nights/WH-copper.png"
     },
     {
-      "id": "wn-968",
+      "id": "white-nights-aztec-gold-968",
       "brandId": "white-nights",
       "name": "Aztec Gold",
       "pigmentCodes": [
@@ -4478,7 +4478,7 @@
       "swatchImage": "/uploads/white-nights/WH-aztec-gold.png"
     },
     {
-      "id": "wn-969",
+      "id": "white-nights-inca-gold-969",
       "brandId": "white-nights",
       "name": "Inca Gold",
       "pigmentCodes": [
@@ -4502,7 +4502,7 @@
       "swatchImage": "/uploads/white-nights/WH-incao-gold.png"
     },
     {
-      "id": "wn-981",
+      "id": "white-nights-antique-gold-981",
       "brandId": "white-nights",
       "name": "Antique Gold",
       "pigmentCodes": [
@@ -4526,7 +4526,7 @@
       "swatchImage": "/uploads/white-nights/WH-Anitque-gold.png"
     },
     {
-      "id": "wn-982",
+      "id": "white-nights-gold-flare-982",
       "brandId": "white-nights",
       "name": "Gold Flare",
       "pigmentCodes": [
@@ -4549,7 +4549,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-983",
+      "id": "white-nights-silver-flare-983",
       "brandId": "white-nights",
       "name": "Silver Flare",
       "pigmentCodes": [
@@ -4572,7 +4572,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-984",
+      "id": "white-nights-yellow-green-shimmer-984",
       "brandId": "white-nights",
       "name": "Yellow-green shimmer",
       "pigmentCodes": [
@@ -4599,7 +4599,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-985",
+      "id": "white-nights-green-shimmer-985",
       "brandId": "white-nights",
       "name": "Green Shimmer",
       "pigmentCodes": [
@@ -4623,7 +4623,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-986",
+      "id": "white-nights-lemon-shimmer-986",
       "brandId": "white-nights",
       "name": "Lemon shimmer",
       "pigmentCodes": [
@@ -4649,7 +4649,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-987",
+      "id": "white-nights-orange-shimmer-987",
       "brandId": "white-nights",
       "name": "Orange shimmer",
       "pigmentCodes": [
@@ -4675,7 +4675,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-988",
+      "id": "white-nights-rose-red-shimmer-988",
       "brandId": "white-nights",
       "name": "Rose-red shimmer",
       "pigmentCodes": [
@@ -4701,7 +4701,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-989",
+      "id": "white-nights-blue-shimmer-989",
       "brandId": "white-nights",
       "name": "Blue shimmer",
       "pigmentCodes": [
@@ -4727,7 +4727,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-990",
+      "id": "white-nights-lilac-shimmer-990",
       "brandId": "white-nights",
       "name": "Lilac shimmer",
       "pigmentCodes": [
@@ -4753,7 +4753,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-991",
+      "id": "white-nights-green-glow-991",
       "brandId": "white-nights",
       "name": "Green Glow",
       "pigmentCodes": [
@@ -4777,7 +4777,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-992",
+      "id": "white-nights-golden-glow-992",
       "brandId": "white-nights",
       "name": "Golden Glow",
       "pigmentCodes": [
@@ -4801,7 +4801,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-993",
+      "id": "white-nights-brown-glow-993",
       "brandId": "white-nights",
       "name": "Brown Glow",
       "pigmentCodes": [
@@ -4825,7 +4825,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-994",
+      "id": "white-nights-red-glow-994",
       "brandId": "white-nights",
       "name": "Red Glow",
       "pigmentCodes": [
@@ -4849,7 +4849,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-995",
+      "id": "white-nights-blue-glow-995",
       "brandId": "white-nights",
       "name": "Blue Glow",
       "pigmentCodes": [
@@ -4873,7 +4873,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-996",
+      "id": "white-nights-violet-glow-996",
       "brandId": "white-nights",
       "name": "Violet Glow",
       "pigmentCodes": [
@@ -4897,7 +4897,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-997",
+      "id": "white-nights-turquoise-rose-shine-997",
       "brandId": "white-nights",
       "name": "Turquoise-Rose Shine",
       "pigmentCodes": [
@@ -4921,7 +4921,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-998",
+      "id": "white-nights-gold-shine-998",
       "brandId": "white-nights",
       "name": "Gold Shine",
       "pigmentCodes": [
@@ -4945,7 +4945,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-999",
+      "id": "white-nights-green-shine-999",
       "brandId": "white-nights",
       "name": "Green Shine",
       "pigmentCodes": [
@@ -4969,7 +4969,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1000",
+      "id": "white-nights-carmine-shine-1000",
       "brandId": "white-nights",
       "name": "Carmine Shine",
       "pigmentCodes": [
@@ -4993,7 +4993,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1001",
+      "id": "white-nights-creamy-pink-shine-1001",
       "brandId": "white-nights",
       "name": "Creamy-Pink Shine",
       "pigmentCodes": [
@@ -5017,7 +5017,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1002",
+      "id": "white-nights-rose-violet-shine-1002",
       "brandId": "white-nights",
       "name": "Rose-Violet Shine",
       "pigmentCodes": [
@@ -5041,7 +5041,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1003",
+      "id": "white-nights-blue-shine-1003",
       "brandId": "white-nights",
       "name": "Blue Shine",
       "pigmentCodes": [
@@ -5065,7 +5065,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1004",
+      "id": "white-nights-grey-violet-shine-1004",
       "brandId": "white-nights",
       "name": "Grey-Violet Shine",
       "pigmentCodes": [
@@ -5089,7 +5089,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-1005",
+      "id": "white-nights-violet-shine-1005",
       "brandId": "white-nights",
       "name": "Violet Shine",
       "pigmentCodes": [
@@ -5113,7 +5113,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-3001",
+      "id": "white-nights-evening-brume-3001",
       "brandId": "white-nights",
       "name": "Evening Brume",
       "pigmentCodes": [
@@ -5138,7 +5138,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-3002",
+      "id": "white-nights-rose-dream-3002",
       "brandId": "white-nights",
       "name": "Rose Dream",
       "pigmentCodes": [
@@ -5162,7 +5162,7 @@
       "isDiscontinued": false
     },
     {
-      "id": "wn-3003",
+      "id": "white-nights-red-mystery-3003",
       "brandId": "white-nights",
       "name": "Red Mystery",
       "pigmentCodes": [
@@ -6940,7 +6940,7 @@
       "swatchImage": "/uploads/winsor-newton/WN-Titanium-White.png"
     },
     {
-      "id": "wnc-lemon-yellow-hue",
+      "id": "wn-cotman-lemon-yellow-hue",
       "brandId": "wn-cotman",
       "name": "Lemon Yellow Hue",
       "pigmentCodes": [
@@ -6955,7 +6955,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cadmium-yellow-pale-hue",
+      "id": "wn-cotman-cadmium-yellow-pale-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Yellow Pale Hue",
       "pigmentCodes": [
@@ -6972,7 +6972,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-yellow-pale-hue.png"
     },
     {
-      "id": "wnc-gamboge-hue",
+      "id": "wn-cotman-gamboge-hue",
       "brandId": "wn-cotman",
       "name": "Gamboge Hue",
       "pigmentCodes": [
@@ -6988,7 +6988,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cadmium-yellow-hue",
+      "id": "wn-cotman-cadmium-yellow-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Yellow Hue",
       "pigmentCodes": [
@@ -7004,7 +7004,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cadmium-orange-hue",
+      "id": "wn-cotman-cadmium-orange-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Orange Hue",
       "pigmentCodes": [
@@ -7020,7 +7020,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cadmium-red-pale-hue",
+      "id": "wn-cotman-cadmium-red-pale-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Red Pale Hue",
       "pigmentCodes": [
@@ -7037,7 +7037,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-red-pale-hue.png"
     },
     {
-      "id": "wnc-cadmium-red-hue",
+      "id": "wn-cotman-cadmium-red-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Red Hue",
       "pigmentCodes": [
@@ -7054,7 +7054,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-cadmium-red-hue.png"
     },
     {
-      "id": "wnc-cadmium-red-deep-hue",
+      "id": "wn-cotman-cadmium-red-deep-hue",
       "brandId": "wn-cotman",
       "name": "Cadmium Red Deep Hue",
       "pigmentCodes": [
@@ -7070,7 +7070,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-alizarin-crimson-hue",
+      "id": "wn-cotman-alizarin-crimson-hue",
       "brandId": "wn-cotman",
       "name": "Alizarin Crimson Hue",
       "pigmentCodes": [
@@ -7085,7 +7085,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-permanent-rose",
+      "id": "wn-cotman-permanent-rose",
       "brandId": "wn-cotman",
       "name": "Permanent Rose",
       "pigmentCodes": [
@@ -7101,7 +7101,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-permanent-rose.png"
     },
     {
-      "id": "wnc-rose-madder-hue",
+      "id": "wn-cotman-rose-madder-hue",
       "brandId": "wn-cotman",
       "name": "Rose Madder Hue",
       "pigmentCodes": [
@@ -7117,7 +7117,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-rose-madder-hue.png"
     },
     {
-      "id": "wnc-purple-lake",
+      "id": "wn-cotman-purple-lake",
       "brandId": "wn-cotman",
       "name": "Purple Lake",
       "pigmentCodes": [
@@ -7133,7 +7133,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-purple-lake.png"
     },
     {
-      "id": "wnc-mauve",
+      "id": "wn-cotman-mauve",
       "brandId": "wn-cotman",
       "name": "Mauve",
       "pigmentCodes": [
@@ -7149,7 +7149,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-dioxazine-violet",
+      "id": "wn-cotman-dioxazine-violet",
       "brandId": "wn-cotman",
       "name": "Dioxazine Violet",
       "pigmentCodes": [
@@ -7164,7 +7164,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-ultramarine",
+      "id": "wn-cotman-ultramarine",
       "brandId": "wn-cotman",
       "name": "Ultramarine",
       "pigmentCodes": [
@@ -7179,7 +7179,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cobalt-blue-hue",
+      "id": "wn-cotman-cobalt-blue-hue",
       "brandId": "wn-cotman",
       "name": "Cobalt Blue Hue",
       "pigmentCodes": [
@@ -7195,7 +7195,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-cerulean-blue-hue",
+      "id": "wn-cotman-cerulean-blue-hue",
       "brandId": "wn-cotman",
       "name": "Cerulean Blue Hue",
       "pigmentCodes": [
@@ -7211,7 +7211,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-cerulean-blue-hue.png"
     },
     {
-      "id": "wnc-turquoise",
+      "id": "wn-cotman-turquoise",
       "brandId": "wn-cotman",
       "name": "Turquoise",
       "pigmentCodes": [
@@ -7228,7 +7228,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-turquoise.png"
     },
     {
-      "id": "wnc-intense-blue-phthalo-blue",
+      "id": "wn-cotman-intense-blue-phthalo-blue",
       "brandId": "wn-cotman",
       "name": "Intense Blue (Phthalo Blue)",
       "pigmentCodes": [
@@ -7244,7 +7244,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-intense-blue-phthalo-blue.png"
     },
     {
-      "id": "wnc-prussian-blue",
+      "id": "wn-cotman-prussian-blue",
       "brandId": "wn-cotman",
       "name": "Prussian Blue",
       "pigmentCodes": [
@@ -7259,7 +7259,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-intense-green-phthalo-green",
+      "id": "wn-cotman-intense-green-phthalo-green",
       "brandId": "wn-cotman",
       "name": "Intense Green (Phthalo Green)",
       "pigmentCodes": [
@@ -7275,7 +7275,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-intense-green-phthalo-green.png"
     },
     {
-      "id": "wnc-viridian-hue",
+      "id": "wn-cotman-viridian-hue",
       "brandId": "wn-cotman",
       "name": "Viridian Hue",
       "pigmentCodes": [
@@ -7291,7 +7291,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-viridian-hue.png"
     },
     {
-      "id": "wnc-emerald",
+      "id": "wn-cotman-emerald",
       "brandId": "wn-cotman",
       "name": "Emerald",
       "pigmentCodes": [
@@ -7308,7 +7308,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-emerald.png"
     },
     {
-      "id": "wnc-hooker-s-green-dark",
+      "id": "wn-cotman-hooker-s-green-dark",
       "brandId": "wn-cotman",
       "name": "Hooker\u2019s Green Dark",
       "pigmentCodes": [
@@ -7326,7 +7326,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-hookers-green-dark.png"
     },
     {
-      "id": "wnc-hooker-s-green-light",
+      "id": "wn-cotman-hooker-s-green-light",
       "brandId": "wn-cotman",
       "name": "Hooker\u2019s Green Light",
       "pigmentCodes": [
@@ -7344,7 +7344,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-hookers-green-light.png"
     },
     {
-      "id": "wnc-sap-green",
+      "id": "wn-cotman-sap-green",
       "brandId": "wn-cotman",
       "name": "Sap Green",
       "pigmentCodes": [
@@ -7362,7 +7362,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-sap-green.png"
     },
     {
-      "id": "wnc-raw-sienna",
+      "id": "wn-cotman-raw-sienna",
       "brandId": "wn-cotman",
       "name": "Raw Sienna",
       "pigmentCodes": [
@@ -7378,7 +7378,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-yellow-ochre",
+      "id": "wn-cotman-yellow-ochre",
       "brandId": "wn-cotman",
       "name": "Yellow Ochre",
       "pigmentCodes": [
@@ -7394,7 +7394,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-yellow-ochre.png"
     },
     {
-      "id": "wnc-raw-umber",
+      "id": "wn-cotman-raw-umber",
       "brandId": "wn-cotman",
       "name": "Raw Umber",
       "pigmentCodes": [
@@ -7411,7 +7411,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-Raw-umber.png"
     },
     {
-      "id": "wnc-burnt-sienna",
+      "id": "wn-cotman-burnt-sienna",
       "brandId": "wn-cotman",
       "name": "Burnt Sienna",
       "pigmentCodes": [
@@ -7427,7 +7427,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-burnt-sienna.png"
     },
     {
-      "id": "wnc-light-red",
+      "id": "wn-cotman-light-red",
       "brandId": "wn-cotman",
       "name": "Light Red",
       "pigmentCodes": [
@@ -7443,7 +7443,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-light-red.png"
     },
     {
-      "id": "wnc-indian-red",
+      "id": "wn-cotman-indian-red",
       "brandId": "wn-cotman",
       "name": "Indian Red",
       "pigmentCodes": [
@@ -7459,7 +7459,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-Indian-red.png"
     },
     {
-      "id": "wnc-burnt-umber",
+      "id": "wn-cotman-burnt-umber",
       "brandId": "wn-cotman",
       "name": "Burnt Umber",
       "pigmentCodes": [
@@ -7476,7 +7476,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-burnt-umber.png"
     },
     {
-      "id": "wnc-vandyke-brown",
+      "id": "wn-cotman-vandyke-brown",
       "brandId": "wn-cotman",
       "name": "Vandyke Brown",
       "pigmentCodes": [
@@ -7493,7 +7493,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-vandyke-brown.png"
     },
     {
-      "id": "wnc-sepia",
+      "id": "wn-cotman-sepia",
       "brandId": "wn-cotman",
       "name": "Sepia",
       "pigmentCodes": [
@@ -7510,7 +7510,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-sepia.png"
     },
     {
-      "id": "wnc-indigo",
+      "id": "wn-cotman-indigo",
       "brandId": "wn-cotman",
       "name": "Indigo",
       "pigmentCodes": [
@@ -7528,7 +7528,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-indigo.png"
     },
     {
-      "id": "wnc-payne-s-gray",
+      "id": "wn-cotman-payne-s-gray",
       "brandId": "wn-cotman",
       "name": "Payne\u2019s Gray",
       "pigmentCodes": [
@@ -7545,7 +7545,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-ivory-black",
+      "id": "wn-cotman-ivory-black",
       "brandId": "wn-cotman",
       "name": "Ivory Black",
       "pigmentCodes": [
@@ -7561,7 +7561,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-ivory-black.png"
     },
     {
-      "id": "wnc-lamp-black",
+      "id": "wn-cotman-lamp-black",
       "brandId": "wn-cotman",
       "name": "Lamp Black",
       "pigmentCodes": [
@@ -7577,7 +7577,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-lamp-black.png"
     },
     {
-      "id": "wnc-chinese-white",
+      "id": "wn-cotman-chinese-white",
       "brandId": "wn-cotman",
       "name": "Chinese White",
       "pigmentCodes": [
@@ -7593,7 +7593,7 @@
       "swatchImage": "/uploads/winsor-newton-cotman/COT-chinese-white.png"
     },
     {
-      "id": "wnc-iridescent-blue",
+      "id": "wn-cotman-iridescent-blue",
       "brandId": "wn-cotman",
       "name": "Iridescent Blue",
       "pigmentCodes": [
@@ -7609,7 +7609,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-yellow-gold",
+      "id": "wn-cotman-yellow-gold",
       "brandId": "wn-cotman",
       "name": "Yellow Gold",
       "pigmentCodes": [
@@ -7624,7 +7624,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-bronze",
+      "id": "wn-cotman-bronze",
       "brandId": "wn-cotman",
       "name": "Bronze",
       "pigmentCodes": [
@@ -7639,7 +7639,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-red-copper",
+      "id": "wn-cotman-red-copper",
       "brandId": "wn-cotman",
       "name": "Red Copper",
       "pigmentCodes": [
@@ -7654,7 +7654,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-silver",
+      "id": "wn-cotman-silver",
       "brandId": "wn-cotman",
       "name": "Silver",
       "pigmentCodes": [
@@ -7670,7 +7670,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-pewter",
+      "id": "wn-cotman-pewter",
       "brandId": "wn-cotman",
       "name": "Pewter",
       "pigmentCodes": [
@@ -7685,7 +7685,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-iridescent-black",
+      "id": "wn-cotman-iridescent-black",
       "brandId": "wn-cotman",
       "name": "Iridescent Black",
       "pigmentCodes": [
@@ -7700,7 +7700,7 @@
       "performance": "Student"
     },
     {
-      "id": "wnc-iridescent-white",
+      "id": "wn-cotman-iridescent-white",
       "brandId": "wn-cotman",
       "name": "Iridescent White",
       "pigmentCodes": [
@@ -8745,7 +8745,7 @@
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Purple.png"
     },
     {
-      "id": "ds-ultramarine-violet",
+      "id": "ds-ultramarine-violet-v2",
       "brandId": "ds",
       "name": "Ultramarine Violet",
       "pigmentCodes": [
