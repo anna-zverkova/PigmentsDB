@@ -1,4 +1,11 @@
 import { defineConfig, LocalAuthProvider } from "tinacms";
+import brandsContent from "../content/brands.json";
+
+const brandNameById = new Map(
+  (brandsContent as { items: { id: string; name: string }[] }).items.map(
+    (b) => [b.id, b.name]
+  )
+);
 
 export default defineConfig({
   // Route CMS GraphQL through the Vite dev server so the admin can reach it
@@ -178,6 +185,11 @@ export default defineConfig({
             name: "items",
             label: "Brands",
             list: true,
+            ui: {
+              itemProps: (item) => ({
+                label: item?.name || "Brand Item",
+              }),
+            },
             fields: [
               {
                 type: "string",
@@ -241,6 +253,11 @@ export default defineConfig({
             name: "items",
             label: "Pigments",
             list: true,
+            ui: {
+              itemProps: (item) => ({
+                label: item?.code || "Pigment Item",
+              }),
+            },
             fields: [
               {
                 type: "string",
@@ -304,6 +321,18 @@ export default defineConfig({
             name: "items",
             label: "Paints",
             list: true,
+            ui: {
+              itemProps: (item) => {
+                const brandName = item?.brandId
+                  ? brandNameById.get(item.brandId) || item.brandId
+                  : "Unknown Brand";
+                const number = item?.paintNumber ? ` #${item.paintNumber}` : "";
+                const name = item?.name ? ` — ${item.name}` : "";
+                return {
+                  label: `${brandName}${name}${number}`.trim(),
+                };
+              },
+            },
             fields: [
               {
                 type: "string",
