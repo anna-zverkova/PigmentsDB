@@ -3,28 +3,6 @@
   "intro": "Browse paints by brand, pigment code, and performance characteristics.",
   "items": [
     {
-      "id": "holbein-ultramarine-deep-w094",
-      "brandId": "holbein",
-      "name": "Ultramarine Deep",
-      "pigmentCodes": [
-        "PB29"
-      ],
-      "hex": "#202090",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "Low",
-      "lightfastness": "**",
-      "isVegan": false,
-      "paintNumber": "W094",
-      "series": "A",
-      "stainingVsLifting": "Non-staining",
-      "flow": "High",
-      "tintingStrength": "Medium",
-      "performance": "Professional",
-      "toxicity": "None",
-      "collection": "Artists Watercolor"
-    },
-    {
       "id": "schmincke-transparent-yellow-14209",
       "brandId": "schmincke",
       "name": "Transparent Yellow",
@@ -10602,6 +10580,1821 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Titanium-White.png"
+    },
+    {
+      "id": "holbein-crimson-lake",
+      "brandId": "holbein",
+      "name": "Crimson Lake",
+      "pigmentCodes": [
+        "PR177",
+        "PR122",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Crimson-Lake.png"
+    },
+    {
+      "id": "holbein-permanent-alizarin-crimson",
+      "brandId": "holbein",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PV19",
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Alizarin-Crimson.png"
+    },
+    {
+      "id": "holbein-carmine",
+      "brandId": "holbein",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Carmine.png"
+    },
+    {
+      "id": "holbein-rose-madder-permanent",
+      "brandId": "holbein",
+      "name": "Rose Madder (Permanent)",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Rose-Madder.png"
+    },
+    {
+      "id": "holbein-quinacridone-red",
+      "brandId": "holbein",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Quinacridone-Red.png"
+    },
+    {
+      "id": "holbein-pyrrol-rubin",
+      "brandId": "holbein",
+      "name": "Pyrrol Rubin",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Pyrrole-Rubin.png"
+    },
+    {
+      "id": "holbein-perylene-maroon",
+      "brandId": "holbein",
+      "name": "Perylene Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Perylene-Maroon.png"
+    },
+    {
+      "id": "holbein-pyrrol-red",
+      "brandId": "holbein",
+      "name": "Pyrrol Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Pyrrol-Red.png"
+    },
+    {
+      "id": "holbein-quinacridone-scarlet",
+      "brandId": "holbein",
+      "name": "Quinacridone Scarlet",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Quinacridone-Scarlet.png"
+    },
+    {
+      "id": "holbein-scarlet-lake",
+      "brandId": "holbein",
+      "name": "Scarlet Lake",
+      "pigmentCodes": [
+        "PO73",
+        "PR254",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Scarlet-Lake.png"
+    },
+    {
+      "id": "holbein-opera",
+      "brandId": "holbein",
+      "name": "Opera",
+      "pigmentCodes": [
+        "BV10",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Opera.png"
+    },
+    {
+      "id": "holbein-brilliant-pink",
+      "brandId": "holbein",
+      "name": "Brilliant Pink",
+      "pigmentCodes": [
+        "PR209",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Brilliant-Pink.png"
+    },
+    {
+      "id": "holbein-shell-pink",
+      "brandId": "holbein",
+      "name": "Shell Pink",
+      "pigmentCodes": [
+        "PO73",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Shell-Pink.png"
+    },
+    {
+      "id": "holbein-cadmium-red-purple",
+      "brandId": "holbein",
+      "name": "Cadmium Red Purple",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Red-Purple.png"
+    },
+    {
+      "id": "holbein-cadmium-red-deep",
+      "brandId": "holbein",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Red-Deep.png"
+    },
+    {
+      "id": "holbein-cadmium-red-light",
+      "brandId": "holbein",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PO20",
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Red-Light.png"
+    },
+    {
+      "id": "holbein-vermilion",
+      "brandId": "holbein",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PO20",
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Vermilion.png"
+    },
+    {
+      "id": "holbein-vermilion-hue",
+      "brandId": "holbein",
+      "name": "Vermilion Hue",
+      "pigmentCodes": [
+        "PO73",
+        "PR254",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Vermilion-Hue.png"
+    },
+    {
+      "id": "holbein-cadmium-red-orange",
+      "brandId": "holbein",
+      "name": "Cadmium Red Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-cadmium-red-orange.png"
+    },
+    {
+      "id": "holbein-brilliant-orange",
+      "brandId": "holbein",
+      "name": "Brilliant Orange",
+      "pigmentCodes": [
+        "PO73",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Brilliant-Orange.png"
+    },
+    {
+      "id": "holbein-permanent-yellow-orange",
+      "brandId": "holbein",
+      "name": "Permanent Yellow Orange",
+      "pigmentCodes": [
+        "PY74",
+        "PY83",
+        "PO73"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Orange.png"
+    },
+    {
+      "id": "holbein-cadmium-yellow-orange",
+      "brandId": "holbein",
+      "name": "Cadmium Yellow Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Orange.png"
+    },
+    {
+      "id": "holbein-cadmium-yellow-deep",
+      "brandId": "holbein",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Deep.png"
+    },
+    {
+      "id": "holbein-cadmium-yellow-light",
+      "brandId": "holbein",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Light.png"
+    },
+    {
+      "id": "holbein-cadmium-yellow-pale",
+      "brandId": "holbein",
+      "name": "Cadmium Yellow Pale",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-cadmium-yellow-pale.png"
+    },
+    {
+      "id": "holbein-cadmium-yellow-lemon",
+      "brandId": "holbein",
+      "name": "Cadmium Yellow Lemon",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Lemon.png"
+    },
+    {
+      "id": "holbein-imidazolone-lemon",
+      "brandId": "holbein",
+      "name": "Imidazolone Lemon",
+      "pigmentCodes": [
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Imidazolone-Lemon.png"
+    },
+    {
+      "id": "holbein-imidazolone-yellow",
+      "brandId": "holbein",
+      "name": "Imidazolone Yellow",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Imidazolone-Yellow.png"
+    },
+    {
+      "id": "holbein-gamboge-nova",
+      "brandId": "holbein",
+      "name": "Gamboge Nova",
+      "pigmentCodes": [
+        "PY154",
+        "PY150",
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Gamboge-Nova.png"
+    },
+    {
+      "id": "holbein-isoiondolinone-yellow-deep",
+      "brandId": "holbein",
+      "name": "Isoiondolinone Yellow Deep",
+      "pigmentCodes": [
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Isoindoline-Yellow-Deep.png"
+    },
+    {
+      "id": "holbein-quinacridone-gold",
+      "brandId": "holbein",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Quinacridone-Gold.png"
+    },
+    {
+      "id": "holbein-permanent-yellow-deep",
+      "brandId": "holbein",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY74",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Deep.png"
+    },
+    {
+      "id": "holbein-permanent-yellow-light",
+      "brandId": "holbein",
+      "name": "Permanent Yellow Light",
+      "pigmentCodes": [
+        "PY74",
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Light.png"
+    },
+    {
+      "id": "holbein-aureolin",
+      "brandId": "holbein",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY154",
+        "PY175",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Aureolin.png"
+    },
+    {
+      "id": "holbein-permanent-yellow-lemon",
+      "brandId": "holbein",
+      "name": "Permanent Yellow Lemon",
+      "pigmentCodes": [
+        "PY3",
+        "PY74"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Lemon.png"
+    },
+    {
+      "id": "holbein-lemon-yellow",
+      "brandId": "holbein",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Lemon-Yellow.png"
+    },
+    {
+      "id": "holbein-naples-yellow",
+      "brandId": "holbein",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PY35",
+        "PY42",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Naples-Yellow.png"
+    },
+    {
+      "id": "holbein-jaune-brilliant-no-1",
+      "brandId": "holbein",
+      "name": "Jaune Brilliant No. 1",
+      "pigmentCodes": [
+        "PO20",
+        "PY35",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Jaun-Brilliant-1.png"
+    },
+    {
+      "id": "holbein-jaune-brilliant-no-2",
+      "brandId": "holbein",
+      "name": "Jaune Brilliant No. 2",
+      "pigmentCodes": [
+        "PO20",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Jaun-Brilliant-2.png"
+    },
+    {
+      "id": "holbein-greenish-yellow",
+      "brandId": "holbein",
+      "name": "Greenish Yellow",
+      "pigmentCodes": [
+        "PY150",
+        "PG7",
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Greenish-Yellow.png"
+    },
+    {
+      "id": "holbein-olive-green",
+      "brandId": "holbein",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PY150",
+        "PG7",
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Olive-Green.png"
+    },
+    {
+      "id": "holbein-leaf-green",
+      "brandId": "holbein",
+      "name": "Leaf Green",
+      "pigmentCodes": [
+        "PY154",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Leaf-Green.png"
+    },
+    {
+      "id": "holbein-permanent-green-no-1",
+      "brandId": "holbein",
+      "name": "Permanent Green No. 1",
+      "pigmentCodes": [
+        "PY3",
+        "PY53",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Green-1.png"
+    },
+    {
+      "id": "holbein-permanent-green-no-2",
+      "brandId": "holbein",
+      "name": "Permanent Green No. 2",
+      "pigmentCodes": [
+        "PY74",
+        "PY53",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Green-2.png"
+    },
+    {
+      "id": "holbein-cadmium-green-deep",
+      "brandId": "holbein",
+      "name": "Cadmium Green Deep",
+      "pigmentCodes": [
+        "PY35",
+        "PG7",
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Green-Deep.png"
+    },
+    {
+      "id": "holbein-cadmium-green-pale",
+      "brandId": "holbein",
+      "name": "Cadmium Green Pale",
+      "pigmentCodes": [
+        "PY35",
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cadmium-Green-Pale.png"
+    },
+    {
+      "id": "holbein-hooker-s-green",
+      "brandId": "holbein",
+      "name": "Hooker\u2019s Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY110",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Hookers-Green.png"
+    },
+    {
+      "id": "holbein-bamboo-green",
+      "brandId": "holbein",
+      "name": "Bamboo Green",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Bamboo-Green.png"
+    },
+    {
+      "id": "holbein-cobalt-green",
+      "brandId": "holbein",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG18",
+        "PB28",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cobalt-Green.png"
+    },
+    {
+      "id": "holbein-viridian",
+      "brandId": "holbein",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Viridian.png"
+    },
+    {
+      "id": "holbein-viridian-hue",
+      "brandId": "holbein",
+      "name": "Viridian Hue",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Viridian-Hue.png"
+    },
+    {
+      "id": "holbein-emerald-green-nova",
+      "brandId": "holbein",
+      "name": "Emerald Green Nova",
+      "pigmentCodes": [
+        "PY3",
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Emerald-Green-nova.png"
+    },
+    {
+      "id": "holbein-compose-green",
+      "brandId": "holbein",
+      "name": "Compose Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Compose-Green.png"
+    },
+    {
+      "id": "holbein-sap-green",
+      "brandId": "holbein",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PY150",
+        "PG7",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Sap-Green.png"
+    },
+    {
+      "id": "holbein-terre-verte",
+      "brandId": "holbein",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PG23",
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Terre-Verte.png"
+    },
+    {
+      "id": "holbein-green-grey",
+      "brandId": "holbein",
+      "name": "Green Grey",
+      "pigmentCodes": [
+        "PG17",
+        "PG23",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Green-Grey.png"
+    },
+    {
+      "id": "holbein-shadow-green",
+      "brandId": "holbein",
+      "name": "Shadow Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Shadow-Green.png"
+    },
+    {
+      "id": "holbein-phthalo-blue-rs",
+      "brandId": "holbein",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Phthalo-Blue-RS.png"
+    },
+    {
+      "id": "holbein-phthalo-blue-ys",
+      "brandId": "holbein",
+      "name": "Phthalo Blue (YS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Phthalo-Blue-YS.png"
+    },
+    {
+      "id": "holbein-marine-blue",
+      "brandId": "holbein",
+      "name": "Marine Blue",
+      "pigmentCodes": [
+        "PB16",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Marine-Blue.png"
+    },
+    {
+      "id": "holbein-turquoise-blue",
+      "brandId": "holbein",
+      "name": "Turquoise Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Turquoise-Blue.png"
+    },
+    {
+      "id": "holbein-cobalt-turquoise-light",
+      "brandId": "holbein",
+      "name": "Cobalt Turquoise Light",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cobalt-Turquoise-Light.png"
+    },
+    {
+      "id": "holbein-peacock-blue",
+      "brandId": "holbein",
+      "name": "Peacock Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Peacock-Blue.png"
+    },
+    {
+      "id": "holbein-manganese-blue-nova",
+      "brandId": "holbein",
+      "name": "Manganese Blue Nova",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-manganese-Blue-Nova.png"
+    },
+    {
+      "id": "holbein-horizon-blue",
+      "brandId": "holbein",
+      "name": "Horizon Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Horizon-Blue.png"
+    },
+    {
+      "id": "holbein-compose-blue",
+      "brandId": "holbein",
+      "name": "Compose Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Compose-Blue.png"
+    },
+    {
+      "id": "holbein-verditer-blue",
+      "brandId": "holbein",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB28",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Vertider-Blue.png"
+    },
+    {
+      "id": "holbein-cerulean-blue",
+      "brandId": "holbein",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cerulean-Blue.png"
+    },
+    {
+      "id": "holbein-cobalt-blue",
+      "brandId": "holbein",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cobalt-Blue.png"
+    },
+    {
+      "id": "holbein-cobalt-blue-hue",
+      "brandId": "holbein",
+      "name": "Cobalt Blue Hue",
+      "pigmentCodes": [
+        "PB29",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cobalt-Blue-Hue.png"
+    },
+    {
+      "id": "holbein-ultramarine-light",
+      "brandId": "holbein",
+      "name": "Ultramarine Light",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Ultramarine-Light.png"
+    },
+    {
+      "id": "holbein-ultramarine-deep",
+      "brandId": "holbein",
+      "name": "Ultramarine Deep",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Ultramarine-Deep.png"
+    },
+    {
+      "id": "holbein-prussian-blue",
+      "brandId": "holbein",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Prussian-Blue.png"
+    },
+    {
+      "id": "holbein-royal-blue",
+      "brandId": "holbein",
+      "name": "Royal Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Royal-Blue.png"
+    },
+    {
+      "id": "holbein-indigo",
+      "brandId": "holbein",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PBk11",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Indigo.png"
+    },
+    {
+      "id": "holbein-lavender",
+      "brandId": "holbein",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PV15",
+        "PB29",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-lavender.png"
+    },
+    {
+      "id": "holbein-permanent-violet",
+      "brandId": "holbein",
+      "name": "Permanent Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Permanent-Violet.png"
+    },
+    {
+      "id": "holbein-mineral-violet",
+      "brandId": "holbein",
+      "name": "Mineral Violet",
+      "pigmentCodes": [
+        "PB29",
+        "PR122",
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Mineral-Violet.png"
+    },
+    {
+      "id": "holbein-cobalt-violet-light",
+      "brandId": "holbein",
+      "name": "Cobalt Violet Light",
+      "pigmentCodes": [
+        "PV47"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Cobalt-Violet-Light.png"
+    },
+    {
+      "id": "holbein-lilac",
+      "brandId": "holbein",
+      "name": "Lilac",
+      "pigmentCodes": [
+        "PR122",
+        "PV23",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Lilac.png"
+    },
+    {
+      "id": "holbein-bright-violet",
+      "brandId": "holbein",
+      "name": "Bright Violet",
+      "pigmentCodes": [
+        "BV7",
+        "BV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Bright-Violet.png"
+    },
+    {
+      "id": "holbein-bright-rose",
+      "brandId": "holbein",
+      "name": "Bright Rose",
+      "pigmentCodes": [
+        "BV11",
+        "AB83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Bright-Rose.png"
+    },
+    {
+      "id": "holbein-quinacridone-magenta-rose-violet",
+      "brandId": "holbein",
+      "name": "Quinacridone Magenta (Rose Violet)",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Quinacridone-Magenta.png"
+    },
+    {
+      "id": "holbein-quinacridone-violet-perm-magenta",
+      "brandId": "holbein",
+      "name": "Quinacridone Violet (Perm. Magenta)",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Quinacridone-Violet.png"
+    },
+    {
+      "id": "holbein-mars-violet",
+      "brandId": "holbein",
+      "name": "Mars Violet",
+      "pigmentCodes": [
+        "PR101",
+        "PV23",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Mars-Violet.png"
+    },
+    {
+      "id": "holbein-indian-red",
+      "brandId": "holbein",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Indian-Red.png"
+    },
+    {
+      "id": "holbein-imidazolone-brown",
+      "brandId": "holbein",
+      "name": "Imidazolone Brown",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Imidazolone-Brown.png"
+    },
+    {
+      "id": "holbein-light-red",
+      "brandId": "holbein",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Light-Red.png"
+    },
+    {
+      "id": "holbein-burnt-sienna",
+      "brandId": "holbein",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Burnt-Sienna.png"
+    },
+    {
+      "id": "holbein-burnt-umber",
+      "brandId": "holbein",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Burnt-Umber.png"
+    },
+    {
+      "id": "holbein-raw-umber",
+      "brandId": "holbein",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Raw-Umber.png"
+    },
+    {
+      "id": "holbein-raw-sienna",
+      "brandId": "holbein",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Raw-Sienna.png"
+    },
+    {
+      "id": "holbein-yellow-ochre",
+      "brandId": "holbein",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Yellow-Ochre.png"
+    },
+    {
+      "id": "holbein-yellow-grey",
+      "brandId": "holbein",
+      "name": "Yellow Grey",
+      "pigmentCodes": [
+        "PY42",
+        "PBk6",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Yellow-Grey.png"
+    },
+    {
+      "id": "holbein-umber",
+      "brandId": "holbein",
+      "name": "Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Umber.png"
+    },
+    {
+      "id": "holbein-van-dyck-brown",
+      "brandId": "holbein",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "NBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Vandyke-Brown.png"
+    },
+    {
+      "id": "holbein-sepia",
+      "brandId": "holbein",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Sepia.png"
+    },
+    {
+      "id": "holbein-ivory-black",
+      "brandId": "holbein",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Ivory-Black.png"
+    },
+    {
+      "id": "holbein-lamp-black",
+      "brandId": "holbein",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Lamp-Black.png"
+    },
+    {
+      "id": "holbein-peach-black",
+      "brandId": "holbein",
+      "name": "Peach Black",
+      "pigmentCodes": [
+        "PBk1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Peach-Black.png"
+    },
+    {
+      "id": "holbein-neutral-tint",
+      "brandId": "holbein",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBk6",
+        "PB15",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Neutral-Tint.png"
+    },
+    {
+      "id": "holbein-payne-s-grey",
+      "brandId": "holbein",
+      "name": "Payne\u2019s Grey",
+      "pigmentCodes": [
+        "PBk6",
+        "PB15",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Paynes-Grey.png"
+    },
+    {
+      "id": "holbein-davy-s-grey",
+      "brandId": "holbein",
+      "name": "Davy\u2019s Grey",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk6",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Davys-Grey.png"
+    },
+    {
+      "id": "holbein-grey-of-greys",
+      "brandId": "holbein",
+      "name": "Grey of Greys",
+      "pigmentCodes": [
+        "PBk6",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Grey-of-Greys.png"
+    },
+    {
+      "id": "holbein-chinese-white",
+      "brandId": "holbein",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Chinese-White.png"
+    },
+    {
+      "id": "holbein-titanium-white",
+      "brandId": "holbein",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Titanium-White.png"
+    },
+    {
+      "id": "holbein-gold",
+      "brandId": "holbein",
+      "name": "Gold",
+      "pigmentCodes": [
+        "PW20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Gold.png"
+    },
+    {
+      "id": "holbein-silver",
+      "brandId": "holbein",
+      "name": "Silver",
+      "pigmentCodes": [
+        "PW20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/holbein/H-Silver.png"
     }
   ]
 }
