@@ -357,6 +357,11 @@ export default defineConfig({
               },
               {
                 type: "string",
+                name: "hue",
+                label: "Hue",
+              },
+              {
+                type: "string",
                 name: "hex",
                 label: "Hex",
               },

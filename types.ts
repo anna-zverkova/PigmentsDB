@@ -42,6 +42,7 @@ export interface Paint {
   brandId: string;
   name: string;
   pigmentCodes: string[];
+  hue?: string;
   hex: string;
   transparency: Transparency;
   staining: Staining;
