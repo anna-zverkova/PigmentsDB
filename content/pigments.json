@@ -29,8 +29,8 @@
     {
       "code": "PV19",
       "name": "Quinacridone Rose",
-      "family": "Violet",
-      "description": "Cool red/rose, very transparent."
+      "family": "Purple",
+      "description": "Quinacridone Violet"
     },
     {
       "code": "PG7",
@@ -803,98 +803,98 @@
     {
       "code": "PV14",
       "name": "PV14",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Cobalt Violet"
     },
     {
       "code": "PV15",
       "name": "PV15",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Ultramarine Violet"
     },
     {
       "code": "PV16",
       "name": "PV16",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Manganese Violet"
     },
     {
       "code": "PV2",
       "name": "PV2",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Triaylcarbonium Violet"
     },
     {
       "code": "PV23",
       "name": "PV23",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Dioxazine Violet"
     },
     {
       "code": "PV29",
       "name": "PV29",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Perylene Violet"
     },
     {
       "code": "PV3",
       "name": "PV3",
-      "family": "Violet",
+      "family": "Purple",
       "description": ""
     },
     {
       "code": "PV32",
       "name": "PV32",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Benzimiazolone Violet"
     },
     {
       "code": "PV37",
       "name": "PV37",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Dioxazine Violet"
     },
     {
       "code": "PV3:1",
       "name": "PV3:1",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Methyl Violet"
     },
     {
       "code": "PV42",
       "name": "PV42",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Quinacridone Violet"
     },
     {
       "code": "PV47",
       "name": "PV47",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Cobalt Lithium Violet Phosphate"
     },
     {
       "code": "PV49",
       "name": "PV49",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Cobalt Pale Violet"
     },
     {
       "code": "PV55",
       "name": "PV55",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Quinacridone Purple"
     },
     {
       "code": "PV58",
       "name": "PV58",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "MayaCrom Violet V2001F"
     },
     {
       "code": "PV62",
       "name": "PV62",
-      "family": "Violet",
-      "description": ""
+      "family": "Purple",
+      "description": "Strontium Phosphate Violet"
     },
     {
       "code": "PY1",
@@ -1171,6 +1171,60 @@
       "name": "PY97",
       "family": "Yellow",
       "description": ""
+    },
+    {
+      "code": "PW15",
+      "name": "PW15",
+      "family": "White",
+      "description": "Tin Oxide"
+    },
+    {
+      "code": "PW18",
+      "name": "PW18",
+      "family": "White",
+      "description": "Chalk"
+    },
+    {
+      "code": "PW20",
+      "name": "PW20",
+      "family": "White",
+      "description": "Mica"
+    },
+    {
+      "code": "PW25",
+      "name": "PW25",
+      "family": "White",
+      "description": "Gypsum"
+    },
+    {
+      "code": "PW4",
+      "name": "PW4",
+      "family": "White",
+      "description": "Zinc Oxide White"
+    },
+    {
+      "code": "PW5",
+      "name": "PW5",
+      "family": "White",
+      "description": "Lithopone"
+    },
+    {
+      "code": "PW6",
+      "name": "PW6",
+      "family": "White",
+      "description": "Titanium White"
+    },
+    {
+      "code": "PW6:1",
+      "name": "PW6:1",
+      "family": "White",
+      "description": "Titanium White Buff"
+    },
+    {
+      "code": "PW7",
+      "name": "PW7",
+      "family": "White",
+      "description": "Zinc Sulphide White"
     }
   ]
 }
