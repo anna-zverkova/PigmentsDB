@@ -32,11 +32,18 @@ export const Brands: React.FC = () => {
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
                 {activeBrands.map((brand) => {
                     const isActive = brandHasPaints.has(brand.id);
-                    const tintClass = brand.status === 'Student'
+                    const isStudent = brand.status === 'Student';
+                    const tintClass = isStudent
                         ? 'bg-amber-50/70 border-amber-100'
                         : 'bg-emerald-50/70 border-emerald-100';
+                    const tintStyle = {
+                        backgroundColor: isStudent ? 'rgba(254, 243, 199, 0.7)' : 'rgba(209, 250, 229, 0.7)'
+                    } as React.CSSProperties;
                     const card = (
-                        <Card className={`h-full p-6 flex flex-col items-center text-center transition-all duration-300 border-neutral-200 ${isActive ? 'hover:shadow-lg hover:border-brand' : 'opacity-50'} ${tintClass}`}>
+                        <Card
+                            className={`h-full p-6 flex flex-col items-center text-center transition-all duration-300 border-neutral-200 ${isActive ? 'hover:shadow-lg hover:border-brand' : 'opacity-50'} ${tintClass}`}
+                            style={tintStyle}
+                        >
                             {/* Logo Placeholder */}
                             <div className={`w-20 h-20 mb-4 rounded-full bg-neutral-100 flex items-center justify-center text-xl font-bold text-neutral-400 transition-colors duration-300 border-4 border-white shadow-sm ${isActive ? 'group-hover:bg-brand group-hover:text-white' : ''}`}>
                                 {brand.logo}
