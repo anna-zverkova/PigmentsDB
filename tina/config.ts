@@ -216,6 +216,12 @@ export default defineConfig({
                 name: "website",
                 label: "Website",
               },
+              {
+                type: "string",
+                name: "status",
+                label: "Status",
+                options: ["Professional", "Student"],
+              },
             ],
           },
         ],

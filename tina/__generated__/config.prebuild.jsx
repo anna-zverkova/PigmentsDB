@@ -67,7 +67,8 @@ var brands_default = {
       logo: "DS",
       description: "",
       website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      country: "USA \u{1F1FA}\u{1F1F8}",
+      status: "Professional"
     },
     {
       id: "grumbacher-finest",
@@ -91,7 +92,8 @@ var brands_default = {
       logo: "H",
       description: "",
       website: "#",
-      country: "Japan \u{1F1EF}\u{1F1F5}"
+      country: "Japan \u{1F1EF}\u{1F1F5}",
+      status: "Professional"
     },
     {
       id: "isaro",
@@ -219,7 +221,8 @@ var brands_default = {
       logo: "S",
       description: "",
       website: "#",
-      country: "Germany \u{1F1E9}\u{1F1EA}"
+      country: "Germany \u{1F1E9}\u{1F1EA}",
+      status: "Professional"
     },
     {
       id: "sennelier",
@@ -275,15 +278,17 @@ var brands_default = {
       logo: "WN",
       description: "",
       website: "#",
-      country: "Russia \u{1F1F7}\u{1F1FA}"
+      country: "Russia \u{1F1F7}\u{1F1FA}",
+      status: "Professional"
     },
     {
       id: "wn-cotman",
-      name: "W&N Cotman",
+      name: "Winsor & Newton Cotman",
       logo: "WNC",
       description: "",
       website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      country: "UK \u{1F1EC}\u{1F1E7}",
+      status: "Student"
     },
     {
       id: "wn",
@@ -291,7 +296,8 @@ var brands_default = {
       logo: "WNP",
       description: "",
       website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      country: "UK \u{1F1EC}\u{1F1E7}",
+      status: "Professional"
     },
     {
       id: "prima",
@@ -513,6 +519,12 @@ var config_default = defineConfig({
                 type: "string",
                 name: "website",
                 label: "Website"
+              },
+              {
+                type: "string",
+                name: "status",
+                label: "Status",
+                options: ["Professional", "Student"]
               }
             ]
           }

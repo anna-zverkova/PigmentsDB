@@ -63,7 +63,8 @@
       "logo": "DS",
       "description": "",
       "website": "#",
-      "country": "USA \ud83c\uddfa\ud83c\uddf8"
+      "country": "USA \ud83c\uddfa\ud83c\uddf8",
+      "status": "Professional"
     },
     {
       "id": "grumbacher-finest",
@@ -87,7 +88,8 @@
       "logo": "H",
       "description": "",
       "website": "#",
-      "country": "Japan \ud83c\uddef\ud83c\uddf5"
+      "country": "Japan \ud83c\uddef\ud83c\uddf5",
+      "status": "Professional"
     },
     {
       "id": "isaro",
@@ -215,7 +217,8 @@
       "logo": "S",
       "description": "",
       "website": "#",
-      "country": "Germany \ud83c\udde9\ud83c\uddea"
+      "country": "Germany \ud83c\udde9\ud83c\uddea",
+      "status": "Professional"
     },
     {
       "id": "sennelier",
@@ -271,15 +274,17 @@
       "logo": "WN",
       "description": "",
       "website": "#",
-      "country": "Russia \ud83c\uddf7\ud83c\uddfa"
+      "country": "Russia \ud83c\uddf7\ud83c\uddfa",
+      "status": "Professional"
     },
     {
       "id": "wn-cotman",
-      "name": "W&N Cotman",
+      "name": "Winsor & Newton Cotman",
       "logo": "WNC",
       "description": "",
       "website": "#",
-      "country": "UK \ud83c\uddec\ud83c\udde7"
+      "country": "UK \ud83c\uddec\ud83c\udde7",
+      "status": "Student"
     },
     {
       "id": "wn",
@@ -287,7 +292,8 @@
       "logo": "WNP",
       "description": "",
       "website": "#",
-      "country": "UK \ud83c\uddec\ud83c\udde7"
+      "country": "UK \ud83c\uddec\ud83c\udde7",
+      "status": "Professional"
     },
     {
       "id": "prima",

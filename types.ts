@@ -35,6 +35,7 @@ export interface Brand {
   description: string;
   website: string;
   country?: string;
+  status?: "Professional" | "Student";
 }
 
 export interface Paint {
