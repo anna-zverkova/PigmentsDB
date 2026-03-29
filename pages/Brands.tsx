@@ -8,6 +8,8 @@ export const Brands: React.FC = () => {
     // Ensure brands are sorted alphabetically
     const sortedBrands = [...BRANDS].sort((a, b) => a.name.localeCompare(b.name));
     const brandHasPaints = new Set(PAINTS.map(p => p.brandId));
+    const activeBrands = sortedBrands.filter(b => brandHasPaints.has(b.id));
+    const comingSoonBrands = sortedBrands.filter(b => !brandHasPaints.has(b.id));
 
     return (
         <div className="container mx-auto px-4 py-12">
@@ -17,7 +19,7 @@ export const Brands: React.FC = () => {
             </p>
             
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
-                {sortedBrands.map((brand) => {
+                {activeBrands.map((brand) => {
                     const isActive = brandHasPaints.has(brand.id);
                     const card = (
                         <Card className={`h-full p-6 flex flex-col items-center text-center transition-all duration-300 border-neutral-200 ${isActive ? 'hover:shadow-lg hover:border-brand' : 'opacity-50'}`}>
@@ -45,6 +47,32 @@ export const Brands: React.FC = () => {
                     );
                 })}
             </div>
+
+            {comingSoonBrands.length > 0 && (
+                <div className="mt-12">
+                    <h2 className="text-xl font-semibold text-neutral-900 mb-6">Coming soon</h2>
+                    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-6">
+                        {comingSoonBrands.map((brand) => {
+                            const card = (
+                                <Card className="h-full p-6 flex flex-col items-center text-center border-neutral-200 opacity-50">
+                                    <div className="w-20 h-20 mb-4 rounded-full bg-neutral-100 flex items-center justify-center text-xl font-bold text-neutral-400 border-4 border-white shadow-sm">
+                                        {brand.logo}
+                                    </div>
+                                    <h3 className="text-lg font-semibold text-neutral-900">
+                                        {brand.name}
+                                    </h3>
+                                    <span className="mt-2 text-xs text-neutral-500">Coming soon</span>
+                                </Card>
+                            );
+                            return (
+                                <div key={brand.id} className="block h-full">
+                                    {card}
+                                </div>
+                            );
+                        })}
+                    </div>
+                </div>
+            )}
         </div>
     )
 }

@@ -59,7 +59,7 @@ export const PaintsSearch: React.FC = () => {
                         <Filter size={16} /> Brand
                     </h3>
                     <div className="space-y-2">
-                        {BRANDS.map(brand => (
+                        {BRANDS.filter(b => PAINTS.some(p => p.brandId === b.id)).map(brand => (
                             <label key={brand.id} className="flex items-center gap-2 text-sm cursor-pointer group">
                                 <input 
                                     type="checkbox" 
@@ -126,6 +126,7 @@ export const PaintsSearch: React.FC = () => {
                                         <h3 className="font-medium text-neutral-900 leading-tight mb-2 group-hover:text-blue-600 transition-colors">
                                             {paint.name}
                                         </h3>
+                                        <div className="text-xs text-neutral-500 mb-2">{paint.hue || '—'}</div>
                                         <div className="mt-auto flex flex-wrap gap-1">
                                             {paint.pigmentCodes.map(code => (
                                                 <Badge key={code} variant="secondary" className="text-[10px] px-1.5 py-0">
