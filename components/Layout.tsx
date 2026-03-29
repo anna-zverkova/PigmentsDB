@@ -16,9 +16,9 @@ export const Layout: React.FC = () => {
   ];
 
   const secondaryLinks = [
-    { name: 'About', path: '#' },
-    { name: 'Privacy', path: '#' },
-    { name: 'Terms', path: '#' },
+    { name: 'About', path: '/info/about' },
+    { name: 'Data', path: '/info/data' },
+    { name: 'Contact', path: '/info/contact' },
   ];
 
   return (
@@ -147,10 +147,10 @@ export const Layout: React.FC = () => {
             </ul>
           </div>
           <div>
-             <h4 className="font-semibold mb-4 text-sm">Legal</h4>
+             <h4 className="font-semibold mb-4 text-sm">Info</h4>
             <ul className="space-y-2 text-sm text-neutral-500">
-              {secondaryLinks.filter(l => l.name !== 'About').map(link => (
-                <li key={link.name}><a href={link.path} className="hover:text-neutral-900">{link.name}</a></li>
+              {secondaryLinks.map(link => (
+                <li key={link.name}><Link to={link.path} className="hover:text-neutral-900">{link.name}</Link></li>
               ))}
             </ul>
           </div>
