@@ -83,10 +83,6 @@ export const PigmentFamily: React.FC = () => {
                         {pigment.toxicity && <Badge variant="danger">{pigment.toxicity}</Badge>}
                     </div>
                     
-                    {pigment.description && (
-                        <p className="text-neutral-600 mb-6 max-w-3xl">{pigment.description}</p>
-                    )}
-
                     <div className="bg-white rounded-xl border border-neutral-200 overflow-hidden shadow-sm">
                             <PaintTable paints={getPaintsForPigment(pigment.code)} />
                     </div>
