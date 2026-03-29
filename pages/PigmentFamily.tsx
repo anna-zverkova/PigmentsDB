@@ -64,7 +64,7 @@ export const PigmentFamily: React.FC = () => {
                   className="inline-flex items-center gap-2 rounded-full border border-neutral-200 bg-white px-3 py-1.5 text-sm font-medium text-neutral-700 hover:border-neutral-300 hover:text-neutral-900"
                 >
                   <span className="font-mono text-xs text-neutral-500">{pigment.code}</span>
-                  <span className="truncate max-w-[140px]">{pigment.name}</span>
+                  <span className="whitespace-nowrap">{pigment.name}</span>
                 </button>
               ))}
             </div>
