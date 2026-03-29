@@ -61,6 +61,7 @@ const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
   const headers = [
     'Color No.',
     'Paint Name',
+    'Hue',
     'Pigment(s)',
     'Series',
     'Colour',
@@ -102,6 +103,7 @@ const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
                     {paint.name}
                   </Link>
                 </td>
+                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.pigmentCodes.join(', ')}</td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
                 <td className="px-4 py-3 text-center">

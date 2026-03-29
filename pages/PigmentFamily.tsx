@@ -104,7 +104,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
     if (paints.length === 0) return <div className="p-8 text-center text-neutral-500">No paints found for this pigment in our database.</div>;
 
     const headers = [
-      "Pigment(s)", "Paint Number", "Paint Name Hue", "Brand", "Series", 
+      "Pigment(s)", "Paint Number", "Paint Name", "Hue", "Brand", "Series", 
       "Colour", "Swatch", "Light", "Staining Levels", "Staining vs Lifting", 
       "Flow/Spread", "Granulation", "Transparency/Opacity", "Tinting Strength", 
       "Performance", "Toxicity", "Vegan", "Collection", "Action"
@@ -136,6 +136,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                         {paint.name}
                                     </Link>
                                 </td>
+                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{brand?.name || paint.brandId}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
                                 

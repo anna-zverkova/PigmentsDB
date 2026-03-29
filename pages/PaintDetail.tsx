@@ -55,6 +55,7 @@ export const PaintDetail: React.FC = () => {
             <div className="flex flex-wrap gap-6 text-sm text-neutral-600">
               <div><span className="font-medium text-neutral-800">Paint No.:</span> {paint.paintNumber || '—'}</div>
               <div><span className="font-medium text-neutral-800">Series:</span> {paint.series || '—'}</div>
+              <div><span className="font-medium text-neutral-800">Hue:</span> {paint.hue || '—'}</div>
               <div><span className="font-medium text-neutral-800">Collection:</span> {paint.collection || '—'}</div>
             </div>
           </div>
