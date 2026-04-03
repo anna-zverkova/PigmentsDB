@@ -34,7 +34,7 @@
     },
     {
       "code": "PG7",
-      "name": "Phthalo Green (BS)",
+      "name": "Phthalocyanine Green BS",
       "family": "Green",
       "description": "Standard cool green."
     },
@@ -316,49 +316,43 @@
     },
     {
       "code": "PG17",
-      "name": "PG17",
+      "name": "Chrome Oxide Green",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG18",
-      "name": "PG18",
+      "name": "Viridian",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG19",
-      "name": "PG19",
+      "name": "Cobalt Green Pale",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG23",
-      "name": "PG23",
+      "name": "Green Earth",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG26",
-      "name": "PG26",
-      "family": "Green",
-      "description": ""
-    },
-    {
-      "code": "PG37",
-      "name": "PG37",
+      "name": "Cobalt Chromite Green",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG50",
-      "name": "PG50",
+      "name": "Cobalt Titanate Green",
       "family": "Green",
       "description": ""
     },
     {
       "code": "PG8",
-      "name": "PG8",
+      "name": "Nitroso Green",
       "family": "Green",
       "description": ""
     },
@@ -471,332 +465,326 @@
       "description": ""
     },
     {
-      "code": "PR NA",
-      "name": "PR NA",
-      "family": "Red",
-      "description": ""
-    },
-    {
       "code": "PR102",
-      "name": "PR102",
+      "name": "Natural Red Iron Oxide",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR107",
-      "name": "PR107",
+      "name": "Antimony Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR108",
-      "name": "PR108",
+      "name": "Cadmium Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR112",
-      "name": "PR112",
+      "name": "Naphthol Red AS-D",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR12",
-      "name": "PR12",
+      "name": "Naphthol Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR122",
-      "name": "PR122",
+      "name": "Quinacridone Magenta",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR144",
-      "name": "PR144",
+      "name": "Azo Condensation Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR149",
-      "name": "PR149",
+      "name": "Perylene Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR166",
-      "name": "PR166",
+      "name": "Azo Condensation Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR168",
-      "name": "PR168",
+      "name": "Anthraquinone Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR17",
-      "name": "PR17",
+      "name": "Pigment Red 17",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR170",
-      "name": "PR170",
+      "name": "Naphthol Red AS",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR170-F3RK-70",
-      "name": "PR170-F3RK-70",
+      "name": "Naphthol Red F3RK 70",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR170-F5K",
-      "name": "PR170-F5K",
+      "name": "Naphthol Red F5RK",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR170:1",
-      "name": "PR170:1",
+      "name": "Naphthol Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR171",
-      "name": "PR171",
+      "name": "Benzimidazolone Bordeaux",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR175",
-      "name": "PR175",
+      "name": "Benzimidazolone Red HFT",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR176",
-      "name": "PR176",
+      "name": "Benzimidazolone Carmine",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR177",
-      "name": "PR177",
+      "name": "Anthraquinone Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR178",
-      "name": "PR178",
+      "name": "Perylene Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR179",
-      "name": "PR179",
+      "name": "Perylene Maroon",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR187",
-      "name": "PR187",
+      "name": "Permanent Pink FL",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR188",
-      "name": "PR188",
+      "name": "Naphthol Scarlet Lake",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR19",
-      "name": "PR19",
+      "name": "Arylide Maroon",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR2",
-      "name": "PR2",
+      "name": "Naphthol Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR202",
-      "name": "PR202",
+      "name": "Quinacridone Crimson",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR206",
-      "name": "PR206",
+      "name": "Quinacridone Burnt Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR207",
-      "name": "PR207",
+      "name": "Quinacridone Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR208",
-      "name": "PR208",
+      "name": "Naphthol Red AS",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR209",
-      "name": "PR209",
+      "name": "Quinacridone Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR214",
-      "name": "PR214",
+      "name": "Fastogen Super Red 2R",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR23",
-      "name": "PR23",
+      "name": "Naphthol Red Dark",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR233",
-      "name": "PR233",
+      "name": "Chrome Tin Pink",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR242",
-      "name": "PR242",
+      "name": "Disazo Condensation Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR251",
-      "name": "PR251",
+      "name": "Pyrazoloquinazolone Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR254",
-      "name": "PR254",
+      "name": "Diketo-Pyrrolo Pyrrole Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR255",
-      "name": "PR255",
+      "name": "Pyrrole Scarlet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR258",
-      "name": "PR258",
+      "name": "Seikafast Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR259",
-      "name": "PR259",
+      "name": "Ultramarine Pink",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR264",
-      "name": "PR264",
+      "name": "Pyrrole Red Rubine",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR287",
-      "name": "PR287",
+      "name": "MayaCrom Red R2051",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR290",
-      "name": "PR290",
+      "name": "Sicopal Red L3050",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR3",
-      "name": "PR3",
+      "name": "Toludine Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR4",
-      "name": "PR4",
+      "name": "Permanent Red R",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR48:1",
-      "name": "PR48:1",
+      "name": "Naphthol AS Red",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR48:4",
-      "name": "PR48:4",
+      "name": "Permanent Red 2B",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR5",
-      "name": "PR5",
+      "name": "Naphthol Red DK",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR53",
-      "name": "PR53",
+      "name": "Lake Red C",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR63:1",
-      "name": "PR63:1",
+      "name": "Lithol Bordeaux",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR81",
-      "name": "PR81",
+      "name": "Rhodamine 6G",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR83",
-      "name": "PR83",
+      "name": "Alizarin Crimson",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR83:1",
-      "name": "PR83:1",
+      "name": "Synthetic Alizarin Lake",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR88",
-      "name": "PR88",
+      "name": "Thioindigoid Violet",
       "family": "Red",
       "description": ""
     },
     {
       "code": "PR9",
-      "name": "PR9",
+      "name": "Naphthol AS Red",
       "family": "Red",
       "description": ""
     },
@@ -1225,6 +1213,12 @@
       "name": "Zinc Sulphide White",
       "family": "White",
       "description": "Zinc Sulphide White"
+    },
+    {
+      "code": "PG36",
+      "name": "Phthalocyanine Green YS",
+      "family": "Green",
+      "description": ""
     }
   ]
 }
