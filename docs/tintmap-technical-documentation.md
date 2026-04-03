@@ -301,6 +301,19 @@ PM focus: You need repeatable steps that don’t depend on tribal knowledge.
 | 2 | Update only the target field |
 | 3 | Keep `id` stable unless it’s wrong or non‑unique |
 
+**Update White Nights swatches from new files**
+| Step | Action |
+|---|---|
+| 1 | Add new image files to `public/uploads/white-nights` |
+| 2 | Run the auto‑assign script below |
+| 3 | Verify swatches appear on `/paints` and `/brands/white-nights` |
+
+```bash
+python scrapers/update_white_nights_swatches.py \
+  --paints "content/paints.json" \
+  --swatch-dir "public/uploads/white-nights"
+```
+
 **Promote brand from “coming soon” to active**
 | Step | Action |
 |---|---|

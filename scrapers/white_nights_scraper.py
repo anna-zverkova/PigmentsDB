@@ -23,12 +23,15 @@ import re
 import sys
 from pathlib import Path
 from typing import Iterable, Tuple
+from urllib.parse import urljoin
+import json
 from urllib.request import urlopen, Request
 
 from bs4 import BeautifulSoup
 
 
 DEFAULT_HTML = "White Nights - watercolor range.html"
+DEFAULT_OUT_DIR = "public/uploads/white-nights-range/img-from-wn-site"
 
 
 def slugify(text: str) -> str:
@@ -37,7 +40,30 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def extract_paints(html_path: Path) -> Iterable[Tuple[str, str]]:
+def _extract_cdn_url(link, img) -> str | None:
+    # Prefer CDN URL from data-options JSON
+    data_options = link.get("data-options")
+    if data_options:
+        try:
+            opts = json.loads(data_options)
+            srcset = opts.get("image", {}).get("srcset", "")
+            # take first URL in srcset (1x)
+            first = srcset.split(",")[0].strip()
+            if first:
+                return first.split(" ")[0]
+        except Exception:
+            pass
+    # Fallback to img srcset
+    if img:
+        srcset = img.get("srcset", "")
+        if srcset:
+            first = srcset.split(",")[0].strip()
+            if first:
+                return first.split(" ")[0]
+    return None
+
+
+def extract_paints(html_path: Path, base_url: str) -> Iterable[Tuple[str, str]]:
     """
     Returns (paint_name, image_url).
     """
@@ -58,6 +84,12 @@ def extract_paints(html_path: Path) -> Iterable[Tuple[str, str]]:
         if not link:
             continue
         img_url = link["href"].strip()
+        img = block.find("img")
+        cdn_url = _extract_cdn_url(link, img)
+        if cdn_url:
+            img_url = cdn_url
+        else:
+            img_url = urljoin(base_url, img_url)
 
         # data-caption holds the paint name
         caption = link.get("data-caption") or block.get("data-caption")
@@ -83,8 +115,9 @@ def download_image(url: str, dest: Path) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description="White Nights scraper")
     parser.add_argument("--html", default=DEFAULT_HTML, help="Path to saved HTML file")
-    parser.add_argument("--out-dir", default="public/uploads/white-nights-range", help="Output image directory")
+    parser.add_argument("--out-dir", default=DEFAULT_OUT_DIR, help="Output image directory")
     parser.add_argument("--csv", default="scrapers/white_nights_range.csv", help="Output CSV path")
+    parser.add_argument("--base-url", default="https://whitenights-watercolor.com/colour_range/", help="Base URL for resolving relative image links")
     args = parser.parse_args()
 
     html_path = Path(args.html)
@@ -98,7 +131,7 @@ def main() -> int:
     rows = []
     seen = {}
 
-    for paint_name, img_url in extract_paints(html_path):
+    for paint_name, img_url in extract_paints(html_path, args.base_url):
         base_slug = f"white-nights-{slugify(paint_name)}"
         if base_slug in seen:
             seen[base_slug] += 1

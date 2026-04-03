@@ -47,7 +47,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Zinc-white.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-titanium-white-101",
@@ -70,7 +70,8 @@
       "performance": "Professional",
       "toxicity": "No",
       "collection": "Standard Assortment",
-      "isDiscontinued": false
+      "isDiscontinued": false,
+      "swatchImage": "/uploads/white-nights/WH-titanium-white.jpg"
     },
     {
       "id": "white-nights-cadmium-yellow-medium-201",
@@ -95,7 +96,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cadmium-yellow-medium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cadmium-lemon-203",
@@ -120,7 +121,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Cadmium-lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ochre-light-206",
@@ -145,7 +146,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-ochre-light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-naples-yellow-209",
@@ -173,7 +174,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-naples-yellow(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-yellow-211",
@@ -198,7 +199,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-yellow-211-v2",
@@ -223,7 +224,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-lemon-214",
@@ -248,7 +249,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-hansa-yellow-215",
@@ -273,7 +274,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Hansa-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-golden-216",
@@ -299,7 +300,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-golden(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-golden-216-v2",
@@ -325,7 +326,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-golden(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-golden-deep-217",
@@ -350,7 +351,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-golden-deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-yellow-ochre-218",
@@ -376,7 +377,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-yellow-ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-yellow-ochre-218-v2",
@@ -402,7 +403,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-yellow-ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-naples-yellow-light-219",
@@ -453,7 +454,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-naples-flesh.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-titian-red-226",
@@ -478,7 +479,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-titan-red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indian-yellow-228",
@@ -529,7 +530,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-indian-gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-aureolin-253",
@@ -579,7 +580,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-naples-orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-dunes-255",
@@ -605,7 +606,8 @@
       "performance": "Professional",
       "toxicity": "No",
       "collection": "Pastel",
-      "isDiscontinued": false
+      "isDiscontinued": false,
+      "swatchImage": "/uploads/white-nights/WH-dune.jpg"
     },
     {
       "id": "white-nights-peach-256",
@@ -632,7 +634,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Peach(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-irgazin-yellow-257",
@@ -657,7 +659,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Irgazin-yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-petesburg-ochre-258",
@@ -682,7 +684,8 @@
       "performance": "Professional",
       "toxicity": "No",
       "collection": "Pastel",
-      "isDiscontinued": false
+      "isDiscontinued": false,
+      "swatchImage": "/uploads/white-nights/WH-petersburg-ochre.jpg"
     },
     {
       "id": "white-nights-yellow-tuff-268",
@@ -847,7 +850,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cadmium-Red-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cadmium-orange-304",
@@ -872,7 +875,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cadmium-orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-red-ochre-309",
@@ -897,7 +900,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Red-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-shakhnazarskaya-red-311",
@@ -922,7 +925,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-shakhnazarskyaya-red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-vermillion-hue-312",
@@ -996,7 +999,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-scarlet-318",
@@ -1021,7 +1024,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-scarlet-318-v2",
@@ -1047,7 +1050,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-carmine-319",
@@ -1097,7 +1100,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-orange-lake.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-english-red-321",
@@ -1122,7 +1125,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-english-red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-rose-322",
@@ -1147,7 +1150,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ruby-323",
@@ -1172,7 +1175,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Ruby.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-quinacridone-rose-324",
@@ -1197,7 +1200,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-quinacridone-rose-magenta.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-claret-325",
@@ -1223,7 +1226,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-claret.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-claret-325-v2",
@@ -1248,7 +1251,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-claret.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-scarlet-light-328",
@@ -1274,7 +1277,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Sclarlet-Light(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-coral-355",
@@ -1300,7 +1303,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-coral.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-venetian-red-357",
@@ -1326,7 +1329,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-venetian-red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-quinacridone-red-361",
@@ -1351,7 +1354,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-quinacridone-red(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-geranium-red-364",
@@ -1376,7 +1379,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-geranium-red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-venice-purple-365",
@@ -1401,7 +1404,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-venice-purple.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-pink-peony-366",
@@ -1427,7 +1430,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-pink-peony.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-rose-quartz-367",
@@ -1453,7 +1456,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-rose-quartz.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-neon-pink-368",
@@ -1479,7 +1482,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Neon-pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-magnolia-369",
@@ -1505,7 +1508,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-magnolia.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-rose-mist-382",
@@ -1789,7 +1792,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-raw-sienna(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-raw-sienna-405-v2",
@@ -1814,7 +1817,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-raw-sienna(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-burnt-sienna-406",
@@ -1839,7 +1842,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-burnt-sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-burnt-umber-408",
@@ -1864,7 +1867,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-burnt-umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-mars-brown-412",
@@ -1889,7 +1892,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-mars-brown.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-sepia-413",
@@ -1943,7 +1946,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-umber(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-maroon-432",
@@ -1970,7 +1973,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-maroon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-mocha-433",
@@ -1997,7 +2000,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-mocha.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-bistre-447",
@@ -2144,7 +2147,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-turquoise-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-blue-508",
@@ -2169,7 +2172,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cobalt-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-bright-blue-509",
@@ -2194,7 +2197,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-bright-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-blue-lake-510",
@@ -2219,7 +2222,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-blue-lake.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ultramarine-511",
@@ -2244,7 +2247,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-ultramarine.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-celestial-blue-512",
@@ -2270,7 +2273,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-celestrial-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-azure-513",
@@ -2295,7 +2298,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-azure.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-blue-515",
@@ -2320,7 +2323,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indigo-516",
@@ -2347,7 +2350,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indigo-516-v2",
@@ -2374,7 +2377,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indigo-516-v3",
@@ -2401,7 +2404,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-prussian-blue-518",
@@ -2426,7 +2429,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-prussian-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-azure-blue-519",
@@ -2452,7 +2455,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-azure-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ultramarine-deep-521",
@@ -2477,7 +2480,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-ultramarine-deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indanthrene-blue-524",
@@ -2526,7 +2529,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-royal-blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-turquoise-531",
@@ -2551,7 +2554,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-cobalt-turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-azure-blue-532",
@@ -2576,7 +2579,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cobalt-chrome-turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-chrome-turquoise-533",
@@ -2601,7 +2604,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cobalt-chrome-turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-indanthrene-blue-light-537",
@@ -2650,7 +2653,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-dark-blue-shadows.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-blue-shadows-556",
@@ -2676,7 +2679,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-blue-shadows.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-sky-blue-shadows-557",
@@ -2702,7 +2705,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-sky-blue-shadow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-blue-mist-558",
@@ -2728,7 +2731,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-blue-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-aquamarine-mist-559",
@@ -2754,7 +2757,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-aquamarine-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-mist-560",
@@ -2780,7 +2783,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-cobalt-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-turquoise-cobalt-mist-561",
@@ -2830,7 +2833,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WG-grey-blue-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-chromium-cobalt-mist-563",
@@ -3022,7 +3025,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-caput-mortuum.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-violet-607",
@@ -3047,7 +3050,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-violet-rose-608",
@@ -3072,7 +3075,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Violet-Rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-quinacridone-lilac-609",
@@ -3097,7 +3100,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-quinacridone-lilac.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ultramarine-violet-613",
@@ -3122,7 +3125,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-ultramarine-violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-manganese-violet-light-614",
@@ -3170,7 +3173,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-quinacridone-violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-quinacridone-violet-rose-622",
@@ -3195,7 +3198,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-quinacridone-violet-rose(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-lavender-625",
@@ -3222,7 +3225,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-lavender.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-lilac-626",
@@ -3248,7 +3251,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-lilac.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-perylene-violet-627",
@@ -3273,7 +3276,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-perylene-violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-dioxazine-violet-628",
@@ -3298,7 +3301,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-dioxazine-violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-violet-shadows-629",
@@ -3349,7 +3352,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-violet-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-lilac-mist-631",
@@ -3375,7 +3378,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-lilac-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-hematite-mist-632",
@@ -3401,7 +3404,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-hematite-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-augite-porphyite-633",
@@ -3496,7 +3499,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-chromium-oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-cobalt-green-deep-705",
@@ -3544,7 +3547,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-emerald-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-sap-green-716",
@@ -3596,7 +3599,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-green-light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-yellowish-green-718",
@@ -3622,7 +3625,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-yellowish-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-green-original-719",
@@ -3648,7 +3651,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-green-original.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-green-725",
@@ -3673,7 +3676,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-olive-green-727",
@@ -3700,7 +3703,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-olive-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-olive-green-727-v2",
@@ -3727,7 +3730,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-olive-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-green-earth-730",
@@ -3753,7 +3756,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-green-earth.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-mint-735",
@@ -3779,7 +3782,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-mint.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-may-green-745",
@@ -3805,7 +3808,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": true,
       "swatchImage": "/uploads/white-nights/WH-may-green(1).png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-warm-green-747",
@@ -3832,7 +3835,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-warm-green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-green-shadows-760",
@@ -3858,7 +3861,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-green-shadows.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-taiga-mist-761",
@@ -3884,7 +3887,7 @@
       "collection": "Granulating Colors",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-taiga-mist.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-green-mist-762",
@@ -4126,7 +4129,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-lamp-black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-neutral-black-805",
@@ -4153,7 +4156,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-neutral-black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-voronezhskaya-black-806",
@@ -4178,7 +4181,7 @@
       "collection": "Standard Assortment",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Voronezhskaya-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-ivory-black-hue-811",
@@ -4304,7 +4307,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-marengo.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-pearl-grey-819",
@@ -4331,7 +4334,7 @@
       "collection": "Pastel",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-pearl-grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-grey-pink-mist-832",
@@ -4475,7 +4478,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-silver-light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-silver-deep-962",
@@ -4500,7 +4503,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-silver-deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-bronze-963",
@@ -4525,7 +4528,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-bronze.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-copper-964",
@@ -4550,7 +4553,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-copper.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-aztec-gold-968",
@@ -4575,7 +4578,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-aztec-gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-inca-gold-969",
@@ -4600,7 +4603,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-incao-gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-antique-gold-981",
@@ -4625,7 +4628,7 @@
       "collection": "Metallic",
       "isDiscontinued": false,
       "swatchImage": "/uploads/white-nights/WH-Anitque-gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "white-nights-gold-flare-982",
@@ -5303,7 +5306,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Lemon-Yellow-Nickel-Titanate.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-bismuth-yellow",
@@ -5320,14 +5323,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Bismuth-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-lemon",
       "brandId": "wn",
       "name": "Cadmium-Free Lemon",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5337,7 +5340,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-yellow-lemon",
@@ -5354,7 +5357,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-lemon",
@@ -5371,7 +5374,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-yellow",
@@ -5388,7 +5391,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-lemon-yellow-deep",
@@ -5405,7 +5408,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Lemon-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-aureolin",
@@ -5422,7 +5425,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Aureolin.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-transparent-yellow",
@@ -5438,14 +5441,14 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-yellow-pale",
       "brandId": "wn",
       "name": "Cadmium-Free Yellow Pale",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5455,7 +5458,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Pale.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-yellow-pale",
@@ -5472,12 +5475,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow-Pale.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-turner-s-yellow",
       "brandId": "wn",
-      "name": "Turner\u2019s Yellow",
+      "name": "Turner’s Yellow",
       "pigmentCodes": [
         "PY216"
       ],
@@ -5489,7 +5492,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Turners-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-new-gamboge",
@@ -5525,14 +5528,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-yellow",
       "brandId": "wn",
       "name": "Cadmium-Free Yellow",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5542,7 +5545,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-yellow-deep",
@@ -5559,7 +5562,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-indian-yellow",
@@ -5594,14 +5597,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-yellow-deep",
       "brandId": "wn",
       "name": "Cadmium-Free Yellow Deep",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5611,7 +5614,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-orange",
@@ -5628,14 +5631,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-cadmium-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-orange",
       "brandId": "wn",
       "name": "Cadmium-Free Orange",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5645,7 +5648,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-orange",
@@ -5662,7 +5665,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-orange-rs",
@@ -5679,14 +5682,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Orange-RS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-transparent-orange",
       "brandId": "wn",
       "name": "Transparent Orange",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5695,7 +5698,7 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-scarlet",
@@ -5712,14 +5715,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-SCarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-scarlet",
       "brandId": "wn",
       "name": "Cadmium-Free Scarlet",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5729,7 +5732,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-scarlet-lake",
@@ -5746,7 +5749,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Scarlet-Lake.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-red",
@@ -5763,14 +5766,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-red",
       "brandId": "wn",
       "name": "Cadmium-Free Red",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5780,7 +5783,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-red-deep",
@@ -5797,14 +5800,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Red-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cadmium-free-red-deep",
       "brandId": "wn",
       "name": "Cadmium-Free Red Deep",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5814,7 +5817,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cadmium-Free-Red-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-red",
@@ -5831,7 +5834,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-rose-madder-genuine",
@@ -5848,7 +5851,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Rose-Madder-Genuine.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-quinacridone-red",
@@ -5865,7 +5868,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-red-deep",
@@ -5882,7 +5885,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Red-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-permanent-alizarin-crimson",
@@ -5916,14 +5919,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Alizarin-Crimson.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-permanent-carmine",
       "brandId": "wn",
       "name": "Permanent Carmine",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -5950,7 +5953,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-permanent-Rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-opera-rose",
@@ -5967,7 +5970,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Opera-Rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-quinacridone-magenta",
@@ -5984,7 +5987,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Magenta.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-permanent-magenta",
@@ -6001,7 +6004,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Permanent-Magenta.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-violet",
@@ -6018,7 +6021,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-permanent-mauve",
@@ -6035,7 +6038,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Permanent-Mauve.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-quinacridone-violet",
@@ -6052,7 +6055,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-ultramarine-violet",
@@ -6069,7 +6072,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Ultramarine-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-violet-dioxazine",
@@ -6086,7 +6089,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Violet-Dioxazine.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-indanthrone-blue",
@@ -6103,12 +6106,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Indanthrene-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-smalt-dumont-s-blue",
       "brandId": "wn",
-      "name": "Smalt (Dumont\u2019s Blue)",
+      "name": "Smalt (Dumont’s Blue)",
       "pigmentCodes": [
         "PV15"
       ],
@@ -6120,7 +6123,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Smalt-Dumonts-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-blue-deep",
@@ -6137,7 +6140,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Blue-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-french-ultramarine",
@@ -6154,7 +6157,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-French-Ultramarine.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-ultramarine-gs",
@@ -6171,7 +6174,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Ultramarine-GS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-blue",
@@ -6188,7 +6191,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-blue-rs",
@@ -6205,7 +6208,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Blue-RS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-antwerp-blue",
@@ -6222,7 +6225,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Antwerp-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-prussian-blue",
@@ -6239,7 +6242,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Prussian-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-blue-gs",
@@ -6256,7 +6259,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Blue-GS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cerulean-blue-rs",
@@ -6273,7 +6276,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cerulean-Blue-RS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cerulean-blue",
@@ -6290,7 +6293,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cerulean-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-manganese-blue-hue",
@@ -6324,7 +6327,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Phthalo-Turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-turquoise-light",
@@ -6341,7 +6344,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Turquoise-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-turquoise",
@@ -6359,14 +6362,14 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-aqua-green",
       "brandId": "wn",
       "name": "Aqua Green",
       "pigmentCodes": [
-        "\u2014"
+        "—"
       ],
       "hex": "#E6D9C6",
       "transparency": "Transparent",
@@ -6376,7 +6379,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Aqua-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-green",
@@ -6393,7 +6396,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cobalt-green-deep",
@@ -6410,7 +6413,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Cobalt-Green-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-green-bs",
@@ -6427,7 +6430,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Green-BS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-viridian",
@@ -6444,7 +6447,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Viridian.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-winsor-green-ys",
@@ -6461,7 +6464,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Winsor-Green-YS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-terre-verte",
@@ -6480,7 +6483,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Terre-Verte.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-perylene-green",
@@ -6497,7 +6500,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Perylene-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-oxide-of-chromium",
@@ -6514,12 +6517,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Oxide-of-Chromium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-hooker-s-green",
       "brandId": "wn",
-      "name": "Hooker\u2019s Green",
+      "name": "Hooker’s Green",
       "pigmentCodes": [
         "PG36",
         "PY110"
@@ -6532,7 +6535,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Hookers-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-permanent-sap-green",
@@ -6569,7 +6572,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Olive-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-terre-verte-ys",
@@ -6586,7 +6589,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Terre-Verte-Yellow-Shade.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-green-gold",
@@ -6603,7 +6606,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Green-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-naples-yellow",
@@ -6654,7 +6657,7 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-yellow-ochre",
@@ -6671,7 +6674,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Yellow-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-raw-sienna",
@@ -6689,7 +6692,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Raw-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-gold-ochre",
@@ -6706,7 +6709,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Gold-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-quinacridone-gold",
@@ -6725,7 +6728,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Quinacridone-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-brown-ochre",
@@ -6742,7 +6745,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Brown-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-magnesium-brown",
@@ -6759,7 +6762,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Magnesium-Brown.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-burnt-sienna",
@@ -6776,7 +6779,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Burnt-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-light-red",
@@ -6793,7 +6796,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Light-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-venetian-red",
@@ -6810,7 +6813,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Venetian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-indian-red",
@@ -6827,7 +6830,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Indian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-brown-madder",
@@ -6844,12 +6847,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Brown-Madder.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-potter-s-pink",
       "brandId": "wn",
-      "name": "Potter\u2019s Pink",
+      "name": "Potter’s Pink",
       "pigmentCodes": [
         "PR233"
       ],
@@ -6861,7 +6864,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Potters-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-perylene-maroon",
@@ -6878,7 +6881,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Perylene-Maroon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-perylene-violet",
@@ -6895,7 +6898,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Perylene-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-caput-mortuum-violet",
@@ -6912,7 +6915,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Caput-Mortuum-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-raw-umber",
@@ -6929,7 +6932,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Raw-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-burnt-umber",
@@ -6948,7 +6951,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Burnt-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-vandyke-brown",
@@ -7008,7 +7011,7 @@
     {
       "id": "wn-payne-s-grey",
       "brandId": "wn",
-      "name": "Payne\u2019s Grey",
+      "name": "Payne’s Grey",
       "pigmentCodes": [
         "PB15",
         "PBk6",
@@ -7022,7 +7025,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Paynes-Gray.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-neutral-tint",
@@ -7041,7 +7044,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Neutral-Tint.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-ivory-black",
@@ -7058,7 +7061,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Ivory-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-lamp-black",
@@ -7076,7 +7079,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Lamp-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-mars-black",
@@ -7093,12 +7096,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Mars-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-davy-s-gray",
       "brandId": "wn",
-      "name": "Davy\u2019s Gray",
+      "name": "Davy’s Gray",
       "pigmentCodes": [
         "PBk19",
         "PBk6",
@@ -7113,7 +7116,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Davys-Gray.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-chinese-white",
@@ -7130,7 +7133,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Chinese-White.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-titanium-white",
@@ -7147,7 +7150,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/winsor-newton/WN-Titanium-White.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "wn-cotman-lemon-yellow-hue",
@@ -7520,7 +7523,7 @@
     {
       "id": "wn-cotman-hooker-s-green-dark",
       "brandId": "wn-cotman",
-      "name": "Hooker\u2019s Green Dark",
+      "name": "Hooker’s Green Dark",
       "pigmentCodes": [
         "PB15",
         "PG7",
@@ -7538,7 +7541,7 @@
     {
       "id": "wn-cotman-hooker-s-green-light",
       "brandId": "wn-cotman",
-      "name": "Hooker\u2019s Green Light",
+      "name": "Hooker’s Green Light",
       "pigmentCodes": [
         "PB15",
         "PG7",
@@ -7740,7 +7743,7 @@
     {
       "id": "wn-cotman-payne-s-gray",
       "brandId": "wn-cotman",
-      "name": "Payne\u2019s Gray",
+      "name": "Payne’s Gray",
       "pigmentCodes": [
         "PB15",
         "PB29",
@@ -7939,7 +7942,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Buff-Titanium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-nickel-titanate-yellow",
@@ -7956,7 +7959,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Nickel-Titanate-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-bismuth-vanadate-yellow",
@@ -7973,7 +7976,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Bismuth-Vanadate.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-hansa-yellow-light",
@@ -7990,7 +7993,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-azo-yellow",
@@ -8007,7 +8010,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Azo-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinophthalone-yellow",
@@ -8024,7 +8027,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinophthalone-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-yellow-light-hue",
@@ -8043,7 +8046,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Light-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-yellow-medium-hue",
@@ -8062,7 +8065,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Medium-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-aureolin-cobalt-yellow",
@@ -8079,7 +8082,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Aureolin.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-yellow-deep-hue",
@@ -8097,7 +8100,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Deep-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-hansa-yellow-medium",
@@ -8114,7 +8117,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Medium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-mayan-yellow",
@@ -8131,7 +8134,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mayan-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lemon-yellow",
@@ -8147,7 +8150,7 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-indian-yellow",
@@ -8201,7 +8204,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-new-gamboge",
@@ -8219,7 +8222,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-New-Gamboge.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-isoindoline-yellow",
@@ -8236,7 +8239,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Isoindoline-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-yellow-deep",
@@ -8253,7 +8256,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-aussie-red-gold",
@@ -8272,7 +8275,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Aussie-Red-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-pyrrol-orange",
@@ -8289,7 +8292,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-orange",
@@ -8306,7 +8309,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-orange-hue",
@@ -8325,7 +8328,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Orange-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-perinone-orange",
@@ -8342,7 +8345,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perinone-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-red-scarlet-hue",
@@ -8361,7 +8364,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Scarlet-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-transparent-pyrrol-orange",
@@ -8378,7 +8381,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Transparent-Pyrrol-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-organic-vermilion",
@@ -8412,7 +8415,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mayan-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-coral",
@@ -8429,7 +8432,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Coral.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-pyrrol-scarlet",
@@ -8446,7 +8449,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-perylene-scarlet",
@@ -8463,7 +8466,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perylene-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-anthraquinoid-scarlet",
@@ -8480,7 +8483,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cadmium-red-medium-hue",
@@ -8498,7 +8501,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Medium-Hue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-pyrrol-red",
@@ -8515,7 +8518,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-perylene-red",
@@ -8532,7 +8535,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perylene-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-red",
@@ -8549,7 +8552,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-red-deep",
@@ -8566,7 +8569,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-red",
@@ -8583,7 +8586,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-anthraquinoid-red",
@@ -8600,7 +8603,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-mayan-red",
@@ -8617,7 +8620,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mayan-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-alizarin-crimson",
@@ -8634,7 +8637,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Alizarin-Crimson.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-alizarin-crimson",
@@ -8706,7 +8709,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Opera-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-potters-pink",
@@ -8723,7 +8726,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Potters-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-pink",
@@ -8740,7 +8743,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-rose",
@@ -8757,7 +8760,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-lilac",
@@ -8774,7 +8777,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Lilac.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-magenta",
@@ -8791,7 +8794,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-magenta.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-pyrrol-crimson",
@@ -8808,7 +8811,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Crimson.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-fuchsia",
@@ -8825,7 +8828,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Fuchsia.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-mayan-violet",
@@ -8842,7 +8845,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mayan-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-bordeaux",
@@ -8859,7 +8862,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Bordeaux.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-violet",
@@ -8877,7 +8880,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-violet",
@@ -8894,7 +8897,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Qinacirdone-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-perylene-violet",
@@ -8911,7 +8914,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perylene-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-violet",
@@ -8928,7 +8931,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-violet-deep",
@@ -8945,7 +8948,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-ultramarine-violet",
@@ -8962,7 +8965,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-rose-of-ultramarine",
@@ -8980,7 +8983,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Rose-of-Ultramarine.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-imperial-purple",
@@ -8998,7 +9001,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Imperial-Purple.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-purple",
@@ -9015,7 +9018,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Purple.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-ultramarine-violet-v2",
@@ -9032,7 +9035,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-carbazole-violet",
@@ -9049,7 +9052,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Carbazole-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-wisteria",
@@ -9067,7 +9070,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Wisteria.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-blue-violet",
@@ -9085,7 +9088,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-moonglow",
@@ -9104,7 +9107,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Moonglow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-shadow-violet",
@@ -9123,7 +9126,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Shadow-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-indigo",
@@ -9158,7 +9161,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mayan-Dark-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-indanthrone-blue",
@@ -9175,7 +9178,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Indanthrone-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-ultramarine-blue",
@@ -9192,7 +9195,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-french-ultramarine",
@@ -9209,7 +9212,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-French-Ultramaine-.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-blue",
@@ -9226,7 +9229,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-blue-gs",
@@ -9243,7 +9246,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-GS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-verditer-blue",
@@ -9262,7 +9265,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Verditer-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lavender",
@@ -9281,7 +9284,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lavender.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-blue-rs",
@@ -9298,7 +9301,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-RS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-prussian-blue",
@@ -9315,7 +9318,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Prussian-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cerulean-blue",
@@ -9332,7 +9335,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cerulean-blue-chromium",
@@ -9349,7 +9352,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue-Chromium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-manganese-blue-hue",
@@ -9383,7 +9386,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-Turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-teal-blue",
@@ -9400,7 +9403,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Teal-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-turquoise",
@@ -9418,7 +9421,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Tuquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-ultramarine-turquoise",
@@ -9436,7 +9439,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-turquoise",
@@ -9453,7 +9456,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Turquoise.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lunar-blue",
@@ -9471,7 +9474,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lunar-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-green-pale",
@@ -9488,7 +9491,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green-pale.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-viridian",
@@ -9505,7 +9508,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Viridian.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-green-bs",
@@ -9522,7 +9525,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-BS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cascade-green",
@@ -9540,7 +9543,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cascade-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-cobalt-green",
@@ -9557,7 +9560,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-spring-green",
@@ -9576,7 +9579,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Spring-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-green-light",
@@ -9594,7 +9597,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-yellow-green",
@@ -9612,7 +9615,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Yellow-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-green",
@@ -9630,7 +9633,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-phthalo-green-ys",
@@ -9647,12 +9650,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-YS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-hooker-s-green",
       "brandId": "ds",
-      "name": "Hooker\u2019s Green",
+      "name": "Hooker’s Green",
       "pigmentCodes": [
         "PG36",
         "PY3",
@@ -9667,7 +9670,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Hookers-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-sap-green",
@@ -9703,7 +9706,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Chromium-Green-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-terre-verte",
@@ -9721,7 +9724,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Terre-Verte.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-deep-sap-green",
@@ -9757,7 +9760,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perylene-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-prussian-green",
@@ -9775,7 +9778,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Prussian-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-rare-green-earth",
@@ -9792,7 +9795,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Rare-Green-Earth.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-undersea-green",
@@ -9811,7 +9814,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Undersea-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-olive-green",
@@ -9848,7 +9851,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Green-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-rich-green-gold",
@@ -9865,7 +9868,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Rich-Green-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-nickel-azo-yellow",
@@ -9882,7 +9885,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Nickel-Azo-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-verona-gold-ochre",
@@ -9899,7 +9902,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Verona-Gold-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-french-ochre",
@@ -9916,7 +9919,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-French-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-raw-sienna-light",
@@ -9933,7 +9936,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burgundy-yellow-ochre",
@@ -9950,7 +9953,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Yellow-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-yellow-ochre",
@@ -9967,7 +9970,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Yellow-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-mars-yellow",
@@ -9984,7 +9987,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Mars-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-raw-sienna",
@@ -10001,7 +10004,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-gold",
@@ -10019,7 +10022,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-transparent-yellow-oxide",
@@ -10036,7 +10039,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Tranparent-Yellow-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-monte-amiata-natural-sienna",
@@ -10053,7 +10056,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Monte-Amiata-Natural-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-enviro-friendly-yellow-iron-oxide",
@@ -10070,7 +10073,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Yellow-Iron-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-goethite-brown-ochre",
@@ -10087,7 +10090,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Goethite.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-deep-gold",
@@ -10105,7 +10108,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Deep-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-italian-deep-ochre",
@@ -10122,7 +10125,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Italian-Deep-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lunar-earth",
@@ -10139,7 +10142,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lunar-Earth.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burnt-yellow-ochre",
@@ -10156,7 +10159,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Burnt-Yellow-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-roasted-french-ochre",
@@ -10173,7 +10176,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/Ds-Roasted-French-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burgundy-red-ochre",
@@ -10190,7 +10193,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Red-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-indian-red",
@@ -10207,7 +10210,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Indian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-venetian-red",
@@ -10224,7 +10227,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Venetian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-italian-burnt-sienna",
@@ -10241,7 +10244,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Italian-Burnt-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-burnt-orange",
@@ -10258,7 +10261,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-sienna",
@@ -10277,7 +10280,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-pompeii-red",
@@ -10294,7 +10297,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Pompeii-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-terre-ercolano",
@@ -10312,7 +10315,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Terre-Ercolano.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-italian-venetian-red",
@@ -10329,7 +10332,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Italian-Venetian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-english-red-earth",
@@ -10346,7 +10349,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-English-Red-Earth.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-quinacridone-burnt-scarlet",
@@ -10363,7 +10366,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-perylene-maroon",
@@ -10380,7 +10383,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Perylene-Maroon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-deep-scarlet",
@@ -10397,7 +10400,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Deep-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-napthamide-maroon",
@@ -10414,7 +10417,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Naphthamide-Maroon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lunar-red-rock",
@@ -10431,7 +10434,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lunar-Red-Rock.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-german-greenish-raw-umber",
@@ -10448,7 +10451,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-German-Greenish-Raw-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-grey-titanium",
@@ -10465,7 +10468,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Grey-Titanium.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-permanent-brown",
@@ -10482,7 +10485,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Permanent-Brown.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-raw-umber-violet",
@@ -10500,7 +10503,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber-VIolet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-transparent-brown-oxide",
@@ -10517,7 +10520,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Transparent-Brown-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-transparent-red-oxide",
@@ -10534,7 +10537,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Transparent-Red-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-fired-gold-ochre",
@@ -10551,7 +10554,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Fired-Gold-OChre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burnt-sienna-light",
@@ -10568,7 +10571,7 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-enviro-friendly-red-iron-oxide",
@@ -10585,7 +10588,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Red-Iron-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burnt-sienna",
@@ -10602,7 +10605,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-BUrnt-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-english-red-ochre",
@@ -10619,7 +10622,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-English-Red-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-burnt-umber",
@@ -10636,7 +10639,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Burnt-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-enviro-friendly-brown-iron-oxide",
@@ -10653,7 +10656,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Brown-Iron-Oxide.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-raw-umber",
@@ -10670,7 +10673,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-sepia",
@@ -10723,7 +10726,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lunar-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-neutral-tint",
@@ -10742,7 +10745,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Neutral-Tint.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-graphite-grey",
@@ -10759,12 +10762,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Graphite-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-joseph-z-s-neutral-grey",
       "brandId": "ds",
-      "name": "Joseph Z\u2019s Neutral Grey",
+      "name": "Joseph Z’s Neutral Grey",
       "pigmentCodes": [
         "PB29",
         "PBk9",
@@ -10777,12 +10780,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-joseph-z-s-cool-grey",
       "brandId": "ds",
-      "name": "Joseph Z\u2019s Cool Grey",
+      "name": "Joseph Z’s Cool Grey",
       "pigmentCodes": [
         "PB36",
         "PV19",
@@ -10795,12 +10798,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-joseph-z-s-warm-grey",
       "brandId": "ds",
-      "name": "Joseph Z\u2019s Warm Grey",
+      "name": "Joseph Z’s Warm Grey",
       "pigmentCodes": [
         "PY43",
         "PV19",
@@ -10813,12 +10816,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-jane-s-grey",
       "brandId": "ds",
-      "name": "Jane\u2019s Grey",
+      "name": "Jane’s Grey",
       "pigmentCodes": [
         "PB29",
         "PBr7"
@@ -10830,12 +10833,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-alvaro-s-fresco-grey",
       "brandId": "ds",
-      "name": "Alvaro\u2019s Fresco Grey",
+      "name": "Alvaro’s Fresco Grey",
       "pigmentCodes": [
         "PB29",
         "PV15",
@@ -10848,12 +10851,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-alvaro-s-caliente-grey",
       "brandId": "ds",
-      "name": "Alvaro\u2019s Caliente Grey",
+      "name": "Alvaro’s Caliente Grey",
       "pigmentCodes": [
         "PBr7",
         "PB29",
@@ -10867,12 +10870,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Alvaro-Caliente-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-payne-s-blue-grey",
       "brandId": "ds",
-      "name": "Payne\u2019s Blue Grey",
+      "name": "Payne’s Blue Grey",
       "pigmentCodes": [
         "PB60",
         "PBk6"
@@ -10884,12 +10887,12 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-payne-s-grey",
       "brandId": "ds",
-      "name": "Payne\u2019s Grey",
+      "name": "Payne’s Grey",
       "pigmentCodes": [
         "PB29",
         "PBk9"
@@ -10901,7 +10904,7 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "performance": "Professional",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lamp-black",
@@ -10918,7 +10921,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lamp-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-ivory-black",
@@ -10935,7 +10938,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Ivory-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-lunar-black",
@@ -10952,7 +10955,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Lunar-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-chinese-white",
@@ -10969,7 +10972,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Chinese-white.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "ds-titanium-white",
@@ -10986,7 +10989,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/daniel-smith/DS-Titanium-White.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-crimson-lake",
@@ -11005,7 +11008,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Crimson-Lake.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-alizarin-crimson",
@@ -11057,7 +11060,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Rose-Madder.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-quinacridone-red",
@@ -11074,7 +11077,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Quinacridone-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-pyrrol-rubin",
@@ -11091,7 +11094,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Pyrrole-Rubin.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-perylene-maroon",
@@ -11108,7 +11111,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Perylene-Maroon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-pyrrol-red",
@@ -11125,7 +11128,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Pyrrol-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-quinacridone-scarlet",
@@ -11142,7 +11145,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Quinacridone-Scarlet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-scarlet-lake",
@@ -11161,7 +11164,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Scarlet-Lake.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-opera",
@@ -11179,7 +11182,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Opera.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-brilliant-pink",
@@ -11197,7 +11200,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Brilliant-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-shell-pink",
@@ -11215,7 +11218,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Shell-Pink.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-red-purple",
@@ -11232,7 +11235,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Red-Purple.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-red-deep",
@@ -11249,7 +11252,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Red-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-red-light",
@@ -11267,7 +11270,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Red-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-vermilion",
@@ -11321,7 +11324,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-cadmium-red-orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-brilliant-orange",
@@ -11339,7 +11342,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Brilliant-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-yellow-orange",
@@ -11358,7 +11361,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-yellow-orange",
@@ -11375,7 +11378,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Orange.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-yellow-deep",
@@ -11392,7 +11395,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-yellow-light",
@@ -11409,7 +11412,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-yellow-pale",
@@ -11426,7 +11429,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-cadmium-yellow-pale.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-yellow-lemon",
@@ -11443,7 +11446,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Yellow-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-imidazolone-lemon",
@@ -11460,7 +11463,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Imidazolone-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-imidazolone-yellow",
@@ -11477,7 +11480,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Imidazolone-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-gamboge-nova",
@@ -11513,7 +11516,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Isoindoline-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-quinacridone-gold",
@@ -11531,7 +11534,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Quinacridone-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-yellow-deep",
@@ -11549,7 +11552,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-yellow-light",
@@ -11567,7 +11570,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-aureolin",
@@ -11604,7 +11607,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Yellow-Lemon.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-lemon-yellow",
@@ -11622,7 +11625,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Lemon-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-naples-yellow",
@@ -11660,7 +11663,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Jaun-Brilliant-1.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-jaune-brilliant-no-2",
@@ -11678,7 +11681,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Jaun-Brilliant-2.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-greenish-yellow",
@@ -11697,7 +11700,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Greenish-Yellow.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-olive-green",
@@ -11716,7 +11719,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Olive-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-leaf-green",
@@ -11734,7 +11737,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Leaf-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-green-no-1",
@@ -11753,7 +11756,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Green-1.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-green-no-2",
@@ -11772,7 +11775,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Green-2.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-green-deep",
@@ -11791,7 +11794,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Green-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cadmium-green-pale",
@@ -11809,12 +11812,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cadmium-Green-Pale.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-hooker-s-green",
       "brandId": "holbein",
-      "name": "Hooker\u2019s Green",
+      "name": "Hooker’s Green",
       "pigmentCodes": [
         "PG7",
         "PY110",
@@ -11828,7 +11831,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Hookers-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-bamboo-green",
@@ -11845,7 +11848,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Bamboo-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cobalt-green",
@@ -11864,7 +11867,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cobalt-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-viridian",
@@ -11881,7 +11884,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Viridian.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-viridian-hue",
@@ -11917,7 +11920,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Emerald-Green-nova.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-compose-green",
@@ -11936,7 +11939,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Compose-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-sap-green",
@@ -11973,7 +11976,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Terre-Verte.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-green-grey",
@@ -11992,7 +11995,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Green-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-shadow-green",
@@ -12009,7 +12012,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Shadow-Green.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-phthalo-blue-rs",
@@ -12026,7 +12029,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Phthalo-Blue-RS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-phthalo-blue-ys",
@@ -12043,7 +12046,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Phthalo-Blue-YS.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-marine-blue",
@@ -12061,7 +12064,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Marine-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-turquoise-blue",
@@ -12080,7 +12083,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Turquoise-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cobalt-turquoise-light",
@@ -12097,7 +12100,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cobalt-Turquoise-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-peacock-blue",
@@ -12115,7 +12118,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Peacock-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-manganese-blue-nova",
@@ -12151,7 +12154,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Horizon-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-compose-blue",
@@ -12169,7 +12172,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Compose-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-verditer-blue",
@@ -12187,7 +12190,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Vertider-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cerulean-blue",
@@ -12204,7 +12207,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cerulean-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cobalt-blue",
@@ -12221,7 +12224,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cobalt-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cobalt-blue-hue",
@@ -12256,7 +12259,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Ultramarine-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-ultramarine-deep",
@@ -12273,7 +12276,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Ultramarine-Deep.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-prussian-blue",
@@ -12290,7 +12293,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Prussian-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-royal-blue",
@@ -12307,7 +12310,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Royal-Blue.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-indigo",
@@ -12345,7 +12348,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-lavender.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-permanent-violet",
@@ -12362,7 +12365,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Permanent-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-mineral-violet",
@@ -12381,7 +12384,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Mineral-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-cobalt-violet-light",
@@ -12398,7 +12401,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Cobalt-Violet-Light.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-lilac",
@@ -12417,7 +12420,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Lilac.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-bright-violet",
@@ -12435,7 +12438,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Bright-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-bright-rose",
@@ -12453,7 +12456,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Bright-Rose.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-quinacridone-magenta-rose-violet",
@@ -12470,7 +12473,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Quinacridone-Magenta.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-quinacridone-violet-perm-magenta",
@@ -12487,7 +12490,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Quinacridone-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-mars-violet",
@@ -12506,7 +12509,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Mars-Violet.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-indian-red",
@@ -12523,7 +12526,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Indian-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-imidazolone-brown",
@@ -12540,7 +12543,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Imidazolone-Brown.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-light-red",
@@ -12557,7 +12560,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Light-Red.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-burnt-sienna",
@@ -12574,7 +12577,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Burnt-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-burnt-umber",
@@ -12591,7 +12594,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Burnt-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-raw-umber",
@@ -12609,7 +12612,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Raw-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-raw-sienna",
@@ -12627,7 +12630,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Raw-Sienna.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-yellow-ochre",
@@ -12644,7 +12647,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Yellow-Ochre.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-yellow-grey",
@@ -12663,7 +12666,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Yellow-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-umber",
@@ -12680,7 +12683,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Umber.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-van-dyck-brown",
@@ -12697,7 +12700,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Vandyke-Brown.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-sepia",
@@ -12732,7 +12735,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Ivory-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-lamp-black",
@@ -12749,7 +12752,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Lamp-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-peach-black",
@@ -12766,7 +12769,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Peach-Black.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-neutral-tint",
@@ -12785,12 +12788,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Neutral-Tint.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-payne-s-grey",
       "brandId": "holbein",
-      "name": "Payne\u2019s Grey",
+      "name": "Payne’s Grey",
       "pigmentCodes": [
         "PBk6",
         "PB15",
@@ -12804,12 +12807,12 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Paynes-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-davy-s-grey",
       "brandId": "holbein",
-      "name": "Davy\u2019s Grey",
+      "name": "Davy’s Grey",
       "pigmentCodes": [
         "PBr7",
         "PBk6",
@@ -12823,7 +12826,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Davys-Grey.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-grey-of-greys",
@@ -12841,7 +12844,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Grey-of-Greys.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-chinese-white",
@@ -12858,7 +12861,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Chinese-White.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-titanium-white",
@@ -12875,7 +12878,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Titanium-White.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-gold",
@@ -12892,7 +12895,7 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Gold.png",
-      "hue": "\u2013"
+      "hue": "–"
     },
     {
       "id": "holbein-silver",
@@ -12909,7 +12912,2347 @@
       "isVegan": true,
       "performance": "Professional",
       "swatchImage": "/uploads/holbein/H-Silver.png",
-      "hue": "\u2013"
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-white",
+      "brandId": "shinhan-pro",
+      "name": "White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#FFFFFF",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-permanent-yellow-light",
+      "brandId": "shinhan-pro",
+      "name": "Permanent Yellow Light",
+      "pigmentCodes": [
+        "PY1"
+      ],
+      "hex": "#F5CC4C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-permanent-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-lemon-yellow",
+      "brandId": "shinhan-pro",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3",
+        "PW6"
+      ],
+      "hex": "#FDF378",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-lemon-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-yellow-green",
+      "brandId": "shinhan-pro",
+      "name": "Yellow Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#A2C45F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-yellow-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-emerald-green-hue",
+      "brandId": "shinhan-pro",
+      "name": "Emerald Green Hue",
+      "pigmentCodes": [
+        "PY3",
+        "PG7",
+        "PW18"
+      ],
+      "hex": "#75B670",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-emerald-green-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-yellow-ochre",
+      "brandId": "shinhan-pro",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42",
+        "PY83"
+      ],
+      "hex": "#C09345",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-yellow-ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-raw-umber",
+      "brandId": "shinhan-pro",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PY42",
+        "PR101"
+      ],
+      "hex": "#7C5737",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-raw-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-permanent-yellow-deep",
+      "brandId": "shinhan-pro",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#ECAF44",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-permanent-yellow-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-orange",
+      "brandId": "shinhan-pro",
+      "name": "Orange",
+      "pigmentCodes": [
+        "PO13"
+      ],
+      "hex": "#DE753B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-jaune-brilliant",
+      "brandId": "shinhan-pro",
+      "name": "Jaune Brilliant",
+      "pigmentCodes": [
+        "PO13",
+        "PW6"
+      ],
+      "hex": "#F1D8B5",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-jaune-brilliant.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-vermilion-hue",
+      "brandId": "shinhan-pro",
+      "name": "Vermilion Hue",
+      "pigmentCodes": [
+        "PO16",
+        "PR48:1"
+      ],
+      "hex": "#DB6646",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-vermilion-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-red",
+      "brandId": "shinhan-pro",
+      "name": "Red",
+      "pigmentCodes": [
+        "PR17"
+      ],
+      "hex": "#C24F5B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-Red.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-bordeaux",
+      "brandId": "shinhan-pro",
+      "name": "Bordeaux",
+      "pigmentCodes": [
+        "PR63:1"
+      ],
+      "hex": "#964258",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-bordeaux.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-red-violet",
+      "brandId": "shinhan-pro",
+      "name": "Red Violet",
+      "pigmentCodes": [
+        "PR81",
+        "PV3"
+      ],
+      "hex": "#9B294C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-red-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-crimson-lake",
+      "brandId": "shinhan-pro",
+      "name": "Crimson Lake",
+      "pigmentCodes": [
+        "PR83",
+        "PR63:1"
+      ],
+      "hex": "#7F3137",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-crimson-lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-vandyke-brown",
+      "brandId": "shinhan-pro",
+      "name": "Vandyke Brown",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#735D45",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-vandyke-brown.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-red-ochre",
+      "brandId": "shinhan-pro",
+      "name": "Red Ochre",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#C77654",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-red-ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-violet",
+      "brandId": "shinhan-pro",
+      "name": "Violet",
+      "pigmentCodes": [
+        "PV3"
+      ],
+      "hex": "#513C68",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-cerulean-blue-hue",
+      "brandId": "shinhan-pro",
+      "name": "Cerulean Blue Hue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#4B87C0",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-cerulean-blue-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-prussian-blue",
+      "brandId": "shinhan-pro",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#17293F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-prussian-blue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-ultramarine",
+      "brandId": "shinhan-pro",
+      "name": "Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#6771AF",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-ultramarine.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-cobalt-blue-hue",
+      "brandId": "shinhan-pro",
+      "name": "Cobalt Blue Hue",
+      "pigmentCodes": [
+        "PB29",
+        "PB15:3"
+      ],
+      "hex": "#5B70B0",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-cobalt-blue-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-viridian-hue",
+      "brandId": "shinhan-pro",
+      "name": "Viridian Hue",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#2E6341",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-viridian-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-sap-green",
+      "brandId": "shinhan-pro",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY2"
+      ],
+      "hex": "#3E5F36",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-sap-green.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pro-peacock-green",
+      "brandId": "shinhan-pro",
+      "name": "Peacock Green",
+      "pigmentCodes": [
+        "PG7",
+        "PB15"
+      ],
+      "hex": "#437D6F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-peacock-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-olive-green",
+      "brandId": "shinhan-pro",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PG8",
+        "PY1",
+        "PY2"
+      ],
+      "hex": "#514D2E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-olive-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-brown",
+      "brandId": "shinhan-pro",
+      "name": "Brown",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#702617",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-brown.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-brown-red",
+      "brandId": "shinhan-pro",
+      "name": "Brown Red",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#8B543D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-brown-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-black",
+      "brandId": "shinhan-pro",
+      "name": "Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#353334",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pro-opera",
+      "brandId": "shinhan-pro",
+      "name": "Opera",
+      "pigmentCodes": [
+        "BR1",
+        "BV11"
+      ],
+      "hex": "#DA6C9F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-opera.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-crimson-lake",
+      "brandId": "shinhan-pwc",
+      "name": "Crimson Lake",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#903347",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-crimson-lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-alizarin-crimson",
+      "brandId": "shinhan-pwc",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR23"
+      ],
+      "hex": "#9B2E40",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Alizarin-Crimson.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-permanent-rose",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#CC4D68",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-carmine",
+      "brandId": "shinhan-pwc",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#AD4651",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-carmine.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-rose-madder",
+      "brandId": "shinhan-pwc",
+      "name": "Rose Madder",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#9E4143",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-rose-madder.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-red",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Red",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-brown-madder",
+      "brandId": "shinhan-pwc",
+      "name": "Brown Madder",
+      "pigmentCodes": [
+        "PR83",
+        "PY83"
+      ],
+      "hex": "#A44338",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-brown-madder.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-scarlet-lake",
+      "brandId": "shinhan-pwc",
+      "name": "Scarlet Lake",
+      "pigmentCodes": [
+        "PR48:1",
+        "PR9"
+      ],
+      "hex": "#DE3B31",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Scarlet-Lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-opera",
+      "brandId": "shinhan-pwc",
+      "name": "Opera",
+      "pigmentCodes": [
+        "BR1"
+      ],
+      "hex": "#DD5D9B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-opera.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-brilliant-pink",
+      "brandId": "shinhan-pwc",
+      "name": "Brilliant Pink",
+      "pigmentCodes": [
+        "PR209",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-shell-pink",
+      "brandId": "shinhan-pwc",
+      "name": "Shell Pink",
+      "pigmentCodes": [
+        "PR9",
+        "PW6"
+      ],
+      "hex": "#FAC0B8",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Shell-Pink.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-red-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-quinacridone-red",
+      "brandId": "shinhan-pwc",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#A83948",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-quinacridone-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-pyrrole-red",
+      "brandId": "shinhan-pwc",
+      "name": "Pyrrole Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-vermilion",
+      "brandId": "shinhan-pwc",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR108",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-vermilion-hue",
+      "brandId": "shinhan-pwc",
+      "name": "Vermilion Hue",
+      "pigmentCodes": [
+        "PO16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-red-orange",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Red Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-brilliant-orange",
+      "brandId": "shinhan-pwc",
+      "name": "Brilliant Orange",
+      "pigmentCodes": [
+        "PO16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-yellow-orange",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Yellow Orange",
+      "pigmentCodes": [
+        "PY83",
+        "PO13"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-yellow-orange",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Yellow Orange",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "hex": "#E69561",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Cadmium-yellow-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-yellow-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-yellow",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Yellow",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-aureolin",
+      "brandId": "shinhan-pwc",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#DFB052",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-aureolin.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-indian-yellow",
+      "brandId": "shinhan-pwc",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY183"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-permanent-yellow-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-yellow-light",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Yellow Light",
+      "pigmentCodes": [
+        "PY1"
+      ],
+      "hex": "#F7CC62",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-lemon-yellow",
+      "brandId": "shinhan-pwc",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY81"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-yellow-light",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#FCE861",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cadmium-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-yellow-pale",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Yellow Pale",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#FDF06E",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cadmium-yellow-pale.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-naples-yellow",
+      "brandId": "shinhan-pwc",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PY35",
+        "PW6"
+      ],
+      "hex": "#FADC87",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-naples-yellow.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-jaune-brilliant-1",
+      "brandId": "shinhan-pwc",
+      "name": "Jaune Brilliant 1",
+      "pigmentCodes": [
+        "PO20",
+        "PY74",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-jaune-brilliant-no-2",
+      "brandId": "shinhan-pwc",
+      "name": "Jaune Brilliant No. 2",
+      "pigmentCodes": [
+        "PO20",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-greenish-yellow",
+      "brandId": "shinhan-pwc",
+      "name": "Greenish Yellow",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-olive-green",
+      "brandId": "shinhan-pwc",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PY83",
+        "PG8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-terre-verte-ys",
+      "brandId": "shinhan-pwc",
+      "name": "Terre Verte (YS)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#B3B769",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-terre-verte-yellow-shade.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-green-pale",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Green Pale",
+      "pigmentCodes": [
+        "PG26",
+        "PY35"
+      ],
+      "hex": "#A8C955",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cadmium-green-light-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-green-light",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Green Light",
+      "pigmentCodes": [
+        "PG7",
+        "PY35"
+      ],
+      "hex": "#A8C955",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cadmium-green-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-leaf-green",
+      "brandId": "shinhan-pwc",
+      "name": "Leaf Green",
+      "pigmentCodes": [
+        "PY74",
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-green-no-1",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Green No. 1",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#A7C954",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-green-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-green-no-2",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Green No. 2",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#5FA95F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-green-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-green-middle",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Green Middle",
+      "pigmentCodes": [
+        "PG26",
+        "PY35"
+      ],
+      "hex": "#6D9A50",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cadmium-green-middle.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-green",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Green",
+      "pigmentCodes": [
+        "PG26",
+        "PY35"
+      ],
+      "hex": "#417445",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Cadmium-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cadmium-green-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Cadmium Green Deep",
+      "pigmentCodes": [
+        "PG26",
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-oxide-of-chromium",
+      "brandId": "shinhan-pwc",
+      "name": "Oxide of Chromium",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#517553",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-oxide-of-chromium.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-phthalo-green-dark",
+      "brandId": "shinhan-pwc",
+      "name": "Phthalo Green Dark",
+      "pigmentCodes": [
+        "PG7",
+        "PBr7"
+      ],
+      "hex": "#314E41",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-phthalo-green-dark.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-terre-verte",
+      "brandId": "shinhan-pwc",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PB28",
+        "PG8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-hookers-green",
+      "brandId": "shinhan-pwc",
+      "name": "Hooker’s Green",
+      "pigmentCodes": [
+        "PG8"
+      ],
+      "hex": "#2C673F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-hookers-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-green-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Green Deep",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#679865",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-green-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cobalt-green",
+      "brandId": "shinhan-pwc",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PY53",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-viridian",
+      "brandId": "shinhan-pwc",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#4C9974",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-viridian.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-viridian-hue",
+      "brandId": "shinhan-pwc",
+      "name": "Viridian Hue",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#30624D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-viridian-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-emerald-green-nova",
+      "brandId": "shinhan-pwc",
+      "name": "Emerald Green Nova",
+      "pigmentCodes": [
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#7DBF8A",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-emeral-green-nova.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-peacock-green",
+      "brandId": "shinhan-pwc",
+      "name": "Peacock Green",
+      "pigmentCodes": [
+        "PG7",
+        "PB15:3"
+      ],
+      "hex": "#25594E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-peacock-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-green-pale",
+      "brandId": "shinhan-pwc",
+      "name": "Green Pale",
+      "pigmentCodes": [
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#A6D0A8",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-green-pale.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-sap-green",
+      "brandId": "shinhan-pwc",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG8"
+      ],
+      "hex": "#53793F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-sap-green.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-shadow-green",
+      "brandId": "shinhan-pwc",
+      "name": "Shadow Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hex": "#2B4240",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-shadow-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-turquoise-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Turquoise Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB28",
+        "PW6"
+      ],
+      "hex": "#52A4B6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-turquoise-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-blue-pale",
+      "brandId": "shinhan-pwc",
+      "name": "Blue Pale",
+      "pigmentCodes": [
+        "PB15",
+        "PW6"
+      ],
+      "hex": "#457B9E",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-blue-pale.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-marine-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Marine Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#2F4D5D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-marine-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-phthalo-blue-rs",
+      "brandId": "shinhan-pwc",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-peacock-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Peacock Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#366B9B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-peacock-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-horizon-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Horizon Blue",
+      "pigmentCodes": [
+        "PB15:4",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-blue-grey",
+      "brandId": "shinhan-pwc",
+      "name": "Blue Grey",
+      "pigmentCodes": [
+        "PB15:3",
+        "PW6"
+      ],
+      "hex": "#5FB1E2",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-blue-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-turquoise-blue-light",
+      "brandId": "shinhan-pwc",
+      "name": "Turquoise Blue Light",
+      "pigmentCodes": [
+        "PB28",
+        "PW18",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-verditer-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB28",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cerulean-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cerulean-blue-hue",
+      "brandId": "shinhan-pwc",
+      "name": "Cerulean Blue Hue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#5396CE",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cerulean-blue-hue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-cobalt-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cobalt-blue-hue",
+      "brandId": "shinhan-pwc",
+      "name": "Cobalt Blue Hue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-ultramarine-light",
+      "brandId": "shinhan-pwc",
+      "name": "Ultramarine Light",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-ultramarine-deep",
+      "brandId": "shinhan-pwc",
+      "name": "Ultramarine Deep",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-prussian-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-royal-blue",
+      "brandId": "shinhan-pwc",
+      "name": "Royal Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PB66"
+      ],
+      "hex": "#334563",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-Royal-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-indigo",
+      "brandId": "shinhan-pwc",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB66"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-lavender",
+      "brandId": "shinhan-pwc",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PB28",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-ultramarine-violet",
+      "brandId": "shinhan-pwc",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#7966A1",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-ultramarine-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-violet",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Violet",
+      "pigmentCodes": [
+        "PV3"
+      ],
+      "hex": "#5A4588",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-mineral-violet",
+      "brandId": "shinhan-pwc",
+      "name": "Mineral Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-cobalt-violet-light",
+      "brandId": "shinhan-pwc",
+      "name": "Cobalt Violet Light",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#86579D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-cobalt-violet-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-lilac",
+      "brandId": "shinhan-pwc",
+      "name": "Lilac",
+      "pigmentCodes": [
+        "PR122",
+        "PV23",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-purple-grey",
+      "brandId": "shinhan-pwc",
+      "name": "Purple Grey",
+      "pigmentCodes": [
+        "PR122",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-bright-violet",
+      "brandId": "shinhan-pwc",
+      "name": "Bright Violet",
+      "pigmentCodes": [
+        "BV11"
+      ],
+      "hex": "#94488D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-bright-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-bright-rose",
+      "brandId": "shinhan-pwc",
+      "name": "Bright Rose",
+      "pigmentCodes": [
+        "BR12"
+      ],
+      "hex": "#CC4683",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-bright-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-permanent-magenta",
+      "brandId": "shinhan-pwc",
+      "name": "Permanent Magenta",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#8A4055",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-permanent-magenta.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-light-red",
+      "brandId": "shinhan-pwc",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#B34E30",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-light-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-burnt-sienna",
+      "brandId": "shinhan-pwc",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#9C4D2D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-burnt-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-brown",
+      "brandId": "shinhan-pwc",
+      "name": "Brown",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#833D2B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-brown.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-brown-red",
+      "brandId": "shinhan-pwc",
+      "name": "Brown Red",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#502E28",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-brown-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-burnt-umber",
+      "brandId": "shinhan-pwc",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#584240",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-burnt-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-raw-umber",
+      "brandId": "shinhan-pwc",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#895D4C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-raw-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-raw-sienna",
+      "brandId": "shinhan-pwc",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#AD774E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-raw-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-yellow-ochre",
+      "brandId": "shinhan-pwc",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#C18E60",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-yellow-Ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-umber",
+      "brandId": "shinhan-pwc",
+      "name": "Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#50462A",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-vandyke-brown-1",
+      "brandId": "shinhan-pwc",
+      "name": "Vandyke Brown 1",
+      "pigmentCodes": [
+        "NBr8"
+      ],
+      "hex": "#5C4A46",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-vandyke-brown-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-vandyke-brown-2",
+      "brandId": "shinhan-pwc",
+      "name": "Vandyke Brown 2",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#53403D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-vandyke-brown-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-sepia",
+      "brandId": "shinhan-pwc",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PR101",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "Hue"
+    },
+    {
+      "id": "shinhan-pwc-ivory-black",
+      "brandId": "shinhan-pwc",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#313133",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-ivory-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-peach-black",
+      "brandId": "shinhan-pwc",
+      "name": "Peach Black",
+      "pigmentCodes": [
+        "PBk1"
+      ],
+      "hex": "#313133",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-peach-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-neutral-tint",
+      "brandId": "shinhan-pwc",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PB66",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-paynes-grey",
+      "brandId": "shinhan-pwc",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PB66",
+        "PBk31"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-grey",
+      "brandId": "shinhan-pwc",
+      "name": "Grey",
+      "pigmentCodes": [
+        "PBk7",
+        "PW6"
+      ],
+      "hex": "#C7CBCF",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-davys-grey",
+      "brandId": "shinhan-pwc",
+      "name": "Davy’s Grey",
+      "pigmentCodes": [
+        "PBk31",
+        "PG17",
+        "PW6"
+      ],
+      "hex": "#99A69B",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-davys-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-titanium-white",
+      "brandId": "shinhan-pwc",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#FFFFFF",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-titanium-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "shinhan-pwc-chinese-white",
+      "brandId": "shinhan-pwc",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#FFFFFF",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/shinhan-pwc/SPWC-chinese-white.png",
+      "hue": "–"
     }
   ]
 }

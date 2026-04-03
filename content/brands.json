@@ -232,17 +232,19 @@
       "id": "shinhan-pro",
       "name": "ShinHan Pro (Students)",
       "logo": "SP",
-      "description": "",
+      "description": "ShinHan Pro is a student‑grade watercolor range from South Korea, offering a broad palette at an accessible price point for learners and everyday practice.",
       "website": "#",
-      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7",
+      "status": "Student"
     },
     {
       "id": "shinhan-pwc",
       "name": "ShinHan PWC (Artist's)",
       "logo": "PWC",
-      "description": "",
+      "description": "ShinHan PWC (Professional Water Colour) is the artist‑grade line from South Korea, known for strong pigment strength and a wide, traditional palette.",
       "website": "#",
-      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7",
+      "status": "Professional"
     },
     {
       "id": "turner",
