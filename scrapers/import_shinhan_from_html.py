@@ -107,6 +107,7 @@ def main() -> int:
     parser.add_argument("--performance", required=True, choices=["Professional", "Student"])
     parser.add_argument("--uploads-dir", required=True)
     parser.add_argument("--paints", default="content/paints.json")
+    parser.add_argument("--update-missing", action="store_true", help="Only update missing swatches for existing paints")
     args = parser.parse_args()
 
     html_path = Path(args.html)
@@ -134,6 +135,12 @@ def main() -> int:
 
     paints = paints_data.get("items", [])
     existing_ids = {p["id"] for p in paints}
+    by_name = {}
+    for p in paints:
+        if p.get("brandId") == args.brand_id:
+            key = p.get("name", "").strip().lower()
+            if key:
+                by_name.setdefault(key, p)
 
     added = 0
     for row in table.find_all("tr")[1:]:
@@ -159,8 +166,10 @@ def main() -> int:
         color_cell = tds[header_index["Color"]]
         img = color_cell.find("img")
         swatch_path = None
+        swatch_url = None
         if img:
-            src = (img.get("src") or img.get("data-src") or "").strip()
+            src = (img.get("src") or "").strip().strip("\"'")
+            data_src = (img.get("data-src") or "").strip().strip("\"'")
             if src.startswith("./"):
                 local_path = html_path.parent / src
                 if local_path.exists():
@@ -168,16 +177,30 @@ def main() -> int:
                     if not dest.exists():
                         dest.write_bytes(local_path.read_bytes())
                     swatch_path = f"/uploads/{uploads_dir.name}/{dest.name}"
+                    swatch_url = swatch_path
                     hex_value = avg_hex(dest)
                 else:
+                    swatch_url = data_src or None
                     hex_value = "#E6D9C6"
             else:
+                swatch_url = src or data_src
                 hex_value = "#E6D9C6"
         else:
             hex_value = "#E6D9C6"
 
         base_id = f"{args.brand_id}-{slugify(name)}"
         paint_id = make_unique_id(base_id, existing_ids)
+
+        if args.update_missing:
+            existing = by_name.get(name.lower())
+            if not existing:
+                continue
+            if not existing.get("swatchImage") and (swatch_path or swatch_url):
+                existing["swatchImage"] = swatch_path or swatch_url
+                if existing.get("hex") in {None, "#E6D9C6"} and swatch_path:
+                    existing["hex"] = hex_value
+                added += 1
+            continue
 
         paint = {
             "id": paint_id,
@@ -191,7 +214,7 @@ def main() -> int:
             "lightfastness": light if light and light != "–" else "Unknown",
             "isVegan": True if vegan_text.upper() == "V" else False,
             "performance": args.performance,
-            "swatchImage": swatch_path,
+            "swatchImage": swatch_path or swatch_url,
             "hue": hue if hue and hue != "–" else "–",
         }
 

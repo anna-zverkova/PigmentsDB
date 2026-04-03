@@ -159,9 +159,10 @@
       "id": "mijello",
       "name": "Mijello Mission Gold",
       "logo": "MMG",
-      "description": "",
+      "description": "Mijello Mission Gold is a professional Korean watercolor line known for vibrant, clean pigments and smooth handling.",
       "website": "#",
-      "country": "South Korea \ud83c\uddf0\ud83c\uddf7"
+      "country": "South Korea \ud83c\uddf0\ud83c\uddf7",
+      "status": "Professional"
     },
     {
       "id": "old-holland",
@@ -266,9 +267,10 @@
       "id": "van-gogh",
       "name": "Van Gogh",
       "logo": "VG",
-      "description": "",
+      "description": "Van Gogh is a student‑grade line by Royal Talens, offering reliable, affordable watercolors for learning and practice.",
       "website": "#",
-      "country": "The Netherlands \ud83c\uddf3\ud83c\uddf1"
+      "country": "The Netherlands \ud83c\uddf3\ud83c\uddf1",
+      "status": "Student"
     },
     {
       "id": "white-nights",

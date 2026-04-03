@@ -15253,6 +15253,3574 @@
       "performance": "Professional",
       "swatchImage": "/uploads/shinhan-pwc/SPWC-chinese-white.png",
       "hue": "–"
+    },
+    {
+      "id": "mijello-nickel-titanium-yellow",
+      "brandId": "mijello",
+      "name": "Nickel Titanium Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#FFFB66",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-nickel-titanium-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-lemon-yellow",
+      "brandId": "mijello",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#F5EB9D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-lemon-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-quinophthalone-yellow-light",
+      "brandId": "mijello",
+      "name": "Quinophthalone Yellow Light",
+      "pigmentCodes": [
+        "PY138"
+      ],
+      "hex": "#F5F4AD",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-quinopthalone-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-aureolin",
+      "brandId": "mijello",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY3",
+        "PBr25"
+      ],
+      "hex": "#F4E57F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-aureolin.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-permanent-yellow-light",
+      "brandId": "mijello",
+      "name": "Permanent Yellow Light",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#F4E786",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-yellow",
+      "brandId": "mijello",
+      "name": "Cobalt Yellow",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#FCF48E",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-gamboge",
+      "brandId": "mijello",
+      "name": "Gamboge",
+      "pigmentCodes": [
+        "PY154",
+        "PO73",
+        "PBr7"
+      ],
+      "hex": "#F3E477",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-gamboge.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-indian-yellow",
+      "brandId": "mijello",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY150",
+        "PY64",
+        "PBr25"
+      ],
+      "hex": "#E3B659",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-indian-yellow.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-permanent-yellow-deep",
+      "brandId": "mijello",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY65"
+      ],
+      "hex": "#E9CF68",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-yellow-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-naples-yellow-deep",
+      "brandId": "mijello",
+      "name": "Naples Yellow Deep",
+      "pigmentCodes": [
+        "PY42",
+        "PY65",
+        "PO73"
+      ],
+      "hex": "#EAC56D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-naples-yellow-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-orange",
+      "brandId": "mijello",
+      "name": "Yellow Orange",
+      "pigmentCodes": [
+        "PO73",
+        "PY65"
+      ],
+      "hex": "#E2AA5A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Yellow-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-orange",
+      "brandId": "mijello",
+      "name": "Orange",
+      "pigmentCodes": [
+        "PO73",
+        "PY65"
+      ],
+      "hex": "#D36A47",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-autumn-orange",
+      "brandId": "mijello",
+      "name": "Autumn Orange",
+      "pigmentCodes": [
+        "PO36"
+      ],
+      "hex": "#D64F37",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-autumn-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-red-orange",
+      "brandId": "mijello",
+      "name": "Red Orange",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E0683F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-red-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-autumn-red",
+      "brandId": "mijello",
+      "name": "Autumn Red",
+      "pigmentCodes": [
+        "PY150",
+        "PR254"
+      ],
+      "hex": "#DD613E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-autumn-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-quinacridone-red",
+      "brandId": "mijello",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PR207"
+      ],
+      "hex": "#BE5057",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-quinacridone-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-scarlet-lake",
+      "brandId": "mijello",
+      "name": "Scarlet Lake",
+      "pigmentCodes": [
+        "PR112"
+      ],
+      "hex": "#DB4D35",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-scarlet-lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-vermilion",
+      "brandId": "mijello",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR112",
+        "PO73"
+      ],
+      "hex": "#DB543F",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-vermilion.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-permanent-red",
+      "brandId": "mijello",
+      "name": "Permanent Red",
+      "pigmentCodes": [
+        "PR112"
+      ],
+      "hex": "#D64037",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-permanent-red-deep",
+      "brandId": "mijello",
+      "name": "Permanent Red Deep",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#D2595C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-red-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cherry-red",
+      "brandId": "mijello",
+      "name": "Cherry Red",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#D66564",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Cherry-Red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-light-red",
+      "brandId": "mijello",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PBr25",
+        "PR112",
+        "PY150"
+      ],
+      "hex": "#A53D2F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-light-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-perylene-maroon",
+      "brandId": "mijello",
+      "name": "Perylene Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#9A3032",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-perylene-maroon.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-rose-madder",
+      "brandId": "mijello",
+      "name": "Rose Madder",
+      "pigmentCodes": [
+        "PR176"
+      ],
+      "hex": "#A23C4E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-rose-madder.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-crimson-lake",
+      "brandId": "mijello",
+      "name": "Crimson Lake",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#984B62",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Crimson-Lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-bright-opera",
+      "brandId": "mijello",
+      "name": "Bright Opera",
+      "pigmentCodes": [
+        "BV10",
+        "PR122"
+      ],
+      "hex": "#D8559C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bright-opera.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-compose-opera",
+      "brandId": "mijello",
+      "name": "Compose Opera",
+      "pigmentCodes": [
+        "PV19",
+        "PW6",
+        "PR122"
+      ],
+      "hex": "#BC3A58",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-compose-opera.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-compose-rose",
+      "brandId": "mijello",
+      "name": "Compose Rose",
+      "pigmentCodes": [
+        "PR122",
+        "PW6"
+      ],
+      "hex": "#BF3E70",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-compose-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-permanent-rose",
+      "brandId": "mijello",
+      "name": "Permanent Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#CF5176",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Permanent-Rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-bright-rose",
+      "brandId": "mijello",
+      "name": "Bright Rose",
+      "pigmentCodes": [
+        "BV7",
+        "BV10",
+        "PR122"
+      ],
+      "hex": "#CF427E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bright-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-burgundy-red",
+      "brandId": "mijello",
+      "name": "Burgundy Red",
+      "pigmentCodes": [
+        "PR177"
+      ],
+      "hex": "#9D2E35",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-burgundy-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-rubine",
+      "brandId": "mijello",
+      "name": "Rubine",
+      "pigmentCodes": [
+        "PR254",
+        "PR122"
+      ],
+      "hex": "#BC3A45",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-rubine.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-permanent-alizarin-crimson",
+      "brandId": "mijello",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PV19",
+        "PR179",
+        "PR122"
+      ],
+      "hex": "#AA2D3F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-alizarin-crimson.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-permanent-magenta",
+      "brandId": "mijello",
+      "name": "Permanent Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#C14E88",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Permanent-Magenta.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-quinacridone-violet",
+      "brandId": "mijello",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#6E2F43",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-quinacridone-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-red-violet",
+      "brandId": "mijello",
+      "name": "Red Violet",
+      "pigmentCodes": [
+        "PR122",
+        "PB29"
+      ],
+      "hex": "#84244F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-red-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-bright-violet",
+      "brandId": "mijello",
+      "name": "Bright Violet",
+      "pigmentCodes": [
+        "BV7",
+        "PR122",
+        "PV15"
+      ],
+      "hex": "#872876",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bright-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-violet-brilliant-light",
+      "brandId": "mijello",
+      "name": "Cobalt Violet Brilliant Light",
+      "pigmentCodes": [
+        "PV102"
+      ],
+      "hex": "#A336BE",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-violet-brilliant-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-compose-violet",
+      "brandId": "mijello",
+      "name": "Compose Violet",
+      "pigmentCodes": [
+        "PB15:3",
+        "PR122"
+      ],
+      "hex": "#533F77",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-copose-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-violet-lake",
+      "brandId": "mijello",
+      "name": "Violet Lake",
+      "pigmentCodes": [
+        "PB15:3",
+        "PR177"
+      ],
+      "hex": "#4C2E33",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-violet-lake.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-dioxazine-violet",
+      "brandId": "mijello",
+      "name": "Dioxazine Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#342467",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-dioxazine-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-bright-clear-violet",
+      "brandId": "mijello",
+      "name": "Bright Clear Violet",
+      "pigmentCodes": [
+        "PV3:1",
+        "PB29",
+        "PR122"
+      ],
+      "hex": "#5C3B85",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bright-clear-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-ultramarine-violet-no-2",
+      "brandId": "mijello",
+      "name": "Ultramarine Violet No. 2",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#5A43A1",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-ultramarine-violet-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-ultramarine-violet",
+      "brandId": "mijello",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15",
+        "PB15:3",
+        "PR122"
+      ],
+      "hex": "#584A92",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-ultramarine-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-compose-violet-deep",
+      "brandId": "mijello",
+      "name": "Compose Violet Deep",
+      "pigmentCodes": [
+        "PB15:3",
+        "PR122"
+      ],
+      "hex": "#393068",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-compose-violet-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-shadow-violet",
+      "brandId": "mijello",
+      "name": "Shadow Violet",
+      "pigmentCodes": [
+        "PG7",
+        "PR122"
+      ],
+      "hex": "#373F5A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-shadow-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-blue-violet",
+      "brandId": "mijello",
+      "name": "Blue Violet",
+      "pigmentCodes": [
+        "PB29",
+        "PR122"
+      ],
+      "hex": "#2D2975",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-blue-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-paynes-grey",
+      "brandId": "mijello",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PB15:3",
+        "PV19",
+        "PBk7"
+      ],
+      "hex": "#293144",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-paynes-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-ultramarine-blue-deep",
+      "brandId": "mijello",
+      "name": "Ultramarine Blue Deep",
+      "pigmentCodes": [
+        "PB29",
+        "PV15"
+      ],
+      "hex": "#1138CF",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-ultramarine-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-indanthrone-blue",
+      "brandId": "mijello",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#1E275F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-indanthrone-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-mijello-blue",
+      "brandId": "mijello",
+      "name": "Mijello Blue",
+      "pigmentCodes": [
+        "PB27",
+        "PR202"
+      ],
+      "hex": "#3B4987",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-mijello-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-blue-no-1",
+      "brandId": "mijello",
+      "name": "Cobalt Blue No. 1",
+      "pigmentCodes": [
+        "PB29",
+        "PB15:3"
+      ],
+      "hex": "#0F307E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-blue-1.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-marine-blue",
+      "brandId": "mijello",
+      "name": "Marine Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7"
+      ],
+      "hex": "#20477F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-marine-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cerulean-blue",
+      "brandId": "mijello",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#2153C2",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cerulean-blue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-cobalt-cerulean-blue",
+      "brandId": "mijello",
+      "name": "Cobalt Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#2352D1",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-cerulean-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-cerulean-blue-deep",
+      "brandId": "mijello",
+      "name": "Cobalt Cerulean Blue Deep",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#335199",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-cerulean-blue-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-manganese-blue",
+      "brandId": "mijello",
+      "name": "Manganese Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PW6"
+      ],
+      "hex": "#54ABF1",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-manganese-blue.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-cobalt-blue-no-2",
+      "brandId": "mijello",
+      "name": "Cobalt Blue No. 2",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#556FE8",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-blue-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-ultramarine-light",
+      "brandId": "mijello",
+      "name": "Ultramarine Light",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#113BD7",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-ultramarine-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-prussian-blue",
+      "brandId": "mijello",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#354684",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-prussian-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-phthalocyanine-blue",
+      "brandId": "mijello",
+      "name": "Phthalocyanine Blue",
+      "pigmentCodes": [
+        "PB15:6"
+      ],
+      "hex": "#283F7D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-Phthalocyanine-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-peacock-blue",
+      "brandId": "mijello",
+      "name": "Peacock Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7"
+      ],
+      "hex": "#173F8E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-peacock-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-greenish-blue",
+      "brandId": "mijello",
+      "name": "Greenish Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG36"
+      ],
+      "hex": "#224E8C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-greenish-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-indigo",
+      "brandId": "mijello",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB29",
+        "PB27",
+        "PBk7"
+      ],
+      "hex": "#1B2E44",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-indigo.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-prussian-green",
+      "brandId": "mijello",
+      "name": "Prussian Green",
+      "pigmentCodes": [
+        "PB27",
+        "PG7"
+      ],
+      "hex": "#245670",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-prussian-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-shadow-green",
+      "brandId": "mijello",
+      "name": "Shadow Green",
+      "pigmentCodes": [
+        "PG7",
+        "PBk7"
+      ],
+      "hex": "#48615C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-shadow-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-van-dyke-green",
+      "brandId": "mijello",
+      "name": "Van Dyke Green",
+      "pigmentCodes": [
+        "PG7",
+        "PBr25"
+      ],
+      "hex": "#346F5C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-van-dyke-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-chromium-oxide-green",
+      "brandId": "mijello",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY42",
+        "PW6"
+      ],
+      "hex": "#5DBD7C",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-chromium-oxide-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-green-deep",
+      "brandId": "mijello",
+      "name": "Cobalt Green Deep",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#264047",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-green-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-viridian",
+      "brandId": "mijello",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#27553C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-viridian.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-bamboo-green",
+      "brandId": "mijello",
+      "name": "Bamboo Green",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#2E683D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bamboo-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-turquoise",
+      "brandId": "mijello",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#68BEB8",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-turquoise.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-turquoise-v2",
+      "brandId": "mijello",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB28",
+        "PY3",
+        "PW6"
+      ],
+      "hex": "#68BEB8",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-turquoise-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-hookers-green",
+      "brandId": "mijello",
+      "name": "Hooker’s Green",
+      "pigmentCodes": [
+        "PG36",
+        "PBr25",
+        "PY150"
+      ],
+      "hex": "#2C5E34",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-hookers-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-sap-green",
+      "brandId": "mijello",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY150"
+      ],
+      "hex": "#57914F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-sap-green.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-permanent-green-no-1",
+      "brandId": "mijello",
+      "name": "Permanent Green No. 1",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#77C275",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-green-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-permanent-green-no-2",
+      "brandId": "mijello",
+      "name": "Permanent Green No. 2",
+      "pigmentCodes": [
+        "PY3",
+        "PY65",
+        "PG7"
+      ],
+      "hex": "#77C07B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-permanent-green-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-green",
+      "brandId": "mijello",
+      "name": "Yellow Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY3"
+      ],
+      "hex": "#95DD7F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellow-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-leaf-green",
+      "brandId": "mijello",
+      "name": "Leaf Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#C7F18F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-leaf-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-greenish-yellow",
+      "brandId": "mijello",
+      "name": "Greenish Yellow",
+      "pigmentCodes": [
+        "PY150",
+        "PG36",
+        "PY65"
+      ],
+      "hex": "#CBCA5E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-greenish-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-olive-green",
+      "brandId": "mijello",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY150",
+        "PR112",
+        "PRb25"
+      ],
+      "hex": "#658D4C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-olive-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-ochre-no-1",
+      "brandId": "mijello",
+      "name": "Yellow Ochre No. 1",
+      "pigmentCodes": [
+        "PY42",
+        "PY150"
+      ],
+      "hex": "#D1A856",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellow-ochre-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-ochre-no-2",
+      "brandId": "mijello",
+      "name": "Yellow Ochre No. 2",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E1BB6D",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellow-ochre-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-ochre-light",
+      "brandId": "mijello",
+      "name": "Yellow Ochre Light",
+      "pigmentCodes": [
+        "PBr24"
+      ],
+      "hex": "#F7D386",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellow-ochre-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-gold-brown",
+      "brandId": "mijello",
+      "name": "Gold Brown",
+      "pigmentCodes": [
+        "PBr25",
+        "PY65"
+      ],
+      "hex": "#8E5131",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-gold-brown.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-green-gold",
+      "brandId": "mijello",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E0C264",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-green-gold.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-gold-ochre",
+      "brandId": "mijello",
+      "name": "Gold Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#D5BF7A",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-gold-ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-brown-ochre",
+      "brandId": "mijello",
+      "name": "Brown Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#C09F7D",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-brown-ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-raw-sienna",
+      "brandId": "mijello",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PY42",
+        "PY65",
+        "PBr25"
+      ],
+      "hex": "#C38149",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-raw-sienna.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-raw-sienna-no-2",
+      "brandId": "mijello",
+      "name": "Raw Sienna No. 2",
+      "pigmentCodes": [
+        "PY42",
+        "PBr25",
+        "PBk7"
+      ],
+      "hex": "#8C6A42",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-raw-sienna-2.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-burnt-sienna",
+      "brandId": "mijello",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr25",
+        "PR112",
+        "PY150"
+      ],
+      "hex": "#9F5236",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-burnt-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-burnt-sienna-no-2",
+      "brandId": "mijello",
+      "name": "Burnt Sienna No. 2",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#8B6449",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-burnt-sienna-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-dark-burnt-sienna",
+      "brandId": "mijello",
+      "name": "Dark Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#9E4831",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-dark-burnt-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-indian-red",
+      "brandId": "mijello",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#A64F45",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-indian-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-red-brown",
+      "brandId": "mijello",
+      "name": "Red Brown",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#6A3C34",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-red-brown.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-burnt-umber",
+      "brandId": "mijello",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PBr25",
+        "PY150"
+      ],
+      "hex": "#714F3E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-burnt-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-raw-umber",
+      "brandId": "mijello",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY65"
+      ],
+      "hex": "#7E5938",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-raw-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-van-dyke-brown",
+      "brandId": "mijello",
+      "name": "Van Dyke Brown",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#645043",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-van-dyke-brown.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-sepia",
+      "brandId": "mijello",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk6"
+      ],
+      "hex": "#423B35",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-sepia.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-van-dyke-brown-deep",
+      "brandId": "mijello",
+      "name": "Van Dyke Brown Deep",
+      "pigmentCodes": [
+        "PBr29"
+      ],
+      "hex": "#533B2B",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-van-dyke-brown-deep.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-neutral-tint",
+      "brandId": "mijello",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PB27",
+        "PBk7",
+        "PR122"
+      ],
+      "hex": "#545358",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-neutral-tint.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-black",
+      "brandId": "mijello",
+      "name": "Cobalt Black",
+      "pigmentCodes": [
+        "PBk27"
+      ],
+      "hex": "#404244",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "Unknown",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-ivory-black",
+      "brandId": "mijello",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#50504E",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-ivory-black.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-naples-yellow",
+      "brandId": "mijello",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PY154",
+        "PY65",
+        "PW6"
+      ],
+      "hex": "#F9EA7B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-naples-yellow.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-jaune-brilliant-no-1",
+      "brandId": "mijello",
+      "name": "Jaune Brilliant No. 1",
+      "pigmentCodes": [
+        "PO73",
+        "PY65",
+        "PW6"
+      ],
+      "hex": "#F5DF95",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-jaune-brilliant-1.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-jaune-brilliant-no-2",
+      "brandId": "mijello",
+      "name": "Jaune Brilliant No. 2",
+      "pigmentCodes": [
+        "PO73",
+        "PBr7",
+        "PW6",
+        "PY65"
+      ],
+      "hex": "#F6E1B3",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-jaune-brilliant-2.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-shell-pink",
+      "brandId": "mijello",
+      "name": "Shell Pink",
+      "pigmentCodes": [
+        "PO73",
+        "PW6"
+      ],
+      "hex": "#EFCDB8",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-shell-pink.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-brilliant-pink",
+      "brandId": "mijello",
+      "name": "Brilliant Pink",
+      "pigmentCodes": [
+        "PR209",
+        "PW6"
+      ],
+      "hex": "#E7AEC5",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-brilliant-pink.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-lilac",
+      "brandId": "mijello",
+      "name": "Lilac",
+      "pigmentCodes": [
+        "PV15",
+        "PR122",
+        "PW6"
+      ],
+      "hex": "#C77DC3",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-lilac.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-violet-grey",
+      "brandId": "mijello",
+      "name": "Violet Grey",
+      "pigmentCodes": [
+        "PV15",
+        "PR202",
+        "PR122",
+        "PW6"
+      ],
+      "hex": "#A56296",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-violet-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-lavender",
+      "brandId": "mijello",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#97A1CF",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-lavender.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-verditer-blue",
+      "brandId": "mijello",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB28",
+        "PW6"
+      ],
+      "hex": "#8B97CC",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-verditer-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-blue-grey",
+      "brandId": "mijello",
+      "name": "Blue Grey",
+      "pigmentCodes": [
+        "PB28",
+        "PW6",
+        "PB15:3"
+      ],
+      "hex": "#84B3D1",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-blue-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-horizon-blue",
+      "brandId": "mijello",
+      "name": "Horizon Blue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PY3",
+        "PW6"
+      ],
+      "hex": "#8CCFD1",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-horizon-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-compose-blue",
+      "brandId": "mijello",
+      "name": "Compose Blue",
+      "pigmentCodes": [
+        "PG36",
+        "PB15:3",
+        "PW6"
+      ],
+      "hex": "#81BDB6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-compose-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-turquoise-blue",
+      "brandId": "mijello",
+      "name": "Turquoise Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB15:3",
+        "PW6"
+      ],
+      "hex": "#3E8191",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-turquoise-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-cobalt-green",
+      "brandId": "mijello",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#74BEAC",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-cobalt-green.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "mijello-green-grey",
+      "brandId": "mijello",
+      "name": "Green Grey",
+      "pigmentCodes": [
+        "PG36",
+        "PBr7",
+        "PW6"
+      ],
+      "hex": "#546F58",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-green-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-emerald-green",
+      "brandId": "mijello",
+      "name": "Emerald Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7",
+        "PW6"
+      ],
+      "hex": "#45884C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-emerald-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-melon-green",
+      "brandId": "mijello",
+      "name": "Melon Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY3",
+        "PW6"
+      ],
+      "hex": "#9BE393",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-melon-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-davys-grey",
+      "brandId": "mijello",
+      "name": "Davy’s Grey",
+      "pigmentCodes": [
+        "PY3",
+        "PBk7",
+        "PW6",
+        "PB27"
+      ],
+      "hex": "#828E81",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-davys-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellow-grey",
+      "brandId": "mijello",
+      "name": "Yellow Grey",
+      "pigmentCodes": [
+        "PY154",
+        "PBk7",
+        "PW6",
+        "PBr7"
+      ],
+      "hex": "#C5C4BA",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellow-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-grey-of-grey",
+      "brandId": "mijello",
+      "name": "Grey of Grey",
+      "pigmentCodes": [
+        "PBk7",
+        "PW6",
+        "PB60"
+      ],
+      "hex": "#C2C4C1",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-grey-of-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-chinese-white",
+      "brandId": "mijello",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#ACBCC4",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-chinese-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-titanium-white",
+      "brandId": "mijello",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#CFDBE0",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-titanium-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-bluish-pearl",
+      "brandId": "mijello",
+      "name": "Bluish Pearl",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#3B8491",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-bluish-pearl.png",
+      "hue": "–"
+    },
+    {
+      "id": "mijello-yellowish-pearl",
+      "brandId": "mijello",
+      "name": "Yellowish Pearl",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#393913",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/mijello/MJ-yellowish-pearl.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-opaque-white",
+      "brandId": "van-gogh",
+      "name": "Opaque White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#D3DBDF",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-opaque-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-chinese-white",
+      "brandId": "van-gogh",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#B2BFCA",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-chinese-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-titanium-buff",
+      "brandId": "van-gogh",
+      "name": "Titanium Buff",
+      "pigmentCodes": [
+        "PW6",
+        "PBr7"
+      ],
+      "hex": "#DED2C5",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-titanium-buff.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-lemon-yellow",
+      "brandId": "van-gogh",
+      "name": "Permanent Lemon Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#F0E47A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-lemon-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-transparent-yellow-medium",
+      "brandId": "van-gogh",
+      "name": "Transparent Yellow Medium",
+      "pigmentCodes": [
+        "PY128"
+      ],
+      "hex": "#F0E079",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-transparent-yellow-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-azo-yellow-light",
+      "brandId": "van-gogh",
+      "name": "Azo Yellow Light",
+      "pigmentCodes": [
+        "PY154",
+        "PW6"
+      ],
+      "hex": "#F9DC4F",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Azo-yellow-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-azo-yellow-medium",
+      "brandId": "van-gogh",
+      "name": "Azo Yellow Medium",
+      "pigmentCodes": [
+        "PY154",
+        "PO62"
+      ],
+      "hex": "#F6CB49",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Azo-yellow-medium.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-azo-yellow-deep",
+      "brandId": "van-gogh",
+      "name": "Azo Yellow Deep",
+      "pigmentCodes": [
+        "PY154",
+        "PO43"
+      ],
+      "hex": "#F2B947",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Azo-yellow-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-gamboge",
+      "brandId": "van-gogh",
+      "name": "Gamboge",
+      "pigmentCodes": [
+        "PY154",
+        "PR101"
+      ],
+      "hex": "#F6C953",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-gamboge.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-indian-yellow",
+      "brandId": "van-gogh",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#F2B945",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-indian-yellow.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-naples-yellow-red",
+      "brandId": "van-gogh",
+      "name": "Naples Yellow Red",
+      "pigmentCodes": [
+        "PY42",
+        "PO43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "https://web.archive.org/web/20240616052647/http://otokano.com/wp-content/uploads/2022/05/VG-naples-yellow-red.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-permanent-orange",
+      "brandId": "van-gogh",
+      "name": "Permanent Orange",
+      "pigmentCodes": [
+        "PY154",
+        "PO73"
+      ],
+      "hex": "#EA9B40",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-pyrrole-orange",
+      "brandId": "van-gogh",
+      "name": "Pyrrole Orange",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E06336",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-pyrrole-orange.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-vermilion",
+      "brandId": "van-gogh",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR254",
+        "PR154"
+      ],
+      "hex": "#E06036",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-vermilion.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-permanent-red-light",
+      "brandId": "van-gogh",
+      "name": "Permanent Red Light",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#DB3C32",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-red-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-red-deep",
+      "brandId": "van-gogh",
+      "name": "Permanent Red Deep",
+      "pigmentCodes": [
+        "PR254",
+        "PV19"
+      ],
+      "hex": "#DB3A32",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-red-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-madder-lake-light",
+      "brandId": "van-gogh",
+      "name": "Madder Lake Light",
+      "pigmentCodes": [
+        "PR264",
+        "PR254"
+      ],
+      "hex": "#DD5768",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-madder-lake-light.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-madder-lake-deep",
+      "brandId": "van-gogh",
+      "name": "Madder Lake Deep",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#D9373B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-madder-lake-deep.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-carmine",
+      "brandId": "van-gogh",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR176"
+      ],
+      "hex": "#D13537",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-carmine.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-quinacridone-rose",
+      "brandId": "van-gogh",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#DA3778",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-quinacridone-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-rose",
+      "brandId": "van-gogh",
+      "name": "Rose",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#D44E95",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-rose.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-red-violet",
+      "brandId": "van-gogh",
+      "name": "Permanent Red VIolet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#D53357",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-red-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-blue-violet",
+      "brandId": "van-gogh",
+      "name": "Permanent Blue Violet",
+      "pigmentCodes": [
+        "PV19",
+        "PB29"
+      ],
+      "hex": "#59368C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-blue-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-quinacridone-purple-red",
+      "brandId": "van-gogh",
+      "name": "Quinacridone Purple Red",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#8C1E57",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-quinacridone-purple-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-quinacridone-purple-blue",
+      "brandId": "van-gogh",
+      "name": "Quinacridone Purple Blue",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#77194A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-quinacridone-purple-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-lavender",
+      "brandId": "van-gogh",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#5E70B0",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-lavender.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-ultramarine-deep",
+      "brandId": "van-gogh",
+      "name": "Ultramarine Deep",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#30398F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-ultramarine-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-cobalt-blue-ultramarine",
+      "brandId": "van-gogh",
+      "name": "Cobalt Blue (Ultramarine)",
+      "pigmentCodes": [
+        "PB29",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "https://web.archive.org/web/20240616052647/http://otokano.com/wp-content/uploads/2022/05/VG-cobalt-blue-ultramarine.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-cerulean-blue-phthalo",
+      "brandId": "van-gogh",
+      "name": "Cerulean Blue (Phthalo)",
+      "pigmentCodes": [
+        "PB15",
+        "PW6"
+      ],
+      "hex": "#3977B8",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-cerulean-blue-phthalo.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-phthalo-blue",
+      "brandId": "van-gogh",
+      "name": "Phthalo Blue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#2B4596",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-phthalo-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-prussian-blue",
+      "brandId": "van-gogh",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#22307D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-prussian-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-indigo",
+      "brandId": "van-gogh",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PBk6"
+      ],
+      "hex": "#1E3452",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-indigo.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-turquoise-blue",
+      "brandId": "van-gogh",
+      "name": "Turquoise Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PG7"
+      ],
+      "hex": "#2D6C9C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-turquoise-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-turquoise-green",
+      "brandId": "van-gogh",
+      "name": "Turquoise Green",
+      "pigmentCodes": [
+        "PB15",
+        "PB29"
+      ],
+      "hex": "#5DB8B7",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-turquoise-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-yellowish-green",
+      "brandId": "van-gogh",
+      "name": "Permanent Yellowish Green",
+      "pigmentCodes": [
+        "PY154",
+        "PG7"
+      ],
+      "hex": "#89BD55",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-yellowish-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-hooker-green-light",
+      "brandId": "van-gogh",
+      "name": "Hooker Green Light",
+      "pigmentCodes": [
+        "PG7",
+        "PY154"
+      ],
+      "hex": "#4A964C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-hooker-green-light.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-hooker-green-deep",
+      "brandId": "van-gogh",
+      "name": "Hooker Green Deep",
+      "pigmentCodes": [
+        "PG7",
+        "PY154"
+      ],
+      "hex": "#2B6439",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-hooker-green-deep.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-permanent-green",
+      "brandId": "van-gogh",
+      "name": "Permanent Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY154"
+      ],
+      "hex": "#4A9D51",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-permanent-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-viridian",
+      "brandId": "van-gogh",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#4DA78C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-viridian.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-phthalo-green",
+      "brandId": "van-gogh",
+      "name": "Phthalo Green",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#367A77",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-phthalo-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-sap-green",
+      "brandId": "van-gogh",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PY129",
+        "PG7"
+      ],
+      "hex": "#6A9845",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Sap-green.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-olive-green",
+      "brandId": "van-gogh",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY154"
+      ],
+      "hex": "#939046",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-olive-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-azomethine-green-yellow",
+      "brandId": "van-gogh",
+      "name": "Azomethine Green Yellow",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#B18D33",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-azomethine-green-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-yellow-ochre",
+      "brandId": "van-gogh",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#F1B44E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-yellow-ochre.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-raw-sienna",
+      "brandId": "van-gogh",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#DF9D43",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-raw-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-raw-umber",
+      "brandId": "van-gogh",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PY42",
+        "PR101"
+      ],
+      "hex": "#574424",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-raw-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-burnt-sienna",
+      "brandId": "van-gogh",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101",
+        "PBk11"
+      ],
+      "hex": "#A9472B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-burnt-sienna.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-light-oxide-red",
+      "brandId": "van-gogh",
+      "name": "Light Oxide Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#B2452F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-light-oxide-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-burnt-umber",
+      "brandId": "van-gogh",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PR101",
+        "PBk6"
+      ],
+      "hex": "#5A301A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-burnt-umber.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-sepia",
+      "brandId": "van-gogh",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBk7",
+        "PR101"
+      ],
+      "hex": "#6A573D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Sepia.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-vandyke-brown",
+      "brandId": "van-gogh",
+      "name": "Vandyke Brown",
+      "pigmentCodes": [
+        "PBk6",
+        "PR101"
+      ],
+      "hex": "#625142",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-vandyke-brown.png",
+      "hue": "Hue"
+    },
+    {
+      "id": "van-gogh-paynes-grey",
+      "brandId": "van-gogh",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#242C38",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-paynes-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-davys-grey",
+      "brandId": "van-gogh",
+      "name": "Davy’s Grey",
+      "pigmentCodes": [
+        "PBk11",
+        "PG7",
+        "PBr7"
+      ],
+      "hex": "#5C6048",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-davys-grey.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-neutral-tint",
+      "brandId": "van-gogh",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#585356",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-neutral-tint.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-oxide-black",
+      "brandId": "van-gogh",
+      "name": "Oxide Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#484543",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-oxide-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-ivory-black",
+      "brandId": "van-gogh",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk6",
+        "PBk9"
+      ],
+      "hex": "#403935",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-ivory-black.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-dusk-yellow",
+      "brandId": "van-gogh",
+      "name": "Dusk Yellow",
+      "pigmentCodes": [
+        "PBk11",
+        "PY128"
+      ],
+      "hex": "#6F6941",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-dusk-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-dusk-pink",
+      "brandId": "van-gogh",
+      "name": "Dusk Pink",
+      "pigmentCodes": [
+        "PBk11",
+        "PV19"
+      ],
+      "hex": "#5E2245",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-dusk-pink.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-dusk-violet",
+      "brandId": "van-gogh",
+      "name": "Dusk Violet",
+      "pigmentCodes": [
+        "PBk11",
+        "PV23"
+      ],
+      "hex": "#392A3C",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-dusk-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-dusk-green",
+      "brandId": "van-gogh",
+      "name": "Dusk Green",
+      "pigmentCodes": [
+        "PBk11",
+        "PG7"
+      ],
+      "hex": "#164844",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-dusk-green.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-silver",
+      "brandId": "van-gogh",
+      "name": "Silver",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PBk11"
+      ],
+      "hex": "#A4A9AA",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Silver.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-light-gold",
+      "brandId": "van-gogh",
+      "name": "Light Gold",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      "hex": "#C1A05F",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Light-gold.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-deep-gold",
+      "brandId": "van-gogh",
+      "name": "Deep Gold",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      "hex": "#BC862E",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-deep-gold.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-bronze",
+      "brandId": "van-gogh",
+      "name": "Bronze",
+      "pigmentCodes": [
+        "PW20",
+        "PW15"
+      ],
+      "hex": "#A4723F",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-bronze.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-copper",
+      "brandId": "van-gogh",
+      "name": "Copper",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      "hex": "#B75A2E",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-copper.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-graphite",
+      "brandId": "van-gogh",
+      "name": "Graphite",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PBk11"
+      ],
+      "hex": "#656361",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-graphite.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-interference-white",
+      "brandId": "van-gogh",
+      "name": "Interference White",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#A8B2B9",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-interference-white.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-intereference-yellow",
+      "brandId": "van-gogh",
+      "name": "Intereference Yellow",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#857962",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-intereference-yellow.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-interference-red",
+      "brandId": "van-gogh",
+      "name": "Interference Red",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#755260",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-interference-red.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-interference-violet",
+      "brandId": "van-gogh",
+      "name": "Interference Violet",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#614F7D",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-Interference-violet.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-interference-blue",
+      "brandId": "van-gogh",
+      "name": "Interference Blue",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#4984B5",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-intereference-blue.png",
+      "hue": "–"
+    },
+    {
+      "id": "van-gogh-interference-green",
+      "brandId": "van-gogh",
+      "name": "Interference Green",
+      "pigmentCodes": [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      "hex": "#88B0AB",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "performance": "Student",
+      "swatchImage": "/uploads/van-gogh/VG-interference-green.png",
+      "hue": "–"
     }
   ]
 }
