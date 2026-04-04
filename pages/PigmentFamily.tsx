@@ -14,7 +14,8 @@ export const PigmentFamily: React.FC = () => {
   // Default to blue if no family provided or invalid
   const activeFamily = PIGMENT_FAMILIES.find(f => f.name.toLowerCase() === family?.toLowerCase()) || PIGMENT_FAMILIES[4];
 
-  const pigmentsInFamily = PIGMENTS.filter(p => p.family === activeFamily.name);
+  const pigmentsInFamily = [...PIGMENTS.filter(p => p.family === activeFamily.name)]
+    .sort((a, b) => a.code.localeCompare(b.code));
 
   // In a real app, we'd fetch paints by pigment code. Here we filter mock data.
   const getPaintsForPigment = (code: string) => PAINTS.filter(p => p.pigmentCodes.includes(code));
@@ -101,11 +102,19 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
     if (paints.length === 0) return <div className="p-8 text-center text-neutral-500">No paints found for this pigment in our database.</div>;
 
     const headers = [
-      "Pigment(s)", "Paint Number", "Paint Name", "Hue", "Brand", "Series", 
-      "Colour", "Swatch", "Light", "Staining Levels", "Staining vs Lifting", 
-      "Flow/Spread", "Granulation", "Transparency/Opacity", "Tinting Strength", 
-      "Performance", "Toxicity", "Vegan", "Collection", "Action"
+      "Pigment(s)", "Pigment Mix", "Paint Name", "Brand", "Swatch", "Colour",
+      "Paint Number", "Hue", "Series", "Light", "Staining Levels",
+      "Granulation", "Transparency/Opacity", "Performance", "Toxicity",
+      "Vegan", "Collection", "Action"
     ];
+
+    const mixLabel = (paint: Paint) => paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
+    const sortedPaints = [...paints].sort((a, b) => {
+        const aMix = mixLabel(a);
+        const bMix = mixLabel(b);
+        if (aMix !== bMix) return aMix === 'Single' ? -1 : 1;
+        return a.name.localeCompare(b.name);
+    });
 
     return (
         <div className="overflow-x-auto pb-4">
@@ -120,39 +129,20 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                     </tr>
                 </thead>
                 <tbody className="divide-y divide-neutral-100">
-                    {paints.map(paint => {
+                    {sortedPaints.map(paint => {
                          const brand = BRANDS.find(b => b.id === paint.brandId);
                          const isSelected = selectedPaintIds.includes(paint.id);
 
                          return (
                             <tr key={paint.id} className="group hover:bg-neutral-50/50 transition-colors">
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.pigmentCodes.join(', ')}</td>
-                                <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">{paint.paintNumber || '—'}</td>
+                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{mixLabel(paint)}</td>
                                 <td className="px-4 py-3 text-neutral-900 font-medium min-w-[150px]">
                                     <Link to={`/paints/${paint.id}`} className="hover:underline hover:text-blue-600">
                                         {paint.name}
                                     </Link>
                                 </td>
-                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{brand?.name || paint.brandId}</td>
-                                <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
-                                
-                                {/* Colour (Hex Circle) */}
-                                <td className="px-4 py-3 text-center">
-                                    <div
-                                        className="w-6 h-6 rounded-full border border-neutral-200 shadow-sm mx-auto"
-                                        style={
-                                          paint.swatchImage
-                                            ? {
-                                                backgroundImage: `url(${paint.swatchImage})`,
-                                                backgroundSize: 'cover',
-                                                backgroundPosition: 'center'
-                                              }
-                                            : { backgroundColor: paint.hex }
-                                        }
-                                        title={paint.name}
-                                    />
-                                </td>
 
                                 {/* Swatch (Visual Image) */}
                                 <td className="px-4 py-3">
@@ -166,13 +156,31 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                   )}
                                 </td>
 
+                                {/* Colour (Hex Circle) */}
+                                <td className="px-4 py-3 text-center">
+                                    <div
+                                        className="w-6 h-6 rounded-full border border-neutral-200 shadow-sm mx-auto"
+                                        style={{
+                                          backgroundColor: paint.hex || '#E6D9C6',
+                                          ...(paint.swatchImage
+                                            ? {
+                                                backgroundImage: `url(${paint.swatchImage})`,
+                                                backgroundSize: 'cover',
+                                                backgroundPosition: 'center'
+                                              }
+                                            : {})
+                                        }}
+                                        title={paint.name}
+                                    />
+                                </td>
+
+                                <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">{paint.paintNumber || '—'}</td>
+                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
+                                <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.lightfastness}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.staining}</td>
-                                <td className="px-4 py-3 text-neutral-600 text-center min-w-[120px]">{paint.stainingVsLifting || '—'}</td>
-                                <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.flow || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.granulation}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.transparency}</td>
-                                <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.tintingStrength || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.performance || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.toxicity || '—'}</td>
                                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.isVegan ? 'Yes' : 'No'}</td>
