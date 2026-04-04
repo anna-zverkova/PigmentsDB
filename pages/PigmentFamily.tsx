@@ -61,10 +61,11 @@ export const PigmentFamily: React.FC = () => {
                       el.scrollIntoView({ behavior: 'smooth', block: 'start' });
                     }
                   }}
-                  className="inline-flex items-center gap-2 rounded-full border border-neutral-200 bg-white px-3 py-1.5 text-sm font-medium text-neutral-700 hover:border-neutral-300 hover:text-neutral-900"
+                  title={pigment.name}
+                  className="inline-flex items-center rounded-full border border-neutral-200 bg-white px-2.5 py-1 text-xs font-medium text-neutral-700 hover:border-neutral-300 hover:text-neutral-900"
                 >
-                  <span className="font-mono text-xs text-neutral-500">{pigment.code}</span>
-                  <span className="whitespace-nowrap">{pigment.name}</span>
+                  <span className="font-mono text-[11px] text-neutral-600">{pigment.code}</span>
+                  <span className="sr-only">{pigment.name}</span>
                 </button>
               ))}
             </div>
