@@ -9,6 +9,7 @@ export const PaintsSearch: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedFamilies, setSelectedFamilies] = useState<string[]>([]);
   const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
+  const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const selectedBrandIds = new Set(selectedBrands);
   const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
   
@@ -45,11 +46,81 @@ export const PaintsSearch: React.FC = () => {
                         onChange={(e) => setSearchTerm(e.target.value)}
                     />
                 </div>
-                <button className="md:hidden p-2 border border-neutral-300 rounded-lg">
+                <button
+                    className="md:hidden p-2 border border-neutral-300 rounded-lg"
+                    onClick={() => setMobileFiltersOpen(true)}
+                    aria-label="Open filters"
+                >
                     <SlidersHorizontal size={20} />
                 </button>
             </div>
         </div>
+
+        {/* Mobile Filters Drawer */}
+        {mobileFiltersOpen && (
+            <div className="fixed inset-0 z-40 md:hidden">
+                <div
+                    className="absolute inset-0 bg-black/40"
+                    onClick={() => setMobileFiltersOpen(false)}
+                />
+                <div className="absolute right-0 top-0 h-full w-[85%] max-w-sm bg-white shadow-xl p-5 overflow-y-auto">
+                    <div className="flex items-center justify-between mb-4">
+                        <div className="font-semibold">Filters</div>
+                        <button
+                            className="text-sm text-neutral-600"
+                            onClick={() => setMobileFiltersOpen(false)}
+                        >
+                            Close
+                        </button>
+                    </div>
+
+                    <div className="space-y-8">
+                        <div>
+                            <h3 className="font-semibold mb-3 flex items-center gap-2">
+                                <Filter size={16} /> Brand
+                            </h3>
+                            <div className="space-y-2">
+                                {BRANDS.filter(b => PAINTS.some(p => p.brandId === b.id)).map(brand => (
+                                    <label key={brand.id} className="flex items-center gap-2 text-sm cursor-pointer group">
+                                        <input
+                                            type="checkbox"
+                                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                            checked={selectedBrands.includes(brand.id)}
+                                            onChange={(e) => {
+                                                if (e.target.checked) setSelectedBrands([...selectedBrands, brand.id]);
+                                                else setSelectedBrands(selectedBrands.filter(b => b !== brand.id));
+                                            }}
+                                        />
+                                        <span className="text-neutral-600 group-hover:text-neutral-900">{brand.name}</span>
+                                    </label>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div>
+                            <h3 className="font-semibold mb-3">Color Family</h3>
+                            <div className="space-y-2">
+                                {PIGMENT_FAMILIES.map(fam => (
+                                    <label key={fam.name} className="flex items-center gap-2 text-sm cursor-pointer group">
+                                        <input
+                                            type="checkbox"
+                                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                            checked={selectedFamilies.includes(fam.name)}
+                                            onChange={(e) => {
+                                                if (e.target.checked) setSelectedFamilies([...selectedFamilies, fam.name]);
+                                                else setSelectedFamilies(selectedFamilies.filter(f => f !== fam.name));
+                                            }}
+                                        />
+                                        <div className={`w-3 h-3 rounded-full ${fam.color}`}></div>
+                                        <span className="text-neutral-600 group-hover:text-neutral-900">{fam.name}</span>
+                                    </label>
+                                ))}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        )}
 
         <div className="container mx-auto px-4 py-8 flex items-start gap-8">
             {/* Desktop Filters Sidebar */}
