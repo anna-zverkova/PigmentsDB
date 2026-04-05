@@ -22055,6 +22055,3263 @@
       "performance": "Student",
       "swatchImage": "/uploads/van-gogh/VG-interference-green.png",
       "hue": "–"
+    },
+    {
+      "id": "daniel-smith-buff-titanium",
+      "brandId": "daniel-smith",
+      "name": "Buff Titanium",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#F4EAC4",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Buff-Titanium.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-nickel-titanate-yellow",
+      "brandId": "daniel-smith",
+      "name": "Nickel Titanate Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#F3EFB1",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Nickel-Titanate-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-bismuth-vanadate-yellow",
+      "brandId": "daniel-smith",
+      "name": "Bismuth Vanadate Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#F7ED7D",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Bismuth-Vanadate.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-hansa-yellow-light",
+      "brandId": "daniel-smith",
+      "name": "Hansa Yellow Light",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#F5EB6C",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Light.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-azo-yellow",
+      "brandId": "daniel-smith",
+      "name": "Azo Yellow",
+      "pigmentCodes": [
+        "PY151"
+      ],
+      "hex": "#F9E966",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Azo-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinophthalone-yellow",
+      "brandId": "daniel-smith",
+      "name": "Quinophthalone Yellow",
+      "pigmentCodes": [
+        "PY138"
+      ],
+      "hex": "#FAEA5D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinophthalone-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-yellow-light-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Yellow Light Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY138",
+        "PY3"
+      ],
+      "hex": "#F9EB5B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Light-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-yellow-medium-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Yellow Medium Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY151",
+        "PY83"
+      ],
+      "hex": "#F9E755",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Medium-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-aureolin-cobalt-yellow",
+      "brandId": "daniel-smith",
+      "name": "Aureolin (Cobalt Yellow)",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#F7ED80",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Aureolin.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-yellow-deep-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Yellow Deep Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PY83"
+      ],
+      "hex": "#E3BE55",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Yellow-Deep-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-hansa-yellow-medium",
+      "brandId": "daniel-smith",
+      "name": "Hansa Yellow Medium",
+      "pigmentCodes": [
+        "PY97"
+      ],
+      "hex": "#F7EB60",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Medium.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mayan-yellow",
+      "brandId": "daniel-smith",
+      "name": "Mayan Yellow",
+      "pigmentCodes": [
+        "PY223"
+      ],
+      "hex": "#F8DE5E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lemon-yellow",
+      "brandId": "daniel-smith",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Lemon-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-indian-yellow",
+      "brandId": "daniel-smith",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY97",
+        "PY150"
+      ],
+      "hex": "#F5D653",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indian-Yellow.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-naples-yellow",
+      "brandId": "daniel-smith",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PW4",
+        "PY97",
+        "PR101"
+      ],
+      "hex": "#F5DE93",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Naples-Yellow.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-hansa-yellow-deep",
+      "brandId": "daniel-smith",
+      "name": "Hansa Yellow Deep",
+      "pigmentCodes": [
+        "PY65"
+      ],
+      "hex": "#F8E165",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hansa-Yellow-Deep.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-new-gamboge",
+      "brandId": "daniel-smith",
+      "name": "New Gamboge",
+      "pigmentCodes": [
+        "PY97",
+        "PY110"
+      ],
+      "hex": "#F2C854",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-New-Gamboge.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-isoindoline-yellow",
+      "brandId": "daniel-smith",
+      "name": "Isoindoline Yellow",
+      "pigmentCodes": [
+        "PY139"
+      ],
+      "hex": "#ECAC50",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Isoindoline-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-yellow-deep",
+      "brandId": "daniel-smith",
+      "name": "Permanent Yellow Deep",
+      "pigmentCodes": [
+        "PY110"
+      ],
+      "hex": "#EFBE6A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Yellow-Deep.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-aussie-red-gold",
+      "brandId": "daniel-smith",
+      "name": "Aussie Red Gold",
+      "pigmentCodes": [
+        "PY83",
+        "PR101",
+        "PV19"
+      ],
+      "hex": "#CD9A57",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Aussie-Red-Gold.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-pyrrol-orange",
+      "brandId": "daniel-smith",
+      "name": "Pyrrol Orange",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E27D4A",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-orange",
+      "brandId": "daniel-smith",
+      "name": "Permanent Orange",
+      "pigmentCodes": [
+        "PO62"
+      ],
+      "hex": "#E38649",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-orange-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Orange Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PO73",
+        "PY83"
+      ],
+      "hex": "#DA8846",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Orange-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perinone-orange",
+      "brandId": "daniel-smith",
+      "name": "Perinone Orange",
+      "pigmentCodes": [
+        "PO43"
+      ],
+      "hex": "#E07545",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perinone-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-red-scarlet-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Red Scarlet Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PR254",
+        "PY83"
+      ],
+      "hex": "#BF6450",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Scarlet-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-transparent-pyrrol-orange",
+      "brandId": "daniel-smith",
+      "name": "Transparent Pyrrol Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#CF6845",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Pyrrol-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-organic-vermilion",
+      "brandId": "daniel-smith",
+      "name": "Organic Vermilion",
+      "pigmentCodes": [
+        "PR188"
+      ],
+      "hex": "#DB5C43",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Organic-Vermilion.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mayan-orange",
+      "brandId": "daniel-smith",
+      "name": "Mayan Orange",
+      "pigmentCodes": [
+        "PO",
+        "NA"
+      ],
+      "hex": "#CC6E55",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-coral",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Coral",
+      "pigmentCodes": [
+        "PR209"
+      ],
+      "hex": "#DA6F6B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Coral.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-pyrrol-scarlet",
+      "brandId": "daniel-smith",
+      "name": "Pyrrol Scarlet",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#D75142",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Scarlet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perylene-scarlet",
+      "brandId": "daniel-smith",
+      "name": "Perylene Scarlet",
+      "pigmentCodes": [
+        "PR149"
+      ],
+      "hex": "#C77B72",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Scarlet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-anthraquinoid-scarlet",
+      "brandId": "daniel-smith",
+      "name": "Anthraquinoid Scarlet",
+      "pigmentCodes": [
+        "PR168"
+      ],
+      "hex": "#C47666",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Scarlet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cadmium-red-medium-hue",
+      "brandId": "daniel-smith",
+      "name": "Cadmium Red Medium Hue",
+      "pigmentCodes": [
+        "PY53",
+        "PR254"
+      ],
+      "hex": "#C9413B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cadmium-Red-Medium-Hue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-pyrrol-red",
+      "brandId": "daniel-smith",
+      "name": "Pyrrol Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#CD5B4B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perylene-red",
+      "brandId": "daniel-smith",
+      "name": "Perylene Red",
+      "pigmentCodes": [
+        "PR178"
+      ],
+      "hex": "#D54943",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-red",
+      "brandId": "daniel-smith",
+      "name": "Permanent Red",
+      "pigmentCodes": [
+        "PR170",
+        "F3RK-70"
+      ],
+      "hex": "#C05854",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-red-deep",
+      "brandId": "daniel-smith",
+      "name": "Permanent Red Deep",
+      "pigmentCodes": [
+        "PR170",
+        "F5RK"
+      ],
+      "hex": "#A12F2E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Red-Deep.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-red",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#C94A5C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-anthraquinoid-red",
+      "brandId": "daniel-smith",
+      "name": "Anthraquinoid Red",
+      "pigmentCodes": [
+        "PR177"
+      ],
+      "hex": "#AC585D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Anthraquinoid-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mayan-red",
+      "brandId": "daniel-smith",
+      "name": "Mayan Red",
+      "pigmentCodes": [
+        "PR287"
+      ],
+      "hex": "#CF8588",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-alizarin-crimson",
+      "brandId": "daniel-smith",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#BC4849",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Alizarin-Crimson.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-alizarin-crimson",
+      "brandId": "daniel-smith",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PR177",
+        "PV19",
+        "PR149"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Permanent-Alizarin-Crimson.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-carmine",
+      "brandId": "daniel-smith",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR176"
+      ],
+      "hex": "#AA3F3B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Carmine.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-rose-madder-permanent",
+      "brandId": "daniel-smith",
+      "name": "Rose Madder Permanent",
+      "pigmentCodes": [
+        "PR209",
+        "PV19",
+        "PR202"
+      ],
+      "hex": "#CD94AE",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rose-Madder-Permanent.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-opera-pink",
+      "brandId": "daniel-smith",
+      "name": "Opera Pink",
+      "pigmentCodes": [
+        "PR122",
+        "Flourescent"
+      ],
+      "hex": "#DB75A4",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Opera-Pink.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-potters-pink",
+      "brandId": "daniel-smith",
+      "name": "Potters Pink",
+      "pigmentCodes": [
+        "PR233"
+      ],
+      "hex": "#E4CCCA",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Potters-Pink.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-pink",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Pink",
+      "pigmentCodes": [
+        "PV42"
+      ],
+      "hex": "#D77490",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Pink.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-rose",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#CD5F7B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Rose.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-lilac",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Lilac",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#B16892",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Lilac.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-magenta",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#A04665",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-magenta.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-pyrrol-crimson",
+      "brandId": "daniel-smith",
+      "name": "Pyrrol Crimson",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#B77A7B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pyrrol-Crimson.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-fuchsia",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Fuchsia",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#A04E53",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Fuchsia.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mayan-violet",
+      "brandId": "daniel-smith",
+      "name": "Mayan Violet",
+      "pigmentCodes": [
+        "PV58"
+      ],
+      "hex": "#A1627B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-bordeaux",
+      "brandId": "daniel-smith",
+      "name": "Bordeaux",
+      "pigmentCodes": [
+        "PV32"
+      ],
+      "hex": "#763A41",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Bordeaux.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-violet",
+      "brandId": "daniel-smith",
+      "name": "Permanent Violet",
+      "pigmentCodes": [
+        "PR202",
+        "PB29"
+      ],
+      "hex": "#7C4659",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-violet",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#953557",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Qinacirdone-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perylene-violet",
+      "brandId": "daniel-smith",
+      "name": "Perylene Violet",
+      "pigmentCodes": [
+        "PV29"
+      ],
+      "hex": "#6A3634",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-violet",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV49"
+      ],
+      "hex": "#E4BBCE",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-violet-deep",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Violet Deep",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#A78FB5",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Violet-Deep.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-ultramarine-violet",
+      "brandId": "daniel-smith",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#C7A3C1",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-rose-of-ultramarine",
+      "brandId": "daniel-smith",
+      "name": "Rose of Ultramarine",
+      "pigmentCodes": [
+        "PB29",
+        "PV19"
+      ],
+      "hex": "#7F4371",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rose-of-Ultramarine.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-imperial-purple",
+      "brandId": "daniel-smith",
+      "name": "Imperial Purple",
+      "pigmentCodes": [
+        "PB29",
+        "PV19"
+      ],
+      "hex": "#79639D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Imperial-Purple.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-purple",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Purple",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#784065",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Purple.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-ultramarine-violet-v2",
+      "brandId": "daniel-smith",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#DAC0D5",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-carbazole-violet",
+      "brandId": "daniel-smith",
+      "name": "Carbazole Violet",
+      "pigmentCodes": [
+        "PV23",
+        "(RS)"
+      ],
+      "hex": "#623E6F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Carbazole-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-wisteria",
+      "brandId": "daniel-smith",
+      "name": "Wisteria",
+      "pigmentCodes": [
+        "PW6",
+        "PR122"
+      ],
+      "hex": "#CEAFD4",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Wisteria.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-blue-violet",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Blue Violet",
+      "pigmentCodes": [
+        "PB28",
+        "PV19"
+      ],
+      "hex": "#897DAE",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-moonglow",
+      "brandId": "daniel-smith",
+      "name": "Moonglow",
+      "pigmentCodes": [
+        "PG18",
+        "PB29",
+        "PR177"
+      ],
+      "hex": "#6F5A62",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Moonglow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-shadow-violet",
+      "brandId": "daniel-smith",
+      "name": "Shadow Violet",
+      "pigmentCodes": [
+        "PO73",
+        "PB29",
+        "PG18"
+      ],
+      "hex": "#776C64",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Shadow-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-indigo",
+      "brandId": "daniel-smith",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB60",
+        "PBk6"
+      ],
+      "hex": "#404451",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indigo.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mayan-dark-blue",
+      "brandId": "daniel-smith",
+      "name": "Mayan Dark Blue",
+      "pigmentCodes": [
+        "PB82"
+      ],
+      "hex": "#38434E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mayan-Dark-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-indanthrone-blue",
+      "brandId": "daniel-smith",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#322B50",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indanthrone-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-ultramarine-blue",
+      "brandId": "daniel-smith",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#7F7FB1",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-french-ultramarine",
+      "brandId": "daniel-smith",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#7377AD",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-French-Ultramaine-.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-blue",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#8188B7",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-blue-gs",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#3E6A8A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-GS.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-verditer-blue",
+      "brandId": "daniel-smith",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB28",
+        "PB36",
+        "PW4"
+      ],
+      "hex": "#6278B0",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Verditer-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lavender",
+      "brandId": "daniel-smith",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PW6",
+        "PV15",
+        "PB29"
+      ],
+      "hex": "#ACAECE",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lavender.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-blue-rs",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB15:6"
+      ],
+      "hex": "#50628B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-RS.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-prussian-blue",
+      "brandId": "daniel-smith",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#435772",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Prussian-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cerulean-blue",
+      "brandId": "daniel-smith",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#ACC0D5",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cerulean-blue-chromium",
+      "brandId": "daniel-smith",
+      "name": "Cerulean Blue Chromium",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#799FBD",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cerulean-Blue-Chromium.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-manganese-blue-hue",
+      "brandId": "daniel-smith",
+      "name": "Manganese Blue Hue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#A8D3DE",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-manganese-Blue-Hue.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-blue-turquoise",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Blue Turquoise",
+      "pigmentCodes": [
+        "PB16"
+      ],
+      "hex": "#6C8E9C",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Blue-Turquoise.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-teal-blue",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Teal Blue",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#9CCBBA",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Teal-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-turquoise",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Turquoise",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG36"
+      ],
+      "hex": "#437E73",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Tuquoise.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-ultramarine-turquoise",
+      "brandId": "daniel-smith",
+      "name": "Ultramarine Turquoise",
+      "pigmentCodes": [
+        "PB29",
+        "PG7"
+      ],
+      "hex": "#4D8E7F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ultramarine-Turquoise.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-turquoise",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#8AADA9",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Turquoise.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lunar-blue",
+      "brandId": "daniel-smith",
+      "name": "Lunar Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PBk11"
+      ],
+      "hex": "#95A8A6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Blue.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-green-pale",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Green Pale",
+      "pigmentCodes": [
+        "PG19"
+      ],
+      "hex": "#C6D9C7",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green-pale.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-viridian",
+      "brandId": "daniel-smith",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#89C5A8",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Viridian.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-green-bs",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Green (BS)",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#57A378",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-BS.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cascade-green",
+      "brandId": "daniel-smith",
+      "name": "Cascade Green",
+      "pigmentCodes": [
+        "PBr7",
+        "PB15"
+      ],
+      "hex": "#648475",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cascade-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-cobalt-green",
+      "brandId": "daniel-smith",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#719A6F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Cobalt-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-spring-green",
+      "brandId": "daniel-smith",
+      "name": "Spring Green",
+      "pigmentCodes": [
+        "PY53",
+        "PG36",
+        "PY151"
+      ],
+      "hex": "#72B06A",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Spring-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-green-light",
+      "brandId": "daniel-smith",
+      "name": "Permanent Green Light",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#79B86D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green-Light.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-yellow-green",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Yellow Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG36"
+      ],
+      "hex": "#ACCC6E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Yellow-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-green",
+      "brandId": "daniel-smith",
+      "name": "Permanent Green",
+      "pigmentCodes": [
+        "PY3",
+        "PG7"
+      ],
+      "hex": "#559D6B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-phthalo-green-ys",
+      "brandId": "daniel-smith",
+      "name": "Phthalo Green (YS)",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#76B76E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Phthalo-Green-YS.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-hookers-green",
+      "brandId": "daniel-smith",
+      "name": "Hooker’s Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY3",
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#6D9D59",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Hookers-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-sap-green",
+      "brandId": "daniel-smith",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PO48",
+        "PG7",
+        "PY150"
+      ],
+      "hex": "#7B874A",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Sap-Green.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-chromium-green-oxide",
+      "brandId": "daniel-smith",
+      "name": "Chromium Green Oxide",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#49623F",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Chromium-Green-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-terre-verte",
+      "brandId": "daniel-smith",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PG18",
+        "PBr7"
+      ],
+      "hex": "#7A9178",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Terre-Verte.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-deep-sap-green",
+      "brandId": "daniel-smith",
+      "name": "Deep Sap Green",
+      "pigmentCodes": [
+        "PO48",
+        "PY3",
+        "PB27"
+      ],
+      "hex": "#485C3B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Deep-Sap-Green.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perylene-green",
+      "brandId": "daniel-smith",
+      "name": "Perylene Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hex": "#575C42",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-prussian-green",
+      "brandId": "daniel-smith",
+      "name": "Prussian Green",
+      "pigmentCodes": [
+        "PB27",
+        "PY97"
+      ],
+      "hex": "#445F5B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Prussian-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-rare-green-earth",
+      "brandId": "daniel-smith",
+      "name": "Rare Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#879284",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rare-Green-Earth.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-undersea-green",
+      "brandId": "daniel-smith",
+      "name": "Undersea Green",
+      "pigmentCodes": [
+        "PB29",
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#63633E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Undersea-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-olive-green",
+      "brandId": "daniel-smith",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PY97",
+        "PB29",
+        "PBr7"
+      ],
+      "hex": "#776F43",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Olive-Green.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-green-gold",
+      "brandId": "daniel-smith",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY150",
+        "PY3",
+        "PG36"
+      ],
+      "hex": "#C0BF59",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Green-Gold.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-rich-green-gold",
+      "brandId": "daniel-smith",
+      "name": "Rich Green Gold",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#CAB255",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Rich-Green-Gold.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-nickel-azo-yellow",
+      "brandId": "daniel-smith",
+      "name": "Nickel Azo Yellow",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E9BC53",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Nickel-Azo-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-verona-gold-ochre",
+      "brandId": "daniel-smith",
+      "name": "Verona Gold Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E4CC91",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Verona-Gold-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-french-ochre",
+      "brandId": "daniel-smith",
+      "name": "French Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#F1D18E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-French-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-raw-sienna-light",
+      "brandId": "daniel-smith",
+      "name": "Raw Sienna Light",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E7D286",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna-Light.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burgundy-yellow-ochre",
+      "brandId": "daniel-smith",
+      "name": "Burgundy Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E0C988",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Yellow-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-yellow-ochre",
+      "brandId": "daniel-smith",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6B661",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Yellow-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-mars-yellow",
+      "brandId": "daniel-smith",
+      "name": "Mars Yellow",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#D9A150",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Mars-Yellow.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-raw-sienna",
+      "brandId": "daniel-smith",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#DDA257",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Sienna.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-gold",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E1A854",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-transparent-yellow-oxide",
+      "brandId": "daniel-smith",
+      "name": "Transparent Yellow Oxide",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#C29D5D",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Tranparent-Yellow-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-monte-amiata-natural-sienna",
+      "brandId": "daniel-smith",
+      "name": "Monte Amiata Natural Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#EFC062",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Monte-Amiata-Natural-Sienna.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-enviro-friendly-yellow-iron-oxide",
+      "brandId": "daniel-smith",
+      "name": "Enviro-Friendly Yellow Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#875F46",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Yellow-Iron-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-goethite-brown-ochre",
+      "brandId": "daniel-smith",
+      "name": "Goethite-Brown Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#AF956D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Goethite.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-deep-gold",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Deep Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#D58C43",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Deep-Gold.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-italian-deep-ochre",
+      "brandId": "daniel-smith",
+      "name": "Italian Deep Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#CCA988",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Deep-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lunar-earth",
+      "brandId": "daniel-smith",
+      "name": "Lunar Earth",
+      "pigmentCodes": [
+        "PBr11"
+      ],
+      "hex": "#C3A594",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Earth.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burnt-yellow-ochre",
+      "brandId": "daniel-smith",
+      "name": "Burnt Yellow Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#B1806F",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burnt-Yellow-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-roasted-french-ochre",
+      "brandId": "daniel-smith",
+      "name": "Roasted French Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#BB9178",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/Ds-Roasted-French-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burgundy-red-ochre",
+      "brandId": "daniel-smith",
+      "name": "Burgundy Red Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#B58C73",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burgundy-Red-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-indian-red",
+      "brandId": "daniel-smith",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#69453F",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Indian-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-venetian-red",
+      "brandId": "daniel-smith",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#8E5F52",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Venetian-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-italian-burnt-sienna",
+      "brandId": "daniel-smith",
+      "name": "Italian Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#BA775B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Burnt-Sienna.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-burnt-orange",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Burnt Orange",
+      "pigmentCodes": [
+        "PO48"
+      ],
+      "hex": "#CA7E4E",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Orange.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-sienna",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Sienna",
+      "pigmentCodes": [
+        "PO48",
+        "PR209",
+        "PY150"
+      ],
+      "hex": "#D67748",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Sienna.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-pompeii-red",
+      "brandId": "daniel-smith",
+      "name": "Pompeii Red",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#C78C67",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Pompeii-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-terre-ercolano",
+      "brandId": "daniel-smith",
+      "name": "Terre Ercolano",
+      "pigmentCodes": [
+        "PBr7",
+        "PR101"
+      ],
+      "hex": "#D4AD9A",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Terre-Ercolano.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-italian-venetian-red",
+      "brandId": "daniel-smith",
+      "name": "Italian Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#955040",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Italian-Venetian-Red.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-english-red-earth",
+      "brandId": "daniel-smith",
+      "name": "English Red Earth",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#C49E92",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-English-Red-Earth.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-quinacridone-burnt-scarlet",
+      "brandId": "daniel-smith",
+      "name": "Quinacridone Burnt Scarlet",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#BD6A50",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Quinacridone-Burnt-Scarlet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-perylene-maroon",
+      "brandId": "daniel-smith",
+      "name": "Perylene Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#774641",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Perylene-Maroon.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-deep-scarlet",
+      "brandId": "daniel-smith",
+      "name": "Deep Scarlet",
+      "pigmentCodes": [
+        "PR175"
+      ],
+      "hex": "#BC463D",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Deep-Scarlet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-napthamide-maroon",
+      "brandId": "daniel-smith",
+      "name": "Napthamide Maroon",
+      "pigmentCodes": [
+        "PR171"
+      ],
+      "hex": "#664240",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Naphthamide-Maroon.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lunar-red-rock",
+      "brandId": "daniel-smith",
+      "name": "Lunar Red Rock",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#7B5B56",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Red-Rock.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-german-greenish-raw-umber",
+      "brandId": "daniel-smith",
+      "name": "German Greenish Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#988D72",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-German-Greenish-Raw-Umber.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-grey-titanium",
+      "brandId": "daniel-smith",
+      "name": "Grey Titanium",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#A8A288",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Grey-Titanium.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-permanent-brown",
+      "brandId": "daniel-smith",
+      "name": "Permanent Brown",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#6F493B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Permanent-Brown.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-raw-umber-violet",
+      "brandId": "daniel-smith",
+      "name": "Raw Umber VIolet",
+      "pigmentCodes": [
+        "PBr7",
+        "PV19"
+      ],
+      "hex": "#795550",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber-VIolet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-transparent-brown-oxide",
+      "brandId": "daniel-smith",
+      "name": "Transparent Brown Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#6A4B3B",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Brown-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-transparent-red-oxide",
+      "brandId": "daniel-smith",
+      "name": "Transparent Red Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#885742",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Transparent-Red-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-fired-gold-ochre",
+      "brandId": "daniel-smith",
+      "name": "Fired Gold Ochre",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E09E84",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Fired-Gold-OChre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burnt-sienna-light",
+      "brandId": "daniel-smith",
+      "name": "Burnt Sienna Light",
+      "pigmentCodes": [
+        "PR101",
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Burnt-Sienna-Light.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-enviro-friendly-red-iron-oxide",
+      "brandId": "daniel-smith",
+      "name": "Enviro-Friendly Red Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#7D5041",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Red-Iron-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burnt-sienna",
+      "brandId": "daniel-smith",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#B87D4F",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-BUrnt-Sienna.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-english-red-ochre",
+      "brandId": "daniel-smith",
+      "name": "English Red Ochre",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#A95A43",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-English-Red-Ochre.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-burnt-umber",
+      "brandId": "daniel-smith",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#82603B",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Burnt-Umber.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-enviro-friendly-brown-iron-oxide",
+      "brandId": "daniel-smith",
+      "name": "Enviro-Friendly Brown Iron Oxide",
+      "pigmentCodes": [
+        "PBr6"
+      ],
+      "hex": "#624C3E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Enviro-Friendly-Brown-Iron-Oxide.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-raw-umber",
+      "brandId": "daniel-smith",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#7D6941",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Raw-Umber.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-sepia",
+      "brandId": "daniel-smith",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk9"
+      ],
+      "hex": "#7D6640",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Sepia.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-van-dyck-brown",
+      "brandId": "daniel-smith",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "Blend",
+        "of",
+        "PBr7"
+      ],
+      "hex": "#5B554A",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Van-Dycke-Brown.png",
+      "hue": "Hue",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lunar-violet",
+      "brandId": "daniel-smith",
+      "name": "Lunar Violet",
+      "pigmentCodes": [
+        "PV15",
+        "PBk11"
+      ],
+      "hex": "#727178",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Violet.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-neutral-tint",
+      "brandId": "daniel-smith",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBk6",
+        "PV19",
+        "PB15"
+      ],
+      "hex": "#5B5251",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Neutral-Tint.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-graphite-grey",
+      "brandId": "daniel-smith",
+      "name": "Graphite Grey",
+      "pigmentCodes": [
+        "PBk10"
+      ],
+      "hex": "#646561",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Graphite-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-joseph-zs-neutral-grey",
+      "brandId": "daniel-smith",
+      "name": "Joseph Z’s Neutral Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBk9",
+        "PBk10"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Neutral-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-joseph-zs-cool-grey",
+      "brandId": "daniel-smith",
+      "name": "Joseph Z’s Cool Grey",
+      "pigmentCodes": [
+        "PB36",
+        "PV19",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Cool-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-joseph-zs-warm-grey",
+      "brandId": "daniel-smith",
+      "name": "Joseph Z’s Warm Grey",
+      "pigmentCodes": [
+        "PY43",
+        "PV19",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Warm-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-janes-grey",
+      "brandId": "daniel-smith",
+      "name": "Jane’s Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Janes-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-alvaros-fresco-grey",
+      "brandId": "daniel-smith",
+      "name": "Alvaro’s Fresco Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Alvaro-Fresco-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-alvaros-caliente-grey",
+      "brandId": "daniel-smith",
+      "name": "Alvaro’s Caliente Grey",
+      "pigmentCodes": [
+        "PBr7",
+        "PB29",
+        "PBk6"
+      ],
+      "hex": "#5C5D4E",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Alvaro-Caliente-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-paynes-blue-grey",
+      "brandId": "daniel-smith",
+      "name": "Payne’s Blue Grey",
+      "pigmentCodes": [
+        "PB60",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Paynes-Blue-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-paynes-grey",
+      "brandId": "daniel-smith",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PB29",
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Paynes-Grey.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lamp-black",
+      "brandId": "daniel-smith",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#343834",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lamp-Black.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-ivory-black",
+      "brandId": "daniel-smith",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#5A5A55",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Ivory-Black.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-lunar-black",
+      "brandId": "daniel-smith",
+      "name": "Lunar Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#71695C",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Lunar-Black.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-chinese-white",
+      "brandId": "daniel-smith",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#ACADAB",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Chinese-white.png",
+      "hue": "–",
+      "paintNumber": "N/A"
+    },
+    {
+      "id": "daniel-smith-titanium-white",
+      "brandId": "daniel-smith",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#B6B6B0",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "4/4",
+      "isVegan": true,
+      "performance": "Professional",
+      "swatchImage": "/uploads/daniel-smith/DS-Titanium-White.png",
+      "hue": "–",
+      "paintNumber": "N/A"
     }
   ]
 }

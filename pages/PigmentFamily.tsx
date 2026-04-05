@@ -141,6 +141,11 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                     <Link to={`/paints/${paint.id}`} className="hover:underline hover:text-blue-600">
                                         {paint.name}
                                     </Link>
+                                    {paint.isDiscontinued && (
+                                        <span className="ml-2 inline-flex items-center rounded-full border border-red-200 bg-red-100 px-2 py-0.5 text-[10px] font-medium text-red-700">
+                                            Discontinued
+                                        </span>
+                                    )}
                                 </td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{brand?.name || paint.brandId}</td>
 

@@ -9,9 +9,12 @@ export const PaintsSearch: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedFamilies, setSelectedFamilies] = useState<string[]>([]);
   const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
+  const [selectedMixes, setSelectedMixes] = useState<string[]>([]);
+  const [discontinuedOnly, setDiscontinuedOnly] = useState(false);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const selectedBrandIds = new Set(selectedBrands);
   const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
+  const mixLabel = (paint: any) => paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
   
   // Basic filtering logic mocking Algolia
   const visiblePaints = PAINTS.filter(paint => {
@@ -29,7 +32,14 @@ export const PaintsSearch: React.FC = () => {
         selectedBrands.length === 0 ||
         selectedBrandIds.has(paint.brandId);
 
-      return matchesSearch && matchesFamily && matchesBrand;
+      const matchesMix =
+        selectedMixes.length === 0 ||
+        selectedMixes.includes(mixLabel(paint));
+
+      const matchesDiscontinued =
+        !discontinuedOnly || !!paint.isDiscontinued;
+
+      return matchesSearch && matchesFamily && matchesBrand && matchesMix && matchesDiscontinued;
   });
 
   return (
@@ -117,6 +127,39 @@ export const PaintsSearch: React.FC = () => {
                                 ))}
                             </div>
                         </div>
+
+                        <div>
+                            <h3 className="font-semibold mb-3">Pigment Mix</h3>
+                            <div className="space-y-2">
+                                {['Single', 'Multi'].map(mix => (
+                                    <label key={mix} className="flex items-center gap-2 text-sm cursor-pointer group">
+                                        <input
+                                            type="checkbox"
+                                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                            checked={selectedMixes.includes(mix)}
+                                            onChange={(e) => {
+                                                if (e.target.checked) setSelectedMixes([...selectedMixes, mix]);
+                                                else setSelectedMixes(selectedMixes.filter(m => m !== mix));
+                                            }}
+                                        />
+                                        <span className="text-neutral-600 group-hover:text-neutral-900">{mix}</span>
+                                    </label>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div>
+                            <h3 className="font-semibold mb-3">Discontinued</h3>
+                            <label className="flex items-center gap-2 text-sm cursor-pointer group">
+                                <input
+                                    type="checkbox"
+                                    className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                    checked={discontinuedOnly}
+                                    onChange={(e) => setDiscontinuedOnly(e.target.checked)}
+                                />
+                                <span className="text-neutral-600 group-hover:text-neutral-900">Discontinued only</span>
+                            </label>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -167,6 +210,39 @@ export const PaintsSearch: React.FC = () => {
                         ))}
                     </div>
                 </div>
+
+                <div>
+                    <h3 className="font-semibold mb-3">Pigment Mix</h3>
+                    <div className="space-y-2">
+                        {['Single', 'Multi'].map(mix => (
+                            <label key={mix} className="flex items-center gap-2 text-sm cursor-pointer group">
+                                <input
+                                    type="checkbox"
+                                    className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                    checked={selectedMixes.includes(mix)}
+                                    onChange={(e) => {
+                                        if (e.target.checked) setSelectedMixes([...selectedMixes, mix]);
+                                        else setSelectedMixes(selectedMixes.filter(m => m !== mix));
+                                    }}
+                                />
+                                <span className="text-neutral-600 group-hover:text-neutral-900">{mix}</span>
+                            </label>
+                        ))}
+                    </div>
+                </div>
+
+                <div>
+                    <h3 className="font-semibold mb-3">Discontinued</h3>
+                    <label className="flex items-center gap-2 text-sm cursor-pointer group">
+                        <input
+                            type="checkbox"
+                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                            checked={discontinuedOnly}
+                            onChange={(e) => setDiscontinuedOnly(e.target.checked)}
+                        />
+                        <span className="text-neutral-600 group-hover:text-neutral-900">Discontinued only</span>
+                    </label>
+                </div>
             </aside>
 
             {/* Results Grid */}
@@ -189,6 +265,11 @@ export const PaintsSearch: React.FC = () => {
                                             />
                                         ) : (
                                             <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
+                                        )}
+                                        {paint.isDiscontinued && (
+                                            <div className="absolute top-2 left-2 bg-red-100 text-red-700 text-[10px] font-medium px-2 py-0.5 rounded-full border border-red-200">
+                                                Discontinued
+                                            </div>
                                         )}
                                         <div className="absolute inset-0 shadow-[inset_0_0_20px_rgba(0,0,0,0.1)]"></div>
                                     </div>
