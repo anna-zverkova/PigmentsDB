@@ -1225,6 +1225,11 @@
       "name": "Benzimidazolone Yellow 155",
       "family": "Yellow",
       "description": ""
+    },
+    {
+      "code": "PO49",
+      "name": "Quinacridone Gold",
+      "family": "Orange"
     }
   ]
 }

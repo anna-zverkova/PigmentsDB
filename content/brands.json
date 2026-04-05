@@ -53,9 +53,10 @@
       "id": "daler-rowney-aqua",
       "name": "Daler Rowney Aquafine",
       "logo": "DRA",
-      "description": "",
+      "description": "Daler Rowney Aquafine is the student‑grade watercolor line from the UK brand, designed for learning and everyday practice.",
       "website": "#",
-      "country": "UK \ud83c\uddec\ud83c\udde7"
+      "country": "UK \ud83c\uddec\ud83c\udde7",
+      "status": "Student"
     },
     {
       "id": "ds",
@@ -151,9 +152,10 @@
       "id": "maimeriblu",
       "name": "MaimeriBlu",
       "logo": "M",
-      "description": "",
+      "description": "MaimeriBlu is an Italian professional watercolor line known for strong pigments and a traditional European palette.",
       "website": "#",
-      "country": "Italy \ud83c\uddee\ud83c\uddf9"
+      "country": "Italy \ud83c\uddee\ud83c\uddf9",
+      "status": "Professional"
     },
     {
       "id": "mijello",
@@ -208,9 +210,10 @@
       "id": "roman-szmal",
       "name": "Roman Szmal",
       "logo": "RS",
-      "description": "",
+      "description": "Roman Szmal is a Polish professional watercolor brand recognized for its rich granulating and landscape‑focused colors.",
       "website": "#",
-      "country": "Poland \ud83c\uddf5\ud83c\uddf1"
+      "country": "Poland \ud83c\uddf5\ud83c\uddf1",
+      "status": "Professional"
     },
     {
       "id": "schmincke",
