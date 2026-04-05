@@ -43,6 +43,7 @@ export interface Paint {
   brandId: string;
   name: string;
   pigmentCodes: string[];
+  pigmentMix?: "Single" | "Multi";
   hue?: string;
   hex: string;
   transparency: Transparency;

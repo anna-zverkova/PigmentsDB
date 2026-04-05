@@ -10,7 +10,7 @@
     },
     {
       "code": "PB15:3",
-      "name": "Phthalo Blue (GS)",
+      "name": "Phthalocyanine Blue GS",
       "family": "Blue",
       "description": "Intense, cool blue."
     },
@@ -40,277 +40,277 @@
     },
     {
       "code": "PBr7",
-      "name": "Burnt Sienna",
+      "name": "Brown Iron Oxide",
       "family": "Brown",
       "description": "Classic earth pigment."
     },
     {
       "code": "PB1",
-      "name": "PB1",
+      "name": "Victoria Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15",
-      "name": "PB15",
+      "name": "Phthalocyanine Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15:0",
-      "name": "PB15:0",
+      "name": "Copper Phthalocyanine",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15:1",
-      "name": "PB15:1",
+      "name": "Phthalocyanine Blue RS",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15:2",
-      "name": "PB15:2",
+      "name": "Phthalocyanine Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15:4",
-      "name": "PB15:4",
+      "name": "Phthalocyanine Blue NCF",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB15:6",
-      "name": "PB15:6",
+      "name": "Phthalocyanine Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB16",
-      "name": "PB16",
+      "name": "Heliogen Blue L 7560",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB23",
-      "name": "PB23",
+      "name": "Barium Manganate",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB27",
-      "name": "PB27",
+      "name": "Prussian Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB28",
-      "name": "PB28",
+      "name": "Cobalt Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB33",
-      "name": "PB33",
+      "name": "Manganese Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB35",
-      "name": "PB35",
+      "name": "Cerulean Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB36",
-      "name": "PB36",
+      "name": "Cobalt Chromite",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB36:1",
-      "name": "PB36:1",
+      "name": "Oxide of Cobalt and Chromium",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB60",
-      "name": "PB60",
+      "name": "Indanthrone Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB66",
-      "name": "PB66",
+      "name": "Synthetic Indigo",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB72",
-      "name": "PB72",
+      "name": "Cobalt Zinc Aluminate Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB73",
-      "name": "PB73",
+      "name": "Cobalt Silicate Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB74",
-      "name": "PB74",
+      "name": "Cobalt Zinc Silicate Blue",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PB82",
-      "name": "PB82",
+      "name": "MayaCrom Blue B2050",
       "family": "Blue",
       "description": ""
     },
     {
       "code": "PBk1",
-      "name": "PBk1",
+      "name": "Aniline Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk10",
-      "name": "PBk10",
+      "name": "Graphite",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk11",
-      "name": "PBk11",
+      "name": "Mars Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk19",
-      "name": "PBk19",
+      "name": "Slate Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk26",
-      "name": "PBk26",
+      "name": "Manganese Ferrite Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk27",
-      "name": "PBk27",
+      "name": "Iron Cobalt Chromite Black Spinel",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk31",
-      "name": "PBk31",
+      "name": "Perylene Green",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk32",
-      "name": "PBk32",
+      "name": "Perylene Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk6",
-      "name": "PBk6",
+      "name": "Carbon Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk7",
-      "name": "PBk7",
+      "name": "Lamp Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk8",
-      "name": "PBk8",
+      "name": "Vine Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBk9",
-      "name": "PBk9",
+      "name": "Bone Black",
       "family": "Black",
       "description": ""
     },
     {
       "code": "PBr11",
-      "name": "PBr11",
+      "name": "Magnesium Ferrite",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr23",
-      "name": "PBr23",
+      "name": "Pigment Brown 23",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr24",
-      "name": "PBr24",
+      "name": "Chrome Antimony Titanate",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr25",
-      "name": "PBr25",
+      "name": "Benzimidazolone Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr29",
-      "name": "PBr29",
+      "name": "Chrome Iron Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr31",
-      "name": "PBr31",
+      "name": "Zinc Ferrite Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr33",
-      "name": "PBr33",
+      "name": "Zinc Iron Chromite Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr41",
-      "name": "PBr41",
+      "name": "Disazo Condensation Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr43",
-      "name": "PBr43",
+      "name": "Iron Manganese Oxide",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr6",
-      "name": "PBr6",
+      "name": "Iron Oxide Hydroxide Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr8",
-      "name": "PBr8",
+      "name": "Manganese Brown",
       "family": "Brown",
       "description": ""
     },
     {
       "code": "PBr9",
-      "name": "PBr9",
+      "name": "Natural Iron Oxide",
       "family": "Brown",
       "description": ""
     },
@@ -364,103 +364,103 @@
     },
     {
       "code": "PO13",
-      "name": "PO13",
+      "name": "Benzidine Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO16",
-      "name": "PO16",
+      "name": "Benzidine Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO17",
-      "name": "PO17",
+      "name": "Persian Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO20",
-      "name": "PO20",
+      "name": "Cadmium Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO34",
-      "name": "PO34",
+      "name": "Pyrazolone Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO36",
-      "name": "PO36",
+      "name": "Benzimidazolone Orange HighL",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO43",
-      "name": "PO43",
+      "name": "Perinone Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO48",
-      "name": "PO48",
+      "name": "Quinacridone Burnt Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO59",
-      "name": "PO59",
+      "name": "Pigment Orange 59",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO61",
-      "name": "PO61",
+      "name": "Isoindolo Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO62",
-      "name": "PO62",
+      "name": "Benzimidazolone Orange H5G",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO64",
-      "name": "PO64",
+      "name": "Benzimidazolone Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO67",
-      "name": "PO67",
+      "name": "Pyrazoloquinazolone Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO71",
-      "name": "PO71",
+      "name": "Pyrrole Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO72",
-      "name": "PO72",
+      "name": "Hostaprint Orange H4GL32",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO73",
-      "name": "PO73",
+      "name": "Pyrrole Orange",
       "family": "Orange",
       "description": ""
     },
     {
       "code": "PO82",
-      "name": "PO82",
+      "name": "Chrome Orange (Hue)",
       "family": "Orange",
       "description": ""
     },
@@ -886,277 +886,277 @@
     },
     {
       "code": "PY1",
-      "name": "PY1",
+      "name": "Hansa Yellow G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY100",
-      "name": "PY100",
+      "name": "Tartrazine Lake",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY108",
-      "name": "PY108",
+      "name": "Anthrapyrimidine Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY109",
-      "name": "PY109",
+      "name": "Isoindole Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY110",
-      "name": "PY110",
+      "name": "Isoindolinone Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY119",
-      "name": "PY119",
+      "name": "Zinc Iron Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY120",
-      "name": "PY120",
+      "name": "PV Fast Yellow H2G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY128",
-      "name": "PY128",
+      "name": "Azo Condensation Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY129",
-      "name": "PY129",
+      "name": "Copper Azomethine Green",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY13",
-      "name": "PY13",
+      "name": "Benzidine Yellow GR",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY138",
-      "name": "PY138",
+      "name": "Quinophthalone Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY139",
-      "name": "PY139",
+      "name": "Isoindoline Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY14",
-      "name": "PY14",
+      "name": "Diarylide Yellow AAOT",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY151",
-      "name": "PY151",
+      "name": "Benzimidazolone Yellow H4G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY152",
-      "name": "PY152",
+      "name": "Diarylide Yellow 152",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY153",
-      "name": "PY153",
+      "name": "Nickel Dioxime Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY154",
-      "name": "PY154",
+      "name": "Benzimidazolone Yellow H3G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY159",
-      "name": "PY159",
+      "name": "Zirconium Praesodymium Silicate Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY164",
-      "name": "PY164",
+      "name": "Manganese Antimony Titanium Buff Rutile",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY165",
-      "name": "PY165",
+      "name": "Sanyo Fast Yellow F5G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY167",
-      "name": "PY167",
+      "name": "Seikafast Yellow A-3",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY168",
-      "name": "PY168",
+      "name": "Azo Yellow 168",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY17",
-      "name": "PY17",
+      "name": "Diarylide Yellow 17",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY175",
-      "name": "PY175",
+      "name": "Benzimidazolone Yellow H6G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY181",
-      "name": "PY181",
+      "name": "Benzimidazo Golden",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY183",
-      "name": "PY183",
+      "name": "Paliotol Yellow K227",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY184",
-      "name": "PY184",
+      "name": "Bismuth Vanadate Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY216",
-      "name": "PY216",
+      "name": "Solaplex Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY223",
-      "name": "PY223",
+      "name": "MayaCrom Yellow Y2351RS",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY227",
-      "name": "PY227",
+      "name": "Niobium Tin Pyrochlore Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY3",
-      "name": "PY3",
+      "name": "Hansa Yellow 10G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY32",
-      "name": "PY32",
+      "name": "Strontium Chromate",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY35",
-      "name": "PY35",
+      "name": "Cadmium Zinc Sulphide",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY37",
-      "name": "PY37",
+      "name": "Cadmium Yellow",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY40",
-      "name": "PY40",
+      "name": "Aureoline",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY42",
-      "name": "PY42",
+      "name": "Yellow Iron Oxide",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY43",
-      "name": "PY43",
+      "name": "Natural Yellow Iron Oxide",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY53",
-      "name": "PY53",
+      "name": "Nickel Antimony Titanium Yellow Rutile",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY61",
-      "name": "PY61",
+      "name": "Pigment Yellow 61",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY65",
-      "name": "PY65",
+      "name": "Hansa Yellow 65",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY73",
-      "name": "PY73",
+      "name": "Arylide Yellow GX",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY74",
-      "name": "PY74",
+      "name": "Arylide Yellow 5GX",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY81",
-      "name": "PY81",
+      "name": "Diarylide Yellow H10G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY83",
-      "name": "PY83",
+      "name": "Diarylide Yellow HR",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY93",
-      "name": "PY93",
+      "name": "Disazo Yellow 3G",
       "family": "Yellow",
       "description": ""
     },
     {
       "code": "PY97",
-      "name": "PY97",
+      "name": "Diarylide Yellow FGL",
       "family": "Yellow",
       "description": ""
     },
@@ -1175,7 +1175,7 @@
     {
       "code": "PW20",
       "name": "Mica",
-      "family": "White",
+      "family": "Metallic",
       "description": "Mica"
     },
     {
@@ -1218,6 +1218,12 @@
       "code": "PG36",
       "name": "Phthalocyanine Green YS",
       "family": "Green",
+      "description": ""
+    },
+    {
+      "code": "PY155",
+      "name": "Benzimidazolone Yellow 155",
+      "family": "Yellow",
       "description": ""
     }
   ]
