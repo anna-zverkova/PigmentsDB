@@ -6,7 +6,7 @@
       "code": "PB29",
       "name": "Ultramarine Blue",
       "family": "Blue",
-      "description": "The standard warm blue."
+      "description": "The standard warm blue. This is a Synthetic ultramarine version of the C.I. Pigment Blue 29 (77007). "
     },
     {
       "code": "PB15:3",
@@ -1230,6 +1230,23 @@
       "code": "PO49",
       "name": "Quinacridone Gold",
       "family": "Orange"
+    },
+    {
+      "code": "PB80",
+      "name": "Benzimidazolone Blue",
+      "family": "Blue"
+    },
+    {
+      "code": "PB29 Lapis",
+      "name": "Lapis Lazuli",
+      "family": "Blue",
+      "description": "There isn’t a separate Colour Index code for “actual” lapis lazuli beyond PB29 / C.I. Pigment Blue 29 (77007). So I created a PB29 for the Actual lapis lazuli pigment for clarity."
+    },
+    {
+      "code": "PB30",
+      "name": "Azurite",
+      "family": "Blue",
+      "description": "Azurite"
     }
   ]
 }

@@ -11,8 +11,7 @@ var brands_default = {
       name: "Art Spectrum",
       logo: "AS",
       description: "",
-      website: "#",
-      country: "Australia \u{1F1E6}\u{1F1FA}"
+      website: "#"
     },
     {
       id: "blick",
@@ -26,40 +25,36 @@ var brands_default = {
       name: "Blockx",
       logo: "Bx",
       description: "",
-      website: "#",
-      country: "Belgium \u{1F1E7}\u{1F1EA}"
+      website: "#"
     },
     {
       id: "cass-art",
       name: "Cass Arts Own Brand",
       logo: "CA",
       description: "",
-      website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      website: "#"
     },
     {
       id: "da-vinci",
       name: "Da Vinci Paints",
       logo: "DV",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "daler-rowney-prof",
       name: "Daler Rowney Professional",
       logo: "DRP",
       description: "",
-      website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      website: "#"
     },
     {
       id: "daler-rowney-aqua",
       name: "Daler Rowney Aquafine",
       logo: "DRA",
-      description: "",
+      description: "Daler Rowney Aquafine is the student\u2011grade watercolor line from the UK brand, designed for learning and everyday practice.",
       website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      status: "Student"
     },
     {
       id: "ds",
@@ -67,7 +62,6 @@ var brands_default = {
       logo: "DS",
       description: "",
       website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}",
       status: "Professional"
     },
     {
@@ -75,16 +69,14 @@ var brands_default = {
       name: "Grumbacher Finest",
       logo: "GF",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "grumbacher-academy",
       name: "Grumbacher Academy",
       logo: "GA",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "holbein",
@@ -92,7 +84,6 @@ var brands_default = {
       logo: "H",
       description: "",
       website: "#",
-      country: "Japan \u{1F1EF}\u{1F1F5}",
       status: "Professional"
     },
     {
@@ -100,120 +91,108 @@ var brands_default = {
       name: "Isaro",
       logo: "I",
       description: "",
-      website: "#",
-      country: "Belgium \u{1F1E7}\u{1F1EA}"
+      website: "#"
     },
     {
       id: "jacksons",
       name: "Jackson's Own Brand",
       logo: "J",
       description: "",
-      website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      website: "#"
     },
     {
       id: "ken-bromley",
       name: "Ken Bromley Own Brand",
       logo: "KB",
       description: "",
-      website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}"
+      website: "#"
     },
     {
       id: "kusakabe",
       name: "Kusakabe",
       logo: "K",
       description: "",
-      website: "#",
-      country: "Japan \u{1F1EF}\u{1F1F5}"
+      website: "#"
     },
     {
       id: "lukas",
       name: "Lukas Aquarell",
       logo: "L",
       description: "",
-      website: "#",
-      country: "Germany \u{1F1E9}\u{1F1EA}"
+      website: "#"
     },
     {
       id: "lutea",
       name: "Lutea",
       logo: "Lu",
       description: "",
-      website: "#",
-      country: "Belgium \u{1F1E7}\u{1F1EA}"
+      website: "#"
     },
     {
       id: "m-graham",
       name: "M. Graham",
       logo: "MG",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "maimeriblu",
       name: "MaimeriBlu",
       logo: "M",
-      description: "",
+      description: "MaimeriBlu is an Italian professional watercolor line known for strong pigments and a traditional European palette.",
       website: "#",
-      country: "Italy \u{1F1EE}\u{1F1F9}"
+      status: "Professional"
     },
     {
       id: "mijello",
       name: "Mijello Mission Gold",
       logo: "MMG",
-      description: "",
+      description: "Mijello Mission Gold is a professional Korean watercolor line known for vibrant, clean pigments and smooth handling.",
       website: "#",
-      country: "South Korea \u{1F1F0}\u{1F1F7}"
+      status: "Professional"
     },
     {
       id: "old-holland",
       name: "Old Holland",
       logo: "OH",
       description: "",
-      website: "#",
-      country: "The Netherlands \u{1F1F3}\u{1F1F1}"
+      website: "#"
     },
     {
       id: "qor",
       name: "QoR",
       logo: "Q",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "rembrandt",
       name: "Rembrandt",
       logo: "R",
       description: "",
-      website: "#",
-      country: "The Netherlands \u{1F1F3}\u{1F1F1}"
+      website: "#"
     },
     {
       id: "renesans-pans",
       name: "Renesans (Pans)",
       logo: "RP",
       description: "",
-      website: "#",
-      country: "Poland \u{1F1F5}\u{1F1F1}"
+      website: "#"
     },
     {
       id: "renesans-tubes",
       name: "Renesans (Tubes)",
       logo: "RT",
       description: "",
-      website: "#",
-      country: "Poland \u{1F1F5}\u{1F1F1}"
+      website: "#"
     },
     {
       id: "roman-szmal",
       name: "Roman Szmal",
       logo: "RS",
-      description: "",
+      description: "Roman Szmal is a Polish professional watercolor brand recognized for its rich granulating and landscape\u2011focused colors.",
       website: "#",
-      country: "Poland \u{1F1F5}\u{1F1F1}"
+      status: "Professional"
     },
     {
       id: "schmincke",
@@ -221,7 +200,6 @@ var brands_default = {
       logo: "S",
       description: "",
       website: "#",
-      country: "Germany \u{1F1E9}\u{1F1EA}",
       status: "Professional"
     },
     {
@@ -229,48 +207,45 @@ var brands_default = {
       name: "Sennelier",
       logo: "Se",
       description: "",
-      website: "#",
-      country: "France \u{1F1EB}\u{1F1F7}"
+      website: "#"
     },
     {
       id: "shinhan-pro",
       name: "ShinHan Pro (Students)",
       logo: "SP",
-      description: "",
+      description: "ShinHan Pro is a student\u2011grade watercolor range from South Korea, offering a broad palette at an accessible price point for learners and everyday practice.",
       website: "#",
-      country: "South Korea \u{1F1F0}\u{1F1F7}"
+      status: "Student"
     },
     {
       id: "shinhan-pwc",
       name: "ShinHan PWC (Artist's)",
       logo: "PWC",
-      description: "",
+      description: "ShinHan PWC (Professional Water Colour) is the artist\u2011grade line from South Korea, known for strong pigment strength and a wide, traditional palette.",
       website: "#",
-      country: "South Korea \u{1F1F0}\u{1F1F7}"
+      status: "Professional"
     },
     {
       id: "turner",
       name: "Turner",
       logo: "T",
       description: "",
-      website: "#",
-      country: "Japan \u{1F1EF}\u{1F1F5}"
+      website: "#"
     },
     {
       id: "utrecht",
       name: "Utrecht",
       logo: "U",
       description: "",
-      website: "#",
-      country: "USA \u{1F1FA}\u{1F1F8}"
+      website: "#"
     },
     {
       id: "van-gogh",
       name: "Van Gogh",
       logo: "VG",
-      description: "",
+      description: "Van Gogh is a student\u2011grade line by Royal Talens, offering reliable, affordable watercolors for learning and practice.",
       website: "#",
-      country: "The Netherlands \u{1F1F3}\u{1F1F1}"
+      status: "Student"
     },
     {
       id: "white-nights",
@@ -278,7 +253,6 @@ var brands_default = {
       logo: "WN",
       description: "",
       website: "#",
-      country: "Russia \u{1F1F7}\u{1F1FA}",
       status: "Professional"
     },
     {
@@ -287,7 +261,6 @@ var brands_default = {
       logo: "WNC",
       description: "",
       website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}",
       status: "Student"
     },
     {
@@ -296,7 +269,6 @@ var brands_default = {
       logo: "WNP",
       description: "",
       website: "#",
-      country: "UK \u{1F1EC}\u{1F1E7}",
       status: "Professional"
     },
     {
@@ -305,6 +277,13 @@ var brands_default = {
       logo: "PM",
       description: "",
       website: "#"
+    },
+    {
+      id: "della-magna-watercolors",
+      name: "Della Magna Watercolors",
+      logo: "DMW",
+      website: "https://en.dellamagna.com",
+      status: "Professional"
     }
   ]
 };
@@ -519,6 +498,11 @@ var config_default = defineConfig({
                 type: "string",
                 name: "website",
                 label: "Website"
+              },
+              {
+                type: "string",
+                name: "country",
+                label: "Country"
               },
               {
                 type: "string",

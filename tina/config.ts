@@ -218,6 +218,11 @@ export default defineConfig({
               },
               {
                 type: "string",
+                name: "country",
+                label: "Country",
+              },
+              {
+                type: "string",
                 name: "status",
                 label: "Status",
                 options: ["Professional", "Student"],
