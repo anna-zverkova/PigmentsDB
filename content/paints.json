@@ -601,6 +601,7 @@
       "isDiscontinued": false,
       "series": null,
       "paintNumber": "255",
+      "swatchImage": "/uploads/white-nights/WH-Dune.png",
       "stainingVsLifting": null,
       "flow": null,
       "tintingStrength": null,
@@ -678,6 +679,7 @@
       "isDiscontinued": false,
       "series": null,
       "paintNumber": "258",
+      "swatchImage": "/uploads/white-nights/WH-petersburg-ochre.png",
       "stainingVsLifting": null,
       "flow": null,
       "tintingStrength": null,
@@ -2366,7 +2368,7 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "isDiscontinued": true,
+      "isDiscontinued": false,
       "series": null,
       "paintNumber": "516",
       "swatchImage": "/uploads/white-nights/WH-indigo(2).png",
@@ -10083,7 +10085,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318042334/http://otokano.com/wp-content/uploads/2022/05/MB-permanent-yellow-lemon.png",
       "performance": "Professional"
     },
     {
@@ -11361,7 +11362,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318042334/http://otokano.com/wp-content/uploads/2022/05/MB-mars-black.png",
       "performance": "Professional"
     },
     {
@@ -12247,7 +12247,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Cherry-Quinacridone-Red.png",
       "performance": "Professional"
     },
     {
@@ -12315,7 +12314,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Quinacridone-Fuchsia.png",
       "performance": "Professional"
     },
     {
@@ -12909,7 +12907,7 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-PHthalo-Turquoise.png",
+      "swatchImage": "",
       "performance": "Professional"
     },
     {
@@ -13168,7 +13166,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Aquarius-Green.png",
       "performance": "Professional"
     },
     {
@@ -13204,7 +13201,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Sap-Green.png",
       "performance": "Professional"
     },
     {
@@ -13240,7 +13236,6 @@
       "granulation": "Low",
       "lightfastness": "7/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Permanent-Green-Light.png",
       "performance": "Professional"
     },
     {
@@ -14007,7 +14002,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Potters-Pink.png",
       "performance": "Professional"
     },
     {
@@ -14024,7 +14018,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Caput-Mortuum.png",
       "performance": "Professional"
     },
     {
@@ -14041,7 +14034,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/07/RS-manganese-brown.png",
       "performance": "Professional"
     },
     {
@@ -14075,7 +14067,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Hematite-Violet-Shade.png",
       "performance": "Professional"
     },
     {
@@ -14092,7 +14083,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Hematite.png",
       "performance": "Professional"
     },
     {
@@ -14109,7 +14099,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Hematite-Borwn-Shade.png",
       "performance": "Professional"
     },
     {
@@ -14211,7 +14200,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/06/RS-Dark-Ochre.png",
       "performance": "Professional"
     },
     {
@@ -14333,7 +14321,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/06/RS-shadow-grey.png",
       "performance": "Professional"
     },
     {
@@ -14352,7 +14339,6 @@
       "granulation": "Low",
       "lightfastness": "7/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Przybyszs-Grey.png",
       "performance": "Professional"
     },
     {
@@ -14458,7 +14444,6 @@
       "granulation": "Low",
       "lightfastness": "8/8",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240318061644/http://otokano.com/wp-content/uploads/2022/05/RS-Neutral-Tint.png",
       "performance": "Professional"
     },
     {
@@ -15034,7 +15019,6 @@
       "granulation": "Low",
       "lightfastness": "3/4",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240616051856/http://otokano.com/wp-content/uploads/2022/05/AQ-sap-green.png",
       "performance": "Student"
     },
     {
@@ -15157,7 +15141,6 @@
       "granulation": "Low",
       "lightfastness": "4/4",
       "isVegan": false,
-      "swatchImage": "https://web.archive.org/web/20240616051856/http://otokano.com/wp-content/uploads/2022/05/AQ-burnt-umber.png",
       "performance": "Student"
     },
     {
@@ -15966,7 +15949,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-permanent-red.png",
       "performance": "Professional"
     },
     {
@@ -16037,7 +16019,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-brilliant-pink.png",
       "performance": "Professional"
     },
     {
@@ -16072,7 +16053,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cadmium-red-deep.png",
       "performance": "Professional"
     },
     {
@@ -16106,7 +16086,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-pyrrole-red.png",
       "performance": "Professional"
     },
     {
@@ -16124,7 +16103,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-vermilion.png",
       "performance": "Professional"
     },
     {
@@ -16141,7 +16119,6 @@
       "granulation": "Low",
       "lightfastness": "1/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-vermilion-hue.png",
       "performance": "Professional"
     },
     {
@@ -16158,7 +16135,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cadmium-red-orange.png",
       "performance": "Professional"
     },
     {
@@ -16175,7 +16151,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-brilliant-orange.png",
       "performance": "Professional"
     },
     {
@@ -16193,7 +16168,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-permanent-yellow-orange.png",
       "performance": "Professional"
     },
     {
@@ -16228,7 +16202,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cadmium-yellow-deep.png",
       "performance": "Professional"
     },
     {
@@ -16245,7 +16218,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cadmium-yellow.png",
       "performance": "Professional"
     },
     {
@@ -16279,7 +16251,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-indian-yellow.png",
       "performance": "Professional"
     },
     {
@@ -16296,7 +16267,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-permanent-yellow-deep.png",
       "performance": "Professional"
     },
     {
@@ -16330,7 +16300,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-lemon-yellow.png",
       "performance": "Professional"
     },
     {
@@ -16401,7 +16370,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-jaune-brilliant-1.png",
       "performance": "Professional"
     },
     {
@@ -16419,7 +16387,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-jaune-brilliant-2.png",
       "performance": "Professional"
     },
     {
@@ -16436,7 +16403,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-greenish-yellow.png",
       "performance": "Professional"
     },
     {
@@ -16454,7 +16420,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-olive-green.png",
       "performance": "Professional"
     },
     {
@@ -16526,7 +16491,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-leaf-green.png",
       "performance": "Professional"
     },
     {
@@ -16614,7 +16578,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cadmium-green-deep.png",
       "performance": "Professional"
     },
     {
@@ -16667,7 +16630,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-terre-verte.png",
       "performance": "Professional"
     },
     {
@@ -16720,7 +16682,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cobalt-green.png",
       "performance": "Professional"
     },
     {
@@ -16913,7 +16874,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-phthalo-blue-red-shade.png",
       "performance": "Professional"
     },
     {
@@ -16948,7 +16908,7 @@
       "granulation": "Low",
       "lightfastness": "4/4",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-horizon-blue.png",
+      "swatchImage": "",
       "performance": "Professional"
     },
     {
@@ -16985,7 +16945,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-turquoise-blue-light.png",
       "performance": "Professional"
     },
     {
@@ -17003,7 +16962,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-verditer-blue.png",
       "performance": "Professional"
     },
     {
@@ -17020,7 +16978,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cerulean-blue.png",
       "performance": "Professional"
     },
     {
@@ -17054,7 +17011,7 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cobalt-blue.png",
+      "swatchImage": "",
       "performance": "Professional"
     },
     {
@@ -17071,7 +17028,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-cobalt-blue-hue.png",
       "performance": "Professional"
     },
     {
@@ -17088,7 +17044,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-ultamarine-light.png",
       "performance": "Professional"
     },
     {
@@ -17105,7 +17060,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-ultamarine-deep.png",
       "performance": "Professional"
     },
     {
@@ -17122,7 +17076,7 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-prussian-blue.png",
+      "swatchImage": "",
       "performance": "Professional"
     },
     {
@@ -17157,7 +17111,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-indigo.png",
       "performance": "Professional"
     },
     {
@@ -17176,7 +17129,7 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-lavender.png",
+      "swatchImage": "",
       "performance": "Professional"
     },
     {
@@ -17227,7 +17180,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-mineral-violet.png",
       "performance": "Professional"
     },
     {
@@ -17263,7 +17215,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-lilac.png",
       "performance": "Professional"
     },
     {
@@ -17281,7 +17232,6 @@
       "granulation": "Low",
       "lightfastness": "1/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-purple-grey.png",
       "performance": "Professional"
     },
     {
@@ -17537,7 +17487,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-sepia.png",
       "performance": "Professional"
     },
     {
@@ -17589,7 +17538,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-neutral-tint.png",
       "performance": "Professional"
     },
     {
@@ -17607,7 +17555,6 @@
       "granulation": "Low",
       "lightfastness": "2/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240526020021/http://otokano.com/wp-content/uploads/2022/05/SPWC-paynes-grey.png",
       "performance": "Professional"
     },
     {
@@ -17871,7 +17818,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240616052647/http://otokano.com/wp-content/uploads/2022/05/VG-naples-yellow-red.png",
       "performance": "Student"
     },
     {
@@ -18168,7 +18114,6 @@
       "granulation": "Low",
       "lightfastness": "3/3",
       "isVegan": true,
-      "swatchImage": "https://web.archive.org/web/20240616052647/http://otokano.com/wp-content/uploads/2022/05/VG-cobalt-blue-ultramarine.png",
       "performance": "Student"
     },
     {
@@ -19207,7 +19152,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Lemon-Yellow.png",
       "performance": "Professional"
     },
     {
@@ -19745,7 +19689,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Permanent-Alizarin-Crimson.png",
       "performance": "Professional"
     },
     {
@@ -21774,7 +21717,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Burnt-Sienna-Light.png",
       "performance": "Professional"
     },
     {
@@ -21998,7 +21940,6 @@
       "lightfastness": "4/4",
       "isVegan": false,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Neutral-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22018,7 +21959,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Cool-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22038,7 +21978,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Joseph-Warm-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22057,7 +21996,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Janes-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22077,7 +22015,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Alvaro-Fresco-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22116,7 +22053,6 @@
       "lightfastness": "4/4",
       "isVegan": true,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Paynes-Blue-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22135,7 +22071,6 @@
       "lightfastness": "4/4",
       "isVegan": false,
       "paintNumber": "N/A",
-      "swatchImage": "https://web.archive.org/web/20240616070226/http://otokano.com/wp-content/uploads/2022/05/DS-Paynes-Grey.png",
       "performance": "Professional"
     },
     {
@@ -22254,7 +22189,7 @@
       "pigmentCodes": [
         "PO49"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22262,9 +22197,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/quinacridone gold deep.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-manganese-blue",
@@ -22273,7 +22207,7 @@
       "pigmentCodes": [
         "PB33"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -22281,9 +22215,8 @@
       "lightfastness": "nan",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine manganese blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-selenite-from-sicily",
@@ -22293,7 +22226,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22301,9 +22234,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/selenite from sicily.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-azo-green-yellow",
@@ -22312,7 +22244,7 @@
       "pigmentCodes": [
         "PG10"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22320,9 +22252,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/azo green yellow.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-isoindolone-lemon-yellow",
@@ -22331,7 +22262,7 @@
       "pigmentCodes": [
         "PY109"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22339,9 +22270,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/isoindolone lemon yellow.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-weld-lake-reseda-luteola",
@@ -22350,7 +22280,7 @@
       "pigmentCodes": [
         "NATURAL (NP)"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22358,9 +22288,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine weld lake.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-buckthorn-lake-stil-de-grain",
@@ -22369,7 +22298,7 @@
       "pigmentCodes": [
         "NATURAL (NP)"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22377,9 +22306,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine buckthorn lake.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-indian-yellow-hue",
@@ -22388,7 +22316,7 @@
       "pigmentCodes": [
         "PY83"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22396,9 +22324,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/indian yellow hue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-original-quinacridone-gold",
@@ -22407,7 +22334,7 @@
       "pigmentCodes": [
         "PO49"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22415,9 +22342,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/original quinacridone gold.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-isoindoline-deep-orange",
@@ -22426,7 +22352,7 @@
       "pigmentCodes": [
         "PO61"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22434,9 +22360,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/isoindoline deep orange.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-quinacridone-rust-orange",
@@ -22445,7 +22370,7 @@
       "pigmentCodes": [
         "PO48"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22453,9 +22378,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/quinacridone rust orange.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-original-quinacridone-orange",
@@ -22464,7 +22388,7 @@
       "pigmentCodes": [
         "PO48"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22472,9 +22396,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/original quinacridone orange.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-anthraquinone-scarlet",
@@ -22483,7 +22406,7 @@
       "pigmentCodes": [
         "PR168"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22491,9 +22414,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/anthraquinone scarlet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-dragon-s-blood-sumatra",
@@ -22502,7 +22424,7 @@
       "pigmentCodes": [
         "NATURAL (NP)"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22510,9 +22432,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine dragon's blood.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-quinacridone-russet",
@@ -22521,7 +22442,7 @@
       "pigmentCodes": [
         "PR206"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22529,9 +22450,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/quinacridone russet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-medici-red",
@@ -22540,7 +22460,7 @@
       "pigmentCodes": [
         "PR101"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -22548,9 +22468,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/medici red.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-red-madder",
@@ -22559,7 +22478,7 @@
       "pigmentCodes": [
         "NR9"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22567,9 +22486,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine red madder.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-cochineal-carmine",
@@ -22578,7 +22496,7 @@
       "pigmentCodes": [
         "NR4"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22586,9 +22504,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine cochineal carmine.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-potter-s-pink",
@@ -22597,7 +22514,7 @@
       "pigmentCodes": [
         "PR233"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -22605,9 +22522,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/potter's pink.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-ultramarine-pink",
@@ -22616,7 +22532,7 @@
       "pigmentCodes": [
         "PV15"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22624,9 +22540,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/ultramarine pink.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-quinacridone-purple",
@@ -22635,7 +22550,7 @@
       "pigmentCodes": [
         "PV19"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22643,9 +22558,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/quinacridone purple.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-manganese-violet",
@@ -22654,7 +22568,7 @@
       "pigmentCodes": [
         "PV16"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -22662,9 +22576,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/manganese violet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-quinacridone-violet",
@@ -22673,7 +22586,7 @@
       "pigmentCodes": [
         "PV19"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22681,9 +22594,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/quinacridone violet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-ultramarine-violet",
@@ -22692,7 +22604,7 @@
       "pigmentCodes": [
         "PV15"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22700,9 +22612,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/ultramarine violet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-dioxazine-violet",
@@ -22711,7 +22622,7 @@
       "pigmentCodes": [
         "PV23"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22719,9 +22630,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/dioxazine violet.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-logwood",
@@ -22730,7 +22640,7 @@
       "pigmentCodes": [
         "NATURAL (NP)"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22738,9 +22648,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine logwood.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-benzimidazo-blue",
@@ -22749,7 +22658,7 @@
       "pigmentCodes": [
         "PB80"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22757,9 +22666,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/benzimidazo blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-vivianite",
@@ -22769,7 +22677,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22777,9 +22685,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine vivianite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-indian-indigo",
@@ -22788,7 +22695,7 @@
       "pigmentCodes": [
         "NB1"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22796,9 +22703,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine indian indigo.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-han-dynasty-blue",
@@ -22807,7 +22713,7 @@
       "pigmentCodes": [
         "PB31"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22815,9 +22721,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine han dynasty blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-lapis-lazuli-ash",
@@ -22827,7 +22732,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22835,9 +22740,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine lapis lazuli ash.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-lapis-lazuli-afghanistan",
@@ -22847,7 +22751,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22855,9 +22759,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine lapis lazuli afghanistan.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-fra-angelico-blue",
@@ -22866,7 +22769,7 @@
       "pigmentCodes": [
         "PB29 LAPIS"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22874,9 +22777,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/fra angelico blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-french-ultramarine",
@@ -22885,7 +22787,7 @@
       "pigmentCodes": [
         "PB29"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22893,9 +22795,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/french ultramarine.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-cobalt-blue",
@@ -22904,7 +22805,7 @@
       "pigmentCodes": [
         "PB28"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -22912,9 +22813,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/cobalt blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-persicaria-indigo",
@@ -22923,7 +22823,7 @@
       "pigmentCodes": [
         "NB1"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22931,9 +22831,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine persicaria indigo.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-italian-woad-indigo",
@@ -22942,7 +22841,7 @@
       "pigmentCodes": [
         "NB1"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22950,9 +22849,8 @@
       "lightfastness": "Unknown",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine italian woad indigo.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-prussian-blue",
@@ -22961,7 +22859,7 @@
       "pigmentCodes": [
         "PB27"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -22969,9 +22867,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/prussian blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-azzurro-della-magna",
@@ -22980,7 +22877,7 @@
       "pigmentCodes": [
         "PB30"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -22988,9 +22885,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/azzurro della magna.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-egyptian-blue",
@@ -22999,7 +22895,7 @@
       "pigmentCodes": [
         "PB31"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23007,9 +22903,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine egyptian blue.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-cobalt-cerulean",
@@ -23018,7 +22913,7 @@
       "pigmentCodes": [
         "PB36"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23026,9 +22921,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/cobalt cerulean.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-cobalt-turquoise",
@@ -23037,7 +22931,7 @@
       "pigmentCodes": [
         "PB28"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23045,9 +22939,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/cobalt turquoise.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-malachite-from-congo",
@@ -23056,7 +22949,7 @@
       "pigmentCodes": [
         "PG39"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -23064,9 +22957,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine malachite from congo.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-sap-green",
@@ -23075,7 +22967,7 @@
       "pigmentCodes": [
         "PG8"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23083,9 +22975,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/sap green.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-cobalt-green-deep",
@@ -23094,7 +22985,7 @@
       "pigmentCodes": [
         "PG26"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23102,9 +22993,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/cobalt green deep.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-lacustrine-vivianite-genuine",
@@ -23114,7 +23004,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23122,9 +23012,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/lacustrine vivianite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-tiger-s-eye",
@@ -23134,7 +23023,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23142,9 +23031,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine tigers eye.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-limonite",
@@ -23153,7 +23041,7 @@
       "pigmentCodes": [
         "PY43"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23161,9 +23049,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine limonite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-amiata-natural-raw-sienna",
@@ -23172,7 +23059,7 @@
       "pigmentCodes": [
         "PBR7"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23180,9 +23067,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/amiata natural raw sienna.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-bohemian-golden-ochre",
@@ -23191,7 +23077,7 @@
       "pigmentCodes": [
         "PY43"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23199,9 +23085,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/bohemian golden ochre.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-goethite",
@@ -23210,7 +23095,7 @@
       "pigmentCodes": [
         "PY43"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23218,9 +23103,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine goethite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-ozokerite",
@@ -23230,7 +23114,7 @@
         "N",
         "A (MINERAL WAX)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23238,9 +23122,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine ozokerite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-orange-ochre-from-sardinia",
@@ -23250,7 +23133,7 @@
         "PY43",
         "PR101"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23258,9 +23141,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/orange ochre from sardinia.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-armenian-bole",
@@ -23269,7 +23151,7 @@
       "pigmentCodes": [
         "PR101"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23277,9 +23159,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/armenian bole.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-amiata-burnt-sienna",
@@ -23288,7 +23169,7 @@
       "pigmentCodes": [
         "PBR7"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -23296,9 +23177,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/amiata burnt sienna.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-cold-russian-hematite",
@@ -23307,7 +23187,7 @@
       "pigmentCodes": [
         "PR101"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23315,9 +23195,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/cold russian hematite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-sinopia",
@@ -23326,7 +23205,7 @@
       "pigmentCodes": [
         "PR101"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23334,9 +23213,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/sinopia.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-red-jasper",
@@ -23346,7 +23224,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23354,9 +23232,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine red jasper.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-native-american-catlinite",
@@ -23366,7 +23243,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23374,9 +23251,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine native american catlinite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-natural-hematite",
@@ -23385,7 +23261,7 @@
       "pigmentCodes": [
         "PR102"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Opaque",
       "staining": "Medium-Staining",
@@ -23393,9 +23269,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/natural hematite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-mahogany-brown",
@@ -23404,7 +23279,7 @@
       "pigmentCodes": [
         "PBR25"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Transparent",
       "staining": "Medium-Staining",
@@ -23412,9 +23287,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/mahogany brown.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-red-lava-armenia",
@@ -23423,7 +23297,7 @@
       "pigmentCodes": [
         "PR102"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23431,9 +23305,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/red lava armenia.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-natural-armenian-porphyry",
@@ -23442,7 +23315,7 @@
       "pigmentCodes": [
         "PR102"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23450,9 +23323,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/natural armenian porphyry.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-caput-mortuum",
@@ -23461,7 +23333,7 @@
       "pigmentCodes": [
         "PR101"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Opaque",
       "staining": "Medium-Staining",
@@ -23469,9 +23341,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/caput mortuum.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-natural-light-violet-grey-augite-phorphiry",
@@ -23481,7 +23352,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23489,9 +23360,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/natural light violet grey augite phorphiry.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-natural-raw-umber",
@@ -23500,7 +23370,7 @@
       "pigmentCodes": [
         "PBR7"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23508,9 +23378,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/natural raw umber.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-burnt-umber-cyprus",
@@ -23519,7 +23388,7 @@
       "pigmentCodes": [
         "PBR8"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23527,9 +23396,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/burnt umber cyprus.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-cassel-earth",
@@ -23538,7 +23406,7 @@
       "pigmentCodes": [
         "NBR8"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23546,9 +23414,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine cassel earth.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-vine-black",
@@ -23557,7 +23424,7 @@
       "pigmentCodes": [
         "PBK8"
       ],
-      "pigmentMix": "Single",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Opaque",
       "staining": "Medium-Staining",
@@ -23565,9 +23432,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine vine black.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-magnetite",
@@ -23577,7 +23443,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23585,9 +23451,8 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine magnetite.avif",
-      "hue": "–"
+      "performance": "Professional"
     },
     {
       "id": "della-magna-watercolors-genuine-black-tourmaline",
@@ -23597,7 +23462,7 @@
         "N",
         "A (MINERAL)"
       ],
-      "pigmentMix": "Multi",
+      "hue": "–",
       "hex": "#E6D9C6",
       "transparency": "Semi-Transparent",
       "staining": "Medium-Staining",
@@ -23605,9 +23470,891 @@
       "lightfastness": "8/8",
       "isVegan": false,
       "paintNumber": "N/A",
-      "performance": "Professional",
       "swatchImage": "/uploads/della-magna-watercolors/genuine black tourmaline.avif",
-      "hue": "–"
+      "performance": "Professional"
+    },
+    {
+      "id": "jacksons-chinese-white",
+      "brandId": "jacksons",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-chinese-white.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-lemon-yellow",
+      "brandId": "jacksons",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-Lemon-Yellow.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-aureolin",
+      "brandId": "jacksons",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-Aureolin.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cadmium-yellow-light",
+      "brandId": "jacksons",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cadmium-yellow-light.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-jackson-s-yellow-light",
+      "brandId": "jacksons",
+      "name": "Jackson’s Yellow Light",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-yellow-light.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-indian-yellow-hue",
+      "brandId": "jacksons",
+      "name": "Indian Yellow Hue",
+      "pigmentCodes": [
+        "PY153",
+        "PY154",
+        "PY93"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-indian-yellow-hue.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-naples-yellow-hue",
+      "brandId": "jacksons",
+      "name": "Naples Yellow Hue",
+      "pigmentCodes": [
+        "PY3",
+        "PW6",
+        "PW4"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-naples-yellow-hue.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cadmium-yellow-deep",
+      "brandId": "jacksons",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cadmium-yellow-deep.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cadmium-yellow-orange",
+      "brandId": "jacksons",
+      "name": "Cadmium Yellow Orange",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cadmium-yellow-orange.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-french-vermilion",
+      "brandId": "jacksons",
+      "name": "French Vermilion",
+      "pigmentCodes": [
+        "PR242"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-french-vermilion.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cadmium-red-light",
+      "brandId": "jacksons",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cadmium-red-light.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-bright-red",
+      "brandId": "jacksons",
+      "name": "Bright Red",
+      "pigmentCodes": [
+        "PR254",
+        "PO43"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-bright-red.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-jackson-s-red-pyrrole",
+      "brandId": "jacksons",
+      "name": "Jackson’s Red (Pyrrole)",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-jacksons-red-pyrrole.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-carmine",
+      "brandId": "jacksons",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-carmine.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-opera-rose",
+      "brandId": "jacksons",
+      "name": "Opera Rose",
+      "pigmentCodes": [
+        "FLOU. PR81:1"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-Opera-Rose.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-alizarin-crimson",
+      "brandId": "jacksons",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR179",
+        "PR209",
+        "PY83"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-Alizarin-Crimson.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-permanent-alizarin-crimson-deep",
+      "brandId": "jacksons",
+      "name": "Permanent Alizarin Crimson Deep",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-permanent-alizarin-crimson-deep.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-quinacridone-purple",
+      "brandId": "jacksons",
+      "name": "Quinacridone Purple",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-quinacridone-purple.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-permanent-magenta",
+      "brandId": "jacksons",
+      "name": "Permanent Magenta",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-permanent-magenta.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cobalt-violet-deep-hue",
+      "brandId": "jacksons",
+      "name": "Cobalt Violet Deep Hue",
+      "pigmentCodes": [
+        "PR122",
+        "PV16"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cobalt-violet-deep-hue.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cobalt-blue",
+      "brandId": "jacksons",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cobalt-blue.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-ultramarine-light",
+      "brandId": "jacksons",
+      "name": "Ultramarine Light",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-ultramarine-light.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-ultramarine-deep",
+      "brandId": "jacksons",
+      "name": "Ultramarine Deep",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": null,
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-prussian-blue",
+      "brandId": "jacksons",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-prussian-blue.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-cerulean-blue",
+      "brandId": "jacksons",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-cerulean-blue.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-phthalocyanine-blue",
+      "brandId": "jacksons",
+      "name": "Phthalocyanine Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-phthalocyanine-blue.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-indigo",
+      "brandId": "jacksons",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PBK7"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-indigo.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-phthalocyanine-green-deep",
+      "brandId": "jacksons",
+      "name": "Phthalocyanine Green Deep",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-phthlocyanine-green-deep.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-viridian",
+      "brandId": "jacksons",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18",
+        "PG7"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-viridian.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-hookers-green",
+      "brandId": "jacksons",
+      "name": "Hookers Green",
+      "pigmentCodes": [
+        "PY83",
+        "PG36"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-hookers-green.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-permanent-sap-green",
+      "brandId": "jacksons",
+      "name": "Permanent Sap Green",
+      "pigmentCodes": [
+        "PB29",
+        "PY153"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-permanent-sap-green.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-yellow-ochre",
+      "brandId": "jacksons",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-yellow-ochre.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-raw-sienna",
+      "brandId": "jacksons",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBR7"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-raw-sienna.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-raw-umber",
+      "brandId": "jacksons",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBR7"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-raw-umber.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-quinacridone-gold",
+      "brandId": "jacksons",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PR101",
+        "PR206",
+        "PY150"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-quinacridone-gold.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-burnt-sienna",
+      "brandId": "jacksons",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBR7"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-burnt-sienna.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-venetian-red",
+      "brandId": "jacksons",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101",
+        "PY43"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-ventian-red.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-burnt-umber",
+      "brandId": "jacksons",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBR7"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-burnt-umber.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-van-dyck-brown",
+      "brandId": "jacksons",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "PBK7",
+        "PR101"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-van-dyke-brown.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-warm-sepia",
+      "brandId": "jacksons",
+      "name": "Warm Sepia",
+      "pigmentCodes": [
+        "PBR7",
+        "PBK7"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-warm-sepia.png",
+      "hue": "Hue",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-payne-s-grey",
+      "brandId": "jacksons",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PV19",
+        "PB15:1",
+        "PBK7"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-paynes-grey.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-neutral-tint",
+      "brandId": "jacksons",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBK7",
+        "PB60",
+        "PR209"
+      ],
+      "pigmentMix": "Multi",
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "N/A",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-neutral-tint.png",
+      "hue": "–",
+      "isDiscontinued": false
+    },
+    {
+      "id": "jacksons-ivory-black",
+      "brandId": "jacksons",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBK9"
+      ],
+      "pigmentMix": "Single",
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "paintNumber": "N/A",
+      "performance": "Professional",
+      "swatchImage": "/uploads/jacksons/JA-Ivory-Black.png",
+      "hue": "–",
+      "isDiscontinued": false
     }
   ]
 }
