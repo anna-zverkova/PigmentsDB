@@ -22,17 +22,30 @@ export const InfoData: React.FC = () => {
     .split('\n')
     .map((line) => line.trimStart())
     .join('\n');
+  const markdownComponents = {
+    p: (props: React.HTMLAttributes<HTMLParagraphElement>) => (
+      <p className="mb-5 last:mb-0" {...props} />
+    ),
+    h2: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+      <h2 className="text-xl font-semibold text-neutral-900 mt-8 mb-3" {...props} />
+    ),
+    h3: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
+      <h3 className="text-lg font-semibold text-neutral-900 mt-6 mb-2" {...props} />
+    ),
+  };
 
   return (
     <div className="container mx-auto px-4 py-16 max-w-3xl">
       <h1 className="text-3xl font-bold text-neutral-900 mb-4">
         {dataPage.title}
       </h1>
-      <div className="prose prose-neutral max-w-none">
+      <div className="text-neutral-600 leading-relaxed">
         {rich && typeof rich === 'object' && (Array.isArray(rich) ? rich.length > 0 : true) ? (
-          <TinaMarkdown content={rich} />
+          <TinaMarkdown content={rich} components={markdownComponents} />
         ) : (
-          <ReactMarkdown remarkPlugins={[remarkBreaks]}>{markdown}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkBreaks]} components={markdownComponents}>
+            {markdown}
+          </ReactMarkdown>
         )}
       </div>
     </div>
