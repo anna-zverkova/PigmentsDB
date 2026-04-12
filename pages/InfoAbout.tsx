@@ -1,6 +1,7 @@
 import React from 'react';
 import { TinaMarkdown } from 'tinacms/dist/rich-text';
 import ReactMarkdown from 'react-markdown';
+import remarkBreaks from 'remark-breaks';
 import infoContent from '../content/info.json';
 
 export const InfoAbout: React.FC = () => {
@@ -11,7 +12,16 @@ export const InfoAbout: React.FC = () => {
         'TintMap is a non-profit pigment atlas for watercolour artists. This page will be expanded with the project story, methodology, and data sources.',
     };
   const rich = about.bodyRich;
-  const markdown = about.bodyMarkdown ?? (Array.isArray(about.body) ? about.body.join('\n\n') : about.body) ?? '';
+  const rawMarkdown =
+    (typeof rich === 'string' && rich.trim().length > 0 ? rich : null) ??
+    about.bodyMarkdown ??
+    (Array.isArray(about.body) ? about.body.join('\n\n') : about.body) ??
+    '';
+  const markdown = rawMarkdown
+    .replace(/\r\n/g, '\n')
+    .split('\n')
+    .map((line) => line.trimStart())
+    .join('\n');
 
   return (
     <div className="container mx-auto px-4 py-16 max-w-3xl">
@@ -19,10 +29,10 @@ export const InfoAbout: React.FC = () => {
         {about.title}
       </h1>
       <div className="prose prose-neutral max-w-none">
-        {rich && Array.isArray(rich) && rich.length > 0 ? (
+        {rich && typeof rich === 'object' && (Array.isArray(rich) ? rich.length > 0 : true) ? (
           <TinaMarkdown content={rich} />
         ) : (
-          <ReactMarkdown>{markdown}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkBreaks]}>{markdown}</ReactMarkdown>
         )}
       </div>
     </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { TinaMarkdown } from 'tinacms/dist/rich-text';
 import ReactMarkdown from 'react-markdown';
+import remarkBreaks from 'remark-breaks';
 import infoContent from '../content/info.json';
 
 export const InfoContact: React.FC = () => {
@@ -12,7 +13,16 @@ export const InfoContact: React.FC = () => {
         'This is a placeholder for contact details. Add a preferred email address or contact form link here.',
     };
   const rich = contact.bodyRich;
-  const markdown = contact.bodyMarkdown ?? (Array.isArray(contact.body) ? contact.body.join('\n\n') : contact.body) ?? '';
+  const rawMarkdown =
+    (typeof rich === 'string' && rich.trim().length > 0 ? rich : null) ??
+    contact.bodyMarkdown ??
+    (Array.isArray(contact.body) ? contact.body.join('\n\n') : contact.body) ??
+    '';
+  const markdown = rawMarkdown
+    .replace(/\r\n/g, '\n')
+    .split('\n')
+    .map((line) => line.trimStart())
+    .join('\n');
 
   return (
     <div className="container mx-auto px-4 py-16 max-w-3xl">
@@ -20,10 +30,10 @@ export const InfoContact: React.FC = () => {
         {contact.title}
       </h1>
       <div className="prose prose-neutral max-w-none">
-        {rich && Array.isArray(rich) && rich.length > 0 ? (
+        {rich && typeof rich === 'object' && (Array.isArray(rich) ? rich.length > 0 : true) ? (
           <TinaMarkdown content={rich} />
         ) : (
-          <ReactMarkdown>{markdown}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkBreaks]}>{markdown}</ReactMarkdown>
         )}
       </div>
     </div>
