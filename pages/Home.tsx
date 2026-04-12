@@ -3,13 +3,24 @@ import { Link } from 'react-router-dom';
 import { ArrowRight, Search, BarChart2, BookOpen } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
+import { Badge } from '../components/ui/Badge';
 import homeContent from '../content/home.json';
+import { BRANDS, PAINTS } from '../constants';
+import { Paint } from '../types';
 
 export const Home: React.FC = () => {
   const { hero, cta, features, featured } = homeContent;
   const featureIcons = [Search, BarChart2, BookOpen];
   const featureIconClasses = ['text-tint-ember', 'text-tint-teal', 'text-tint-moss'];
   const featureBgClasses = ['bg-tint-ember/10', 'bg-tint-teal/10', 'bg-tint-gold/15'];
+  const featuredItems = featured?.items ?? [];
+  const featuredPaints = featuredItems
+    .map((item: { paintId: string }) => PAINTS.find(p => p.id === item.paintId))
+    .filter(Boolean) as Paint[];
+  const resolvedFeaturedPaints =
+    featuredPaints.length > 0
+      ? featuredPaints
+      : PAINTS.filter(p => p.isFeatured).slice(0, 5);
 
   return (
     <div className="space-y-20 pb-20">
@@ -94,21 +105,50 @@ export const Home: React.FC = () => {
             <p className="text-neutral-600 mb-12 max-w-xl mx-auto">{featured.subtitle}</p>
             
             <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
-                {[...Array(5)].map((_, i) => (
-                    <div key={i} className="group cursor-pointer">
-                        <div className="aspect-[4/5] bg-white p-3 rounded-2xl shadow-sm border border-tint-ink/10 flex flex-col items-center group-hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
-                            <div className={`w-full flex-1 rounded-xl mb-4 bg-neutral-100 relative overflow-hidden`}>
-                                <div className="absolute inset-0 opacity-80" style={{background: `hsl(${45 + (i * 35)}, 60%, ${85 - (i * 5)}%)`}}></div>
-                                {/* Mock Watercolor Texture Overlay */}
-                                <div className="absolute inset-0 opacity-20 mix-blend-overlay bg-[url('https://www.transparenttextures.com/patterns/watercolor.png')]"></div>
-                            </div>
-                            <div className="w-full text-left px-1">
-                                <div className="h-4 bg-neutral-100 rounded-full w-3/4 mb-2"></div>
-                                <div className="h-3 bg-neutral-50 rounded-full w-1/2"></div>
-                            </div>
+                {resolvedFeaturedPaints.map((paint) => {
+                  const brand = BRANDS.find(b => b.id === paint.brandId);
+                  return (
+                    <Link key={paint.id} to={`/paints/${paint.id}`} className="group block text-left">
+                      <Card className="h-full overflow-hidden hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
+                        <div className="aspect-[4/5] bg-white p-3 border-b border-tint-ink/10">
+                          <div className="w-full h-full rounded-xl bg-neutral-100 relative overflow-hidden">
+                            {paint.swatchImage ? (
+                              <img
+                                src={paint.swatchImage}
+                                alt={`${paint.name} swatch`}
+                                className="absolute inset-0 w-full h-full object-cover"
+                              />
+                            ) : (
+                              <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
+                            )}
+                            <div className="absolute inset-0 opacity-20 mix-blend-overlay bg-[url('https://www.transparenttextures.com/patterns/watercolor.png')]"></div>
+                          </div>
                         </div>
-                    </div>
-                ))}
+                        <div className="p-4 space-y-2">
+                          <div className="text-xs text-neutral-500">{brand?.name}</div>
+                          <div className="font-semibold text-neutral-900 leading-tight">{paint.name}</div>
+                          <div className="flex flex-wrap gap-1">
+                            {paint.pigmentCodes.map(code => (
+                              <Badge key={code} variant="secondary" className="text-[10px] px-1.5 py-0">
+                                {code}
+                              </Badge>
+                            ))}
+                          </div>
+                          <div className="text-xs text-neutral-600 space-y-1">
+                            {paint.paintNumber && paint.paintNumber !== '–' && (
+                              <div>Paint No.: {paint.paintNumber}</div>
+                            )}
+                            {paint.hue && paint.hue !== '–' && <div>Hue: {paint.hue}</div>}
+                            {paint.transparency && <div>Transparency: {paint.transparency}</div>}
+                            {paint.granulation && <div>Granulation: {paint.granulation}</div>}
+                            {paint.lightfastness && <div>Lightfastness: {paint.lightfastness}</div>}
+                            {paint.staining && <div>Staining: {paint.staining}</div>}
+                          </div>
+                        </div>
+                      </Card>
+                    </Link>
+                  );
+                })}
             </div>
          </div>
       </section>

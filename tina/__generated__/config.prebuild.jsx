@@ -25,7 +25,8 @@ var brands_default = {
       name: "Blockx",
       logo: "Bx",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Belgium"
     },
     {
       id: "cass-art",
@@ -54,6 +55,7 @@ var brands_default = {
       logo: "DRA",
       description: "Daler Rowney Aquafine is the student\u2011grade watercolor line from the UK brand, designed for learning and everyday practice.",
       website: "#",
+      country: "UK",
       status: "Student"
     },
     {
@@ -62,6 +64,7 @@ var brands_default = {
       logo: "DS",
       description: "",
       website: "#",
+      country: "US",
       status: "Professional"
     },
     {
@@ -84,6 +87,7 @@ var brands_default = {
       logo: "H",
       description: "",
       website: "#",
+      country: "Japan",
       status: "Professional"
     },
     {
@@ -98,7 +102,8 @@ var brands_default = {
       name: "Jackson's Own Brand",
       logo: "J",
       description: "",
-      website: "#"
+      website: "#",
+      country: "UK"
     },
     {
       id: "ken-bromley",
@@ -141,6 +146,7 @@ var brands_default = {
       logo: "M",
       description: "MaimeriBlu is an Italian professional watercolor line known for strong pigments and a traditional European palette.",
       website: "#",
+      country: "Italy",
       status: "Professional"
     },
     {
@@ -149,6 +155,7 @@ var brands_default = {
       logo: "MMG",
       description: "Mijello Mission Gold is a professional Korean watercolor line known for vibrant, clean pigments and smooth handling.",
       website: "#",
+      country: "Korea",
       status: "Professional"
     },
     {
@@ -192,6 +199,7 @@ var brands_default = {
       logo: "RS",
       description: "Roman Szmal is a Polish professional watercolor brand recognized for its rich granulating and landscape\u2011focused colors.",
       website: "#",
+      country: "Poland",
       status: "Professional"
     },
     {
@@ -200,6 +208,7 @@ var brands_default = {
       logo: "S",
       description: "",
       website: "#",
+      country: "Germany",
       status: "Professional"
     },
     {
@@ -215,6 +224,7 @@ var brands_default = {
       logo: "SP",
       description: "ShinHan Pro is a student\u2011grade watercolor range from South Korea, offering a broad palette at an accessible price point for learners and everyday practice.",
       website: "#",
+      country: "Korea",
       status: "Student"
     },
     {
@@ -223,6 +233,7 @@ var brands_default = {
       logo: "PWC",
       description: "ShinHan PWC (Professional Water Colour) is the artist\u2011grade line from South Korea, known for strong pigment strength and a wide, traditional palette.",
       website: "#",
+      country: "Korea",
       status: "Professional"
     },
     {
@@ -253,6 +264,7 @@ var brands_default = {
       logo: "WN",
       description: "",
       website: "#",
+      country: "Russia",
       status: "Professional"
     },
     {
@@ -261,6 +273,7 @@ var brands_default = {
       logo: "WNC",
       description: "",
       website: "#",
+      country: "UK",
       status: "Student"
     },
     {
@@ -269,6 +282,7 @@ var brands_default = {
       logo: "WNP",
       description: "",
       website: "#",
+      country: "UK",
       status: "Professional"
     },
     {
@@ -283,7 +297,29691 @@ var brands_default = {
       name: "Della Magna Watercolors",
       logo: "DMW",
       website: "https://en.dellamagna.com",
+      country: "Italy",
       status: "Professional"
+    }
+  ]
+};
+
+// content/paints.json
+var paints_default = {
+  title: "Paint Library",
+  intro: "Browse paints by brand, pigment code, and performance characteristics.",
+  items: [
+    {
+      id: "white-nights-zinc-white-100",
+      brandId: "white-nights",
+      name: "Zinc White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "100",
+      swatchImage: "/uploads/white-nights/WH-Zinc-white.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-titanium-white-101",
+      brandId: "white-nights",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "101",
+      swatchImage: "/uploads/white-nights/WH-titanium-white.jpg",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cadmium-yellow-medium-201",
+      brandId: "white-nights",
+      name: "Cadmium Yellow Medium",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "201",
+      swatchImage: "/uploads/white-nights/WH-cadmium-yellow-medium.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cadmium-lemon-203",
+      brandId: "white-nights",
+      name: "Cadmium Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "203",
+      swatchImage: "/uploads/white-nights/WH-Cadmium-lemon.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-ochre-light-206",
+      brandId: "white-nights",
+      name: "Ochre Light",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "206",
+      swatchImage: "/uploads/white-nights/WH-ochre-light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-naples-yellow-209",
+      brandId: "white-nights",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PY42",
+        "PY35",
+        "PO20",
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "209",
+      swatchImage: "/uploads/white-nights/WH-naples-yellow(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-yellow-211",
+      brandId: "white-nights",
+      name: "Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "211",
+      swatchImage: "/uploads/white-nights/WH-Yellow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-yellow-211-v2",
+      brandId: "white-nights",
+      name: "Yellow",
+      pigmentCodes: [
+        "PY1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "211",
+      swatchImage: "/uploads/white-nights/WH-Yellow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-lemon-214",
+      brandId: "white-nights",
+      name: "Lemon",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "214",
+      swatchImage: "/uploads/white-nights/WH-Lemon.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-hansa-yellow-215",
+      brandId: "white-nights",
+      name: "Hansa Yellow",
+      pigmentCodes: [
+        "PY1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "215",
+      swatchImage: "/uploads/white-nights/WH-Hansa-Yellow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-golden-216",
+      brandId: "white-nights",
+      name: "Golden",
+      pigmentCodes: [
+        "PY3",
+        "PO64"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "216",
+      swatchImage: "/uploads/white-nights/WH-golden(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-golden-216-v2",
+      brandId: "white-nights",
+      name: "Golden",
+      pigmentCodes: [
+        "PY3",
+        "PO13"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "216",
+      swatchImage: "/uploads/white-nights/WH-golden(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-golden-deep-217",
+      brandId: "white-nights",
+      name: "Golden Deep",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "217",
+      swatchImage: "/uploads/white-nights/WH-golden-deep.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-yellow-ochre-218",
+      brandId: "white-nights",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43",
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "218",
+      swatchImage: "/uploads/white-nights/WH-yellow-ochre.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-yellow-ochre-218-v2",
+      brandId: "white-nights",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43",
+        "PY1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "218",
+      swatchImage: "/uploads/white-nights/WH-yellow-ochre.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-naples-yellow-light-219",
+      brandId: "white-nights",
+      name: "Naples Yellow Light",
+      pigmentCodes: [
+        "PY216"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "219",
+      swatchImage: "/uploads/white-nights/WH-naples-yellow-light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-naples-flesh-222",
+      brandId: "white-nights",
+      name: "Naples Flesh",
+      pigmentCodes: [
+        "PO62",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "222",
+      swatchImage: "/uploads/white-nights/WH-naples-flesh.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-titian-red-226",
+      brandId: "white-nights",
+      name: "Titian Red",
+      pigmentCodes: [
+        "PO36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "226",
+      swatchImage: "/uploads/white-nights/WH-titan-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indian-yellow-228",
+      brandId: "white-nights",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "228",
+      swatchImage: "/uploads/white-nights/WH-indian-yellow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indian-gold-244",
+      brandId: "white-nights",
+      name: "Indian Gold",
+      pigmentCodes: [
+        "PY150",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "244",
+      swatchImage: "/uploads/white-nights/WH-indian-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-aureolin-253",
+      brandId: "white-nights",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY151"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "253",
+      swatchImage: "/uploads/white-nights/WH-aureolin.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-naples-orange-254",
+      brandId: "white-nights",
+      name: "Naples Orange",
+      pigmentCodes: [
+        "PY216"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "254",
+      swatchImage: "/uploads/white-nights/WH-naples-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-dunes-255",
+      brandId: "white-nights",
+      name: "Dunes",
+      pigmentCodes: [
+        "PY42",
+        "PBr6",
+        "PBk7",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "255",
+      swatchImage: "/uploads/white-nights/WH-Dune.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-peach-256",
+      brandId: "white-nights",
+      name: "Peach",
+      pigmentCodes: [
+        "PY3",
+        "PO64",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "256",
+      swatchImage: "/uploads/white-nights/WH-Peach(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-irgazin-yellow-257",
+      brandId: "white-nights",
+      name: "Irgazin Yellow",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "257",
+      swatchImage: "/uploads/white-nights/WH-Irgazin-yellow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-petesburg-ochre-258",
+      brandId: "white-nights",
+      name: "Petesburg Ochre",
+      pigmentCodes: [
+        "PY42",
+        "PBk8",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "258",
+      swatchImage: "/uploads/white-nights/WH-petersburg-ochre.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-yellow-tuff-268",
+      brandId: "white-nights",
+      name: "Yellow Tuff",
+      pigmentCodes: [
+        "PBk8",
+        "PY43"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "268",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-yellow-iron-oxide-270",
+      brandId: "white-nights",
+      name: "Yellow Iron Oxide",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "270",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-nickel-titanate-yellow-271",
+      brandId: "white-nights",
+      name: "Nickel Titanate Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "271",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-isoindolinone-yellow-273",
+      brandId: "white-nights",
+      name: "Isoindolinone yellow",
+      pigmentCodes: [
+        "PY110"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "273",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-chrome-titanate-yellow-274",
+      brandId: "white-nights",
+      name: "Chrome Titanate Yellow",
+      pigmentCodes: [
+        "PBr24"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "274",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-morning-brume-279",
+      brandId: "white-nights",
+      name: "Morning Brume",
+      pigmentCodes: [
+        "PV14",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "279",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-cadmium-red-light-302",
+      brandId: "white-nights",
+      name: "Cadmium Red Light",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "302",
+      swatchImage: "/uploads/white-nights/WH-cadmium-Red-Light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cadmium-orange-304",
+      brandId: "white-nights",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "304",
+      swatchImage: "/uploads/white-nights/WH-cadmium-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-red-ochre-309",
+      brandId: "white-nights",
+      name: "Red Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "309",
+      swatchImage: "/uploads/white-nights/WH-Red-Ochre.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-shakhnazarskaya-red-311",
+      brandId: "white-nights",
+      name: "Shakhnazarskaya Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "311",
+      swatchImage: "/uploads/white-nights/WH-shakhnazarskyaya-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-vermillion-hue-312",
+      brandId: "white-nights",
+      name: "Vermillion Hue",
+      pigmentCodes: [
+        "PR188",
+        "PY154"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "312",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-madder-lake-red-light-313",
+      brandId: "white-nights",
+      name: "Madder Lake Red Light",
+      pigmentCodes: [
+        "PR187"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "313",
+      swatchImage: "/uploads/white-nights/WH-Madder-Lake-Red-Light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-orange-315",
+      brandId: "white-nights",
+      name: "Orange",
+      pigmentCodes: [
+        "PO64"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "315",
+      swatchImage: "/uploads/white-nights/WH-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-scarlet-318",
+      brandId: "white-nights",
+      name: "Scarlet",
+      pigmentCodes: [
+        "PR188"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "318",
+      swatchImage: "/uploads/white-nights/WH-Scarlet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-scarlet-318-v2",
+      brandId: "white-nights",
+      name: "Scarlet",
+      pigmentCodes: [
+        "PR2",
+        "PR4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "318",
+      swatchImage: "/uploads/white-nights/WH-Scarlet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-carmine-319",
+      brandId: "white-nights",
+      name: "Carmine",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "319",
+      swatchImage: "/uploads/white-nights/WH-carmine(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-orange-lake-320",
+      brandId: "white-nights",
+      name: "Orange Lake",
+      pigmentCodes: [
+        "PO17"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "320",
+      swatchImage: "/uploads/white-nights/WH-orange-lake.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-english-red-321",
+      brandId: "white-nights",
+      name: "English Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "321",
+      swatchImage: "/uploads/white-nights/WH-english-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-rose-322",
+      brandId: "white-nights",
+      name: "Rose",
+      pigmentCodes: [
+        "PR81"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "322",
+      swatchImage: "/uploads/white-nights/WH-rose.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-ruby-323",
+      brandId: "white-nights",
+      name: "Ruby",
+      pigmentCodes: [
+        "PR170"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "323",
+      swatchImage: "/uploads/white-nights/WH-Ruby.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-quinacridone-rose-324",
+      brandId: "white-nights",
+      name: "Quinacridone Rose",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "324",
+      swatchImage: "/uploads/white-nights/WH-quinacridone-rose-magenta.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-claret-325",
+      brandId: "white-nights",
+      name: "Claret",
+      pigmentCodes: [
+        "PR179",
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "325",
+      swatchImage: "/uploads/white-nights/WH-claret.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-claret-325-v2",
+      brandId: "white-nights",
+      name: "Claret",
+      pigmentCodes: [
+        "PR12"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "325",
+      swatchImage: "/uploads/white-nights/WH-claret.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-scarlet-light-328",
+      brandId: "white-nights",
+      name: "Scarlet Light",
+      pigmentCodes: [
+        "PR2",
+        "PR4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "328",
+      swatchImage: "/uploads/white-nights/WH-Sclarlet-Light(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-coral-355",
+      brandId: "white-nights",
+      name: "Coral",
+      pigmentCodes: [
+        "PR242",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "355",
+      swatchImage: "/uploads/white-nights/WH-coral.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-venetian-red-357",
+      brandId: "white-nights",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR102",
+        "PR187"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "357",
+      swatchImage: "/uploads/white-nights/WH-venetian-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-quinacridone-red-361",
+      brandId: "white-nights",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "361",
+      swatchImage: "/uploads/white-nights/WH-quinacridone-red(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-geranium-red-364",
+      brandId: "white-nights",
+      name: "Geranium Red",
+      pigmentCodes: [
+        "PR242"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "364",
+      swatchImage: "/uploads/white-nights/WH-geranium-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-venice-purple-365",
+      brandId: "white-nights",
+      name: "Venice Purple",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "365",
+      swatchImage: "/uploads/white-nights/WH-venice-purple.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-pink-peony-366",
+      brandId: "white-nights",
+      name: "Pink Peony",
+      pigmentCodes: [
+        "PR122",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "366",
+      swatchImage: "/uploads/white-nights/WH-pink-peony.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-rose-quartz-367",
+      brandId: "white-nights",
+      name: "Rose Quartz",
+      pigmentCodes: [
+        "PR170",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "367",
+      swatchImage: "/uploads/white-nights/WH-rose-quartz.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-neon-pink-368",
+      brandId: "white-nights",
+      name: "Neon Pink",
+      pigmentCodes: [
+        "PR122",
+        "(FL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "368",
+      swatchImage: "/uploads/white-nights/WH-Neon-pink.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-magnolia-369",
+      brandId: "white-nights",
+      name: "Magnolia",
+      pigmentCodes: [
+        "PV19",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "369",
+      swatchImage: "/uploads/white-nights/WH-magnolia.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-rose-mist-382",
+      brandId: "white-nights",
+      name: "Rose Mist",
+      pigmentCodes: [
+        "PB28",
+        "PR122"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "382",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-quinacridone-scarlet-385",
+      brandId: "white-nights",
+      name: "Quinacridone Scarlet",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "385",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-red-brown-hematite-386",
+      brandId: "white-nights",
+      name: "Red Brown Hematite",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "386",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-ruby-mist-387",
+      brandId: "white-nights",
+      name: "Ruby Mist",
+      pigmentCodes: [
+        "PG19",
+        "PR170"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "387",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-orange-mist-388",
+      brandId: "white-nights",
+      name: "Orange Mist",
+      pigmentCodes: [
+        "PBk8",
+        "PO64"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "388",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-scarlet-mist-389",
+      brandId: "white-nights",
+      name: "Scarlet Mist",
+      pigmentCodes: [
+        "PG19",
+        "PR188"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "389",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-rose-brown-393",
+      brandId: "white-nights",
+      name: "Rose Brown",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "393",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-pyrrole-red-396",
+      brandId: "white-nights",
+      name: "Pyrrole Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "396",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-purple-mist-398",
+      brandId: "white-nights",
+      name: "Purple Mist",
+      pigmentCodes: [
+        "PG50",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "398",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-pyrrol-orange-399",
+      brandId: "white-nights",
+      name: "Pyrrol Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "399",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-vandyke-brown-401",
+      brandId: "white-nights",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PR102",
+        "PBk8"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "401",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-raw-sienna-405",
+      brandId: "white-nights",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "405",
+      swatchImage: "/uploads/white-nights/WH-raw-sienna(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-raw-sienna-405-v2",
+      brandId: "white-nights",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "405",
+      swatchImage: "/uploads/white-nights/WH-raw-sienna(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-burnt-sienna-406",
+      brandId: "white-nights",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "406",
+      swatchImage: "/uploads/white-nights/WH-burnt-sienna.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-burnt-umber-408",
+      brandId: "white-nights",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "408",
+      swatchImage: "/uploads/white-nights/WH-burnt-umber.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-mars-brown-412",
+      brandId: "white-nights",
+      name: "Mars Brown",
+      pigmentCodes: [
+        "PBr6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "412",
+      swatchImage: "/uploads/white-nights/WH-mars-brown.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-sepia-413",
+      brandId: "white-nights",
+      name: "Sepia",
+      pigmentCodes: [
+        "PR102",
+        "PR187",
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "413",
+      swatchImage: "/uploads/white-nights/WH-Sepia.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-umber-418",
+      brandId: "white-nights",
+      name: "Umber",
+      pigmentCodes: [
+        "PY43",
+        "PBr7",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "418",
+      swatchImage: "/uploads/white-nights/WH-umber(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-maroon-432",
+      brandId: "white-nights",
+      name: "Maroon",
+      pigmentCodes: [
+        "PBr7",
+        "PV19",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "432",
+      swatchImage: "/uploads/white-nights/WH-maroon.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-mocha-433",
+      brandId: "white-nights",
+      name: "Mocha",
+      pigmentCodes: [
+        "PR102",
+        "PV55",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "433",
+      swatchImage: "/uploads/white-nights/WH-mocha.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-bistre-447",
+      brandId: "white-nights",
+      name: "Bistre",
+      pigmentCodes: [
+        "PBr7",
+        "PR102"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "447",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-spinel-brown-448",
+      brandId: "white-nights",
+      name: "Spinel brown",
+      pigmentCodes: [
+        "PBr33"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "448",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-mountain-brume-466",
+      brandId: "white-nights",
+      name: "Mountain Brume",
+      pigmentCodes: [
+        "PB28",
+        "PR102",
+        "PBr29",
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "466",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-black-mystery-467",
+      brandId: "white-nights",
+      name: "Black Mystery",
+      pigmentCodes: [
+        "PB29",
+        "PBk11",
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "467",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-ceruleum-blue-503",
+      brandId: "white-nights",
+      name: "Ceruleum Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "503",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-turquoise-blue-507",
+      brandId: "white-nights",
+      name: "Turquoise Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "507",
+      swatchImage: "/uploads/white-nights/WH-turquoise-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-blue-508",
+      brandId: "white-nights",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "508",
+      swatchImage: "/uploads/white-nights/WH-cobalt-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-bright-blue-509",
+      brandId: "white-nights",
+      name: "Bright Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "509",
+      swatchImage: "/uploads/white-nights/WH-bright-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-blue-lake-510",
+      brandId: "white-nights",
+      name: "Blue Lake",
+      pigmentCodes: [
+        "PB1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "510",
+      swatchImage: "/uploads/white-nights/WH-blue-lake.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-ultramarine-511",
+      brandId: "white-nights",
+      name: "Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "511",
+      swatchImage: "/uploads/white-nights/WH-ultramarine.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-celestial-blue-512",
+      brandId: "white-nights",
+      name: "Celestial Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "512",
+      swatchImage: "/uploads/white-nights/WH-celestrial-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-azure-513",
+      brandId: "white-nights",
+      name: "Azure",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "513",
+      swatchImage: "/uploads/white-nights/WH-azure.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-blue-515",
+      brandId: "white-nights",
+      name: "Blue",
+      pigmentCodes: [
+        "PB15:6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "515",
+      swatchImage: "/uploads/white-nights/WH-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indigo-516",
+      brandId: "white-nights",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15:6",
+        "PBk7",
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "516",
+      swatchImage: "/uploads/white-nights/WH-indigo(2).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indigo-516-v2",
+      brandId: "white-nights",
+      name: "Indigo",
+      pigmentCodes: [
+        "PBk7",
+        "PB15",
+        "PV3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "516",
+      swatchImage: "/uploads/white-nights/WH-indigo(2).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indigo-516-v3",
+      brandId: "white-nights",
+      name: "Indigo",
+      pigmentCodes: [
+        "PBk7",
+        "PB15",
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "516",
+      swatchImage: "/uploads/white-nights/WH-indigo(2).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-prussian-blue-518",
+      brandId: "white-nights",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "518",
+      swatchImage: "/uploads/white-nights/WH-prussian-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-azure-blue-519",
+      brandId: "white-nights",
+      name: "Azure Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "519",
+      swatchImage: "/uploads/white-nights/WH-azure-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-ultramarine-deep-521",
+      brandId: "white-nights",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "521",
+      swatchImage: "/uploads/white-nights/WH-ultramarine-deep.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indanthrene-blue-524",
+      brandId: "white-nights",
+      name: "Indanthrene Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "524",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-royal-blue-528",
+      brandId: "white-nights",
+      name: "Royal Blue",
+      pigmentCodes: [
+        "PB29",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "528",
+      swatchImage: "/uploads/white-nights/WH-royal-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-cobalt-turquoise-531",
+      brandId: "white-nights",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "531",
+      swatchImage: "/uploads/white-nights/WH-cobalt-turquoise.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-azure-blue-532",
+      brandId: "white-nights",
+      name: "Cobalt Azure Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "532",
+      swatchImage: "/uploads/white-nights/WH-cobalt-chrome-turquoise.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-chrome-turquoise-533",
+      brandId: "white-nights",
+      name: "Cobalt Chrome Turquoise",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "533",
+      swatchImage: "/uploads/white-nights/WH-cobalt-chrome-turquoise.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-indanthrene-blue-light-537",
+      brandId: "white-nights",
+      name: "Indanthrene Blue Light",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "537",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-dark-blue-shadows-555",
+      brandId: "white-nights",
+      name: "Dark Blue Shadows",
+      pigmentCodes: [
+        "PBk11",
+        "PB15:6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "555",
+      swatchImage: "/uploads/white-nights/WH-dark-blue-shadows.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-blue-shadows-556",
+      brandId: "white-nights",
+      name: "Blue Shadows",
+      pigmentCodes: [
+        "PB29",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "556",
+      swatchImage: "/uploads/white-nights/WH-blue-shadows.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-sky-blue-shadows-557",
+      brandId: "white-nights",
+      name: "Sky-Blue Shadows",
+      pigmentCodes: [
+        "PB28",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "557",
+      swatchImage: "/uploads/white-nights/WH-sky-blue-shadow.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-blue-mist-558",
+      brandId: "white-nights",
+      name: "Blue Mist",
+      pigmentCodes: [
+        "PB29",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "558",
+      swatchImage: "/uploads/white-nights/WH-blue-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-aquamarine-mist-559",
+      brandId: "white-nights",
+      name: "Aquamarine Mist",
+      pigmentCodes: [
+        "PB29",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "559",
+      swatchImage: "/uploads/white-nights/WH-aquamarine-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-cobalt-mist-560",
+      brandId: "white-nights",
+      name: "Cobalt Mist",
+      pigmentCodes: [
+        "PB28",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "560",
+      swatchImage: "/uploads/white-nights/WH-cobalt-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-turquoise-cobalt-mist-561",
+      brandId: "white-nights",
+      name: "Turquoise-Cobalt Mist",
+      pigmentCodes: [
+        "PB28",
+        "PR264"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "561",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-grey-blue-mist-562",
+      brandId: "white-nights",
+      name: "Grey-Blue Mist",
+      pigmentCodes: [
+        "PB29",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "562",
+      swatchImage: "/uploads/white-nights/WG-grey-blue-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-chromium-cobalt-mist-563",
+      brandId: "white-nights",
+      name: "Chromium-Cobalt Mist",
+      pigmentCodes: [
+        "PB28",
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "563",
+      swatchImage: "/uploads/white-nights/WH-chromium-cobalt-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-blue-dream-570",
+      brandId: "white-nights",
+      name: "Blue Dream",
+      pigmentCodes: [
+        "PV14",
+        "PB28"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "570",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-blue-mystery-571",
+      brandId: "white-nights",
+      name: "Blue Mystery",
+      pigmentCodes: [
+        "PV16",
+        "PB29",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "571",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-sea-mist-595",
+      brandId: "white-nights",
+      name: "Sea Mist",
+      pigmentCodes: [
+        "PG50",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "595",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-helio-blue-596",
+      brandId: "white-nights",
+      name: "Helio Blue",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "596",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-violet-light-602",
+      brandId: "white-nights",
+      name: "Cobalt Violet Light",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "602",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-violet-deep-603",
+      brandId: "white-nights",
+      name: "Cobalt Violet Deep",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "603",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-caput-mortuum-604",
+      brandId: "white-nights",
+      name: "Caput Mortuum",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "604",
+      swatchImage: "/uploads/white-nights/WH-caput-mortuum.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-violet-607",
+      brandId: "white-nights",
+      name: "Violet",
+      pigmentCodes: [
+        "PV3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "607",
+      swatchImage: "/uploads/white-nights/WH-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-violet-rose-608",
+      brandId: "white-nights",
+      name: "Violet Rose",
+      pigmentCodes: [
+        "PV2"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "608",
+      swatchImage: "/uploads/white-nights/WH-Violet-Rose.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-quinacridone-lilac-609",
+      brandId: "white-nights",
+      name: "Quinacridone Lilac",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "609",
+      swatchImage: "/uploads/white-nights/WH-quinacridone-lilac.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment",
+      isFeatured: true
+    },
+    {
+      id: "white-nights-ultramarine-violet-613",
+      brandId: "white-nights",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "613",
+      swatchImage: "/uploads/white-nights/WH-ultramarine-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-manganese-violet-light-614",
+      brandId: "white-nights",
+      name: "Manganese violet light",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "614",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-quinacridone-violet-621",
+      brandId: "white-nights",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "621",
+      swatchImage: "/uploads/white-nights/WH-quinacridone-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-quinacridone-violet-rose-622",
+      brandId: "white-nights",
+      name: "Quinacridone Violet Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "622",
+      swatchImage: "/uploads/white-nights/WH-quinacridone-violet-rose(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-lavender-625",
+      brandId: "white-nights",
+      name: "Lavender",
+      pigmentCodes: [
+        "PV15",
+        "PB29",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "625",
+      swatchImage: "/uploads/white-nights/WH-lavender.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-lilac-626",
+      brandId: "white-nights",
+      name: "Lilac",
+      pigmentCodes: [
+        "PV19",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "626",
+      swatchImage: "/uploads/white-nights/WH-lilac.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-perylene-violet-627",
+      brandId: "white-nights",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "627",
+      swatchImage: "/uploads/white-nights/WH-perylene-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-dioxazine-violet-628",
+      brandId: "white-nights",
+      name: "Dioxazine Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "628",
+      swatchImage: "/uploads/white-nights/WH-dioxazine-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-violet-shadows-629",
+      brandId: "white-nights",
+      name: "Violet Shadows",
+      pigmentCodes: [
+        "PBk11",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "629",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-violet-mist-630",
+      brandId: "white-nights",
+      name: "Violet Mist",
+      pigmentCodes: [
+        "PB29",
+        "PG17",
+        "PR187"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "630",
+      swatchImage: "/uploads/white-nights/WH-violet-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-lilac-mist-631",
+      brandId: "white-nights",
+      name: "Lilac Mist",
+      pigmentCodes: [
+        "PB29",
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "631",
+      swatchImage: "/uploads/white-nights/WH-lilac-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-hematite-mist-632",
+      brandId: "white-nights",
+      name: "Hematite Mist",
+      pigmentCodes: [
+        "PB29",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "632",
+      swatchImage: "/uploads/white-nights/WH-hematite-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-augite-porphyite-633",
+      brandId: "white-nights",
+      name: "Augite Porphyite",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "633",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-grey-violet-granite-634",
+      brandId: "white-nights",
+      name: "Grey-Violet Granite",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "634",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-sunset-mist-635",
+      brandId: "white-nights",
+      name: "Sunset Mist",
+      pigmentCodes: [
+        "PB29",
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "635",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-chromium-oxide-704",
+      brandId: "white-nights",
+      name: "Chromium Oxide",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "704",
+      swatchImage: "/uploads/white-nights/WH-chromium-oxide.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-cobalt-green-deep-705",
+      brandId: "white-nights",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "705",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-emerald-green-713",
+      brandId: "white-nights",
+      name: "Emerald Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "713",
+      swatchImage: "/uploads/white-nights/WH-emerald-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-sap-green-716",
+      brandId: "white-nights",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY150",
+        "PG36",
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "716",
+      swatchImage: "/uploads/white-nights/WH-sap-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-green-light-717",
+      brandId: "white-nights",
+      name: "Green Light",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "717",
+      swatchImage: "/uploads/white-nights/WH-green-light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-yellowish-green-718",
+      brandId: "white-nights",
+      name: "Yellowish Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "718",
+      swatchImage: "/uploads/white-nights/WH-yellowish-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-green-original-719",
+      brandId: "white-nights",
+      name: "Green Original",
+      pigmentCodes: [
+        "PY35",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "719",
+      swatchImage: "/uploads/white-nights/WH-green-original.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-green-725",
+      brandId: "white-nights",
+      name: "Green",
+      pigmentCodes: [
+        "PG8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "725",
+      swatchImage: "/uploads/white-nights/WH-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-olive-green-727",
+      brandId: "white-nights",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY3",
+        "PO62",
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "727",
+      swatchImage: "/uploads/white-nights/WH-olive-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-olive-green-727-v2",
+      brandId: "white-nights",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY1",
+        "PG17",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "727",
+      swatchImage: "/uploads/white-nights/WH-olive-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-green-earth-730",
+      brandId: "white-nights",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PBr7",
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "730",
+      swatchImage: "/uploads/white-nights/WH-green-earth.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-mint-735",
+      brandId: "white-nights",
+      name: "Mint",
+      pigmentCodes: [
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "735",
+      swatchImage: "/uploads/white-nights/WH-mint.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-may-green-745",
+      brandId: "white-nights",
+      name: "May Green",
+      pigmentCodes: [
+        "PY3",
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "745",
+      swatchImage: "/uploads/white-nights/WH-may-green(1).png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-warm-green-747",
+      brandId: "white-nights",
+      name: "Warm Green",
+      pigmentCodes: [
+        "PY151",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "747",
+      swatchImage: "/uploads/white-nights/WH-warm-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-green-shadows-760",
+      brandId: "white-nights",
+      name: "Green Shadows",
+      pigmentCodes: [
+        "PBk11",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "760",
+      swatchImage: "/uploads/white-nights/WH-green-shadows.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-taiga-mist-761",
+      brandId: "white-nights",
+      name: "Taiga Mist",
+      pigmentCodes: [
+        "PBr7",
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "761",
+      swatchImage: "/uploads/white-nights/WH-taiga-mist.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-green-mist-762",
+      brandId: "white-nights",
+      name: "Green Mist",
+      pigmentCodes: [
+        "PB28",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "762",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-yellowis-green-mist-763",
+      brandId: "white-nights",
+      name: "Yellowis Green Mist",
+      pigmentCodes: [
+        "PB35",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "763",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-cobalt-titanate-green-765",
+      brandId: "white-nights",
+      name: "Cobalt Titanate Green",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "765",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-spinel-green-766",
+      brandId: "white-nights",
+      name: "Spinel green",
+      pigmentCodes: [
+        "PG26"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "766",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-mint-dream-776",
+      brandId: "white-nights",
+      name: "Mint Dream",
+      pigmentCodes: [
+        "PV14",
+        "PB36",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "776",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-green-dream-777",
+      brandId: "white-nights",
+      name: "Green Dream",
+      pigmentCodes: [
+        "PG50",
+        "PY3",
+        "PBr24"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "777",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-forest-brume-778",
+      brandId: "white-nights",
+      name: "Forest Brume",
+      pigmentCodes: [
+        "PB29",
+        "PBr24",
+        "PY110"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "778",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-green-mystery-779",
+      brandId: "white-nights",
+      name: "Green Mystery",
+      pigmentCodes: [
+        "PG26",
+        "PBr33",
+        "PB16"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "779",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-mars-black-800",
+      brandId: "white-nights",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "800",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-lamp-black-801",
+      brandId: "white-nights",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "801",
+      swatchImage: "/uploads/white-nights/WH-lamp-black.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-neutral-black-805",
+      brandId: "white-nights",
+      name: "Neutral Black",
+      pigmentCodes: [
+        "PR187",
+        "PB15:1",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "805",
+      swatchImage: "/uploads/white-nights/WH-neutral-black.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-voronezhskaya-black-806",
+      brandId: "white-nights",
+      name: "Voronezhskaya Black",
+      pigmentCodes: [
+        "PBk8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "806",
+      swatchImage: "/uploads/white-nights/WH-Voronezhskaya-Black.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-ivory-black-hue-811",
+      brandId: "white-nights",
+      name: "Ivory Black Hue",
+      pigmentCodes: [
+        "PR102",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "811",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-payne-s-gray-812",
+      brandId: "white-nights",
+      name: "Payne's Gray",
+      pigmentCodes: [
+        "PBk7",
+        "PB15",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "812",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-payne-s-gray-812-v2",
+      brandId: "white-nights",
+      name: "Payne's Gray",
+      pigmentCodes: [
+        "PBk7",
+        "PB15",
+        "PV55"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "812",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-payne-s-gray-812-v3",
+      brandId: "white-nights",
+      name: "Payne's Gray",
+      pigmentCodes: [
+        "PBk7",
+        "PB15",
+        "PV3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: true,
+      series: null,
+      paintNumber: "812",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "Yes",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-marengo-818",
+      brandId: "white-nights",
+      name: "Marengo",
+      pigmentCodes: [
+        "PB15",
+        "PBk7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "818",
+      swatchImage: "/uploads/white-nights/WH-marengo.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-pearl-grey-819",
+      brandId: "white-nights",
+      name: "Pearl Grey",
+      pigmentCodes: [
+        "PR102",
+        "PBk7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "819",
+      swatchImage: "/uploads/white-nights/WH-pearl-grey.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Pastel"
+    },
+    {
+      id: "white-nights-grey-pink-mist-832",
+      brandId: "white-nights",
+      name: "Grey-Pink Mist",
+      pigmentCodes: [
+        "PB29",
+        "PG17",
+        "PR187"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "832",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-spinel-grey-837",
+      brandId: "white-nights",
+      name: "Spinel Grey",
+      pigmentCodes: [
+        "PBk28"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "837",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-chromium-iron-oxide-838",
+      brandId: "white-nights",
+      name: "Chromium Iron Oxide",
+      pigmentCodes: [
+        "PBr29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "838",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Granulating Colors"
+    },
+    {
+      id: "white-nights-perylene-green-839",
+      brandId: "white-nights",
+      name: "Perylene green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "839",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-neutral-tint-840",
+      brandId: "white-nights",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PY154",
+        "PR255",
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "840",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Standard Assortment"
+    },
+    {
+      id: "white-nights-silver-light-961",
+      brandId: "white-nights",
+      name: "Silver Light",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "961",
+      swatchImage: "/uploads/white-nights/WH-silver-light.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-silver-deep-962",
+      brandId: "white-nights",
+      name: "Silver Deep",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "962",
+      swatchImage: "/uploads/white-nights/WH-silver-deep.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-bronze-963",
+      brandId: "white-nights",
+      name: "Bronze",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "963",
+      swatchImage: "/uploads/white-nights/WH-bronze.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-copper-964",
+      brandId: "white-nights",
+      name: "Copper",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "964",
+      swatchImage: "/uploads/white-nights/WH-copper.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-aztec-gold-968",
+      brandId: "white-nights",
+      name: "Aztec Gold",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "968",
+      swatchImage: "/uploads/white-nights/WH-aztec-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-inca-gold-969",
+      brandId: "white-nights",
+      name: "Inca Gold",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "969",
+      swatchImage: "/uploads/white-nights/WH-incao-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-antique-gold-981",
+      brandId: "white-nights",
+      name: "Antique Gold",
+      pigmentCodes: [
+        "Not listed by producer"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "981",
+      swatchImage: "/uploads/white-nights/WH-Anitque-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metallic"
+    },
+    {
+      id: "white-nights-gold-flare-982",
+      brandId: "white-nights",
+      name: "Gold Flare",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "982",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-silver-flare-983",
+      brandId: "white-nights",
+      name: "Silver Flare",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "983",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-yellow-green-shimmer-984",
+      brandId: "white-nights",
+      name: "Yellow-green shimmer",
+      pigmentCodes: [
+        "PG36",
+        "PY3 Chameleon pigment",
+        "blue",
+        "green",
+        "gold"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "984",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-green-shimmer-985",
+      brandId: "white-nights",
+      name: "Green Shimmer",
+      pigmentCodes: [
+        "Mica",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "985",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-lemon-shimmer-986",
+      brandId: "white-nights",
+      name: "Lemon shimmer",
+      pigmentCodes: [
+        "PY3 Chameleon pigment",
+        "red",
+        "violet",
+        "blue"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "986",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-orange-shimmer-987",
+      brandId: "white-nights",
+      name: "Orange shimmer",
+      pigmentCodes: [
+        "PO64",
+        "Duochrome pigment",
+        "gold",
+        "red"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "987",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-rose-red-shimmer-988",
+      brandId: "white-nights",
+      name: "Rose-red shimmer",
+      pigmentCodes: [
+        "PR254 Chameleon pigment",
+        "gold",
+        "red",
+        "violet"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "988",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-blue-shimmer-989",
+      brandId: "white-nights",
+      name: "Blue shimmer",
+      pigmentCodes: [
+        "PB29 Chameleon pigment",
+        "violet",
+        "blue",
+        "green"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "989",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-lilac-shimmer-990",
+      brandId: "white-nights",
+      name: "Lilac shimmer",
+      pigmentCodes: [
+        "PV19 Chameleon pigment",
+        "green",
+        "gold",
+        "red"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "990",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-green-glow-991",
+      brandId: "white-nights",
+      name: "Green Glow",
+      pigmentCodes: [
+        "Mica",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "991",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-golden-glow-992",
+      brandId: "white-nights",
+      name: "Golden Glow",
+      pigmentCodes: [
+        "Mica",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "992",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-brown-glow-993",
+      brandId: "white-nights",
+      name: "Brown Glow",
+      pigmentCodes: [
+        "Mica",
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "993",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-red-glow-994",
+      brandId: "white-nights",
+      name: "Red Glow",
+      pigmentCodes: [
+        "Mica",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "994",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-blue-glow-995",
+      brandId: "white-nights",
+      name: "Blue Glow",
+      pigmentCodes: [
+        "Mica",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "995",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-violet-glow-996",
+      brandId: "white-nights",
+      name: "Violet Glow",
+      pigmentCodes: [
+        "Mica",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "996",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-turquoise-rose-shine-997",
+      brandId: "white-nights",
+      name: "Turquoise-Rose Shine",
+      pigmentCodes: [
+        "Mica",
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "997",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-gold-shine-998",
+      brandId: "white-nights",
+      name: "Gold Shine",
+      pigmentCodes: [
+        "Mica",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "998",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-green-shine-999",
+      brandId: "white-nights",
+      name: "Green Shine",
+      pigmentCodes: [
+        "Mica",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "999",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-carmine-shine-1000",
+      brandId: "white-nights",
+      name: "Carmine Shine",
+      pigmentCodes: [
+        "Mica",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1000",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-creamy-pink-shine-1001",
+      brandId: "white-nights",
+      name: "Creamy-Pink Shine",
+      pigmentCodes: [
+        "Mica",
+        "PR122"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1001",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-rose-violet-shine-1002",
+      brandId: "white-nights",
+      name: "Rose-Violet Shine",
+      pigmentCodes: [
+        "Mica",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1002",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-blue-shine-1003",
+      brandId: "white-nights",
+      name: "Blue Shine",
+      pigmentCodes: [
+        "Mica",
+        "PB15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1003",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-grey-violet-shine-1004",
+      brandId: "white-nights",
+      name: "Grey-Violet Shine",
+      pigmentCodes: [
+        "Mica",
+        "PV16"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1004",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-violet-shine-1005",
+      brandId: "white-nights",
+      name: "Violet Shine",
+      pigmentCodes: [
+        "Mica",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1005",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Shimmering Colors"
+    },
+    {
+      id: "white-nights-evening-brume-3001",
+      brandId: "white-nights",
+      name: "Evening Brume",
+      pigmentCodes: [
+        "PV14",
+        "PBr33",
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "3001",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-rose-dream-3002",
+      brandId: "white-nights",
+      name: "Rose Dream",
+      pigmentCodes: [
+        "PV14",
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "3002",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "white-nights-red-mystery-3003",
+      brandId: "white-nights",
+      name: "Red Mystery",
+      pigmentCodes: [
+        "PBk11",
+        "PBk28",
+        "PR254"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "3003",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: "No",
+      collection: "Metamorphoses Limited Edition"
+    },
+    {
+      id: "wn-lemon-yellow",
+      brandId: "wn",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Lemon-Yellow-Nickel-Titanate.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-bismuth-yellow",
+      brandId: "wn",
+      name: "Bismuth Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Bismuth-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-lemon",
+      brandId: "wn",
+      name: "Cadmium-Free Lemon",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-yellow-lemon",
+      brandId: "wn",
+      name: "Cadmium Yellow Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-lemon",
+      brandId: "wn",
+      name: "Winsor Lemon",
+      pigmentCodes: [
+        "PY175"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-yellow",
+      brandId: "wn",
+      name: "Winsor Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-lemon-yellow-deep",
+      brandId: "wn",
+      name: "Lemon Yellow Deep",
+      pigmentCodes: [
+        "PY159"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Lemon-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-aureolin",
+      brandId: "wn",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY40"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Aureolin.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-transparent-yellow",
+      brandId: "wn",
+      name: "Transparent Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-yellow-pale",
+      brandId: "wn",
+      name: "Cadmium-Free Yellow Pale",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-yellow-pale",
+      brandId: "wn",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow-Pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-turner-s-yellow",
+      brandId: "wn",
+      name: "Turner\u2019s Yellow",
+      pigmentCodes: [
+        "PY216"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Turners-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-new-gamboge",
+      brandId: "wn",
+      name: "New Gamboge",
+      pigmentCodes: [
+        "PR209",
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-New-Gamboge.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-yellow",
+      brandId: "wn",
+      name: "Cadmium Yellow",
+      pigmentCodes: [
+        "PO20",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-yellow",
+      brandId: "wn",
+      name: "Cadmium-Free Yellow",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-yellow-deep",
+      brandId: "wn",
+      name: "Winsor Yellow Deep",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-indian-yellow",
+      brandId: "wn",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PO62",
+        "PY139"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Indian-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-yellow-deep",
+      brandId: "wn",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PR108. PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-yellow-deep",
+      brandId: "wn",
+      name: "Cadmium-Free Yellow Deep",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-orange",
+      brandId: "wn",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PR108. PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-cadmium-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-orange",
+      brandId: "wn",
+      name: "Cadmium-Free Orange",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-orange",
+      brandId: "wn",
+      name: "Winsor Orange",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-orange-rs",
+      brandId: "wn",
+      name: "Winsor Orange (RS)",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Orange-RS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-transparent-orange",
+      brandId: "wn",
+      name: "Transparent Orange",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-scarlet",
+      brandId: "wn",
+      name: "Cadmium Scarlet",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-SCarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-scarlet",
+      brandId: "wn",
+      name: "Cadmium-Free Scarlet",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-scarlet-lake",
+      brandId: "wn",
+      name: "Scarlet Lake",
+      pigmentCodes: [
+        "PR188"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Scarlet-Lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-red",
+      brandId: "wn",
+      name: "Cadmium Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-red",
+      brandId: "wn",
+      name: "Cadmium-Free Red",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-red-deep",
+      brandId: "wn",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cadmium-free-red-deep",
+      brandId: "wn",
+      name: "Cadmium-Free Red Deep",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-red",
+      brandId: "wn",
+      name: "Winsor Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-rose-madder-genuine",
+      brandId: "wn",
+      name: "Rose Madder Genuine",
+      pigmentCodes: [
+        "NR9"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Rose-Madder-Genuine.png",
+      performance: "Professional",
+      isFeatured: true
+    },
+    {
+      id: "wn-quinacridone-red",
+      brandId: "wn",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-red-deep",
+      brandId: "wn",
+      name: "Winsor Red Deep",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-alizarin-crimson",
+      brandId: "wn",
+      name: "Permanent Alizarin Crimson",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-permanent-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-alizarin-crimson",
+      brandId: "wn",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-carmine",
+      brandId: "wn",
+      name: "Permanent Carmine",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Permanent-Carmine.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-rose",
+      brandId: "wn",
+      name: "Permanent Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-permanent-Rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-opera-rose",
+      brandId: "wn",
+      name: "Opera Rose",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Opera-Rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-quinacridone-magenta",
+      brandId: "wn",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-magenta",
+      brandId: "wn",
+      name: "Permanent Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Permanent-Magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-violet",
+      brandId: "wn",
+      name: "Cobalt Violet",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-mauve",
+      brandId: "wn",
+      name: "Permanent Mauve",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Permanent-Mauve.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-quinacridone-violet",
+      brandId: "wn",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-ultramarine-violet",
+      brandId: "wn",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Ultramarine-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-violet-dioxazine",
+      brandId: "wn",
+      name: "Winsor Violet (Dioxazine)",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Violet-Dioxazine.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-indanthrone-blue",
+      brandId: "wn",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Indanthrene-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-smalt-dumont-s-blue",
+      brandId: "wn",
+      name: "Smalt (Dumont\u2019s Blue)",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Smalt-Dumonts-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-blue-deep",
+      brandId: "wn",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB74"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Blue-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-french-ultramarine",
+      brandId: "wn",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-French-Ultramarine.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-ultramarine-gs",
+      brandId: "wn",
+      name: "Ultramarine (GS)",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Ultramarine-GS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-blue",
+      brandId: "wn",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-blue-rs",
+      brandId: "wn",
+      name: "Winsor Blue (RS)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Blue-RS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-antwerp-blue",
+      brandId: "wn",
+      name: "Antwerp Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Antwerp-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-prussian-blue",
+      brandId: "wn",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Prussian-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-blue-gs",
+      brandId: "wn",
+      name: "Winsor Blue (GS)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Blue-GS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cerulean-blue-rs",
+      brandId: "wn",
+      name: "Cerulean Blue (RS)",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cerulean-Blue-RS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cerulean-blue",
+      brandId: "wn",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cerulean-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-manganese-blue-hue",
+      brandId: "wn",
+      name: "Manganese Blue Hue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Manganese-Blue-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-phthalo-turquoise",
+      brandId: "wn",
+      name: "Phthalo Turquoise",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Phthalo-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-turquoise-light",
+      brandId: "wn",
+      name: "Cobalt Turquoise Light",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Turquoise-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-turquoise",
+      brandId: "wn",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB28",
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-aqua-green",
+      brandId: "wn",
+      name: "Aqua Green",
+      pigmentCodes: [
+        "\u2014"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Aqua-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-green",
+      brandId: "wn",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cobalt-green-deep",
+      brandId: "wn",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG26"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Cobalt-Green-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-green-bs",
+      brandId: "wn",
+      name: "Winsor Green (BS)",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Green-BS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-viridian",
+      brandId: "wn",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-winsor-green-ys",
+      brandId: "wn",
+      name: "Winsor Green (YS)",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Winsor-Green-YS.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-terre-verte",
+      brandId: "wn",
+      name: "Terre Verte",
+      pigmentCodes: [
+        "PB28",
+        "PG18",
+        "PG23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Terre-Verte.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-perylene-green",
+      brandId: "wn",
+      name: "Perylene Green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Perylene-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-oxide-of-chromium",
+      brandId: "wn",
+      name: "Oxide of Chromium",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Oxide-of-Chromium.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-hooker-s-green",
+      brandId: "wn",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG36",
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Hookers-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-permanent-sap-green",
+      brandId: "wn",
+      name: "Permanent Sap Green",
+      pigmentCodes: [
+        "PG36",
+        "PY110"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Permanent-Sap-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-olive-green",
+      brandId: "wn",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PB15:6",
+        "PR101",
+        "PY65"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Olive-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-terre-verte-ys",
+      brandId: "wn",
+      name: "Terre Verte (YS)",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Terre-Verte-Yellow-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-green-gold",
+      brandId: "wn",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Green-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-naples-yellow",
+      brandId: "wn",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PBr24",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Naples-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-naples-yellow-deep",
+      brandId: "wn",
+      name: "Naples Yellow Deep",
+      pigmentCodes: [
+        "PBr24"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Naples-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-yellow-ochre-light",
+      brandId: "wn",
+      name: "Yellow Ochre Light",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "wn-yellow-ochre",
+      brandId: "wn",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-raw-sienna",
+      brandId: "wn",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PR101",
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Raw-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-gold-ochre",
+      brandId: "wn",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Gold-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-quinacridone-gold",
+      brandId: "wn",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PR206",
+        "PV19",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-brown-ochre",
+      brandId: "wn",
+      name: "Brown Ochre",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Brown-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-magnesium-brown",
+      brandId: "wn",
+      name: "Magnesium Brown",
+      pigmentCodes: [
+        "PY119"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Magnesium-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-burnt-sienna",
+      brandId: "wn",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Burnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-light-red",
+      brandId: "wn",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Light-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-venetian-red",
+      brandId: "wn",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Venetian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-indian-red",
+      brandId: "wn",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Indian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-brown-madder",
+      brandId: "wn",
+      name: "Brown Madder",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Brown-Madder.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-potter-s-pink",
+      brandId: "wn",
+      name: "Potter\u2019s Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Potters-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-perylene-maroon",
+      brandId: "wn",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Perylene-Maroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-perylene-violet",
+      brandId: "wn",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Perylene-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-caput-mortuum-violet",
+      brandId: "wn",
+      name: "Caput Mortuum Violet",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Caput-Mortuum-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-raw-umber",
+      brandId: "wn",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Raw-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-burnt-umber",
+      brandId: "wn",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7",
+        "PR101",
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Burnt-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-vandyke-brown",
+      brandId: "wn",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PBk6",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Vandyke-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-sepia",
+      brandId: "wn",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBk6",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Sepia.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-indigo",
+      brandId: "wn",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Indigo.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-payne-s-grey",
+      brandId: "wn",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Paynes-Gray.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-neutral-tint",
+      brandId: "wn",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PB15",
+        "PBk6",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Neutral-Tint.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-ivory-black",
+      brandId: "wn",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Ivory-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-lamp-black",
+      brandId: "wn",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk6",
+        "7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Lamp-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-mars-black",
+      brandId: "wn",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Mars-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-davy-s-gray",
+      brandId: "wn",
+      name: "Davy\u2019s Gray",
+      pigmentCodes: [
+        "PBk19",
+        "PBk6",
+        "PG17",
+        "PW5"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Davys-Gray.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-chinese-white",
+      brandId: "wn",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Chinese-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-titanium-white",
+      brandId: "wn",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton/WN-Titanium-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "wn-cotman-lemon-yellow-hue",
+      brandId: "wn-cotman",
+      name: "Lemon Yellow Hue",
+      pigmentCodes: [
+        "PY175"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-yellow-pale-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Yellow Pale Hue",
+      pigmentCodes: [
+        "PY175",
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-yellow-pale-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-gamboge-hue",
+      brandId: "wn-cotman",
+      name: "Gamboge Hue",
+      pigmentCodes: [
+        "PR209",
+        "PY150"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-yellow-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Yellow Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY97"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-orange-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Orange Hue",
+      pigmentCodes: [
+        "PO43",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-red-pale-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Red Pale Hue",
+      pigmentCodes: [
+        "PR255",
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-red-pale-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-red-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Red Hue",
+      pigmentCodes: [
+        "PR149",
+        "PR255"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-red-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cadmium-red-deep-hue",
+      brandId: "wn-cotman",
+      name: "Cadmium Red Deep Hue",
+      pigmentCodes: [
+        "PR188",
+        "PR254"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-alizarin-crimson-hue",
+      brandId: "wn-cotman",
+      name: "Alizarin Crimson Hue",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-permanent-rose",
+      brandId: "wn-cotman",
+      name: "Permanent Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-permanent-rose.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-rose-madder-hue",
+      brandId: "wn-cotman",
+      name: "Rose Madder Hue",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-rose-madder-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-purple-lake",
+      brandId: "wn-cotman",
+      name: "Purple Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-purple-lake.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-mauve",
+      brandId: "wn-cotman",
+      name: "Mauve",
+      pigmentCodes: [
+        "PR122",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-dioxazine-violet",
+      brandId: "wn-cotman",
+      name: "Dioxazine Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-ultramarine",
+      brandId: "wn-cotman",
+      name: "Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cobalt-blue-hue",
+      brandId: "wn-cotman",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29",
+        "PW4"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-cerulean-blue-hue",
+      brandId: "wn-cotman",
+      name: "Cerulean Blue Hue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cerulean-blue-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-turquoise",
+      brandId: "wn-cotman",
+      name: "Turquoise",
+      pigmentCodes: [
+        "PB15",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-turquoise.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-intense-blue-phthalo-blue",
+      brandId: "wn-cotman",
+      name: "Intense Blue (Phthalo Blue)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-intense-blue-phthalo-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-prussian-blue",
+      brandId: "wn-cotman",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-intense-green-phthalo-green",
+      brandId: "wn-cotman",
+      name: "Intense Green (Phthalo Green)",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-intense-green-phthalo-green.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-viridian-hue",
+      brandId: "wn-cotman",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-viridian-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-emerald",
+      brandId: "wn-cotman",
+      name: "Emerald",
+      pigmentCodes: [
+        "PG7",
+        "PY175"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-emerald.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-hooker-s-green-dark",
+      brandId: "wn-cotman",
+      name: "Hooker\u2019s Green Dark",
+      pigmentCodes: [
+        "PB15",
+        "PG7",
+        "PY139"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-hookers-green-dark.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-hooker-s-green-light",
+      brandId: "wn-cotman",
+      name: "Hooker\u2019s Green Light",
+      pigmentCodes: [
+        "PB15",
+        "PG7",
+        "PY139"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-hookers-green-light.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-sap-green",
+      brandId: "wn-cotman",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG36",
+        "PR101",
+        "PY139"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-sap-green.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-raw-sienna",
+      brandId: "wn-cotman",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PR101",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-yellow-ochre",
+      brandId: "wn-cotman",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-yellow-ochre.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-raw-umber",
+      brandId: "wn-cotman",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-Raw-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-burnt-sienna",
+      brandId: "wn-cotman",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-burnt-sienna.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-light-red",
+      brandId: "wn-cotman",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-light-red.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-indian-red",
+      brandId: "wn-cotman",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-Indian-red.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-burnt-umber",
+      brandId: "wn-cotman",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-burnt-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-vandyke-brown",
+      brandId: "wn-cotman",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PBr7",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-vandyke-brown.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-sepia",
+      brandId: "wn-cotman",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBk7",
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-sepia.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-indigo",
+      brandId: "wn-cotman",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PB29",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-indigo.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-payne-s-gray",
+      brandId: "wn-cotman",
+      name: "Payne\u2019s Gray",
+      pigmentCodes: [
+        "PB15",
+        "PB29",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-ivory-black",
+      brandId: "wn-cotman",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-ivory-black.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-lamp-black",
+      brandId: "wn-cotman",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-lamp-black.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-chinese-white",
+      brandId: "wn-cotman",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW5"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      swatchImage: "/uploads/winsor-newton-cotman/COT-chinese-white.png",
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-iridescent-blue",
+      brandId: "wn-cotman",
+      name: "Iridescent Blue",
+      pigmentCodes: [
+        "Mica",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-yellow-gold",
+      brandId: "wn-cotman",
+      name: "Yellow Gold",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-bronze",
+      brandId: "wn-cotman",
+      name: "Bronze",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-red-copper",
+      brandId: "wn-cotman",
+      name: "Red Copper",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-silver",
+      brandId: "wn-cotman",
+      name: "Silver",
+      pigmentCodes: [
+        "Mica",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-pewter",
+      brandId: "wn-cotman",
+      name: "Pewter",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-iridescent-black",
+      brandId: "wn-cotman",
+      name: "Iridescent Black",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "wn-cotman-iridescent-white",
+      brandId: "wn-cotman",
+      name: "Iridescent White",
+      pigmentCodes: [
+        "Mica"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "holbein-crimson-lake",
+      brandId: "holbein",
+      name: "Crimson Lake",
+      pigmentCodes: [
+        "PR177",
+        "PR122",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Crimson-Lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-alizarin-crimson",
+      brandId: "holbein",
+      name: "Permanent Alizarin Crimson",
+      pigmentCodes: [
+        "PV19",
+        "PBr25"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-carmine",
+      brandId: "holbein",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Carmine.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-rose-madder-permanent",
+      brandId: "holbein",
+      name: "Rose Madder (Permanent)",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Rose-Madder.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-quinacridone-red",
+      brandId: "holbein",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Quinacridone-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-pyrrol-rubin",
+      brandId: "holbein",
+      name: "Pyrrol Rubin",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Pyrrole-Rubin.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-perylene-maroon",
+      brandId: "holbein",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Perylene-Maroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-pyrrol-red",
+      brandId: "holbein",
+      name: "Pyrrol Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Pyrrol-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-quinacridone-scarlet",
+      brandId: "holbein",
+      name: "Quinacridone Scarlet",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Quinacridone-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-scarlet-lake",
+      brandId: "holbein",
+      name: "Scarlet Lake",
+      pigmentCodes: [
+        "PO73",
+        "PR254",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Scarlet-Lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-opera",
+      brandId: "holbein",
+      name: "Opera",
+      pigmentCodes: [
+        "BV10",
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Opera.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-brilliant-pink",
+      brandId: "holbein",
+      name: "Brilliant Pink",
+      pigmentCodes: [
+        "PR209",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Brilliant-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-shell-pink",
+      brandId: "holbein",
+      name: "Shell Pink",
+      pigmentCodes: [
+        "PO73",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Shell-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-red-purple",
+      brandId: "holbein",
+      name: "Cadmium Red Purple",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Red-Purple.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-red-deep",
+      brandId: "holbein",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-red-light",
+      brandId: "holbein",
+      name: "Cadmium Red Light",
+      pigmentCodes: [
+        "PO20",
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Red-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-vermilion",
+      brandId: "holbein",
+      name: "Vermilion",
+      pigmentCodes: [
+        "PO20",
+        "PR108"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Vermilion.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-vermilion-hue",
+      brandId: "holbein",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PO73",
+        "PR254",
+        "PY110"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Vermilion-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-red-orange",
+      brandId: "holbein",
+      name: "Cadmium Red Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-cadmium-red-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-brilliant-orange",
+      brandId: "holbein",
+      name: "Brilliant Orange",
+      pigmentCodes: [
+        "PO73",
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Brilliant-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-yellow-orange",
+      brandId: "holbein",
+      name: "Permanent Yellow Orange",
+      pigmentCodes: [
+        "PY74",
+        "PY83",
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Yellow-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-yellow-orange",
+      brandId: "holbein",
+      name: "Cadmium Yellow Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-yellow-deep",
+      brandId: "holbein",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-yellow-light",
+      brandId: "holbein",
+      name: "Cadmium Yellow Light",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-yellow-pale",
+      brandId: "holbein",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-cadmium-yellow-pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-yellow-lemon",
+      brandId: "holbein",
+      name: "Cadmium Yellow Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-imidazolone-lemon",
+      brandId: "holbein",
+      name: "Imidazolone Lemon",
+      pigmentCodes: [
+        "PY175"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Imidazolone-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-imidazolone-yellow",
+      brandId: "holbein",
+      name: "Imidazolone Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Imidazolone-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-gamboge-nova",
+      brandId: "holbein",
+      name: "Gamboge Nova",
+      pigmentCodes: [
+        "PY154",
+        "PY150",
+        "PY110"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Gamboge-Nova.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-isoiondolinone-yellow-deep",
+      brandId: "holbein",
+      name: "Isoiondolinone Yellow Deep",
+      pigmentCodes: [
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Isoindoline-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-quinacridone-gold",
+      brandId: "holbein",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PO48",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Quinacridone-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-yellow-deep",
+      brandId: "holbein",
+      name: "Permanent Yellow Deep",
+      pigmentCodes: [
+        "PY74",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-yellow-light",
+      brandId: "holbein",
+      name: "Permanent Yellow Light",
+      pigmentCodes: [
+        "PY74",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-aureolin",
+      brandId: "holbein",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY154",
+        "PY175",
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Aureolin.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-yellow-lemon",
+      brandId: "holbein",
+      name: "Permanent Yellow Lemon",
+      pigmentCodes: [
+        "PY3",
+        "PY74"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Yellow-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-lemon-yellow",
+      brandId: "holbein",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Lemon-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-naples-yellow",
+      brandId: "holbein",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PY35",
+        "PY42",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Naples-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-jaune-brilliant-no-1",
+      brandId: "holbein",
+      name: "Jaune Brilliant No. 1",
+      pigmentCodes: [
+        "PO20",
+        "PY35",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Jaun-Brilliant-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-jaune-brilliant-no-2",
+      brandId: "holbein",
+      name: "Jaune Brilliant No. 2",
+      pigmentCodes: [
+        "PO20",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Jaun-Brilliant-2.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-greenish-yellow",
+      brandId: "holbein",
+      name: "Greenish Yellow",
+      pigmentCodes: [
+        "PY150",
+        "PG7",
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Greenish-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-olive-green",
+      brandId: "holbein",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY150",
+        "PG7",
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Olive-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-leaf-green",
+      brandId: "holbein",
+      name: "Leaf Green",
+      pigmentCodes: [
+        "PY154",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Leaf-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-green-no-1",
+      brandId: "holbein",
+      name: "Permanent Green No. 1",
+      pigmentCodes: [
+        "PY3",
+        "PY53",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Green-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-green-no-2",
+      brandId: "holbein",
+      name: "Permanent Green No. 2",
+      pigmentCodes: [
+        "PY74",
+        "PY53",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Green-2.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-green-deep",
+      brandId: "holbein",
+      name: "Cadmium Green Deep",
+      pigmentCodes: [
+        "PY35",
+        "PG7",
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Green-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cadmium-green-pale",
+      brandId: "holbein",
+      name: "Cadmium Green Pale",
+      pigmentCodes: [
+        "PY35",
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cadmium-Green-Pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-hooker-s-green",
+      brandId: "holbein",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG7",
+        "PY110",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Hookers-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-bamboo-green",
+      brandId: "holbein",
+      name: "Bamboo Green",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Bamboo-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cobalt-green",
+      brandId: "holbein",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG18",
+        "PB28",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cobalt-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-viridian",
+      brandId: "holbein",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-viridian-hue",
+      brandId: "holbein",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Viridian-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-emerald-green-nova",
+      brandId: "holbein",
+      name: "Emerald Green Nova",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Emerald-Green-nova.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-compose-green",
+      brandId: "holbein",
+      name: "Compose Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Compose-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-sap-green",
+      brandId: "holbein",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY150",
+        "PG7",
+        "PR122"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Sap-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-terre-verte",
+      brandId: "holbein",
+      name: "Terre Verte",
+      pigmentCodes: [
+        "PG23",
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Terre-Verte.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-green-grey",
+      brandId: "holbein",
+      name: "Green Grey",
+      pigmentCodes: [
+        "PG17",
+        "PG23",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Green-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-shadow-green",
+      brandId: "holbein",
+      name: "Shadow Green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Shadow-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-phthalo-blue-rs",
+      brandId: "holbein",
+      name: "Phthalo Blue (RS)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Phthalo-Blue-RS.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-phthalo-blue-ys",
+      brandId: "holbein",
+      name: "Phthalo Blue (YS)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Phthalo-Blue-YS.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-marine-blue",
+      brandId: "holbein",
+      name: "Marine Blue",
+      pigmentCodes: [
+        "PB16",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Marine-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-turquoise-blue",
+      brandId: "holbein",
+      name: "Turquoise Blue",
+      pigmentCodes: [
+        "PG7",
+        "PB15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Turquoise-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cobalt-turquoise-light",
+      brandId: "holbein",
+      name: "Cobalt Turquoise Light",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cobalt-Turquoise-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-peacock-blue",
+      brandId: "holbein",
+      name: "Peacock Blue",
+      pigmentCodes: [
+        "PG7",
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Peacock-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-manganese-blue-nova",
+      brandId: "holbein",
+      name: "Manganese Blue Nova",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-manganese-Blue-Nova.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-horizon-blue",
+      brandId: "holbein",
+      name: "Horizon Blue",
+      pigmentCodes: [
+        "PB15",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Horizon-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-compose-blue",
+      brandId: "holbein",
+      name: "Compose Blue",
+      pigmentCodes: [
+        "PB15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Compose-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-verditer-blue",
+      brandId: "holbein",
+      name: "Verditer Blue",
+      pigmentCodes: [
+        "PB28",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Vertider-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cerulean-blue",
+      brandId: "holbein",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cerulean-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cobalt-blue",
+      brandId: "holbein",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cobalt-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cobalt-blue-hue",
+      brandId: "holbein",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29",
+        "PB15"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cobalt-Blue-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-ultramarine-light",
+      brandId: "holbein",
+      name: "Ultramarine Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Ultramarine-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-ultramarine-deep",
+      brandId: "holbein",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Ultramarine-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-prussian-blue",
+      brandId: "holbein",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Prussian-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-royal-blue",
+      brandId: "holbein",
+      name: "Royal Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Royal-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-indigo",
+      brandId: "holbein",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBk11",
+        "PR122"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Indigo.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-lavender",
+      brandId: "holbein",
+      name: "Lavender",
+      pigmentCodes: [
+        "PV15",
+        "PB29",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-lavender.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-permanent-violet",
+      brandId: "holbein",
+      name: "Permanent Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Permanent-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-mineral-violet",
+      brandId: "holbein",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PB29",
+        "PR122",
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Mineral-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-cobalt-violet-light",
+      brandId: "holbein",
+      name: "Cobalt Violet Light",
+      pigmentCodes: [
+        "PV47"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Cobalt-Violet-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-lilac",
+      brandId: "holbein",
+      name: "Lilac",
+      pigmentCodes: [
+        "PR122",
+        "PV23",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Lilac.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-bright-violet",
+      brandId: "holbein",
+      name: "Bright Violet",
+      pigmentCodes: [
+        "BV7",
+        "BV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Bright-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-bright-rose",
+      brandId: "holbein",
+      name: "Bright Rose",
+      pigmentCodes: [
+        "BV11",
+        "AB83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Bright-Rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-quinacridone-magenta-rose-violet",
+      brandId: "holbein",
+      name: "Quinacridone Magenta (Rose Violet)",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Quinacridone-Magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-quinacridone-violet-perm-magenta",
+      brandId: "holbein",
+      name: "Quinacridone Violet (Perm. Magenta)",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Quinacridone-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-mars-violet",
+      brandId: "holbein",
+      name: "Mars Violet",
+      pigmentCodes: [
+        "PR101",
+        "PV23",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Mars-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-indian-red",
+      brandId: "holbein",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Indian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-imidazolone-brown",
+      brandId: "holbein",
+      name: "Imidazolone Brown",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Imidazolone-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-light-red",
+      brandId: "holbein",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Light-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-burnt-sienna",
+      brandId: "holbein",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Burnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-burnt-umber",
+      brandId: "holbein",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Burnt-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-raw-umber",
+      brandId: "holbein",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7",
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Raw-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-raw-sienna",
+      brandId: "holbein",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7",
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Raw-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-yellow-ochre",
+      brandId: "holbein",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-yellow-grey",
+      brandId: "holbein",
+      name: "Yellow Grey",
+      pigmentCodes: [
+        "PY42",
+        "PBk6",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Yellow-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-umber",
+      brandId: "holbein",
+      name: "Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-van-dyck-brown",
+      brandId: "holbein",
+      name: "Van Dyck Brown",
+      pigmentCodes: [
+        "NBr8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Vandyke-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-sepia",
+      brandId: "holbein",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBr7",
+        "PBk6"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Sepia.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-ivory-black",
+      brandId: "holbein",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Ivory-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-lamp-black",
+      brandId: "holbein",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Lamp-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-peach-black",
+      brandId: "holbein",
+      name: "Peach Black",
+      pigmentCodes: [
+        "PBk1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Peach-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-neutral-tint",
+      brandId: "holbein",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBk6",
+        "PB15",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Neutral-Tint.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-payne-s-grey",
+      brandId: "holbein",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBk6",
+        "PB15",
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Paynes-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-davy-s-grey",
+      brandId: "holbein",
+      name: "Davy\u2019s Grey",
+      pigmentCodes: [
+        "PBr7",
+        "PBk6",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Davys-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-grey-of-greys",
+      brandId: "holbein",
+      name: "Grey of Greys",
+      pigmentCodes: [
+        "PBk6",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Grey-of-Greys.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-chinese-white",
+      brandId: "holbein",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Chinese-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-titanium-white",
+      brandId: "holbein",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Titanium-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-gold",
+      brandId: "holbein",
+      name: "Gold",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "holbein-silver",
+      brandId: "holbein",
+      name: "Silver",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "/uploads/holbein/H-Silver.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-chinese-white",
+      brandId: "maimeriblu",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#F7F5F5",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-chinese-white.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-titanium-white",
+      brandId: "maimeriblu",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#F7F5F5",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-titanium-white.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-orange",
+      brandId: "maimeriblu",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#EFA06D",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-orange-pyrrolo",
+      brandId: "maimeriblu",
+      name: "Orange Pyrrolo",
+      pigmentCodes: [
+        "PO71"
+      ],
+      hue: "\u2013",
+      hex: "#E25B2D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-orange-pyrrolo.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-orange",
+      brandId: "maimeriblu",
+      name: "Permanent Orange",
+      pigmentCodes: [
+        "PO64"
+      ],
+      hue: "\u2013",
+      hex: "#EF995E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-yellow-lemon",
+      brandId: "maimeriblu",
+      name: "Cadmium Yellow Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FDFBB1",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-yellow-lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-yellow-medium",
+      brandId: "maimeriblu",
+      name: "Cadmium Yellow Medium",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FCF9BA",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-yellow-medium.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-yellow-deep",
+      brandId: "maimeriblu",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#F3B341",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-yellow-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-indian-yellow",
+      brandId: "maimeriblu",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hue: "Hue",
+      hex: "#EFD148",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-indian-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-naples-yellow-medium",
+      brandId: "maimeriblu",
+      name: "Naples Yellow Medium",
+      pigmentCodes: [
+        "PBr24"
+      ],
+      hue: "Hue",
+      hex: "#F7DB74",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-naples-yellow-medium.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-naples-yellow",
+      brandId: "maimeriblu",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hue: "Hue",
+      hex: "#FAF29B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-naples-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-nickel-titanium-yellow",
+      brandId: "maimeriblu",
+      name: "Nickel Titanium Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hue: "\u2013",
+      hex: "#FBF7A4",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-nickel-titanate-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-yellow-orange",
+      brandId: "maimeriblu",
+      name: "Permanent Yellow Orange",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#F4C56B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-yellow-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-yellow-lemon",
+      brandId: "maimeriblu",
+      name: "Permanent Yellow Lemon",
+      pigmentCodes: [
+        "PY175"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-yellow-deep",
+      brandId: "maimeriblu",
+      name: "Permanent Yellow Deep",
+      pigmentCodes: [
+        "PY227"
+      ],
+      hue: "\u2013",
+      hex: "#FAE974",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-yellow-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-primary-yellow",
+      brandId: "maimeriblu",
+      name: "Primary Yellow",
+      pigmentCodes: [
+        "PY97"
+      ],
+      hue: "\u2013",
+      hex: "#FCF9AE",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-primary-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-golden-yellow",
+      brandId: "maimeriblu",
+      name: "Golden Yellow",
+      pigmentCodes: [
+        "PY183"
+      ],
+      hue: "\u2013",
+      hex: "#FCF57C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-golden-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-yellow-vanadium",
+      brandId: "maimeriblu",
+      name: "Yellow Vanadium",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2013",
+      hex: "#FDF996",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-yellow-vanadium.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-transparent-yellow",
+      brandId: "maimeriblu",
+      name: "Transparent Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#F2D94D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-transparent-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-gamboge-hue",
+      brandId: "maimeriblu",
+      name: "Gamboge (hue)",
+      pigmentCodes: [
+        "PY139"
+      ],
+      hue: "Hue",
+      hex: "#F7D64F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-gamboge-hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-orange-lake",
+      brandId: "maimeriblu",
+      name: "Orange Lake",
+      pigmentCodes: [
+        "PO43"
+      ],
+      hue: "\u2013",
+      hex: "#F1B59F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-orange-lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-yellow-ochre",
+      brandId: "maimeriblu",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#F3D97E",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-yellow-ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-gold-ochre",
+      brandId: "maimeriblu",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#F3D3A0",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-golden-ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-raw-sienna",
+      brandId: "maimeriblu",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#F4E0A6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-raw-sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-carmine",
+      brandId: "maimeriblu",
+      name: "Permanent Carmine",
+      pigmentCodes: [
+        "PR176"
+      ],
+      hue: "Hue",
+      hex: "#E589A5",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/mB-permanent-carmine.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-crimson-lake",
+      brandId: "maimeriblu",
+      name: "Crimson Lake",
+      pigmentCodes: [
+        "PR149"
+      ],
+      hue: "\u2013",
+      hex: "#E2715E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-crimson-lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-rose-alizarin-madder",
+      brandId: "maimeriblu",
+      name: "Rose (Alizarin) Madder",
+      pigmentCodes: [
+        "PR187"
+      ],
+      hue: "Hue",
+      hex: "#DC7D85",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-rose-alizarin-madder.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-madder-deep",
+      brandId: "maimeriblu",
+      name: "Permanent Madder Deep",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#B55649",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-madder-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-quinacridone-lake",
+      brandId: "maimeriblu",
+      name: "Quinacridone Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#AF6C9E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-quinacridone-lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-rose-lake",
+      brandId: "maimeriblu",
+      name: "Rose Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E781A0",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-rose-lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-magenta-quinacridone",
+      brandId: "maimeriblu",
+      name: "Magenta Quinacridone",
+      pigmentCodes: [
+        "PR202"
+      ],
+      hue: "\u2013",
+      hex: "#CE769A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-magenta-quinacridone.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-red-orange",
+      brandId: "maimeriblu",
+      name: "Cadmium Red Orange",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#EE9064",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-red-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-red-light",
+      brandId: "maimeriblu",
+      name: "Cadmium Red Light",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#EC8965",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-red-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cadmium-red-medium",
+      brandId: "maimeriblu",
+      name: "Cadmium Red Medium",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E89A8A",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cadmium-red-medium.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-transparent-mars-red",
+      brandId: "maimeriblu",
+      name: "Transparent Mars Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E19D59",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-transparent-mars-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-red-light",
+      brandId: "maimeriblu",
+      name: "Permanent Red Light",
+      pigmentCodes: [
+        "PR168"
+      ],
+      hue: "\u2013",
+      hex: "#EB8676",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-red-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-red-deep",
+      brandId: "maimeriblu",
+      name: "Permanent Red Deep",
+      pigmentCodes: [
+        "PR177"
+      ],
+      hue: "\u2013",
+      hex: "#D87584",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-red-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-primary-red-magenta",
+      brandId: "maimeriblu",
+      name: "Primary Red \u2013 Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#ECA4B7",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-primary-red-magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-pyrrole-red",
+      brandId: "maimeriblu",
+      name: "Pyrrole Red",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "\u2013",
+      hex: "#EB8774",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-pyrrole-red-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-quinacridone-red",
+      brandId: "maimeriblu",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#EFA2AF",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-quinacridone-red-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-venetian-red",
+      brandId: "maimeriblu",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#CA7B60",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-venetian-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-sandal-red",
+      brandId: "maimeriblu",
+      name: "Sandal Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#EA8F95",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-sandal-red-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-dragons-blood",
+      brandId: "maimeriblu",
+      name: "Dragon\u2019s Blood",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#C67B5B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-dragons-blood.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-pozzuoli-earth",
+      brandId: "maimeriblu",
+      name: "Pozzuoli Earth",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#DD997D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-pozzuoli-earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-burnt-sienna",
+      brandId: "maimeriblu",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#DC9A69",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-burnt-sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-green-earth",
+      brandId: "maimeriblu",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2013",
+      hex: "#D1D8BA",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-green-earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-green-light",
+      brandId: "maimeriblu",
+      name: "Cobalt Green Light",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#88C37C",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-green-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-green-deep",
+      brandId: "maimeriblu",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#C5E2BB",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-green-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-green-blueish",
+      brandId: "maimeriblu",
+      name: "Cobalt Green Blueish",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#BFD6E8",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-green-blueish.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-copper-oxide-green-light",
+      brandId: "maimeriblu",
+      name: "Copper Oxide Green Light",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#B1EBBF",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-copper-oxide-green-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-copper-oxide-green-deep",
+      brandId: "maimeriblu",
+      name: "Copper Oxide Green Deep",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#80C7B3",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-copper-oxide-green-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-hookers-green",
+      brandId: "maimeriblu",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#4F6132",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-hookers-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-green",
+      brandId: "maimeriblu",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG26"
+      ],
+      hue: "\u2013",
+      hex: "#8EA99E",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-green-gold",
+      brandId: "maimeriblu",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#C1B43F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-green-gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-viridian",
+      brandId: "maimeriblu",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#A9D6C4",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-turquoise-green",
+      brandId: "maimeriblu",
+      name: "Turquoise Green",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hue: "\u2013",
+      hex: "#518DC5",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-tuquoise-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-sap-green",
+      brandId: "maimeriblu",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "Hue",
+      hex: "#A6C07F",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-sap-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-berlin-blue",
+      brandId: "maimeriblu",
+      name: "Berlin Blue",
+      pigmentCodes: [
+        "PB15:1"
+      ],
+      hue: "\u2013",
+      hex: "#9ABDEF",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-berlin-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cerulean-blue",
+      brandId: "maimeriblu",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#A1BFF2",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cerulean-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-blue",
+      brandId: "maimeriblu",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#A9C1EB",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-blue-light",
+      brandId: "maimeriblu",
+      name: "Cobalt Blue Light",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#A0B2F5",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-blue-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-blue-deep",
+      brandId: "maimeriblu",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB74"
+      ],
+      hue: "\u2013",
+      hex: "#9AA8F2",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-blue-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-faience-blue",
+      brandId: "maimeriblu",
+      name: "Faience Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2013",
+      hex: "#9EB5E7",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-faience-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cobalt-blue-green",
+      brandId: "maimeriblu",
+      name: "Cobalt Blue Green",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#A5C6CC",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cobalt-blue-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-ultramarine-light",
+      brandId: "maimeriblu",
+      name: "Ultramarine Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#698CF2",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-ultramarine-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-ultramarine-deep",
+      brandId: "maimeriblu",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#7F98F1",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-ultramarine-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-primary-blue-cyan",
+      brandId: "maimeriblu",
+      name: "Primary Blue \u2013 Cyan",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#6FA2E3",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-primary-blue-cyan.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-prussian-blue",
+      brandId: "maimeriblu",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#6B92C2",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-prussian-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-turquoise-cobalt",
+      brandId: "maimeriblu",
+      name: "Turquoise Cobalt",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#9BDBE8",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-tuquoise-cobalt.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-cerulean-sky-blue",
+      brandId: "maimeriblu",
+      name: "Cerulean Sky Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#ADC5F1",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-cerulean-sky-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-indigo",
+      brandId: "maimeriblu",
+      name: "Indigo",
+      pigmentCodes: [
+        "NB1"
+      ],
+      hue: "\u2013",
+      hex: "#506682",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-indigo.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-phthalo-turquoise",
+      brandId: "maimeriblu",
+      name: "Phthalo Turquoise",
+      pigmentCodes: [
+        "PB15:4"
+      ],
+      hue: "\u2013",
+      hex: "#5C91AD",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-phthalo-tuquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-ultramarine-violet",
+      brandId: "maimeriblu",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#ACA0D1",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-ultramarine-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-ultramarine-blue",
+      brandId: "maimeriblu",
+      name: "Ultramarine Blue",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "Hue",
+      hex: "#ACAEE6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-ultramarine-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-manganese-violet",
+      brandId: "maimeriblu",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hue: "\u2013",
+      hex: "#A986BB",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-manganese-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-permanent-violet-blueish",
+      brandId: "maimeriblu",
+      name: "Permanent Violet Blueish",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#AF98DD",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-permanent-violet-blueish.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-quinacridone-violet",
+      brandId: "maimeriblu",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#C482C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-quinacridone-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-verzino-violet",
+      brandId: "maimeriblu",
+      name: "Verzino Violet",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#CA61A3",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-verzino-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-brown-madder-alizarin",
+      brandId: "maimeriblu",
+      name: "Brown Madder (Alizarin)",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2013",
+      hex: "#DC8875",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-brown-madder-alizarin.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-mars-brown",
+      brandId: "maimeriblu",
+      name: "Mars Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#B68572",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-mars-brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-rose-potter",
+      brandId: "maimeriblu",
+      name: "Rose Potter",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2013",
+      hex: "#D1AAA5",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-rose-potter-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-vandyke-brown",
+      brandId: "maimeriblu",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "Hue",
+      hex: "#B7966A",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-vandyke-brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-sepia",
+      brandId: "maimeriblu",
+      name: "Sepia",
+      pigmentCodes: [
+        "PY164"
+      ],
+      hue: "Hue",
+      hex: "#A18B77",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-sepia.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-burnt-umber",
+      brandId: "maimeriblu",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#7B5F39",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-burnt-umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-raw-umber",
+      brandId: "maimeriblu",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#C5AA72",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-raw-umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-paynes-grey",
+      brandId: "maimeriblu",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "Vat",
+        "Blue",
+        "1"
+      ],
+      hue: "\u2013",
+      hex: "#8390A5",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-paynes-grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-ivory-black",
+      brandId: "maimeriblu",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#A8A69E",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-ivory-black.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-carbon-black",
+      brandId: "maimeriblu",
+      name: "Carbon Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#404034",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-carbon-black.png",
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-mars-black",
+      brandId: "maimeriblu",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PR101",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "maimeriblu-neutral-tint",
+      brandId: "maimeriblu",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBk26"
+      ],
+      hue: "\u2013",
+      hex: "#888A87",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/maimeriblu/MB-neutral-tint.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-chinese-white",
+      brandId: "roman-szmal",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Chinese-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-titanium-white",
+      brandId: "roman-szmal",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Titanium-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-buff-titanium",
+      brandId: "roman-szmal",
+      name: "Buff Titanium",
+      pigmentCodes: [
+        "PW6:1"
+      ],
+      hue: "\u2013",
+      hex: "#F7EACB",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Buff-Titanium.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-nickel-titanate-yellow",
+      brandId: "roman-szmal",
+      name: "Nickel Titanate Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hue: "\u2013",
+      hex: "#FEFC93",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Nickel-Titanate-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-lemon",
+      brandId: "roman-szmal",
+      name: "Cadmium Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FDF86B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Lemon.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-bismuth-yellow",
+      brandId: "roman-szmal",
+      name: "Bismuth Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2013",
+      hex: "#FFFC73",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Bismuth-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hansa-yellow-light",
+      brandId: "roman-szmal",
+      name: "Hansa Yellow Light",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hue: "\u2013",
+      hex: "#FEFB75",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Hansa-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-lemon-yellow",
+      brandId: "roman-szmal",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY61"
+      ],
+      hue: "\u2013",
+      hex: "#FFFD92",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Lemon-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-isoindolinone-yellow-light",
+      brandId: "roman-szmal",
+      name: "Isoindolinone Yellow Light",
+      pigmentCodes: [
+        "PY109"
+      ],
+      hue: "\u2013",
+      hex: "#FEFC89",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Isoindolinone-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-yellow",
+      brandId: "roman-szmal",
+      name: "Aquarius Yellow",
+      pigmentCodes: [
+        "PY168"
+      ],
+      hue: "\u2013",
+      hex: "#FEFC87",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aureoline-hue",
+      brandId: "roman-szmal",
+      name: "Aureoline (Hue)",
+      pigmentCodes: [
+        "PY151"
+      ],
+      hue: "Hue",
+      hex: "#FEFB66",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aureoline-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-yellow-pale",
+      brandId: "roman-szmal",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FDF56B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Yellow-Pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-benzymidazole-yellow",
+      brandId: "roman-szmal",
+      name: "Benzymidazole Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#FEFB7C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Benzymidazole-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinophthalone-yellow",
+      brandId: "roman-szmal",
+      name: "Quinophthalone Yellow",
+      pigmentCodes: [
+        "PY138"
+      ],
+      hue: "\u2013",
+      hex: "#FBF46E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-quinophthalone-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hansa-yellow-medium",
+      brandId: "roman-szmal",
+      name: "Hansa Yellow Medium",
+      pigmentCodes: [
+        "PY74"
+      ],
+      hue: "\u2013",
+      hex: "#FEFB7D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Hansa-Yellow-Medium.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-indian-yellow-hue",
+      brandId: "roman-szmal",
+      name: "Indian Yellow (Hue)",
+      pigmentCodes: [
+        "PY108"
+      ],
+      hue: "Hue",
+      hex: "#FCF17A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Indian-Yellow-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-nickel-azo-yellow",
+      brandId: "roman-szmal",
+      name: "Nickel Azo Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#F5D153",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Nickel-Azo-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-yellow-deep",
+      brandId: "roman-szmal",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY37"
+      ],
+      hue: "\u2013",
+      hex: "#FBED65",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hansa-yellow-deep",
+      brandId: "roman-szmal",
+      name: "Hansa Yellow Deep",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hue: "\u2013",
+      hex: "#FBEE67",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Hansa-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-golden-yellow",
+      brandId: "roman-szmal",
+      name: "Golden Yellow",
+      pigmentCodes: [
+        "PY181"
+      ],
+      hue: "\u2013",
+      hex: "#F4BA52",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Golden-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-isoiondolinone-yellow-deep",
+      brandId: "roman-szmal",
+      name: "Isoiondolinone Yellow Deep",
+      pigmentCodes: [
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#F7D060",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Isoindolinone-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-permanent-orange",
+      brandId: "roman-szmal",
+      name: "Permanent Orange",
+      pigmentCodes: [
+        "PO59"
+      ],
+      hue: "\u2013",
+      hex: "#F9E17E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Permanent-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-permanent-yellow",
+      brandId: "roman-szmal",
+      name: "Permanent Yellow",
+      pigmentCodes: [
+        "PY139"
+      ],
+      hue: "\u2013",
+      hex: "#F8D751",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Permanent-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-golden-orange",
+      brandId: "roman-szmal",
+      name: "Golden Orange",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#F2A55C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Golden-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-orange",
+      brandId: "roman-szmal",
+      name: "Aquarius Orange",
+      pigmentCodes: [
+        "PO",
+        "NA"
+      ],
+      hue: "\u2013",
+      hex: "#EF926E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-pyrrol-orange",
+      brandId: "roman-szmal",
+      name: "Transparent Pyrrol Orange",
+      pigmentCodes: [
+        "PO71"
+      ],
+      hue: "\u2013",
+      hex: "#ED7D50",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Pyrrole-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-deep-orange",
+      brandId: "roman-szmal",
+      name: "Deep Orange",
+      pigmentCodes: [
+        "PO64"
+      ],
+      hue: "\u2013",
+      hex: "#ED714C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Deep-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-brilliant-orange",
+      brandId: "roman-szmal",
+      name: "Brilliant Orange",
+      pigmentCodes: [
+        "PO67"
+      ],
+      hue: "\u2013",
+      hex: "#EE856B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Brilliant-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-orange",
+      brandId: "roman-szmal",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#ED795D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-benzimidazole-orange",
+      brandId: "roman-szmal",
+      name: "Benzimidazole Orange",
+      pigmentCodes: [
+        "PO36"
+      ],
+      hue: "\u2013",
+      hex: "#EE885D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Benzimidazole-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-pyrrol-orange",
+      brandId: "roman-szmal",
+      name: "Pyrrol Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#EC6F5C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Pyrrol-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-scarlet-lake",
+      brandId: "roman-szmal",
+      name: "Scarlet Lake",
+      pigmentCodes: [
+        "PR188"
+      ],
+      hue: "\u2013",
+      hex: "#EB615F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Scarlet-Lake-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-anthraquinone-scarlet",
+      brandId: "roman-szmal",
+      name: "Anthraquinone Scarlet",
+      pigmentCodes: [
+        "PR168"
+      ],
+      hue: "\u2013",
+      hex: "#EC706E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Antraquinone-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-pyrrol-scarlet",
+      brandId: "roman-szmal",
+      name: "Pyrrol Scarlet",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "\u2013",
+      hex: "#EE7F7A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Pyrrole-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-vermilion",
+      brandId: "roman-szmal",
+      name: "Cadmium Vermilion",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "Hue",
+      hex: "#EB6A61",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Vermilion.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-scarlet",
+      brandId: "roman-szmal",
+      name: "Quinacridone Scarlet",
+      pigmentCodes: [
+        "PR",
+        "NA"
+      ],
+      hue: "\u2013",
+      hex: "#C86253",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-quinacridone-scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-scarlet-red",
+      brandId: "roman-szmal",
+      name: "Scarlet Red",
+      pigmentCodes: [
+        "PR166"
+      ],
+      hue: "\u2013",
+      hex: "#EB615F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Scarlet-Lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-naphthol-red",
+      brandId: "roman-szmal",
+      name: "Naphthol Red",
+      pigmentCodes: [
+        "PR112"
+      ],
+      hue: "\u2013",
+      hex: "#EA666A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Naphtol-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-pyrrol-red",
+      brandId: "roman-szmal",
+      name: "Pyrrol Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#E95D69",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Pyrrol-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-azo-red",
+      brandId: "roman-szmal",
+      name: "Azo Red",
+      pigmentCodes: [
+        "PR144"
+      ],
+      hue: "\u2013",
+      hex: "#D96768",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Azo-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-permanent-red",
+      brandId: "roman-szmal",
+      name: "Permanent Red",
+      pigmentCodes: [
+        "PR170"
+      ],
+      hue: "\u2013",
+      hex: "#EA586B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Permanent-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-perylene-red",
+      brandId: "roman-szmal",
+      name: "Perylene Red",
+      pigmentCodes: [
+        "PR178"
+      ],
+      hue: "\u2013",
+      hex: "#DB7D7C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-perylene-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-red",
+      brandId: "roman-szmal",
+      name: "Aquarius Red",
+      pigmentCodes: [
+        "PR214"
+      ],
+      hue: "\u2013",
+      hex: "#E46D73",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-red",
+      brandId: "roman-szmal",
+      name: "Cadmium Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E46662",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ginger-red",
+      brandId: "roman-szmal",
+      name: "Ginger Red",
+      pigmentCodes: [
+        "PR290"
+      ],
+      hue: "\u2013",
+      hex: "#DCA27D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-ginger-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cadmium-red-deep",
+      brandId: "roman-szmal",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#C76561",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cadmium-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-perylene-maroon",
+      brandId: "roman-szmal",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#DF7777",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Perylene-Maroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-anthraquinone-red",
+      brandId: "roman-szmal",
+      name: "Anthraquinone Red",
+      pigmentCodes: [
+        "PR177"
+      ],
+      hue: "\u2013",
+      hex: "#D75766",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Anthraquinone-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-pyrrole-rubine",
+      brandId: "roman-szmal",
+      name: "Pyrrole Rubine",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#DE6A76",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Pyrrole-Rubin.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-permanent-alizarin-crimson",
+      brandId: "roman-szmal",
+      name: "Permanent Alizarin Crimson",
+      pigmentCodes: [
+        "PR176"
+      ],
+      hue: "Hue",
+      hex: "#D14F60",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Permanent-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cherry-quinacridone-red",
+      brandId: "roman-szmal",
+      name: "Cherry Quinacridone Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-red",
+      brandId: "roman-szmal",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#EB688D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-magenta",
+      brandId: "roman-szmal",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#E45BA4",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-pink",
+      brandId: "roman-szmal",
+      name: "Quinacridone Pink",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#DB56A4",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-fuchsia",
+      brandId: "roman-szmal",
+      name: "Quinacridone Fuchsia",
+      pigmentCodes: [
+        "PR202"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-purple",
+      brandId: "roman-szmal",
+      name: "Quinacridone Purple",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#9E65A8",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-quinacridone-purple.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-violet",
+      brandId: "roman-szmal",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#B55C89",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-perylene-violet",
+      brandId: "roman-szmal",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      hue: "\u2013",
+      hex: "#8B5260",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Perylene-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-violet-light",
+      brandId: "roman-szmal",
+      name: "Cobalt Violet Light",
+      pigmentCodes: [
+        "PV49"
+      ],
+      hue: "\u2013",
+      hex: "#F0B4EE",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Violet-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ultramarine-pink",
+      brandId: "roman-szmal",
+      name: "Ultramarine Pink",
+      pigmentCodes: [
+        "PR259"
+      ],
+      hue: "\u2013",
+      hex: "#EFC2E0",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ultramarine-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-manganese-violet",
+      brandId: "roman-szmal",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hue: "\u2013",
+      hex: "#AD82B9",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Maganese-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ultramarine-violet",
+      brandId: "roman-szmal",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#A392CC",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ultramarine-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-violet-deep",
+      brandId: "roman-szmal",
+      name: "Cobalt Violet Deep",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hue: "\u2013",
+      hex: "#C0ABDE",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Violet-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-dioxazine-violet",
+      brandId: "roman-szmal",
+      name: "Dioxazine Violet",
+      pigmentCodes: [
+        "PV37"
+      ],
+      hue: "\u2013",
+      hex: "#9677BD",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Dioxazine-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-mineral-violet",
+      brandId: "roman-szmal",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PB29",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#6F5588",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Mineral-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-misty-morning",
+      brandId: "roman-szmal",
+      name: "Misty Morning",
+      pigmentCodes: [
+        "PG50",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#99A1BE",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Misty-Morning.png",
+      performance: "Professional",
+      isFeatured: true
+    },
+    {
+      id: "roman-szmal-shadow-violet-light",
+      brandId: "roman-szmal",
+      name: "Shadow Violet Light",
+      pigmentCodes: [
+        "PB36",
+        "PB29",
+        "PR176"
+      ],
+      hue: "\u2013",
+      hex: "#6D718F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Shadow-Violet-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-shadow-violet",
+      brandId: "roman-szmal",
+      name: "Shadow Violet",
+      pigmentCodes: [
+        "PG50",
+        "PB29",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#5A5A76",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Shadow-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-lavenda",
+      brandId: "roman-szmal",
+      name: "Lavenda",
+      pigmentCodes: [
+        "PW6",
+        "PB29",
+        "PV16"
+      ],
+      hue: "\u2013",
+      hex: "#AEBCEF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Lavenda.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ultramarine-light",
+      brandId: "roman-szmal",
+      name: "Ultramarine Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#5283F0",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ultramarine-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-french-ultramarine",
+      brandId: "roman-szmal",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#527CEB",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-French-Ultramarine.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ultramarine-blue-gs",
+      brandId: "roman-szmal",
+      name: "Ultramarine Blue (GS)",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#4377E7",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ultramarine-Blue-Green-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ultramarine-intense",
+      brandId: "roman-szmal",
+      name: "Ultramarine Intense",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#4A69E3",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ultramarine-Intense.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-blue-deep",
+      brandId: "roman-szmal",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB74"
+      ],
+      hue: "\u2013",
+      hex: "#7784E0",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Blue-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-cobalt-blue",
+      brandId: "roman-szmal",
+      name: "Aquarius Cobalt Blue",
+      pigmentCodes: [
+        "PB72"
+      ],
+      hue: "\u2013",
+      hex: "#768FDB",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Cobalt-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-blue",
+      brandId: "roman-szmal",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#7491F2",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-cerulean-blue",
+      brandId: "roman-szmal",
+      name: "Cobalt Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#85A4EA",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Cerulean-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-coelin-blue",
+      brandId: "roman-szmal",
+      name: "Cobalt Coelin Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#93C1F6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-COelin-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-royal-blue",
+      brandId: "roman-szmal",
+      name: "Royal Blue",
+      pigmentCodes: [
+        "PW4",
+        "PB29",
+        "PB15:1"
+      ],
+      hue: "\u2013",
+      hex: "#88BDF5",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Royal-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-phthalo-blue-rs",
+      brandId: "roman-szmal",
+      name: "Phthalo Blue (RS)",
+      pigmentCodes: [
+        "PB15:6"
+      ],
+      hue: "\u2013",
+      hex: "#4F87DB",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Phthalo-Blue-Red-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-indanthrone-blue",
+      brandId: "roman-szmal",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2013",
+      hex: "#355299",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Indathrone-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-lazurite-lapis-lazuli",
+      brandId: "roman-szmal",
+      name: "Lazurite (Lapis Lazuli)",
+      pigmentCodes: [
+        "Genuine",
+        "Lapis",
+        "Lazuli"
+      ],
+      hue: "\u2013",
+      hex: "#A8B3CB",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Lazurite-Lapis-Lazuli.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-vivianite-blue-ochre",
+      brandId: "roman-szmal",
+      name: "Vivianite (Blue Ochre)",
+      pigmentCodes: [
+        "Genuine",
+        "Vivianite"
+      ],
+      hue: "\u2013",
+      hex: "#737F85",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Vivanite.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-indigo-hue",
+      brandId: "roman-szmal",
+      name: "Indigo (Hue)",
+      pigmentCodes: [
+        "PB60",
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#354670",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Indigo-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-prussian-blue",
+      brandId: "roman-szmal",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#4A78A9",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Prussian-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-blue-sky",
+      brandId: "roman-szmal",
+      name: "Blue Sky",
+      pigmentCodes: [
+        "PW4",
+        "PB15:1"
+      ],
+      hue: "\u2013",
+      hex: "#4A96E1",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Blue-Sky.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-phthalo-blue-gs",
+      brandId: "roman-szmal",
+      name: "Phthalo Blue (GS)",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#3673C3",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Phthalo-Blue-Green-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ocean-blue",
+      brandId: "roman-szmal",
+      name: "Ocean Blue",
+      pigmentCodes: [
+        "PBr24",
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#3E7897",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ocean-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-phthalo-turquoise",
+      brandId: "roman-szmal",
+      name: "Phthalo Turquoise",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-sea-blue",
+      brandId: "roman-szmal",
+      name: "Cobalt Sea Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#62C0DD",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Sea-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-teal",
+      brandId: "roman-szmal",
+      name: "Cobalt Teal",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#85E6EB",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Teal.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-turquoise",
+      brandId: "roman-szmal",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#649FA9",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-green-deep",
+      brandId: "roman-szmal",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG26"
+      ],
+      hue: "\u2013",
+      hex: "#789290",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-cobalt-green-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-viridian",
+      brandId: "roman-szmal",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#81C6B9",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-turquoise",
+      brandId: "roman-szmal",
+      name: "Transparent Turquoise",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#3C7A8D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-phthalo-green-bs",
+      brandId: "roman-szmal",
+      name: "Phthalo Green (BS)",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#499385",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Phthalo-Green-Blue-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-phthalo-green-ys",
+      brandId: "roman-szmal",
+      name: "Phthalo Green (YS)",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#6ACD9B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Phthalo-Green-Yellow-Shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cobalt-green-light",
+      brandId: "roman-szmal",
+      name: "Cobalt Green Light",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#79B28C",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cobalt-Green-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-chromium-oxide-green",
+      brandId: "roman-szmal",
+      name: "Chromium Oxide Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#7FA071",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Chromium-Green-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-green-earth",
+      brandId: "roman-szmal",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2013",
+      hex: "#AEC499",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Green-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-perylene-green",
+      brandId: "roman-szmal",
+      name: "Perylene Green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#98A395",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Perylene-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-perylene-green-deep",
+      brandId: "roman-szmal",
+      name: "Perylene Green Deep",
+      pigmentCodes: [
+        "PBk32"
+      ],
+      hue: "\u2013",
+      hex: "#5D6759",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Perylene-Green-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-malachite",
+      brandId: "roman-szmal",
+      name: "Malachite",
+      pigmentCodes: [
+        "Genuine",
+        "Malachite"
+      ],
+      hue: "\u2013",
+      hex: "#BFE2BD",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Malachite.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-green",
+      brandId: "roman-szmal",
+      name: "Aquarius Green",
+      pigmentCodes: [
+        "PY150",
+        "PBr25",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hookers-green",
+      brandId: "roman-szmal",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PY150",
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#7D814B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Hookers-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-sap-green",
+      brandId: "roman-szmal",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY150",
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-sap-green-light",
+      brandId: "roman-szmal",
+      name: "Sap Green Light",
+      pigmentCodes: [
+        "PY110",
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#83AF4F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Sap-Green-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-permanent-green-light",
+      brandId: "roman-szmal",
+      name: "Permanent Green Light",
+      pigmentCodes: [
+        "PY154",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-olive-green-light",
+      brandId: "roman-szmal",
+      name: "Olive Green Light",
+      pigmentCodes: [
+        "PB29",
+        "PY129",
+        "PY150",
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#AC9A48",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Olive-Green-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-glauconite",
+      brandId: "roman-szmal",
+      name: "Glauconite",
+      pigmentCodes: [
+        "Genuine",
+        "Glauconite"
+      ],
+      hue: "\u2013",
+      hex: "#C2B57E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Glauconite.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-olive-green-deep",
+      brandId: "roman-szmal",
+      name: "Olive Green Deep",
+      pigmentCodes: [
+        "PY150",
+        "PBk9",
+        "PG17",
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#AD9251",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Olive-Green-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-deep-green-gold",
+      brandId: "roman-szmal",
+      name: "Deep Green Gold",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#CEB241",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Deep-green-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-green-gold",
+      brandId: "roman-szmal",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY150",
+        "PY129",
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#DFC246",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Green-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-naples-yellow-light",
+      brandId: "roman-szmal",
+      name: "Naples Yellow Light",
+      pigmentCodes: [
+        "PW4",
+        "PY53",
+        "PBr24"
+      ],
+      hue: "Hue",
+      hex: "#FBEBB3",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Naples-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-chrome-orange-hue",
+      brandId: "roman-szmal",
+      name: "Chrome Orange (Hue)",
+      pigmentCodes: [
+        "PO82"
+      ],
+      hue: "Hue",
+      hex: "#EEB76E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-chrome-orange-hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-naples-yellow-reddish",
+      brandId: "roman-szmal",
+      name: "Naples Yellow Reddish",
+      pigmentCodes: [
+        "PW4",
+        "PY53",
+        "PBr24",
+        "PR264"
+      ],
+      hue: "Hue",
+      hex: "#F7D5A9",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Naples-Yellow-Reddish.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-gold-ochre",
+      brandId: "roman-szmal",
+      name: "Transparent Gold Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#FAE685",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Gold-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-venetian-yellow-earth",
+      brandId: "roman-szmal",
+      name: "Venetian Yellow Earth",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#FAE595",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Venetian-Yellow-Earth-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-natural-sienna-light",
+      brandId: "roman-szmal",
+      name: "Natural Sienna Light",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#F6CD64",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Natural-Sienna-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-gold-ochre",
+      brandId: "roman-szmal",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#F4CE7C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Gold-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-yellow-ochre",
+      brandId: "roman-szmal",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#F1BD66",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-veronese-yellow-earth",
+      brandId: "roman-szmal",
+      name: "Veronese Yellow Earth",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#FAE595",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Venetian-Yellow-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-gold-hue",
+      brandId: "roman-szmal",
+      name: "Quinacridone Gold (Hue)",
+      pigmentCodes: [
+        "PR102",
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#E5BC5D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-quinacridone-gold-hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-gold",
+      brandId: "roman-szmal",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PY150",
+        "PO48"
+      ],
+      hue: "Hue",
+      hex: "#EC9F46",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-blue-ridge-raw-sienna",
+      brandId: "roman-szmal",
+      name: "Blue Ridge Raw Sienna",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#C7A160",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Blue-Ridge-Raw-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-natural-sienna-monte-amiata",
+      brandId: "roman-szmal",
+      name: "Natural Sienna Monte Amiata",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#EEBF6D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Nautral-Sienna-Monte-Amiata.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-italian-raw-sienna",
+      brandId: "roman-szmal",
+      name: "Italian Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#F2CE89",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Italian-Raw-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-oxide-yellow",
+      brandId: "roman-szmal",
+      name: "Transparent Oxide Yellow",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#D2A55E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Oxide-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-naples-yellow-deep",
+      brandId: "roman-szmal",
+      name: "Naples Yellow Deep",
+      pigmentCodes: [
+        "PBr24"
+      ],
+      hue: "Hue",
+      hex: "#F3BC6A",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Naples-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ochre-havana",
+      brandId: "roman-szmal",
+      name: "Ochre Havana",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#DDB27A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ochre-Havana.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-goethite",
+      brandId: "roman-szmal",
+      name: "Goethite",
+      pigmentCodes: [
+        "Genuine",
+        "Goethite"
+      ],
+      hue: "\u2013",
+      hex: "#AA7945",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Goethite.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-french-ochre",
+      brandId: "roman-szmal",
+      name: "French Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#ECAD70",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-French-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-mummy-transparent-red",
+      brandId: "roman-szmal",
+      name: "Mummy Transparent Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#ED9A69",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Mummy-Transparent-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-burnt-sienna-monte-amiata",
+      brandId: "roman-szmal",
+      name: "Burnt Sienna Monte Amiata",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#C77149",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Burnt-Sienna-Monte-Amiata.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-burnt-sienna",
+      brandId: "roman-szmal",
+      name: "Quinacridone Burnt Sienna",
+      pigmentCodes: [
+        "PO48"
+      ],
+      hue: "\u2013",
+      hex: "#DA7249",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Burnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-veronese-red-earth",
+      brandId: "roman-szmal",
+      name: "Veronese Red Earth",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#D07C52",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Veronese-Red-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-red-ochre",
+      brandId: "roman-szmal",
+      name: "Red Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#D07551",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Red-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-oxide-red",
+      brandId: "roman-szmal",
+      name: "Transparent Oxide Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#B96B51",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Oxide-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-pompeii-red",
+      brandId: "roman-szmal",
+      name: "Pompeii Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E48F61",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Pompeii-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-blue-ridge-burnt-sienna",
+      brandId: "roman-szmal",
+      name: "Blue Ridge Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#A1765C",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-blue-ridge-burnt-sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-italian-burnt-sienna",
+      brandId: "roman-szmal",
+      name: "Italian Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#C9815D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Italian-Burnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-brown",
+      brandId: "roman-szmal",
+      name: "Aquarius Brown",
+      pigmentCodes: [
+        "PBr11"
+      ],
+      hue: "\u2013",
+      hex: "#C47E5C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-flesh-tint",
+      brandId: "roman-szmal",
+      name: "Flesh Tint",
+      pigmentCodes: [
+        "PW4",
+        "PY42",
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#F7D6B7",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Flesh-Tint.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-terra-pozzuoli",
+      brandId: "roman-szmal",
+      name: "Terra Pozzuoli",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#D87452",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Terra-Pozzuoli.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-english-red-light",
+      brandId: "roman-szmal",
+      name: "English Red Light",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#EE9773",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-English-Red-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-venetian-red",
+      brandId: "roman-szmal",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#EA9B83",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Venetian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-quinacridone-maroon",
+      brandId: "roman-szmal",
+      name: "Quinacridone Maroon",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2013",
+      hex: "#D86D61",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-MAroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-english-red-deep",
+      brandId: "roman-szmal",
+      name: "English Red Deep",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#DD8979",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-English-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-brown",
+      brandId: "roman-szmal",
+      name: "Transparent Brown",
+      pigmentCodes: [
+        "PBr23"
+      ],
+      hue: "\u2013",
+      hex: "#C06C53",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-mars-red",
+      brandId: "roman-szmal",
+      name: "Mars Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#BB735F",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Mars-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-indian-red",
+      brandId: "roman-szmal",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#844841",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Indian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-potters-pink",
+      brandId: "roman-szmal",
+      name: "Potter\u2019s Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-caput-mortuum",
+      brandId: "roman-szmal",
+      name: "Caput Mortuum",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-manganese-brown",
+      brandId: "roman-szmal",
+      name: "Manganese Brown",
+      pigmentCodes: [
+        "PY164"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-iron-chrome-brown",
+      brandId: "roman-szmal",
+      name: "Iron Chrome Brown",
+      pigmentCodes: [
+        "PBr29"
+      ],
+      hue: "\u2013",
+      hex: "#847974",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-iron-chrom-brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hematite-violet-shade",
+      brandId: "roman-szmal",
+      name: "Hematite (Violet Shade)",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hematite",
+      brandId: "roman-szmal",
+      name: "Hematite",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-hematite-brown-shade",
+      brandId: "roman-szmal",
+      name: "Hematite (Brown Shade)",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-transparent-oxide-brown",
+      brandId: "roman-szmal",
+      name: "Transparent Oxide Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#8C634D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Transparent-Oxide-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-brown-ochre",
+      brandId: "roman-szmal",
+      name: "Brown Ochre",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#A17553",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Brown-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-burnt-umber",
+      brandId: "roman-szmal",
+      name: "Cyprus Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#9B7357",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Burnt-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-burnt-umber-light",
+      brandId: "roman-szmal",
+      name: "Cyprus Burnt Umber Light",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#B48D61",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Burnt-Umber-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-raw-umber-brownish",
+      brandId: "roman-szmal",
+      name: "Cyprus Raw Umber Brownish",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#B18B57",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Raw-Umber-Brownish.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-dark-ochre",
+      brandId: "roman-szmal",
+      name: "Dark Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-raw-umber",
+      brandId: "roman-szmal",
+      name: "Cyprus Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#C0A87F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Raw-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-german-raw-umber-greenish",
+      brandId: "roman-szmal",
+      name: "German Raw Umber Greenish",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#B5A074",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-German-Raw-Umber-Greenish.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-burnt-umber-deep",
+      brandId: "roman-szmal",
+      name: "Cyprus Burnt Umber Deep",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#9A8166",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Burnt-Umber-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-cyprus-raw-umber-deep",
+      brandId: "roman-szmal",
+      name: "Cyprus Raw Umber Deep",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#806949",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Cyprus-Raw-Umber-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-sepia",
+      brandId: "roman-szmal",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBr7",
+        "PBk9"
+      ],
+      hue: "Hue",
+      hex: "#96836B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Sepia.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-van-dyck-brown",
+      brandId: "roman-szmal",
+      name: "Van Dyck Brown",
+      pigmentCodes: [
+        "NBr8"
+      ],
+      hue: "\u2013",
+      hex: "#766958",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Van-Dyck-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-shadow-grey",
+      brandId: "roman-szmal",
+      name: "Shadow Grey",
+      pigmentCodes: [
+        "PB29",
+        "PBr7",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-przybyszs-grey",
+      brandId: "roman-szmal",
+      name: "Przybysz\u2019s Grey",
+      pigmentCodes: [
+        "PB29",
+        "PR177",
+        "PG26"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "7/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-paynes-grey",
+      brandId: "roman-szmal",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBk9",
+        "PB27",
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#7C8C95",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Paynes-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-grey",
+      brandId: "roman-szmal",
+      name: "Aquarius Grey",
+      pigmentCodes: [
+        "PW6:1"
+      ],
+      hue: "\u2013",
+      hex: "#AEA595",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-roman-black",
+      brandId: "roman-szmal",
+      name: "Roman Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#868073",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Roman-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-vine-black",
+      brandId: "roman-szmal",
+      name: "Vine Black",
+      pigmentCodes: [
+        "PBk8"
+      ],
+      hue: "\u2013",
+      hex: "#8A857B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Vine-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-ivory-black",
+      brandId: "roman-szmal",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#6C6B63",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Ivory-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-neutral-tint",
+      brandId: "roman-szmal",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PB60",
+        "PBk6",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-mars-black",
+      brandId: "roman-szmal",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#5D5D57",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Mars-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "roman-szmal-aquarius-black",
+      brandId: "roman-szmal",
+      name: "Aquarius Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#9C9C99",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "daler-rowney-aqua-lemon-yellow",
+      brandId: "daler-rowney-aqua",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hue: "\u2013",
+      hex: "#EFEA71",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-lemon-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cadmium-yellow-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cadmium Yellow Hue",
+      pigmentCodes: [
+        "PY155"
+      ],
+      hue: "Hue",
+      hex: "#F4E05A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cadmium-yellow-hue-1.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cadmium-yellow-deep-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cadmium Yellow Deep Hue",
+      pigmentCodes: [
+        "PY3",
+        "PY65"
+      ],
+      hue: "Hue",
+      hex: "#F4E05A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cadmium-yellow-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-gamboge-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Gamboge Hue",
+      pigmentCodes: [
+        "PY155",
+        "PR242"
+      ],
+      hue: "Hue",
+      hex: "#F6C258",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-gamboge-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-indian-yellow-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Indian Yellow Hue",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hue: "Hue",
+      hex: "#F6C258",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-Indian-yellow-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cadmium-orange-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cadmium Orange Hue",
+      pigmentCodes: [
+        "PO71"
+      ],
+      hue: "\u2013",
+      hex: "#E4793A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cadmium-orange-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-vermilion-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "Hue",
+      hex: "#DF5E51",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-vermilion-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cadmium-red-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cadmium Red Hue",
+      pigmentCodes: [
+        "PR242"
+      ],
+      hue: "Hue",
+      hex: "#D84337",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cadmium-red-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-alizarin-crimson-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Alizarin Crimson Hue",
+      pigmentCodes: [
+        "PR176"
+      ],
+      hue: "Hue",
+      hex: "#BB324E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-alizarin-crrimson-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-rose-madder-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Rose Madder Hue",
+      pigmentCodes: [
+        "PR83",
+        "PR122"
+      ],
+      hue: "Hue",
+      hex: "#922F40",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-rose-madder-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-permanent-rose",
+      brandId: "daler-rowney-aqua",
+      name: "Permanent Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#DE6185",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-permanent-rose.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-peach-pink",
+      brandId: "daler-rowney-aqua",
+      name: "Peach Pink",
+      pigmentCodes: [
+        "PW6",
+        "PR101",
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E1B9AB",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-peach-pink.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-quinacridone-magenta",
+      brandId: "daler-rowney-aqua",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR112"
+      ],
+      hue: "\u2013",
+      hex: "#B73087",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-quinacridone-magenta.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-purple-lake",
+      brandId: "daler-rowney-aqua",
+      name: "Purple Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#76346F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-pruple-lake.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-ultramarine-pink",
+      brandId: "daler-rowney-aqua",
+      name: "Ultramarine Pink",
+      pigmentCodes: [
+        "PR259"
+      ],
+      hue: "\u2013",
+      hex: "#B89AC3",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-ultramarine-pink.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-ultramarine-violet",
+      brandId: "daler-rowney-aqua",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#6560A4",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-ultramarine-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cobalt-violet-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cobalt Violet Hue",
+      pigmentCodes: [
+        "PV23",
+        "PV15"
+      ],
+      hue: "Hue",
+      hex: "#A8ABD2",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cobalt-violet-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-permanent-mauve",
+      brandId: "daler-rowney-aqua",
+      name: "Permanent Mauve",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#534394",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-permanent-mauve.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-indigo",
+      brandId: "daler-rowney-aqua",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBk7",
+        "PV19"
+      ],
+      hue: "Hue",
+      hex: "#06182A",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-indigo.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-prussian-blue",
+      brandId: "daler-rowney-aqua",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#163E58",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-Prussian-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-ultramarine-blue-light",
+      brandId: "daler-rowney-aqua",
+      name: "Ultramarine Blue Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#274085",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-Ultramarine-blue-light.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-ultramarine-blue-dark",
+      brandId: "daler-rowney-aqua",
+      name: "Ultramarine Blue Dark",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#253363",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-ultramarine-blue-dark.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-cobalt-blue-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#204E89",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-cobalt-blue-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-phthalo-blue",
+      brandId: "daler-rowney-aqua",
+      name: "Phthalo Blue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#20547E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-phthalo-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-coeruleum-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Coeruleum Hue",
+      pigmentCodes: [
+        "PB15",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#46A2DB",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-coeruleum-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-transparent-turquoise",
+      brandId: "daler-rowney-aqua",
+      name: "Transparent Turquoise",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hue: "\u2013",
+      hex: "#33776D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-transparent-turquoise.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-viridian-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#4AA58F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-viridian-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-leaf-green",
+      brandId: "daler-rowney-aqua",
+      name: "Leaf Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#63B357",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-leaf-green.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-hookers-green-light",
+      brandId: "daler-rowney-aqua",
+      name: "Hooker\u2019s Green Light",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#67A255",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-hookers-green-light.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-hookers-green-dark",
+      brandId: "daler-rowney-aqua",
+      name: "Hooker\u2019s Green Dark",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#387D49",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-hookers-green-dark.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-sap-green",
+      brandId: "daler-rowney-aqua",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY73",
+        "PB29"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-olive-green",
+      brandId: "daler-rowney-aqua",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PG36",
+        "PO36"
+      ],
+      hue: "\u2013",
+      hex: "#515D30",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-olive-green.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-yellow-ochre",
+      brandId: "daler-rowney-aqua",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#F4C16F",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-yellow-ochre.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-raw-sienna",
+      brandId: "daler-rowney-aqua",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#A27035",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-raw-sienna.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-light-red",
+      brandId: "daler-rowney-aqua",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#9D5032",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-light-red.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-burnt-sienna",
+      brandId: "daler-rowney-aqua",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#663A23",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-burnt-sienna.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-naples-yellow",
+      brandId: "daler-rowney-aqua",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PR176",
+        "PBr24"
+      ],
+      hue: "Hue",
+      hex: "#EFAE6E",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-naples-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-burnt-umber",
+      brandId: "daler-rowney-aqua",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PY155",
+        "PR176",
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-vandyke-brown-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Vandyke Brown Hue",
+      pigmentCodes: [
+        "PBr7",
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#361A1D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-vandyke-brown-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-raw-umber",
+      brandId: "daler-rowney-aqua",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#51412D",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-raw-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-sepia-hue",
+      brandId: "daler-rowney-aqua",
+      name: "Sepia Hue",
+      pigmentCodes: [
+        "PY42",
+        "PR9",
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#413C2A",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-sepia-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-paynes-grey",
+      brandId: "daler-rowney-aqua",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBk7",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#2E3B45",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-paynes-grey.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-ivory-black",
+      brandId: "daler-rowney-aqua",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hue: "Hue",
+      hex: "#242423",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-Ivory-black.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-lamp-black",
+      brandId: "daler-rowney-aqua",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hue: "\u2013",
+      hex: "#221F20",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-lamp-black.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-titanium-white",
+      brandId: "daler-rowney-aqua",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-titanium-white.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-chinese-white",
+      brandId: "daler-rowney-aqua",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW5",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#FFFFFF",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-chinese-white.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-silver-imit",
+      brandId: "daler-rowney-aqua",
+      name: "Silver Imit",
+      pigmentCodes: [
+        "PW6",
+        "coated",
+        "mica",
+        "flake",
+        "metallic",
+        "pigment"
+      ],
+      hue: "\u2013",
+      hex: "#82888B",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-silver-Imit.png",
+      performance: "Student"
+    },
+    {
+      id: "daler-rowney-aqua-gold-imit",
+      brandId: "daler-rowney-aqua",
+      name: "Gold Imit",
+      pigmentCodes: [
+        "PW6",
+        "Mica"
+      ],
+      hue: "\u2013",
+      hex: "#7D6A50",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      swatchImage: "/uploads/daler-rowney-aqua/AQ-gold-imit.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-white",
+      brandId: "shinhan-pro",
+      name: "White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-white.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-permanent-yellow-light",
+      brandId: "shinhan-pro",
+      name: "Permanent Yellow Light",
+      pigmentCodes: [
+        "PY1"
+      ],
+      hue: "\u2013",
+      hex: "#F5CC4C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-permanent-yellow-light.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-lemon-yellow",
+      brandId: "shinhan-pro",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FDF378",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-lemon-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-yellow-green",
+      brandId: "shinhan-pro",
+      name: "Yellow Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#A2C45F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-yellow-green.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-emerald-green-hue",
+      brandId: "shinhan-pro",
+      name: "Emerald Green Hue",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PW18"
+      ],
+      hue: "Hue",
+      hex: "#75B670",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-emerald-green-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-yellow-ochre",
+      brandId: "shinhan-pro",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#C09345",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-yellow-ochre.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-raw-umber",
+      brandId: "shinhan-pro",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PY42",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#7C5737",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-raw-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-permanent-yellow-deep",
+      brandId: "shinhan-pro",
+      name: "Permanent Yellow Deep",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#ECAF44",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-permanent-yellow-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-orange",
+      brandId: "shinhan-pro",
+      name: "Orange",
+      pigmentCodes: [
+        "PO13"
+      ],
+      hue: "\u2013",
+      hex: "#DE753B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-orange.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-jaune-brilliant",
+      brandId: "shinhan-pro",
+      name: "Jaune Brilliant",
+      pigmentCodes: [
+        "PO13",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#F1D8B5",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-jaune-brilliant.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-vermilion-hue",
+      brandId: "shinhan-pro",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PO16",
+        "PR48:1"
+      ],
+      hue: "Hue",
+      hex: "#DB6646",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-vermilion-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-red",
+      brandId: "shinhan-pro",
+      name: "Red",
+      pigmentCodes: [
+        "PR17"
+      ],
+      hue: "\u2013",
+      hex: "#C24F5B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-Red.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-bordeaux",
+      brandId: "shinhan-pro",
+      name: "Bordeaux",
+      pigmentCodes: [
+        "PR63:1"
+      ],
+      hue: "\u2013",
+      hex: "#964258",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-bordeaux.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-red-violet",
+      brandId: "shinhan-pro",
+      name: "Red Violet",
+      pigmentCodes: [
+        "PR81",
+        "PV3"
+      ],
+      hue: "\u2013",
+      hex: "#9B294C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-red-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-crimson-lake",
+      brandId: "shinhan-pro",
+      name: "Crimson Lake",
+      pigmentCodes: [
+        "PR83",
+        "PR63:1"
+      ],
+      hue: "\u2013",
+      hex: "#7F3137",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-crimson-lake.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-vandyke-brown",
+      brandId: "shinhan-pro",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#735D45",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-vandyke-brown.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-red-ochre",
+      brandId: "shinhan-pro",
+      name: "Red Ochre",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#C77654",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-red-ochre.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-violet",
+      brandId: "shinhan-pro",
+      name: "Violet",
+      pigmentCodes: [
+        "PV3"
+      ],
+      hue: "\u2013",
+      hex: "#513C68",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-cerulean-blue-hue",
+      brandId: "shinhan-pro",
+      name: "Cerulean Blue Hue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "Hue",
+      hex: "#4B87C0",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-cerulean-blue-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-prussian-blue",
+      brandId: "shinhan-pro",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "Hue",
+      hex: "#17293F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-prussian-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-ultramarine",
+      brandId: "shinhan-pro",
+      name: "Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#6771AF",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-ultramarine.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-cobalt-blue-hue",
+      brandId: "shinhan-pro",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29",
+        "PB15:3"
+      ],
+      hue: "Hue",
+      hex: "#5B70B0",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-cobalt-blue-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-viridian-hue",
+      brandId: "shinhan-pro",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#2E6341",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-viridian-hue.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-sap-green",
+      brandId: "shinhan-pro",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG7",
+        "PY2"
+      ],
+      hue: "Hue",
+      hex: "#3E5F36",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-sap-green.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-peacock-green",
+      brandId: "shinhan-pro",
+      name: "Peacock Green",
+      pigmentCodes: [
+        "PG7",
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#437D6F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-peacock-green.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-olive-green",
+      brandId: "shinhan-pro",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PG8",
+        "PY1",
+        "PY2"
+      ],
+      hue: "\u2013",
+      hex: "#514D2E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-olive-green.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-brown",
+      brandId: "shinhan-pro",
+      name: "Brown",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#702617",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-brown.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-brown-red",
+      brandId: "shinhan-pro",
+      name: "Brown Red",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#8B543D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-brown-red.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-black",
+      brandId: "shinhan-pro",
+      name: "Black",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#353334",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-black.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pro-opera",
+      brandId: "shinhan-pro",
+      name: "Opera",
+      pigmentCodes: [
+        "BR1",
+        "BV11"
+      ],
+      hue: "\u2013",
+      hex: "#DA6C9F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pro/SPro-opera.png",
+      performance: "Student"
+    },
+    {
+      id: "shinhan-pwc-crimson-lake",
+      brandId: "shinhan-pwc",
+      name: "Crimson Lake",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "\u2013",
+      hex: "#903347",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-crimson-lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-alizarin-crimson",
+      brandId: "shinhan-pwc",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR23"
+      ],
+      hue: "Hue",
+      hex: "#9B2E40",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-rose",
+      brandId: "shinhan-pwc",
+      name: "Permanent Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#CC4D68",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-carmine",
+      brandId: "shinhan-pwc",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "Hue",
+      hex: "#AD4651",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-carmine.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-rose-madder",
+      brandId: "shinhan-pwc",
+      name: "Rose Madder",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "\u2013",
+      hex: "#9E4143",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-rose-madder.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-red",
+      brandId: "shinhan-pwc",
+      name: "Permanent Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-brown-madder",
+      brandId: "shinhan-pwc",
+      name: "Brown Madder",
+      pigmentCodes: [
+        "PR83",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#A44338",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-brown-madder.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-scarlet-lake",
+      brandId: "shinhan-pwc",
+      name: "Scarlet Lake",
+      pigmentCodes: [
+        "PR48:1",
+        "PR9"
+      ],
+      hue: "\u2013",
+      hex: "#DE3B31",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Scarlet-Lake.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-opera",
+      brandId: "shinhan-pwc",
+      name: "Opera",
+      pigmentCodes: [
+        "BR1"
+      ],
+      hue: "\u2013",
+      hex: "#DD5D9B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-opera.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-brilliant-pink",
+      brandId: "shinhan-pwc",
+      name: "Brilliant Pink",
+      pigmentCodes: [
+        "PR209",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-shell-pink",
+      brandId: "shinhan-pwc",
+      name: "Shell Pink",
+      pigmentCodes: [
+        "PR9",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FAC0B8",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Shell-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-red-deep",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-quinacridone-red",
+      brandId: "shinhan-pwc",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#A83948",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-quinacridone-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-pyrrole-red",
+      brandId: "shinhan-pwc",
+      name: "Pyrrole Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-vermilion",
+      brandId: "shinhan-pwc",
+      name: "Vermilion",
+      pigmentCodes: [
+        "PR108",
+        "PO20"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-vermilion-hue",
+      brandId: "shinhan-pwc",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PO16"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-red-orange",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Red Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-brilliant-orange",
+      brandId: "shinhan-pwc",
+      name: "Brilliant Orange",
+      pigmentCodes: [
+        "PO16"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-yellow-orange",
+      brandId: "shinhan-pwc",
+      name: "Permanent Yellow Orange",
+      pigmentCodes: [
+        "PY83",
+        "PO13"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-yellow-orange",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Yellow Orange",
+      pigmentCodes: [
+        "PY35",
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E69561",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Cadmium-yellow-orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-yellow-deep",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-yellow",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Yellow",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-aureolin",
+      brandId: "shinhan-pwc",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "Hue",
+      hex: "#DFB052",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-aureolin.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-indian-yellow",
+      brandId: "shinhan-pwc",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY183"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-yellow-deep",
+      brandId: "shinhan-pwc",
+      name: "Permanent Yellow Deep",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-yellow-light",
+      brandId: "shinhan-pwc",
+      name: "Permanent Yellow Light",
+      pigmentCodes: [
+        "PY1"
+      ],
+      hue: "\u2013",
+      hex: "#F7CC62",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-yellow-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-lemon-yellow",
+      brandId: "shinhan-pwc",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY81"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-yellow-light",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Yellow Light",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FCE861",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-yellow-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-yellow-pale",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#FDF06E",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-yellow-pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-naples-yellow",
+      brandId: "shinhan-pwc",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PY35",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#FADC87",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-naples-yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-jaune-brilliant-1",
+      brandId: "shinhan-pwc",
+      name: "Jaune Brilliant 1",
+      pigmentCodes: [
+        "PO20",
+        "PY74",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-jaune-brilliant-no-2",
+      brandId: "shinhan-pwc",
+      name: "Jaune Brilliant No. 2",
+      pigmentCodes: [
+        "PO20",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-greenish-yellow",
+      brandId: "shinhan-pwc",
+      name: "Greenish Yellow",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-olive-green",
+      brandId: "shinhan-pwc",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY83",
+        "PG8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-terre-verte-ys",
+      brandId: "shinhan-pwc",
+      name: "Terre Verte (YS)",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#B3B769",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-terre-verte-yellow-shade.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-green-pale",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Green Pale",
+      pigmentCodes: [
+        "PG26",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#A8C955",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-green-light-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-green-light",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Green Light",
+      pigmentCodes: [
+        "PG7",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#A8C955",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-green-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-leaf-green",
+      brandId: "shinhan-pwc",
+      name: "Leaf Green",
+      pigmentCodes: [
+        "PY74",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-green-no-1",
+      brandId: "shinhan-pwc",
+      name: "Permanent Green No. 1",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#A7C954",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-green-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-green-no-2",
+      brandId: "shinhan-pwc",
+      name: "Permanent Green No. 2",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#5FA95F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-green-2.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-green-middle",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Green Middle",
+      pigmentCodes: [
+        "PG26",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#6D9A50",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-green-middle.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-green",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Green",
+      pigmentCodes: [
+        "PG26",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#417445",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Cadmium-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cadmium-green-deep",
+      brandId: "shinhan-pwc",
+      name: "Cadmium Green Deep",
+      pigmentCodes: [
+        "PG26",
+        "PY35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-oxide-of-chromium",
+      brandId: "shinhan-pwc",
+      name: "Oxide of Chromium",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#517553",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-oxide-of-chromium.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-phthalo-green-dark",
+      brandId: "shinhan-pwc",
+      name: "Phthalo Green Dark",
+      pigmentCodes: [
+        "PG7",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#314E41",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-phthalo-green-dark.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-terre-verte",
+      brandId: "shinhan-pwc",
+      name: "Terre Verte",
+      pigmentCodes: [
+        "PB28",
+        "PG8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-hookers-green",
+      brandId: "shinhan-pwc",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG8"
+      ],
+      hue: "\u2013",
+      hex: "#2C673F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-hookers-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-green-deep",
+      brandId: "shinhan-pwc",
+      name: "Green Deep",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#679865",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-green-deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cobalt-green",
+      brandId: "shinhan-pwc",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PY53",
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-viridian",
+      brandId: "shinhan-pwc",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#4C9974",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-viridian-hue",
+      brandId: "shinhan-pwc",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#30624D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-viridian-hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-emerald-green-nova",
+      brandId: "shinhan-pwc",
+      name: "Emerald Green Nova",
+      pigmentCodes: [
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#7DBF8A",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-emeral-green-nova.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-peacock-green",
+      brandId: "shinhan-pwc",
+      name: "Peacock Green",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#25594E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-peacock-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-green-pale",
+      brandId: "shinhan-pwc",
+      name: "Green Pale",
+      pigmentCodes: [
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#A6D0A8",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-green-pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-sap-green",
+      brandId: "shinhan-pwc",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG8"
+      ],
+      hue: "Hue",
+      hex: "#53793F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-sap-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-shadow-green",
+      brandId: "shinhan-pwc",
+      name: "Shadow Green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#2B4240",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-shadow-green.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-turquoise-blue",
+      brandId: "shinhan-pwc",
+      name: "Turquoise Blue",
+      pigmentCodes: [
+        "PG7",
+        "PB28",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#52A4B6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-turquoise-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-blue-pale",
+      brandId: "shinhan-pwc",
+      name: "Blue Pale",
+      pigmentCodes: [
+        "PB15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#457B9E",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-blue-pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-marine-blue",
+      brandId: "shinhan-pwc",
+      name: "Marine Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#2F4D5D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-marine-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-phthalo-blue-rs",
+      brandId: "shinhan-pwc",
+      name: "Phthalo Blue (RS)",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-peacock-blue",
+      brandId: "shinhan-pwc",
+      name: "Peacock Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#366B9B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-peacock-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-horizon-blue",
+      brandId: "shinhan-pwc",
+      name: "Horizon Blue",
+      pigmentCodes: [
+        "PB15:4",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      swatchImage: "",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-blue-grey",
+      brandId: "shinhan-pwc",
+      name: "Blue Grey",
+      pigmentCodes: [
+        "PB15:3",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#5FB1E2",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-blue-grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-turquoise-blue-light",
+      brandId: "shinhan-pwc",
+      name: "Turquoise Blue Light",
+      pigmentCodes: [
+        "PB28",
+        "PW18",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-verditer-blue",
+      brandId: "shinhan-pwc",
+      name: "Verditer Blue",
+      pigmentCodes: [
+        "PB28",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cerulean-blue",
+      brandId: "shinhan-pwc",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cerulean-blue-hue",
+      brandId: "shinhan-pwc",
+      name: "Cerulean Blue Hue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "Hue",
+      hex: "#5396CE",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cerulean-blue-hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cobalt-blue",
+      brandId: "shinhan-pwc",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cobalt-blue-hue",
+      brandId: "shinhan-pwc",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-ultramarine-light",
+      brandId: "shinhan-pwc",
+      name: "Ultramarine Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-ultramarine-deep",
+      brandId: "shinhan-pwc",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-prussian-blue",
+      brandId: "shinhan-pwc",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-royal-blue",
+      brandId: "shinhan-pwc",
+      name: "Royal Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PB66"
+      ],
+      hue: "\u2013",
+      hex: "#334563",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-Royal-blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-indigo",
+      brandId: "shinhan-pwc",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB66"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-lavender",
+      brandId: "shinhan-pwc",
+      name: "Lavender",
+      pigmentCodes: [
+        "PB28",
+        "PV15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-ultramarine-violet",
+      brandId: "shinhan-pwc",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#7966A1",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-ultramarine-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-violet",
+      brandId: "shinhan-pwc",
+      name: "Permanent Violet",
+      pigmentCodes: [
+        "PV3"
+      ],
+      hue: "\u2013",
+      hex: "#5A4588",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-mineral-violet",
+      brandId: "shinhan-pwc",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-cobalt-violet-light",
+      brandId: "shinhan-pwc",
+      name: "Cobalt Violet Light",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hue: "\u2013",
+      hex: "#86579D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cobalt-violet-light.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-lilac",
+      brandId: "shinhan-pwc",
+      name: "Lilac",
+      pigmentCodes: [
+        "PR122",
+        "PV23",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-purple-grey",
+      brandId: "shinhan-pwc",
+      name: "Purple Grey",
+      pigmentCodes: [
+        "PR122",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-bright-violet",
+      brandId: "shinhan-pwc",
+      name: "Bright Violet",
+      pigmentCodes: [
+        "BV11"
+      ],
+      hue: "\u2013",
+      hex: "#94488D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-bright-violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-bright-rose",
+      brandId: "shinhan-pwc",
+      name: "Bright Rose",
+      pigmentCodes: [
+        "BR12"
+      ],
+      hue: "\u2013",
+      hex: "#CC4683",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-bright-rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-permanent-magenta",
+      brandId: "shinhan-pwc",
+      name: "Permanent Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#8A4055",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-light-red",
+      brandId: "shinhan-pwc",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#B34E30",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-light-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-burnt-sienna",
+      brandId: "shinhan-pwc",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#9C4D2D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-burnt-sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-brown",
+      brandId: "shinhan-pwc",
+      name: "Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#833D2B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-brown-red",
+      brandId: "shinhan-pwc",
+      name: "Brown Red",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#502E28",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-brown-red.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-burnt-umber",
+      brandId: "shinhan-pwc",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#584240",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-burnt-umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-raw-umber",
+      brandId: "shinhan-pwc",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#895D4C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-raw-umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-raw-sienna",
+      brandId: "shinhan-pwc",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#AD774E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-raw-sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-yellow-ochre",
+      brandId: "shinhan-pwc",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#C18E60",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-umber",
+      brandId: "shinhan-pwc",
+      name: "Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#50462A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-vandyke-brown-1",
+      brandId: "shinhan-pwc",
+      name: "Vandyke Brown 1",
+      pigmentCodes: [
+        "NBr8"
+      ],
+      hue: "\u2013",
+      hex: "#5C4A46",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-vandyke-brown-1.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-vandyke-brown-2",
+      brandId: "shinhan-pwc",
+      name: "Vandyke Brown 2",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#53403D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-vandyke-brown-2.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-sepia",
+      brandId: "shinhan-pwc",
+      name: "Sepia",
+      pigmentCodes: [
+        "PR101",
+        "PBk11"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-ivory-black",
+      brandId: "shinhan-pwc",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#313133",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-ivory-black.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-peach-black",
+      brandId: "shinhan-pwc",
+      name: "Peach Black",
+      pigmentCodes: [
+        "PBk1"
+      ],
+      hue: "\u2013",
+      hex: "#313133",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-peach-black.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-neutral-tint",
+      brandId: "shinhan-pwc",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PB66",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-paynes-grey",
+      brandId: "shinhan-pwc",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PB66",
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-grey",
+      brandId: "shinhan-pwc",
+      name: "Grey",
+      pigmentCodes: [
+        "PBk7",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#C7CBCF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-davys-grey",
+      brandId: "shinhan-pwc",
+      name: "Davy\u2019s Grey",
+      pigmentCodes: [
+        "PBk31",
+        "PG17",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#99A69B",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-davys-grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-titanium-white",
+      brandId: "shinhan-pwc",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-titanium-white.png",
+      performance: "Professional"
+    },
+    {
+      id: "shinhan-pwc-chinese-white",
+      brandId: "shinhan-pwc",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#FFFFFF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-chinese-white.png",
+      performance: "Professional"
+    },
+    {
+      id: "van-gogh-opaque-white",
+      brandId: "van-gogh",
+      name: "Opaque White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#D3DBDF",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-opaque-white.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-chinese-white",
+      brandId: "van-gogh",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#B2BFCA",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-chinese-white.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-titanium-buff",
+      brandId: "van-gogh",
+      name: "Titanium Buff",
+      pigmentCodes: [
+        "PW6",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#DED2C5",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-titanium-buff.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-lemon-yellow",
+      brandId: "van-gogh",
+      name: "Permanent Lemon Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2013",
+      hex: "#F0E47A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-lemon-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-transparent-yellow-medium",
+      brandId: "van-gogh",
+      name: "Transparent Yellow Medium",
+      pigmentCodes: [
+        "PY128"
+      ],
+      hue: "\u2013",
+      hex: "#F0E079",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-transparent-yellow-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-azo-yellow-light",
+      brandId: "van-gogh",
+      name: "Azo Yellow Light",
+      pigmentCodes: [
+        "PY154",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#F9DC4F",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Azo-yellow-light.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-azo-yellow-medium",
+      brandId: "van-gogh",
+      name: "Azo Yellow Medium",
+      pigmentCodes: [
+        "PY154",
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#F6CB49",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Azo-yellow-medium.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-azo-yellow-deep",
+      brandId: "van-gogh",
+      name: "Azo Yellow Deep",
+      pigmentCodes: [
+        "PY154",
+        "PO43"
+      ],
+      hue: "\u2013",
+      hex: "#F2B947",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Azo-yellow-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-gamboge",
+      brandId: "van-gogh",
+      name: "Gamboge",
+      pigmentCodes: [
+        "PY154",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#F6C953",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-gamboge.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-indian-yellow",
+      brandId: "van-gogh",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hue: "Hue",
+      hex: "#F2B945",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-indian-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-naples-yellow-red",
+      brandId: "van-gogh",
+      name: "Naples Yellow Red",
+      pigmentCodes: [
+        "PY42",
+        "PO43"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-orange",
+      brandId: "van-gogh",
+      name: "Permanent Orange",
+      pigmentCodes: [
+        "PY154",
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#EA9B40",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-orange.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-pyrrole-orange",
+      brandId: "van-gogh",
+      name: "Pyrrole Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#E06336",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-pyrrole-orange.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-vermilion",
+      brandId: "van-gogh",
+      name: "Vermilion",
+      pigmentCodes: [
+        "PR254",
+        "PR154"
+      ],
+      hue: "Hue",
+      hex: "#E06036",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-vermilion.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-red-light",
+      brandId: "van-gogh",
+      name: "Permanent Red Light",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "\u2013",
+      hex: "#DB3C32",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-red-light.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-red-deep",
+      brandId: "van-gogh",
+      name: "Permanent Red Deep",
+      pigmentCodes: [
+        "PR254",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#DB3A32",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-red-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-madder-lake-light",
+      brandId: "van-gogh",
+      name: "Madder Lake Light",
+      pigmentCodes: [
+        "PR264",
+        "PR254"
+      ],
+      hue: "Hue",
+      hex: "#DD5768",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-madder-lake-light.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-madder-lake-deep",
+      brandId: "van-gogh",
+      name: "Madder Lake Deep",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "Hue",
+      hex: "#D9373B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-madder-lake-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-carmine",
+      brandId: "van-gogh",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR176"
+      ],
+      hue: "Hue",
+      hex: "#D13537",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-carmine.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-quinacridone-rose",
+      brandId: "van-gogh",
+      name: "Quinacridone Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#DA3778",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-quinacridone-rose.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-rose",
+      brandId: "van-gogh",
+      name: "Rose",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#D44E95",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-rose.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-red-violet",
+      brandId: "van-gogh",
+      name: "Permanent Red VIolet",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#D53357",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-red-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-blue-violet",
+      brandId: "van-gogh",
+      name: "Permanent Blue Violet",
+      pigmentCodes: [
+        "PV19",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#59368C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-blue-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-quinacridone-purple-red",
+      brandId: "van-gogh",
+      name: "Quinacridone Purple Red",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#8C1E57",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-quinacridone-purple-red.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-quinacridone-purple-blue",
+      brandId: "van-gogh",
+      name: "Quinacridone Purple Blue",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#77194A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-quinacridone-purple-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-lavender",
+      brandId: "van-gogh",
+      name: "Lavender",
+      pigmentCodes: [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#5E70B0",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-lavender.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-ultramarine-deep",
+      brandId: "van-gogh",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#30398F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-ultramarine-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-cobalt-blue-ultramarine",
+      brandId: "van-gogh",
+      name: "Cobalt Blue (Ultramarine)",
+      pigmentCodes: [
+        "PB29",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-cerulean-blue-phthalo",
+      brandId: "van-gogh",
+      name: "Cerulean Blue (Phthalo)",
+      pigmentCodes: [
+        "PB15",
+        "PW6"
+      ],
+      hue: "Hue",
+      hex: "#3977B8",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-cerulean-blue-phthalo.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-phthalo-blue",
+      brandId: "van-gogh",
+      name: "Phthalo Blue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#2B4596",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-phthalo-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-prussian-blue",
+      brandId: "van-gogh",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#22307D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-prussian-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-indigo",
+      brandId: "van-gogh",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBk6"
+      ],
+      hue: "Hue",
+      hex: "#1E3452",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-indigo.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-turquoise-blue",
+      brandId: "van-gogh",
+      name: "Turquoise Blue",
+      pigmentCodes: [
+        "PB15",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#2D6C9C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-turquoise-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-turquoise-green",
+      brandId: "van-gogh",
+      name: "Turquoise Green",
+      pigmentCodes: [
+        "PB15",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#5DB8B7",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-turquoise-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-yellowish-green",
+      brandId: "van-gogh",
+      name: "Permanent Yellowish Green",
+      pigmentCodes: [
+        "PY154",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#89BD55",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-yellowish-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-hooker-green-light",
+      brandId: "van-gogh",
+      name: "Hooker Green Light",
+      pigmentCodes: [
+        "PG7",
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#4A964C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-hooker-green-light.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-hooker-green-deep",
+      brandId: "van-gogh",
+      name: "Hooker Green Deep",
+      pigmentCodes: [
+        "PG7",
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#2B6439",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-hooker-green-deep.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-permanent-green",
+      brandId: "van-gogh",
+      name: "Permanent Green",
+      pigmentCodes: [
+        "PG7",
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#4A9D51",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-permanent-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-viridian",
+      brandId: "van-gogh",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#4DA78C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-viridian.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-phthalo-green",
+      brandId: "van-gogh",
+      name: "Phthalo Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#367A77",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-phthalo-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-sap-green",
+      brandId: "van-gogh",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY129",
+        "PG7"
+      ],
+      hue: "Hue",
+      hex: "#6A9845",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Sap-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-olive-green",
+      brandId: "van-gogh",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PG7",
+        "PY154"
+      ],
+      hue: "\u2013",
+      hex: "#939046",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-olive-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-azomethine-green-yellow",
+      brandId: "van-gogh",
+      name: "Azomethine Green Yellow",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#B18D33",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-azomethine-green-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-yellow-ochre",
+      brandId: "van-gogh",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#F1B44E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-yellow-ochre.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-raw-sienna",
+      brandId: "van-gogh",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#DF9D43",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-raw-sienna.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-raw-umber",
+      brandId: "van-gogh",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PY42",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#574424",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-raw-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-burnt-sienna",
+      brandId: "van-gogh",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#A9472B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-burnt-sienna.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-light-oxide-red",
+      brandId: "van-gogh",
+      name: "Light Oxide Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#B2452F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-light-oxide-red.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-burnt-umber",
+      brandId: "van-gogh",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PR101",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#5A301A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-burnt-umber.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-sepia",
+      brandId: "van-gogh",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBk7",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#6A573D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Sepia.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-vandyke-brown",
+      brandId: "van-gogh",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PBk6",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#625142",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-vandyke-brown.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-paynes-grey",
+      brandId: "van-gogh",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBk6",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#242C38",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-paynes-grey.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-davys-grey",
+      brandId: "van-gogh",
+      name: "Davy\u2019s Grey",
+      pigmentCodes: [
+        "PBk11",
+        "PG7",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#5C6048",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-davys-grey.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-neutral-tint",
+      brandId: "van-gogh",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBk6",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#585356",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-neutral-tint.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-oxide-black",
+      brandId: "van-gogh",
+      name: "Oxide Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#484543",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-oxide-black.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-ivory-black",
+      brandId: "van-gogh",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk6",
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#403935",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      swatchImage: "/uploads/van-gogh/VG-ivory-black.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-dusk-yellow",
+      brandId: "van-gogh",
+      name: "Dusk Yellow",
+      pigmentCodes: [
+        "PBk11",
+        "PY128"
+      ],
+      hue: "\u2013",
+      hex: "#6F6941",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-dusk-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-dusk-pink",
+      brandId: "van-gogh",
+      name: "Dusk Pink",
+      pigmentCodes: [
+        "PBk11",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#5E2245",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-dusk-pink.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-dusk-violet",
+      brandId: "van-gogh",
+      name: "Dusk Violet",
+      pigmentCodes: [
+        "PBk11",
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#392A3C",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-dusk-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-dusk-green",
+      brandId: "van-gogh",
+      name: "Dusk Green",
+      pigmentCodes: [
+        "PBk11",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#164844",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-dusk-green.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-silver",
+      brandId: "van-gogh",
+      name: "Silver",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#A4A9AA",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Silver.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-light-gold",
+      brandId: "van-gogh",
+      name: "Light Gold",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#C1A05F",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Light-gold.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-deep-gold",
+      brandId: "van-gogh",
+      name: "Deep Gold",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#BC862E",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-deep-gold.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-bronze",
+      brandId: "van-gogh",
+      name: "Bronze",
+      pigmentCodes: [
+        "PW20",
+        "PW15"
+      ],
+      hue: "\u2013",
+      hex: "#A4723F",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-bronze.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-copper",
+      brandId: "van-gogh",
+      name: "Copper",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#B75A2E",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-copper.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-graphite",
+      brandId: "van-gogh",
+      name: "Graphite",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#656361",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-graphite.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-interference-white",
+      brandId: "van-gogh",
+      name: "Interference White",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#A8B2B9",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-interference-white.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-intereference-yellow",
+      brandId: "van-gogh",
+      name: "Intereference Yellow",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#857962",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-intereference-yellow.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-interference-red",
+      brandId: "van-gogh",
+      name: "Interference Red",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#755260",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-interference-red.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-interference-violet",
+      brandId: "van-gogh",
+      name: "Interference Violet",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#614F7D",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-Interference-violet.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-interference-blue",
+      brandId: "van-gogh",
+      name: "Interference Blue",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#4984B5",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-intereference-blue.png",
+      performance: "Student"
+    },
+    {
+      id: "van-gogh-interference-green",
+      brandId: "van-gogh",
+      name: "Interference Green",
+      pigmentCodes: [
+        "PW20",
+        "PW15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#88B0AB",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: true,
+      swatchImage: "/uploads/van-gogh/VG-interference-green.png",
+      performance: "Student"
+    },
+    {
+      id: "daniel-smith-buff-titanium",
+      brandId: "ds",
+      name: "Buff Titanium",
+      pigmentCodes: [
+        "PW6:1"
+      ],
+      hue: "\u2013",
+      hex: "#F4EAC4",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Buff-Titanium.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-nickel-titanate-yellow",
+      brandId: "ds",
+      name: "Nickel Titanate Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hue: "\u2013",
+      hex: "#F3EFB1",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Nickel-Titanate-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-bismuth-vanadate-yellow",
+      brandId: "ds",
+      name: "Bismuth Vanadate Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2013",
+      hex: "#F7ED7D",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Bismuth-Vanadate.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-hansa-yellow-light",
+      brandId: "ds",
+      name: "Hansa Yellow Light",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hue: "\u2013",
+      hex: "#F5EB6C",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-azo-yellow",
+      brandId: "ds",
+      name: "Azo Yellow",
+      pigmentCodes: [
+        "PY151"
+      ],
+      hue: "\u2013",
+      hex: "#F9E966",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Azo-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinophthalone-yellow",
+      brandId: "ds",
+      name: "Quinophthalone Yellow",
+      pigmentCodes: [
+        "PY138"
+      ],
+      hue: "\u2013",
+      hex: "#FAEA5D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinophthalone-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-yellow-light-hue",
+      brandId: "ds",
+      name: "Cadmium Yellow Light Hue",
+      pigmentCodes: [
+        "PY53",
+        "PY138",
+        "PY3"
+      ],
+      hue: "\u2013",
+      hex: "#F9EB5B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Light-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-yellow-medium-hue",
+      brandId: "ds",
+      name: "Cadmium Yellow Medium Hue",
+      pigmentCodes: [
+        "PY53",
+        "PY151",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#F9E755",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Medium-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-aureolin-cobalt-yellow",
+      brandId: "ds",
+      name: "Aureolin (Cobalt Yellow)",
+      pigmentCodes: [
+        "PY40"
+      ],
+      hue: "\u2013",
+      hex: "#F7ED80",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Aureolin.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-yellow-deep-hue",
+      brandId: "ds",
+      name: "Cadmium Yellow Deep Hue",
+      pigmentCodes: [
+        "PY53",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#E3BE55",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Deep-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-hansa-yellow-medium",
+      brandId: "ds",
+      name: "Hansa Yellow Medium",
+      pigmentCodes: [
+        "PY97"
+      ],
+      hue: "\u2013",
+      hex: "#F7EB60",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Medium.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mayan-yellow",
+      brandId: "ds",
+      name: "Mayan Yellow",
+      pigmentCodes: [
+        "PY223"
+      ],
+      hue: "\u2013",
+      hex: "#F8DE5E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mayan-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lemon-yellow",
+      brandId: "ds",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY175"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-indian-yellow",
+      brandId: "ds",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY97",
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#F5D653",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Indian-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-naples-yellow",
+      brandId: "ds",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PW4",
+        "PY97",
+        "PR101"
+      ],
+      hue: "Hue",
+      hex: "#F5DE93",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Naples-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-hansa-yellow-deep",
+      brandId: "ds",
+      name: "Hansa Yellow Deep",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hue: "\u2013",
+      hex: "#F8E165",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-new-gamboge",
+      brandId: "ds",
+      name: "New Gamboge",
+      pigmentCodes: [
+        "PY97",
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#F2C854",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-New-Gamboge.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-isoindoline-yellow",
+      brandId: "ds",
+      name: "Isoindoline Yellow",
+      pigmentCodes: [
+        "PY139"
+      ],
+      hue: "\u2013",
+      hex: "#ECAC50",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Isoindoline-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-yellow-deep",
+      brandId: "ds",
+      name: "Permanent Yellow Deep",
+      pigmentCodes: [
+        "PY110"
+      ],
+      hue: "\u2013",
+      hex: "#EFBE6A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Yellow-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-aussie-red-gold",
+      brandId: "ds",
+      name: "Aussie Red Gold",
+      pigmentCodes: [
+        "PY83",
+        "PR101",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#CD9A57",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Aussie-Red-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-pyrrol-orange",
+      brandId: "ds",
+      name: "Pyrrol Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hue: "\u2013",
+      hex: "#E27D4A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-orange",
+      brandId: "ds",
+      name: "Permanent Orange",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hue: "\u2013",
+      hex: "#E38649",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-orange-hue",
+      brandId: "ds",
+      name: "Cadmium Orange Hue",
+      pigmentCodes: [
+        "PY53",
+        "PO73",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#DA8846",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Orange-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perinone-orange",
+      brandId: "ds",
+      name: "Perinone Orange",
+      pigmentCodes: [
+        "PO43"
+      ],
+      hue: "\u2013",
+      hex: "#E07545",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perinone-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-red-scarlet-hue",
+      brandId: "ds",
+      name: "Cadmium Red Scarlet Hue",
+      pigmentCodes: [
+        "PY53",
+        "PR254",
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#BF6450",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Red-Scarlet-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-transparent-pyrrol-orange",
+      brandId: "ds",
+      name: "Transparent Pyrrol Orange",
+      pigmentCodes: [
+        "PO71"
+      ],
+      hue: "\u2013",
+      hex: "#CF6845",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Transparent-Pyrrol-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-organic-vermilion",
+      brandId: "ds",
+      name: "Organic Vermilion",
+      pigmentCodes: [
+        "PR188"
+      ],
+      hue: "Hue",
+      hex: "#DB5C43",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Organic-Vermilion.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mayan-orange",
+      brandId: "ds",
+      name: "Mayan Orange",
+      pigmentCodes: [
+        "PO",
+        "NA"
+      ],
+      hue: "\u2013",
+      hex: "#CC6E55",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mayan-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-coral",
+      brandId: "ds",
+      name: "Quinacridone Coral",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hue: "\u2013",
+      hex: "#DA6F6B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Coral.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-pyrrol-scarlet",
+      brandId: "ds",
+      name: "Pyrrol Scarlet",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "\u2013",
+      hex: "#D75142",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perylene-scarlet",
+      brandId: "ds",
+      name: "Perylene Scarlet",
+      pigmentCodes: [
+        "PR149"
+      ],
+      hue: "\u2013",
+      hex: "#C77B72",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perylene-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-anthraquinoid-scarlet",
+      brandId: "ds",
+      name: "Anthraquinoid Scarlet",
+      pigmentCodes: [
+        "PR168"
+      ],
+      hue: "\u2013",
+      hex: "#C47666",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Anthraquinoid-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cadmium-red-medium-hue",
+      brandId: "ds",
+      name: "Cadmium Red Medium Hue",
+      pigmentCodes: [
+        "PY53",
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#C9413B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cadmium-Red-Medium-Hue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-pyrrol-red",
+      brandId: "ds",
+      name: "Pyrrol Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2013",
+      hex: "#CD5B4B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perylene-red",
+      brandId: "ds",
+      name: "Perylene Red",
+      pigmentCodes: [
+        "PR178"
+      ],
+      hue: "\u2013",
+      hex: "#D54943",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perylene-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-red",
+      brandId: "ds",
+      name: "Permanent Red",
+      pigmentCodes: [
+        "PR170",
+        "F3RK-70"
+      ],
+      hue: "\u2013",
+      hex: "#C05854",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-red-deep",
+      brandId: "ds",
+      name: "Permanent Red Deep",
+      pigmentCodes: [
+        "PR170",
+        "F5RK"
+      ],
+      hue: "\u2013",
+      hex: "#A12F2E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Red-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-red",
+      brandId: "ds",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#C94A5C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-anthraquinoid-red",
+      brandId: "ds",
+      name: "Anthraquinoid Red",
+      pigmentCodes: [
+        "PR177"
+      ],
+      hue: "\u2013",
+      hex: "#AC585D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Anthraquinoid-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mayan-red",
+      brandId: "ds",
+      name: "Mayan Red",
+      pigmentCodes: [
+        "PR287"
+      ],
+      hue: "\u2013",
+      hex: "#CF8588",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mayan-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-alizarin-crimson",
+      brandId: "ds",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hue: "\u2013",
+      hex: "#BC4849",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Alizarin-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-alizarin-crimson",
+      brandId: "ds",
+      name: "Permanent Alizarin Crimson",
+      pigmentCodes: [
+        "PR177",
+        "PV19",
+        "PR149"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-carmine",
+      brandId: "ds",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR176"
+      ],
+      hue: "Hue",
+      hex: "#AA3F3B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Carmine.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-rose-madder-permanent",
+      brandId: "ds",
+      name: "Rose Madder Permanent",
+      pigmentCodes: [
+        "PR209",
+        "PV19",
+        "PR202"
+      ],
+      hue: "Hue",
+      hex: "#CD94AE",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Rose-Madder-Permanent.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-opera-pink",
+      brandId: "ds",
+      name: "Opera Pink",
+      pigmentCodes: [
+        "PR122",
+        "Flourescent"
+      ],
+      hue: "\u2013",
+      hex: "#DB75A4",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "1/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Opera-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-potters-pink",
+      brandId: "ds",
+      name: "Potters Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2013",
+      hex: "#E4CCCA",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Potters-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-pink",
+      brandId: "ds",
+      name: "Quinacridone Pink",
+      pigmentCodes: [
+        "PV42"
+      ],
+      hue: "\u2013",
+      hex: "#D77490",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Pink.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-rose",
+      brandId: "ds",
+      name: "Quinacridone Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#CD5F7B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Rose.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-lilac",
+      brandId: "ds",
+      name: "Quinacridone Lilac",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#B16892",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Lilac.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-magenta",
+      brandId: "ds",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR202"
+      ],
+      hue: "\u2013",
+      hex: "#A04665",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-magenta.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-pyrrol-crimson",
+      brandId: "ds",
+      name: "Pyrrol Crimson",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "\u2013",
+      hex: "#B77A7B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Crimson.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-fuchsia",
+      brandId: "ds",
+      name: "Quinacridone Fuchsia",
+      pigmentCodes: [
+        "PR202"
+      ],
+      hue: "\u2013",
+      hex: "#A04E53",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Fuchsia.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mayan-violet",
+      brandId: "ds",
+      name: "Mayan Violet",
+      pigmentCodes: [
+        "PV58"
+      ],
+      hue: "\u2013",
+      hex: "#A1627B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mayan-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-bordeaux",
+      brandId: "ds",
+      name: "Bordeaux",
+      pigmentCodes: [
+        "PV32"
+      ],
+      hue: "\u2013",
+      hex: "#763A41",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Bordeaux.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-violet",
+      brandId: "ds",
+      name: "Permanent Violet",
+      pigmentCodes: [
+        "PR202",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#7C4659",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-violet",
+      brandId: "ds",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#953557",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Qinacirdone-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perylene-violet",
+      brandId: "ds",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      hue: "\u2013",
+      hex: "#6A3634",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perylene-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-violet",
+      brandId: "ds",
+      name: "Cobalt Violet",
+      pigmentCodes: [
+        "PV49"
+      ],
+      hue: "\u2013",
+      hex: "#E4BBCE",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-violet-deep",
+      brandId: "ds",
+      name: "Cobalt Violet Deep",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hue: "\u2013",
+      hex: "#A78FB5",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Violet-Deep.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-ultramarine-violet",
+      brandId: "ds",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#C7A3C1",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-rose-of-ultramarine",
+      brandId: "ds",
+      name: "Rose of Ultramarine",
+      pigmentCodes: [
+        "PB29",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#7F4371",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Rose-of-Ultramarine.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-imperial-purple",
+      brandId: "ds",
+      name: "Imperial Purple",
+      pigmentCodes: [
+        "PB29",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#79639D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Imperial-Purple.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-purple",
+      brandId: "ds",
+      name: "Quinacridone Purple",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2013",
+      hex: "#784065",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Purple.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-ultramarine-violet-v2",
+      brandId: "ds",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#DAC0D5",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-carbazole-violet",
+      brandId: "ds",
+      name: "Carbazole Violet",
+      pigmentCodes: [
+        "PV23",
+        "(RS)"
+      ],
+      hue: "\u2013",
+      hex: "#623E6F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Carbazole-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-wisteria",
+      brandId: "ds",
+      name: "Wisteria",
+      pigmentCodes: [
+        "PW6",
+        "PR122"
+      ],
+      hue: "\u2013",
+      hex: "#CEAFD4",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Wisteria.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-blue-violet",
+      brandId: "ds",
+      name: "Cobalt Blue Violet",
+      pigmentCodes: [
+        "PB28",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#897DAE",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Blue-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-moonglow",
+      brandId: "ds",
+      name: "Moonglow",
+      pigmentCodes: [
+        "PG18",
+        "PB29",
+        "PR177"
+      ],
+      hue: "\u2013",
+      hex: "#6F5A62",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Moonglow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-shadow-violet",
+      brandId: "ds",
+      name: "Shadow Violet",
+      pigmentCodes: [
+        "PO73",
+        "PB29",
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#776C64",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Shadow-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-indigo",
+      brandId: "ds",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB60",
+        "PBk6"
+      ],
+      hue: "Hue",
+      hex: "#404451",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Indigo.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mayan-dark-blue",
+      brandId: "ds",
+      name: "Mayan Dark Blue",
+      pigmentCodes: [
+        "PB82"
+      ],
+      hue: "\u2013",
+      hex: "#38434E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mayan-Dark-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-indanthrone-blue",
+      brandId: "ds",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2013",
+      hex: "#322B50",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Indanthrone-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-ultramarine-blue",
+      brandId: "ds",
+      name: "Ultramarine Blue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#7F7FB1",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-french-ultramarine",
+      brandId: "ds",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#7377AD",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-French-Ultramaine-.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-blue",
+      brandId: "ds",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#8188B7",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-blue-gs",
+      brandId: "ds",
+      name: "Phthalo Blue (GS)",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "\u2013",
+      hex: "#3E6A8A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-GS.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-verditer-blue",
+      brandId: "ds",
+      name: "Verditer Blue",
+      pigmentCodes: [
+        "PB28",
+        "PB36",
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#6278B0",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Verditer-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lavender",
+      brandId: "ds",
+      name: "Lavender",
+      pigmentCodes: [
+        "PW6",
+        "PV15",
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#ACAECE",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lavender.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-blue-rs",
+      brandId: "ds",
+      name: "Phthalo Blue (RS)",
+      pigmentCodes: [
+        "PB15:6"
+      ],
+      hue: "\u2013",
+      hex: "#50628B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-RS.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-prussian-blue",
+      brandId: "ds",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#435772",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Prussian-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cerulean-blue",
+      brandId: "ds",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hue: "\u2013",
+      hex: "#ACC0D5",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cerulean-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cerulean-blue-chromium",
+      brandId: "ds",
+      name: "Cerulean Blue Chromium",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#799FBD",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cerulean-Blue-Chromium.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-manganese-blue-hue",
+      brandId: "ds",
+      name: "Manganese Blue Hue",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hue: "Hue",
+      hex: "#A8D3DE",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-manganese-Blue-Hue.png",
+      performance: "Professional",
+      isFeatured: true
+    },
+    {
+      id: "daniel-smith-phthalo-blue-turquoise",
+      brandId: "ds",
+      name: "Phthalo Blue Turquoise",
+      pigmentCodes: [
+        "PB16"
+      ],
+      hue: "\u2013",
+      hex: "#6C8E9C",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-teal-blue",
+      brandId: "ds",
+      name: "Cobalt Teal Blue",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#9CCBBA",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Teal-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-turquoise",
+      brandId: "ds",
+      name: "Phthalo Turquoise",
+      pigmentCodes: [
+        "PB15:3",
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#437E73",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Tuquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-ultramarine-turquoise",
+      brandId: "ds",
+      name: "Ultramarine Turquoise",
+      pigmentCodes: [
+        "PB29",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#4D8E7F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Turquoise.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-turquoise",
+      brandId: "ds",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#8AADA9",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Turquoise.png",
+      performance: "Professional",
+      isFeatured: true
+    },
+    {
+      id: "daniel-smith-lunar-blue",
+      brandId: "ds",
+      name: "Lunar Blue",
+      pigmentCodes: [
+        "PB15",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#95A8A6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lunar-Blue.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-green-pale",
+      brandId: "ds",
+      name: "Cobalt Green Pale",
+      pigmentCodes: [
+        "PG19"
+      ],
+      hue: "\u2013",
+      hex: "#C6D9C7",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Green-pale.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-viridian",
+      brandId: "ds",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      hue: "\u2013",
+      hex: "#89C5A8",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Viridian.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-green-bs",
+      brandId: "ds",
+      name: "Phthalo Green (BS)",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#57A378",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Green-BS.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cascade-green",
+      brandId: "ds",
+      name: "Cascade Green",
+      pigmentCodes: [
+        "PBr7",
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#648475",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cascade-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-cobalt-green",
+      brandId: "ds",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hue: "\u2013",
+      hex: "#719A6F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Cobalt-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-spring-green",
+      brandId: "ds",
+      name: "Spring Green",
+      pigmentCodes: [
+        "PY53",
+        "PG36",
+        "PY151"
+      ],
+      hue: "\u2013",
+      hex: "#72B06A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Spring-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-green-light",
+      brandId: "ds",
+      name: "Permanent Green Light",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#79B86D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Green-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-yellow-green",
+      brandId: "ds",
+      name: "Phthalo Yellow Green",
+      pigmentCodes: [
+        "PY3",
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#ACCC6E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Yellow-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-green",
+      brandId: "ds",
+      name: "Permanent Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hue: "\u2013",
+      hex: "#559D6B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-phthalo-green-ys",
+      brandId: "ds",
+      name: "Phthalo Green (YS)",
+      pigmentCodes: [
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#76B76E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Phthalo-Green-YS.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-hookers-green",
+      brandId: "ds",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG36",
+        "PY3",
+        "PO48",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#6D9D59",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Hookers-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-sap-green",
+      brandId: "ds",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PO48",
+        "PG7",
+        "PY150"
+      ],
+      hue: "Hue",
+      hex: "#7B874A",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Sap-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-chromium-green-oxide",
+      brandId: "ds",
+      name: "Chromium Green Oxide",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2013",
+      hex: "#49623F",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Chromium-Green-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-terre-verte",
+      brandId: "ds",
+      name: "Terre Verte",
+      pigmentCodes: [
+        "PG18",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#7A9178",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Terre-Verte.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-deep-sap-green",
+      brandId: "ds",
+      name: "Deep Sap Green",
+      pigmentCodes: [
+        "PO48",
+        "PY3",
+        "PB27"
+      ],
+      hue: "Hue",
+      hex: "#485C3B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Deep-Sap-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perylene-green",
+      brandId: "ds",
+      name: "Perylene Green",
+      pigmentCodes: [
+        "PBk31"
+      ],
+      hue: "\u2013",
+      hex: "#575C42",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perylene-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-prussian-green",
+      brandId: "ds",
+      name: "Prussian Green",
+      pigmentCodes: [
+        "PB27",
+        "PY97"
+      ],
+      hue: "\u2013",
+      hex: "#445F5B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Prussian-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-rare-green-earth",
+      brandId: "ds",
+      name: "Rare Green Earth",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2013",
+      hex: "#879284",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Rare-Green-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-undersea-green",
+      brandId: "ds",
+      name: "Undersea Green",
+      pigmentCodes: [
+        "PB29",
+        "PO48",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#63633E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Undersea-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-olive-green",
+      brandId: "ds",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY97",
+        "PB29",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#776F43",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Olive-Green.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-green-gold",
+      brandId: "ds",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY150",
+        "PY3",
+        "PG36"
+      ],
+      hue: "\u2013",
+      hex: "#C0BF59",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Green-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-rich-green-gold",
+      brandId: "ds",
+      name: "Rich Green Gold",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hue: "\u2013",
+      hex: "#CAB255",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Rich-Green-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-nickel-azo-yellow",
+      brandId: "ds",
+      name: "Nickel Azo Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E9BC53",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Nickel-Azo-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-verona-gold-ochre",
+      brandId: "ds",
+      name: "Verona Gold Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E4CC91",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Verona-Gold-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-french-ochre",
+      brandId: "ds",
+      name: "French Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#F1D18E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "3/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-French-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-raw-sienna-light",
+      brandId: "ds",
+      name: "Raw Sienna Light",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#E7D286",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Raw-Sienna-Light.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burgundy-yellow-ochre",
+      brandId: "ds",
+      name: "Burgundy Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E0C988",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Burgundy-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-yellow-ochre",
+      brandId: "ds",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6B661",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-mars-yellow",
+      brandId: "ds",
+      name: "Mars Yellow",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#D9A150",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Mars-Yellow.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-raw-sienna",
+      brandId: "ds",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#DDA257",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Raw-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-gold",
+      brandId: "ds",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PO48",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#E1A854",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-transparent-yellow-oxide",
+      brandId: "ds",
+      name: "Transparent Yellow Oxide",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hue: "\u2013",
+      hex: "#C29D5D",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Tranparent-Yellow-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-monte-amiata-natural-sienna",
+      brandId: "ds",
+      name: "Monte Amiata Natural Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#EFC062",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Monte-Amiata-Natural-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-enviro-friendly-yellow-iron-oxide",
+      brandId: "ds",
+      name: "Enviro-Friendly Yellow Iron Oxide",
+      pigmentCodes: [
+        "PBr6"
+      ],
+      hue: "\u2013",
+      hex: "#875F46",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Yellow-Iron-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-goethite-brown-ochre",
+      brandId: "ds",
+      name: "Goethite-Brown Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#AF956D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Goethite.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-deep-gold",
+      brandId: "ds",
+      name: "Quinacridone Deep Gold",
+      pigmentCodes: [
+        "PO48",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#D58C43",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Deep-Gold.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-italian-deep-ochre",
+      brandId: "ds",
+      name: "Italian Deep Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#CCA988",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Italian-Deep-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lunar-earth",
+      brandId: "ds",
+      name: "Lunar Earth",
+      pigmentCodes: [
+        "PBr11"
+      ],
+      hue: "\u2013",
+      hex: "#C3A594",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lunar-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burnt-yellow-ochre",
+      brandId: "ds",
+      name: "Burnt Yellow Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#B1806F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Burnt-Yellow-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-roasted-french-ochre",
+      brandId: "ds",
+      name: "Roasted French Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#BB9178",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/Ds-Roasted-French-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burgundy-red-ochre",
+      brandId: "ds",
+      name: "Burgundy Red Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#B58C73",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Burgundy-Red-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-indian-red",
+      brandId: "ds",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#69453F",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Indian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-venetian-red",
+      brandId: "ds",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#8E5F52",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Venetian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-italian-burnt-sienna",
+      brandId: "ds",
+      name: "Italian Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#BA775B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Italian-Burnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-burnt-orange",
+      brandId: "ds",
+      name: "Quinacridone Burnt Orange",
+      pigmentCodes: [
+        "PO48"
+      ],
+      hue: "\u2013",
+      hex: "#CA7E4E",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Burnt-Orange.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-sienna",
+      brandId: "ds",
+      name: "Quinacridone Sienna",
+      pigmentCodes: [
+        "PO48",
+        "PR209",
+        "PY150"
+      ],
+      hue: "\u2013",
+      hex: "#D67748",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-pompeii-red",
+      brandId: "ds",
+      name: "Pompeii Red",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#C78C67",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Pompeii-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-terre-ercolano",
+      brandId: "ds",
+      name: "Terre Ercolano",
+      pigmentCodes: [
+        "PBr7",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#D4AD9A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Terre-Ercolano.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-italian-venetian-red",
+      brandId: "ds",
+      name: "Italian Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#955040",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Italian-Venetian-Red.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-english-red-earth",
+      brandId: "ds",
+      name: "English Red Earth",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#C49E92",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-English-Red-Earth.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-burnt-scarlet",
+      brandId: "ds",
+      name: "Quinacridone Burnt Scarlet",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2013",
+      hex: "#BD6A50",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Burnt-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-perylene-maroon",
+      brandId: "ds",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hue: "\u2013",
+      hex: "#774641",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Perylene-Maroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-deep-scarlet",
+      brandId: "ds",
+      name: "Deep Scarlet",
+      pigmentCodes: [
+        "PR175"
+      ],
+      hue: "\u2013",
+      hex: "#BC463D",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Deep-Scarlet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-napthamide-maroon",
+      brandId: "ds",
+      name: "Napthamide Maroon",
+      pigmentCodes: [
+        "PR171"
+      ],
+      hue: "\u2013",
+      hex: "#664240",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Naphthamide-Maroon.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lunar-red-rock",
+      brandId: "ds",
+      name: "Lunar Red Rock",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#7B5B56",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lunar-Red-Rock.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-german-greenish-raw-umber",
+      brandId: "ds",
+      name: "German Greenish Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#988D72",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-German-Greenish-Raw-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-grey-titanium",
+      brandId: "ds",
+      name: "Grey Titanium",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#A8A288",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Grey-Titanium.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-permanent-brown",
+      brandId: "ds",
+      name: "Permanent Brown",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hue: "\u2013",
+      hex: "#6F493B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Permanent-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-raw-umber-violet",
+      brandId: "ds",
+      name: "Raw Umber VIolet",
+      pigmentCodes: [
+        "PBr7",
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#795550",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Raw-Umber-VIolet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-transparent-brown-oxide",
+      brandId: "ds",
+      name: "Transparent Brown Oxide",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#6A4B3B",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Transparent-Brown-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-transparent-red-oxide",
+      brandId: "ds",
+      name: "Transparent Red Oxide",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#885742",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Transparent-Red-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-fired-gold-ochre",
+      brandId: "ds",
+      name: "Fired Gold Ochre",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E09E84",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Fired-Gold-OChre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burnt-sienna-light",
+      brandId: "ds",
+      name: "Burnt Sienna Light",
+      pigmentCodes: [
+        "PR101",
+        "PO48"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-enviro-friendly-red-iron-oxide",
+      brandId: "ds",
+      name: "Enviro-Friendly Red Iron Oxide",
+      pigmentCodes: [
+        "PBr6"
+      ],
+      hue: "\u2013",
+      hex: "#7D5041",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Red-Iron-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burnt-sienna",
+      brandId: "ds",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#B87D4F",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-BUrnt-Sienna.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-english-red-ochre",
+      brandId: "ds",
+      name: "English Red Ochre",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#A95A43",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-English-Red-Ochre.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-burnt-umber",
+      brandId: "ds",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#82603B",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Burnt-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-enviro-friendly-brown-iron-oxide",
+      brandId: "ds",
+      name: "Enviro-Friendly Brown Iron Oxide",
+      pigmentCodes: [
+        "PBr6"
+      ],
+      hue: "\u2013",
+      hex: "#624C3E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Brown-Iron-Oxide.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-raw-umber",
+      brandId: "ds",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#7D6941",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Raw-Umber.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-sepia",
+      brandId: "ds",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBr7",
+        "PBk9"
+      ],
+      hue: "Hue",
+      hex: "#7D6640",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Sepia.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-van-dyck-brown",
+      brandId: "ds",
+      name: "Van Dyck Brown",
+      pigmentCodes: [
+        "Blend",
+        "of",
+        "PBr7"
+      ],
+      hue: "Hue",
+      hex: "#5B554A",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Van-Dycke-Brown.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lunar-violet",
+      brandId: "ds",
+      name: "Lunar Violet",
+      pigmentCodes: [
+        "PV15",
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#727178",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lunar-Violet.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-neutral-tint",
+      brandId: "ds",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBk6",
+        "PV19",
+        "PB15"
+      ],
+      hue: "\u2013",
+      hex: "#5B5251",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Neutral-Tint.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-graphite-grey",
+      brandId: "ds",
+      name: "Graphite Grey",
+      pigmentCodes: [
+        "PBk10"
+      ],
+      hue: "\u2013",
+      hex: "#646561",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Graphite-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-joseph-zs-neutral-grey",
+      brandId: "ds",
+      name: "Joseph Z\u2019s Neutral Grey",
+      pigmentCodes: [
+        "PB29",
+        "PBk9",
+        "PBk10"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-joseph-zs-cool-grey",
+      brandId: "ds",
+      name: "Joseph Z\u2019s Cool Grey",
+      pigmentCodes: [
+        "PB36",
+        "PV19",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-joseph-zs-warm-grey",
+      brandId: "ds",
+      name: "Joseph Z\u2019s Warm Grey",
+      pigmentCodes: [
+        "PY43",
+        "PV19",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-janes-grey",
+      brandId: "ds",
+      name: "Jane\u2019s Grey",
+      pigmentCodes: [
+        "PB29",
+        "PBr7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-alvaros-fresco-grey",
+      brandId: "ds",
+      name: "Alvaro\u2019s Fresco Grey",
+      pigmentCodes: [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-alvaros-caliente-grey",
+      brandId: "ds",
+      name: "Alvaro\u2019s Caliente Grey",
+      pigmentCodes: [
+        "PBr7",
+        "PB29",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#5C5D4E",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Alvaro-Caliente-Grey.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-paynes-blue-grey",
+      brandId: "ds",
+      name: "Payne\u2019s Blue Grey",
+      pigmentCodes: [
+        "PB60",
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-paynes-grey",
+      brandId: "ds",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PB29",
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lamp-black",
+      brandId: "ds",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hue: "\u2013",
+      hex: "#343834",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lamp-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-ivory-black",
+      brandId: "ds",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2013",
+      hex: "#5A5A55",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Ivory-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-lunar-black",
+      brandId: "ds",
+      name: "Lunar Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2013",
+      hex: "#71695C",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Lunar-Black.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-chinese-white",
+      brandId: "ds",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hue: "\u2013",
+      hex: "#ACADAB",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Chinese-white.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-titanium-white",
+      brandId: "ds",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2013",
+      hex: "#B6B6B0",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: true,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Titanium-White.png",
+      performance: "Professional"
+    },
+    {
+      id: "daniel-smith-quinacridone-gold-v2",
+      brandId: "ds",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PO49"
+      ],
+      hex: "#E1A854",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isDiscontinued: true,
+      series: "2",
+      paintNumber: "N/A",
+      swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
+      performance: "Professional",
+      collection: "Extra Fine"
+    },
+    {
+      id: "della-magna-watercolors-quinacridone-gold-deep",
+      brandId: "della-magna-watercolors",
+      name: "Quinacridone Gold Deep",
+      pigmentCodes: [
+        "PO49"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/quinacridone gold deep.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-manganese-blue",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Manganese Blue",
+      pigmentCodes: [
+        "PB33"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "nan",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine manganese blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-selenite-from-sicily",
+      brandId: "della-magna-watercolors",
+      name: "Selenite from Sicily",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/selenite from sicily.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-azo-green-yellow",
+      brandId: "della-magna-watercolors",
+      name: "Azo Green Yellow",
+      pigmentCodes: [
+        "PG10"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/azo green yellow.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-isoindolone-lemon-yellow",
+      brandId: "della-magna-watercolors",
+      name: "Isoindolone Lemon Yellow",
+      pigmentCodes: [
+        "PY109"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/isoindolone lemon yellow.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-weld-lake-reseda-luteola",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Weld Lake (Reseda Luteola)",
+      pigmentCodes: [
+        "NATURAL (NP)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine weld lake.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-buckthorn-lake-stil-de-grain",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Buckthorn Lake (Stil de Grain)",
+      pigmentCodes: [
+        "NATURAL (NP)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine buckthorn lake.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-indian-yellow-hue",
+      brandId: "della-magna-watercolors",
+      name: "Indian Yellow hue",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/indian yellow hue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-original-quinacridone-gold",
+      brandId: "della-magna-watercolors",
+      name: "Original Quinacridone Gold",
+      pigmentCodes: [
+        "PO49"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/original quinacridone gold.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-isoindoline-deep-orange",
+      brandId: "della-magna-watercolors",
+      name: "Isoindoline Deep Orange",
+      pigmentCodes: [
+        "PO61"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/isoindoline deep orange.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-quinacridone-rust-orange",
+      brandId: "della-magna-watercolors",
+      name: "Quinacridone Rust Orange",
+      pigmentCodes: [
+        "PO48"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/quinacridone rust orange.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-original-quinacridone-orange",
+      brandId: "della-magna-watercolors",
+      name: "Original Quinacridone Orange",
+      pigmentCodes: [
+        "PO48"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/original quinacridone orange.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-anthraquinone-scarlet",
+      brandId: "della-magna-watercolors",
+      name: "Anthraquinone Scarlet",
+      pigmentCodes: [
+        "PR168"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/anthraquinone scarlet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-dragon-s-blood-sumatra",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Dragon's Blood Sumatra",
+      pigmentCodes: [
+        "NATURAL (NP)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine dragon's blood.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-quinacridone-russet",
+      brandId: "della-magna-watercolors",
+      name: "Quinacridone Russet",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/quinacridone russet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-medici-red",
+      brandId: "della-magna-watercolors",
+      name: "Medici Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/medici red.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-red-madder",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Red Madder",
+      pigmentCodes: [
+        "NR9"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine red madder.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-cochineal-carmine",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Cochineal Carmine",
+      pigmentCodes: [
+        "NR4"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine cochineal carmine.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-potter-s-pink",
+      brandId: "della-magna-watercolors",
+      name: "Potter's Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/potter's pink.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-ultramarine-pink",
+      brandId: "della-magna-watercolors",
+      name: "Ultramarine Pink",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/ultramarine pink.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-quinacridone-purple",
+      brandId: "della-magna-watercolors",
+      name: "Quinacridone Purple",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/quinacridone purple.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-manganese-violet",
+      brandId: "della-magna-watercolors",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/manganese violet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-quinacridone-violet",
+      brandId: "della-magna-watercolors",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/quinacridone violet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-ultramarine-violet",
+      brandId: "della-magna-watercolors",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/ultramarine violet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-dioxazine-violet",
+      brandId: "della-magna-watercolors",
+      name: "Dioxazine Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/dioxazine violet.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-logwood",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Logwood",
+      pigmentCodes: [
+        "NATURAL (NP)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine logwood.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-benzimidazo-blue",
+      brandId: "della-magna-watercolors",
+      name: "Benzimidazo Blue",
+      pigmentCodes: [
+        "PB80"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/benzimidazo blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-vivianite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Vivianite",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine vivianite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-indian-indigo",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Indian Indigo",
+      pigmentCodes: [
+        "NB1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine indian indigo.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-han-dynasty-blue",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Han Dynasty Blue",
+      pigmentCodes: [
+        "PB31"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine han dynasty blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-lapis-lazuli-ash",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Lapis Lazuli Ash",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine lapis lazuli ash.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-lapis-lazuli-afghanistan",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Lapis Lazuli Afghanistan",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine lapis lazuli afghanistan.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-fra-angelico-blue",
+      brandId: "della-magna-watercolors",
+      name: "Fra' Angelico Blue",
+      pigmentCodes: [
+        "PB29 LAPIS"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/fra angelico blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-french-ultramarine",
+      brandId: "della-magna-watercolors",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/french ultramarine.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-cobalt-blue",
+      brandId: "della-magna-watercolors",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/cobalt blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-persicaria-indigo",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Persicaria Indigo",
+      pigmentCodes: [
+        "NB1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine persicaria indigo.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-italian-woad-indigo",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Italian Woad Indigo",
+      pigmentCodes: [
+        "NB1"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine italian woad indigo.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-prussian-blue",
+      brandId: "della-magna-watercolors",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/prussian blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-azzurro-della-magna",
+      brandId: "della-magna-watercolors",
+      name: "Azzurro Della Magna",
+      pigmentCodes: [
+        "PB30"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/azzurro della magna.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-egyptian-blue",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Egyptian Blue",
+      pigmentCodes: [
+        "PB31"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine egyptian blue.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-cobalt-cerulean",
+      brandId: "della-magna-watercolors",
+      name: "Cobalt Cerulean",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/cobalt cerulean.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-cobalt-turquoise",
+      brandId: "della-magna-watercolors",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/cobalt turquoise.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-malachite-from-congo",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Malachite from Congo",
+      pigmentCodes: [
+        "PG39"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine malachite from congo.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-sap-green",
+      brandId: "della-magna-watercolors",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/sap green.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-cobalt-green-deep",
+      brandId: "della-magna-watercolors",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG26"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/cobalt green deep.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-lacustrine-vivianite-genuine",
+      brandId: "della-magna-watercolors",
+      name: "Lacustrine Vivianite, Genuine",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/lacustrine vivianite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-tiger-s-eye",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Tiger's Eye",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine tigers eye.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-limonite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Limonite",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine limonite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-amiata-natural-raw-sienna",
+      brandId: "della-magna-watercolors",
+      name: "Amiata Natural Raw Sienna",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/amiata natural raw sienna.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-bohemian-golden-ochre",
+      brandId: "della-magna-watercolors",
+      name: "Bohemian Golden Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/bohemian golden ochre.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-goethite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Goethite",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine goethite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-ozokerite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Ozokerite",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL WAX)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine ozokerite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-orange-ochre-from-sardinia",
+      brandId: "della-magna-watercolors",
+      name: "Orange Ochre from Sardinia",
+      pigmentCodes: [
+        "PY43",
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/orange ochre from sardinia.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-armenian-bole",
+      brandId: "della-magna-watercolors",
+      name: "Armenian Bole",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/armenian bole.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-amiata-burnt-sienna",
+      brandId: "della-magna-watercolors",
+      name: "Amiata Burnt Sienna",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/amiata burnt sienna.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-cold-russian-hematite",
+      brandId: "della-magna-watercolors",
+      name: "Cold Russian Hematite",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/cold russian hematite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-sinopia",
+      brandId: "della-magna-watercolors",
+      name: "Sinopia",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/sinopia.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-red-jasper",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Red Jasper",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine red jasper.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-native-american-catlinite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Native American Catlinite",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine native american catlinite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-natural-hematite",
+      brandId: "della-magna-watercolors",
+      name: "Natural Hematite",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/natural hematite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-mahogany-brown",
+      brandId: "della-magna-watercolors",
+      name: "Mahogany Brown",
+      pigmentCodes: [
+        "PBR25"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/mahogany brown.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-red-lava-armenia",
+      brandId: "della-magna-watercolors",
+      name: "Red Lava Armenia",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/red lava armenia.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-natural-armenian-porphyry",
+      brandId: "della-magna-watercolors",
+      name: "Natural Armenian Porphyry",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/natural armenian porphyry.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-caput-mortuum",
+      brandId: "della-magna-watercolors",
+      name: "Caput Mortuum",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/caput mortuum.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-natural-light-violet-grey-augite-phorphiry",
+      brandId: "della-magna-watercolors",
+      name: "Natural Light Violet Grey Augite Phorphiry",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/natural light violet grey augite phorphiry.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-natural-raw-umber",
+      brandId: "della-magna-watercolors",
+      name: "Natural Raw Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/natural raw umber.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-burnt-umber-cyprus",
+      brandId: "della-magna-watercolors",
+      name: "Burnt Umber Cyprus",
+      pigmentCodes: [
+        "PBR8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/burnt umber cyprus.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-cassel-earth",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Cassel Earth",
+      pigmentCodes: [
+        "NBR8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine cassel earth.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-vine-black",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Vine Black",
+      pigmentCodes: [
+        "PBK8"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine vine black.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-magnetite",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Magnetite",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine magnetite.avif",
+      performance: "Professional"
+    },
+    {
+      id: "della-magna-watercolors-genuine-black-tourmaline",
+      brandId: "della-magna-watercolors",
+      name: "Genuine Black Tourmaline",
+      pigmentCodes: [
+        "N",
+        "A (MINERAL)"
+      ],
+      hue: "\u2013",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "Medium",
+      lightfastness: "8/8",
+      isVegan: false,
+      paintNumber: "N/A",
+      swatchImage: "/uploads/della-magna-watercolors/genuine black tourmaline.avif",
+      performance: "Professional"
+    },
+    {
+      id: "jacksons-chinese-white",
+      brandId: "jacksons",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-chinese-white.png",
+      hue: "\u2013",
+      series: 1,
+      paintNumber: "471",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-lemon-yellow",
+      brandId: "jacksons",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-Lemon-Yellow.png",
+      hue: "\u2013",
+      series: 1,
+      paintNumber: "103",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-aureolin",
+      brandId: "jacksons",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY40"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "107",
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-Aureolin.png",
+      hue: "\u2013",
+      series: 4,
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cadmium-yellow-light",
+      brandId: "jacksons",
+      name: "Cadmium Yellow Light",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "111",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cadmium-yellow-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-jackson-s-yellow-light",
+      brandId: "jacksons",
+      name: "Jackson\u2019s Yellow Light",
+      pigmentCodes: [
+        "PY154"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "118",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-yellow-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-indian-yellow-hue",
+      brandId: "jacksons",
+      name: "Indian Yellow Hue",
+      pigmentCodes: [
+        "PY153",
+        "PY154",
+        "PY93"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "121",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-indian-yellow-hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-naples-yellow-hue",
+      brandId: "jacksons",
+      name: "Naples Yellow Hue",
+      pigmentCodes: [
+        "PY3",
+        "PW6",
+        "PW4"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "129",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-naples-yellow-hue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cadmium-yellow-deep",
+      brandId: "jacksons",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "135",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cadmium-yellow-deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cadmium-yellow-orange",
+      brandId: "jacksons",
+      name: "Cadmium Yellow Orange",
+      pigmentCodes: [
+        "PY35",
+        "PO20"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "141",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cadmium-yellow-orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-french-vermilion",
+      brandId: "jacksons",
+      name: "French Vermilion",
+      pigmentCodes: [
+        "PR242"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "156",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-french-vermilion.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cadmium-red-light",
+      brandId: "jacksons",
+      name: "Cadmium Red Light",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "160",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cadmium-red-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-bright-red",
+      brandId: "jacksons",
+      name: "Bright Red",
+      pigmentCodes: [
+        "PR254",
+        "PO43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "166",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-bright-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-jackson-s-red-pyrrole",
+      brandId: "jacksons",
+      name: "Jackson\u2019s Red (Pyrrole)",
+      pigmentCodes: [
+        "PR254"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "182",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-jacksons-red-pyrrole.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-carmine",
+      brandId: "jacksons",
+      name: "Carmine",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "187",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-carmine.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-opera-rose",
+      brandId: "jacksons",
+      name: "Opera Rose",
+      pigmentCodes: [
+        "FLOU. PR81:1"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "472",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-Opera-Rose.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-alizarin-crimson",
+      brandId: "jacksons",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR179",
+        "PR209",
+        "PY83"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: false,
+      paintNumber: "194",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-Alizarin-Crimson.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-permanent-alizarin-crimson-deep",
+      brandId: "jacksons",
+      name: "Permanent Alizarin Crimson Deep",
+      pigmentCodes: [
+        "PR206"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "473",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-permanent-alizarin-crimson-deep.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-quinacridone-purple",
+      brandId: "jacksons",
+      name: "Quinacridone Purple",
+      pigmentCodes: [
+        "PR122"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "1/3",
+      isVegan: false,
+      paintNumber: "199",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-quinacridone-purple.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-permanent-magenta",
+      brandId: "jacksons",
+      name: "Permanent Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "204",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-permanent-magenta.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cobalt-violet-deep-hue",
+      brandId: "jacksons",
+      name: "Cobalt Violet Deep Hue",
+      pigmentCodes: [
+        "PR122",
+        "PV16"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "218",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cobalt-violet-deep-hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cobalt-blue",
+      brandId: "jacksons",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "245",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cobalt-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-ultramarine-light",
+      brandId: "jacksons",
+      name: "Ultramarine Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "249",
+      series: 2,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-ultramarine-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-ultramarine-deep",
+      brandId: "jacksons",
+      name: "Ultramarine Deep",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "N/A",
+      series: null,
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-prussian-blue",
+      brandId: "jacksons",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "261",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-prussian-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-cerulean-blue",
+      brandId: "jacksons",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB35"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "264",
+      series: 4,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-cerulean-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-phthalocyanine-blue",
+      brandId: "jacksons",
+      name: "Phthalocyanine Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "269",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-phthalocyanine-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-indigo",
+      brandId: "jacksons",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "273",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-indigo.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-phthalocyanine-green-deep",
+      brandId: "jacksons",
+      name: "Phthalocyanine Green Deep",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "277",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-phthlocyanine-green-deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-viridian",
+      brandId: "jacksons",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "280",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-viridian.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-hookers-green",
+      brandId: "jacksons",
+      name: "Hookers Green",
+      pigmentCodes: [
+        "PY83",
+        "PG36"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "282",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-hookers-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-permanent-sap-green",
+      brandId: "jacksons",
+      name: "Permanent Sap Green",
+      pigmentCodes: [
+        "PB29",
+        "PY153"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "2/3",
+      isVegan: false,
+      paintNumber: "293",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-permanent-sap-green.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-yellow-ochre",
+      brandId: "jacksons",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "315",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-yellow-ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-raw-sienna",
+      brandId: "jacksons",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "348",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-raw-sienna.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-raw-umber",
+      brandId: "jacksons",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "356",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-raw-umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-quinacridone-gold",
+      brandId: "jacksons",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PR101",
+        "PR206",
+        "PY150"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "474",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-quinacridone-gold.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-quinacridone-gold-v2",
+      brandId: "jacksons",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PY119",
+        "PY24",
+        "PY83"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "474",
+      series: 3,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-quinacridone-gold.png",
+      hue: "\u2013",
+      isDiscontinued: true
+    },
+    {
+      id: "jacksons-burnt-sienna",
+      brandId: "jacksons",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "362",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-burnt-sienna.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-venetian-red",
+      brandId: "jacksons",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR101",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "382",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-ventian-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-burnt-umber",
+      brandId: "jacksons",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "394",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-burnt-umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-van-dyck-brown",
+      brandId: "jacksons",
+      name: "Van Dyck Brown",
+      pigmentCodes: [
+        "PBK7",
+        "PR101"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "402",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-van-dyke-brown.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-warm-sepia",
+      brandId: "jacksons",
+      name: "Warm Sepia",
+      pigmentCodes: [
+        "PBR7",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "417",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-warm-sepia.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-payne-s-grey",
+      brandId: "jacksons",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PV19",
+        "PB15:1",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "424",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-paynes-grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-neutral-tint",
+      brandId: "jacksons",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBK7",
+        "PB60",
+        "PR209"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "N/A",
+      isVegan: false,
+      paintNumber: "433",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-neutral-tint.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "jacksons-ivory-black",
+      brandId: "jacksons",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBK9"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: "Low",
+      lightfastness: "3/3",
+      isVegan: false,
+      paintNumber: "455",
+      series: 1,
+      performance: "Professional",
+      swatchImage: "/uploads/jacksons/JA-Ivory-Black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-titanium-white",
+      brandId: "schmincke",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Titanium-Opaque-White.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-chinese-white",
+      brandId: "schmincke",
+      name: "Permanent Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      pigmentMix: "Single",
+      hex: "#FFFFFF",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Chinese-White.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-titanium-yellow",
+      brandId: "schmincke",
+      name: "Titanium Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      pigmentMix: "Single",
+      hex: "#ECE67A",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Titanium-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-lemon-yellow",
+      brandId: "schmincke",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      pigmentMix: "Single",
+      hex: "#EBE577",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Lemon-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-yellow-lemon",
+      brandId: "schmincke",
+      name: "Cadmium Yellow Lemon",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#E3E27E",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Lemon.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-yellow-hue-lemon",
+      brandId: "schmincke",
+      name: "Chromium Yellow Hue Lemon",
+      pigmentCodes: [
+        "PY175"
+      ],
+      pigmentMix: "Single",
+      hex: "#E3DF5F",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Lemon.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-vanadium-yellow",
+      brandId: "schmincke",
+      name: "Vanadium Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      pigmentMix: "Single",
+      hex: "#E9E262",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Vanadium-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-yellow-light",
+      brandId: "schmincke",
+      name: "Cadmium Yellow Light",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#F7E86A",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-pure-yellow",
+      brandId: "schmincke",
+      name: "Pure Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      pigmentMix: "Single",
+      hex: "#E9DF89",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Pure-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-aureolin-hue",
+      brandId: "schmincke",
+      name: "Aureolin Hue",
+      pigmentCodes: [
+        "PY151"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-yellow-medium",
+      brandId: "schmincke",
+      name: "Cadmium Yellow Medium",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#EDD55D",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Medium.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-yellow-hue-light",
+      brandId: "schmincke",
+      name: "Chromium Yellow Hue Light",
+      pigmentCodes: [
+        "PY153",
+        "PY155"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EBD45E",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Light.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-yellow",
+      brandId: "schmincke",
+      name: "Transparent Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      pigmentMix: "Single",
+      hex: "#E3D75F",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-turner-s-yellow",
+      brandId: "schmincke",
+      name: "Turner\u2019s Yellow",
+      pigmentCodes: [
+        "PY216"
+      ],
+      pigmentMix: "Single",
+      hex: "#F4C74B",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-quinacridone-gold-hue",
+      brandId: "schmincke",
+      name: "Quinacridone Gold Hue",
+      pigmentCodes: [
+        "PY150",
+        "PR101"
+      ],
+      pigmentMix: "Multi",
+      hex: "#DB9C45",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Quinacridone-Gold-Hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-yellow-hue-deep",
+      brandId: "schmincke",
+      name: "Chromium Yellow Hue Deep",
+      pigmentCodes: [
+        "PY65"
+      ],
+      pigmentMix: "Single",
+      hex: "#F5D369",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Deep.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-yellow-deep",
+      brandId: "schmincke",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35",
+        "PO20"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EFCC5A",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-indian-yellow",
+      brandId: "schmincke",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY110",
+        "PY154"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EFB847",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Indian-Yellow.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-yellow-orange",
+      brandId: "schmincke",
+      name: "Yellow Orange",
+      pigmentCodes: [
+        "PY110"
+      ],
+      pigmentMix: "Single",
+      hex: "#E99E39",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Yellow-Orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-orange-light",
+      brandId: "schmincke",
+      name: "Cadmium Orange Light",
+      pigmentCodes: [
+        "PO20"
+      ],
+      pigmentMix: "Single",
+      hex: "#E89F42",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Orange-Light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-orange-hue",
+      brandId: "schmincke",
+      name: "Chromium Orange Hue",
+      pigmentCodes: [
+        "PO62"
+      ],
+      pigmentMix: "Single",
+      hex: "#E48C47",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Orange-Hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-orange-deep",
+      brandId: "schmincke",
+      name: "Cadmium Orange Deep",
+      pigmentCodes: [
+        "PO20"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6985D",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Orange-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-orange",
+      brandId: "schmincke",
+      name: "Transparent Orange",
+      pigmentCodes: [
+        "PO71"
+      ],
+      pigmentMix: "Single",
+      hex: "#DE7542",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-saturn-red",
+      brandId: "schmincke",
+      name: "Saturn Red",
+      pigmentCodes: [
+        "PO64"
+      ],
+      pigmentMix: "Single",
+      hex: "#CE462F",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Saturn-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-red-orange",
+      brandId: "schmincke",
+      name: "Cadmium Red Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      pigmentMix: "Single",
+      hex: "#DD6F44",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-red-orange",
+      brandId: "schmincke",
+      name: "Permanent Red Orange",
+      pigmentCodes: [
+        "PO62",
+        "PR242"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E18365",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Red-Orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-red",
+      brandId: "schmincke",
+      name: "Permanent Red",
+      pigmentCodes: [
+        "PR242",
+        "PO62"
+      ],
+      pigmentMix: "Multi",
+      hex: "#DF7A66",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-red-light",
+      brandId: "schmincke",
+      name: "Cadmium Red Light",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#DD7262",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-geranium-red",
+      brandId: "schmincke",
+      name: "Geranium Red",
+      pigmentCodes: [
+        "PR242"
+      ],
+      pigmentMix: "Single",
+      hex: "#DB6657",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Geranium-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-vermilion",
+      brandId: "schmincke",
+      name: "Vermilion",
+      pigmentCodes: [
+        "PR255"
+      ],
+      pigmentMix: "Single",
+      hex: "#D64E3C",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Vermilion.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-vermilion-light",
+      brandId: "schmincke",
+      name: "Vermilion Light",
+      pigmentCodes: [
+        "PR188"
+      ],
+      pigmentMix: "Single",
+      hex: "#D95F49",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Vermilion-Light.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-scarlet-red",
+      brandId: "schmincke",
+      name: "Scarlet Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      pigmentMix: "Single",
+      hex: "#D75557",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Scarlet-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-red-medium",
+      brandId: "schmincke",
+      name: "Cadmium Red Medium",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#D66E65",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Medium.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-quinacridone-red-light",
+      brandId: "schmincke",
+      name: "Quinacridone Red Light",
+      pigmentCodes: [
+        "PR207"
+      ],
+      pigmentMix: "Single",
+      hex: "#D25B58",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Quinacridone-Red-Light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-red-deep",
+      brandId: "schmincke",
+      name: "Transparent Red Deep",
+      pigmentCodes: [
+        "PR144"
+      ],
+      pigmentMix: "Single",
+      hex: "#B43D34",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Red-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cadmium-red-deep",
+      brandId: "schmincke",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#B75454",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-perylene-maroon",
+      brandId: "schmincke",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      pigmentMix: "Single",
+      hex: "#BE5864",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Perylene-Maroon.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-perylene-dark-red",
+      brandId: "schmincke",
+      name: "Perylene Dark Red",
+      pigmentCodes: [
+        "PR178"
+      ],
+      pigmentMix: "Single",
+      hex: "#CF555F",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Perylene-Dark-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-alizarin-crimson",
+      brandId: "schmincke",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR83:1"
+      ],
+      pigmentMix: "Single",
+      hex: "#D2647A",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "1/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Alizarin-Crimson.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ruby-red-deep",
+      brandId: "schmincke",
+      name: "Ruby Red Deep",
+      pigmentCodes: [
+        "PR264"
+      ],
+      pigmentMix: "Single",
+      hex: "#C74F64",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ruby-Red-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-madder-lake-deep",
+      brandId: "schmincke",
+      name: "Madder Lake Deep",
+      pigmentCodes: [
+        "PR83:1",
+        "PR177"
+      ],
+      pigmentMix: "Multi",
+      hex: "#DA768A",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "2/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Madder-Lake-Deep.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-madder-red-dark",
+      brandId: "schmincke",
+      name: "Madder Red Dark",
+      pigmentCodes: [
+        "PV19",
+        "PR179"
+      ],
+      pigmentMix: "Multi",
+      hex: "#C95A6E",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Madder-Red-Dark.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-bordeaux",
+      brandId: "schmincke",
+      name: "Bordeaux",
+      pigmentCodes: [
+        "PR187"
+      ],
+      pigmentMix: "Single",
+      hex: "#C75765",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Bordeaux.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-rose-madder",
+      brandId: "schmincke",
+      name: "Rose Madder",
+      pigmentCodes: [
+        "PR83:1",
+        "PR48:4"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E28EA2",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "2/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Rose-Madder.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-carmine",
+      brandId: "schmincke",
+      name: "Permanent Carmine",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#D66582",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Carmine.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ruby-red",
+      brandId: "schmincke",
+      name: "Ruby Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#D85D7E",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ruby-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-magenta",
+      brandId: "schmincke",
+      name: "Magenta",
+      pigmentCodes: [
+        "PV42"
+      ],
+      pigmentMix: "Single",
+      hex: "#C75766",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Magenta.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-purple-magenta",
+      brandId: "schmincke",
+      name: "Purple Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      pigmentMix: "Single",
+      hex: "#CD5C94",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Purple-Magenta.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-quinacridone-magenta",
+      brandId: "schmincke",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR202"
+      ],
+      pigmentMix: "Single",
+      hex: "#BD447C",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Quinacridone-Magenta.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-quinacridone-violet",
+      brandId: "schmincke",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#C284B0",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Quinacridone-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-potters-pink",
+      brandId: "schmincke",
+      name: "Potters Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      pigmentMix: "Single",
+      hex: "#B67779",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Potters-Pink.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-perylene-violet",
+      brandId: "schmincke",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      pigmentMix: "Single",
+      hex: "#874F5D",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Perylene-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-quinacridone-purple",
+      brandId: "schmincke",
+      name: "Quinacridone Purple",
+      pigmentCodes: [
+        "PV55"
+      ],
+      pigmentMix: "Single",
+      hex: "#783072",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Quinacridone-Purple.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-manganese-violet",
+      brandId: "schmincke",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      pigmentMix: "Single",
+      hex: "#A770A7",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Manganese-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-schmincke-violet",
+      brandId: "schmincke",
+      name: "Schmincke Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "2/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ultramarine-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-violet-hue",
+      brandId: "schmincke",
+      name: "Cobalt Violet Hue",
+      pigmentCodes: [
+        "PV62"
+      ],
+      pigmentMix: "Single",
+      hex: "#7F68A5",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Violet-Hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ultramarine-violet",
+      brandId: "schmincke",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#4C4792",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ultramarine-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-delft-blue",
+      brandId: "schmincke",
+      name: "Delft Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      pigmentMix: "Single",
+      hex: "#636EAA",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Delft-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-indigo",
+      brandId: "schmincke",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15:1",
+        "PB66"
+      ],
+      pigmentMix: "Multi",
+      hex: "#75839A",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "2/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Indigo.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-dark-blue",
+      brandId: "schmincke",
+      name: "Dark Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      pigmentMix: "Single",
+      hex: "#677DA7",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Dark-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-phthalo-sapphire-blue",
+      brandId: "schmincke",
+      name: "Phthalo Sapphire Blue",
+      pigmentCodes: [
+        "PB15:6"
+      ],
+      pigmentMix: "Single",
+      hex: "#2F68AC",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-PHthalo-Sapphire-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-blue-deep",
+      brandId: "schmincke",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB74"
+      ],
+      pigmentMix: "Single",
+      hex: "#5D70AF",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-french-ultramarine",
+      brandId: "schmincke",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#445EA3",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-French-Ultramarine.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ultramarine-finest",
+      brandId: "schmincke",
+      name: "Ultramarine Finest",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#4863A7",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ultramarine-Finest.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ultramarine-blue",
+      brandId: "schmincke",
+      name: "Ultramarine Blue",
+      pigmentCodes: [
+        "PB15",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#456AAD",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ultramarine-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-blue-light",
+      brandId: "schmincke",
+      name: "Cobalt Blue Light",
+      pigmentCodes: [
+        "PB28"
+      ],
+      pigmentMix: "Single",
+      hex: "#528DC1",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-blue-hue",
+      brandId: "schmincke",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PW4",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#487DBA",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-mountain-blue",
+      brandId: "schmincke",
+      name: "Mountain Blue",
+      pigmentCodes: [
+        "PW5",
+        "PB29",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#5589C4",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Mountain-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-azure",
+      brandId: "schmincke",
+      name: "Cobalt Azure",
+      pigmentCodes: [
+        "PB35"
+      ],
+      pigmentMix: "Single",
+      hex: "#4493CB",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Azure.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-prussian-blue",
+      brandId: "schmincke",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      pigmentMix: "Single",
+      hex: "#4183BC",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Prussian-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-paris-blue",
+      brandId: "schmincke",
+      name: "Paris Blue",
+      pigmentCodes: [
+        "PB15",
+        "PB15:1",
+        "PB27"
+      ],
+      pigmentMix: "Multi",
+      hex: "#4B87BE",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Paris-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-phthalo-blue",
+      brandId: "schmincke",
+      name: "Phthalo Blue",
+      pigmentCodes: [
+        "PB15:1"
+      ],
+      pigmentMix: "Single",
+      hex: "#327AB7",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Phthalo-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cerulean-blue-hue",
+      brandId: "schmincke",
+      name: "Cerulean Blue Hue",
+      pigmentCodes: [
+        "PW4",
+        "PB15:3"
+      ],
+      pigmentMix: "Multi",
+      hex: "#3279B5",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cerulean-Blue-Hue.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-helio-cerulean",
+      brandId: "schmincke",
+      name: "Helio Cerulean",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      pigmentMix: "Single",
+      hex: "#2F74B8",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Helio-Cerulean.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-cerulean",
+      brandId: "schmincke",
+      name: "Cobalt Cerulean",
+      pigmentCodes: [
+        "PB36"
+      ],
+      pigmentMix: "Single",
+      hex: "#408BB2",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Cerulean.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-helio-turquoise",
+      brandId: "schmincke",
+      name: "Helio Turquoise",
+      pigmentCodes: [
+        "PB16"
+      ],
+      pigmentMix: "Single",
+      hex: "#327793",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Helio-Turquoise.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-turquoise",
+      brandId: "schmincke",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PG50"
+      ],
+      pigmentMix: "Single",
+      hex: "#4BA8B7",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Turquoise.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-green-turquoise",
+      brandId: "schmincke",
+      name: "Cobalt Green Turquoise",
+      pigmentCodes: [
+        "PB36"
+      ],
+      pigmentMix: "Single",
+      hex: "#34797E",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Turquoise.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-prussian-green",
+      brandId: "schmincke",
+      name: "Prussian Green",
+      pigmentCodes: [
+        "PG7",
+        "PB60"
+      ],
+      pigmentMix: "Multi",
+      hex: "#42818F",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Prussian-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-viridian",
+      brandId: "schmincke",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      pigmentMix: "Single",
+      hex: "#4A9E86",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Viridian.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-oxide-green-brilliant",
+      brandId: "schmincke",
+      name: "Chromium Oxide Green Brilliant",
+      pigmentCodes: [
+        "PG18",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#459B7D",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Oxide-Green-Brilliant.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-phthalo-green",
+      brandId: "schmincke",
+      name: "Phthalo Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      pigmentMix: "Single",
+      hex: "#449577",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Phthalo-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-helio-green",
+      brandId: "schmincke",
+      name: "Helio Green",
+      pigmentCodes: [
+        "PG36"
+      ],
+      pigmentMix: "Single",
+      hex: "#3C874E",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Helio-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-green-olive",
+      brandId: "schmincke",
+      name: "Permanent Green Olive",
+      pigmentCodes: [
+        "PO62",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#5D8C5C",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Green-Olive.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-sap-green",
+      brandId: "schmincke",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY153",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#659C46",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Sap-Green.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-permanent-green",
+      brandId: "schmincke",
+      name: "Permanent Green",
+      pigmentCodes: [
+        "PY155",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#70AE55",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Permanent-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-may-green",
+      brandId: "schmincke",
+      name: "May Green",
+      pigmentCodes: [
+        "PY151",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#80B246",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-May-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-green-pure",
+      brandId: "schmincke",
+      name: "Cobalt Green Pure",
+      pigmentCodes: [
+        "PG19"
+      ],
+      pigmentMix: "Single",
+      hex: "#69A571",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Pure.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-cobalt-green-dark",
+      brandId: "schmincke",
+      name: "Cobalt Green Dark",
+      pigmentCodes: [
+        "PG26"
+      ],
+      pigmentMix: "Single",
+      hex: "#57866F",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Dark.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-hooker-s-green",
+      brandId: "schmincke",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7",
+        "PY42"
+      ],
+      pigmentMix: "Multi",
+      hex: "#517353",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Hookers-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-olive-green",
+      brandId: "schmincke",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PB15",
+        "PG8"
+      ],
+      pigmentMix: "Multi",
+      hex: "#577F5C",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "2/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Olive-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-chromium-oxide-green",
+      brandId: "schmincke",
+      name: "Chromium Oxide Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      pigmentMix: "Single",
+      hex: "#6F8B55",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Chromium-Oxide-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-olive-green-yellowish",
+      brandId: "schmincke",
+      name: "Olive Green Yellowish",
+      pigmentCodes: [
+        "PO62",
+        "PG36"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7F823F",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Olive-Green-Yellowish.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-green-earth",
+      brandId: "schmincke",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PBR7",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#AAB483",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Green-Earth.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-green-gold",
+      brandId: "schmincke",
+      name: "Transparent Green Gold",
+      pigmentCodes: [
+        "PY154",
+        "PBR7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#BB9B43",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Green-Gold.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-rutile-yellow",
+      brandId: "schmincke",
+      name: "Rutile Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      pigmentMix: "Single",
+      hex: "#EDD87E",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Rutile-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-jaune-brilliant-dark",
+      brandId: "schmincke",
+      name: "Jaune Brilliant Dark",
+      pigmentCodes: [
+        "PW6",
+        "PY53",
+        "PBR24"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EDD882",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Jaune-Brilliant-Dark.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-naples-yellow",
+      brandId: "schmincke",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PW6",
+        "PY53",
+        "PBR24"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EFCD72",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Naples-Yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-raw-sienna",
+      brandId: "schmincke",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBR7",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EBC06D",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Raw-Sienna.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-yellow-raw-ochre",
+      brandId: "schmincke",
+      name: "Yellow Raw Ochre",
+      pigmentCodes: [
+        "PY42",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#ECC981",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Yellow-Raw-Ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-titanium-gold-ochre",
+      brandId: "schmincke",
+      name: "Titanium Gold Ochre",
+      pigmentCodes: [
+        "PBR24"
+      ],
+      pigmentMix: "Single",
+      hex: "#D1993E",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Titanium-Gold-OChre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-yellow-ochre",
+      brandId: "schmincke",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      pigmentMix: "Single",
+      hex: "#C39247",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Yellow-Ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-ochre",
+      brandId: "schmincke",
+      name: "Transparent Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      pigmentMix: "Single",
+      hex: "#ECC361",
+      transparency: "Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-raw-umber",
+      brandId: "schmincke",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBR7",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#CDAC62",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Raw-Umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-naples-yellow-reddish",
+      brandId: "schmincke",
+      name: "Naples Yellow Reddish",
+      pigmentCodes: [
+        "PW6",
+        "PW4",
+        "PR242",
+        "PY42"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E0AE76",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Naples-Yellow-Reddish.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-spinel-brown",
+      brandId: "schmincke",
+      name: "Spinel Brown",
+      pigmentCodes: [
+        "PY119"
+      ],
+      pigmentMix: "Single",
+      hex: "#B26834",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Spinel-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-gold-brown",
+      brandId: "schmincke",
+      name: "Gold Brown",
+      pigmentCodes: [
+        "PY65",
+        "PBR41"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Sepia-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-sienna",
+      brandId: "schmincke",
+      name: "Transparent Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      pigmentMix: "Single",
+      hex: "#C3744D",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Sienna.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-maroon-brown",
+      brandId: "schmincke",
+      name: "Maroon Brown",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#AF6C52",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Maroon-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-burnt-sienna",
+      brandId: "schmincke",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101",
+        "PBK9"
+      ],
+      pigmentMix: "Multi",
+      hex: "#D18C68",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Burnt-Sienna.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-english-venetian-red",
+      brandId: "schmincke",
+      name: "English Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      pigmentMix: "Single",
+      hex: "#B15A42",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-English-Venetian-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-madder-brown",
+      brandId: "schmincke",
+      name: "Madder Brown",
+      pigmentCodes: [
+        "PR206"
+      ],
+      pigmentMix: "Single",
+      hex: "#A74536",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Madder-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-brown",
+      brandId: "schmincke",
+      name: "Transparent Brown",
+      pigmentCodes: [
+        "PBR41"
+      ],
+      pigmentMix: "Single",
+      hex: "#AD6A4E",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-mahogany-brown",
+      brandId: "schmincke",
+      name: "Mahogany Brown",
+      pigmentCodes: [
+        "PBR33"
+      ],
+      pigmentMix: "Single",
+      hex: "#99624F",
+      transparency: "Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Mahogany-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-indian-red",
+      brandId: "schmincke",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101",
+        "PR206"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7C4843",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Indian-Red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-mars-brown",
+      brandId: "schmincke",
+      name: "Mars Brown",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#915E45",
+      transparency: "Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Mars-Brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-transparent-umber",
+      brandId: "schmincke",
+      name: "Transparent Umber",
+      pigmentCodes: [
+        "PR101"
+      ],
+      pigmentMix: "Single",
+      hex: "#9E6C50",
+      transparency: "Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Transparent-Umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-burnt-umber",
+      brandId: "schmincke",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#B18D71",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Burnt-Umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-green-umber",
+      brandId: "schmincke",
+      name: "Green Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#99825C",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Green-Umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-van-dyke-brown",
+      brandId: "schmincke",
+      name: "Van Dyke Brown",
+      pigmentCodes: [
+        "PY150",
+        "PBR7",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Vandyke-Brown.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-sepia-brown",
+      brandId: "schmincke",
+      name: "Sepia Brown",
+      pigmentCodes: [
+        "PB15:1",
+        "PBR7",
+        "PBK9"
+      ],
+      pigmentMix: "Multi",
+      hex: "#948777",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Sepia-Brown.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-sepia-brown-reddish",
+      brandId: "schmincke",
+      name: "Sepia Brown Reddish",
+      pigmentCodes: [
+        "PR242",
+        "PBR7",
+        "PBK9"
+      ],
+      pigmentMix: "Multi",
+      hex: "#5F544A",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Sepia-Brown-Reddish.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-neutral-tint",
+      brandId: "schmincke",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PR122",
+        "PB60",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#968B8C",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "3/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Neutral-Tint.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-neutral-grey",
+      brandId: "schmincke",
+      name: "Neutral Grey",
+      pigmentCodes: [
+        "PR255",
+        "PB60",
+        "PO62"
+      ],
+      pigmentMix: "Multi",
+      hex: "#A39F9B",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Neutral-Grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-payne-s-grey-bluish",
+      brandId: "schmincke",
+      name: "Payne\u2019s Grey Bluish",
+      pigmentCodes: [
+        "PBK6",
+        "PB15:6"
+      ],
+      pigmentMix: "Multi",
+      hex: "#788A98",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Paynes-Grey-Bluish.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-perylene-green",
+      brandId: "schmincke",
+      name: "Perylene Green",
+      pigmentCodes: [
+        "PBK31"
+      ],
+      pigmentMix: "Single",
+      hex: "#555F58",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Perylene-Green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-schmincke-s-payne-s-grey",
+      brandId: "schmincke",
+      name: "Schmincke\u2019s Payne\u2019s Grey",
+      pigmentCodes: [
+        "PR101",
+        "PB29",
+        "PBK7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-lamp-black",
+      brandId: "schmincke",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBK6"
+      ],
+      pigmentMix: "Single",
+      hex: "#686968",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Lamp-Black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ivory-black",
+      brandId: "schmincke",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBK9"
+      ],
+      pigmentMix: "Single",
+      hex: "#6F6C65",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Ivory-Black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-hematite-black",
+      brandId: "schmincke",
+      name: "Hematite Black",
+      pigmentCodes: [
+        "PG17"
+      ],
+      pigmentMix: "Single",
+      hex: "#817D73",
+      transparency: "Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Hematite-Black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-anthracite",
+      brandId: "schmincke",
+      name: "Anthracite",
+      pigmentCodes: [
+        "PBK7"
+      ],
+      pigmentMix: "Single",
+      hex: "#A39F9B",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-ANthracite.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-graphite-grey",
+      brandId: "schmincke",
+      name: "Graphite Grey",
+      pigmentCodes: [
+        "PBK10"
+      ],
+      pigmentMix: "Single",
+      hex: "#69665F",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Graphite-Grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-mars-black",
+      brandId: "schmincke",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PBK11"
+      ],
+      pigmentMix: "Single",
+      hex: "#928C83",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Mars-Black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-silver",
+      brandId: "schmincke",
+      name: "Silver",
+      pigmentCodes: [
+        "PEARLESCENT PIGMENT"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6E0D6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Silver.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-gold",
+      brandId: "schmincke",
+      name: "Gold",
+      pigmentCodes: [
+        "PEARLESCENT PIGMENT"
+      ],
+      pigmentMix: "Single",
+      hex: "#EFD086",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Gold.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-brilliant-opera-rose",
+      brandId: "schmincke",
+      name: "Brilliant Opera Rose",
+      pigmentCodes: [
+        "PR122",
+        "FLOURESCENT"
+      ],
+      pigmentMix: "Multi",
+      hex: "#D5437B",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "0/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Brilliant-Opera-rose.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-brilliant-purple",
+      brandId: "schmincke",
+      name: "Brilliant Purple",
+      pigmentCodes: [
+        "PR122",
+        "FLOURESCENT"
+      ],
+      pigmentMix: "Multi",
+      hex: "#BB3A80",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "0/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Brilliant-Purple.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-brilliant-red-violet",
+      brandId: "schmincke",
+      name: "Brilliant Red Violet",
+      pigmentCodes: [
+        "PV55",
+        "FLOURESCENT"
+      ],
+      pigmentMix: "Multi",
+      hex: "#A25D9A",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "0/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Brilliant-Red-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-brilliant-blue-violet",
+      brandId: "schmincke",
+      name: "Brilliant Blue Violet",
+      pigmentCodes: [
+        "PB29",
+        "PV23",
+        "FLOURESCENT"
+      ],
+      pigmentMix: "Multi",
+      hex: "#473083",
+      transparency: "Semi-Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "0/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Brilliant-Blue-Violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-random-grey-2022-limited-edition",
+      brandId: "schmincke",
+      name: "Random Grey 2022 (Limited Edition)",
+      pigmentCodes: [
+        "NO CODES"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/Schmincke-Random-Grey-2022.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ocean-grey-limited-edition",
+      brandId: "schmincke",
+      name: "Ocean Grey (Limited Edition)",
+      pigmentCodes: [
+        "PB29",
+        "PG50",
+        "PBK6"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/Schmincke-Ocean-Grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-lagoon-blue-limited-edition",
+      brandId: "schmincke",
+      name: "Lagoon Blue (Limited Edition)",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/Schmincke-Lagoon-Blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-ice-blue-limited-edition",
+      brandId: "schmincke",
+      name: "Ice Blue (Limited Edition)",
+      pigmentCodes: [
+        "PW6",
+        "PB15:1"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-lapis-lazuli-limited-edition",
+      brandId: "schmincke",
+      name: "Lapis Lazuli (Limited Edition)",
+      pigmentCodes: [
+        "GENUINE LAPIS LAZULI"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-yinmn-blue-limited-edition",
+      brandId: "schmincke",
+      name: "YInMn Blue (Limited Edition)",
+      pigmentCodes: [
+        "YINMN BLUE"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-deep-sea-violet",
+      brandId: "schmincke",
+      name: "Deep Sea Violet",
+      pigmentCodes: [
+        "PB29",
+        "PBR33"
+      ],
+      pigmentMix: "Multi",
+      hex: "#6B77A1",
+      transparency: "Semi-Opaque",
+      staining: "Low",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-deep-sea-violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-deep-sea-indigo",
+      brandId: "schmincke",
+      name: "Deep Sea Indigo",
+      pigmentCodes: [
+        "PV62",
+        "PG18"
+      ],
+      pigmentMix: "Multi",
+      hex: "#748BA1",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/4",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-deep-sea-indigo.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-deep-sea-blue",
+      brandId: "schmincke",
+      name: "Deep Sea Blue",
+      pigmentCodes: [
+        "PG50",
+        "PV16",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7190C3",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-deep-sea-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-deep-sea-green",
+      brandId: "schmincke",
+      name: "Deep Sea Green",
+      pigmentCodes: [
+        "PG18",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#5199A7",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-deep-sea-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-deep-sea-black",
+      brandId: "schmincke",
+      name: "Deep Sea Black",
+      pigmentCodes: [
+        "PBK11",
+        "PB74",
+        "PG35"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7A8597",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-deep-sea-black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-glacier-blue",
+      brandId: "schmincke",
+      name: "Glacier Blue",
+      pigmentCodes: [
+        "PB29",
+        "PG50"
+      ],
+      pigmentMix: "Multi",
+      hex: "#699DCD",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Glacier-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-glacier-turquoise",
+      brandId: "schmincke",
+      name: "Glacier Turquoise",
+      pigmentCodes: [
+        "PG50",
+        "PV16"
+      ],
+      pigmentMix: "Multi",
+      hex: "#8EC1D7",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Glacier-turquoise.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-glacier-green",
+      brandId: "schmincke",
+      name: "Glacier Green",
+      pigmentCodes: [
+        "PR233",
+        "PG50"
+      ],
+      pigmentMix: "Multi",
+      hex: "#A4C1CA",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Glacier-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-glacier-brown",
+      brandId: "schmincke",
+      name: "Glacier Brown",
+      pigmentCodes: [
+        "PBR6",
+        "PG26"
+      ],
+      pigmentMix: "Multi",
+      hex: "#8D775C",
+      transparency: "Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-glacier-brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-glacier-black",
+      brandId: "schmincke",
+      name: "Glacier Black",
+      pigmentCodes: [
+        "PBK11",
+        "PB35"
+      ],
+      pigmentMix: "Multi",
+      hex: "#646E70",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-glacier-black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-galaxy-pink",
+      brandId: "schmincke",
+      name: "Galaxy Pink",
+      pigmentCodes: [
+        "PV16",
+        "PBR33"
+      ],
+      pigmentMix: "Multi",
+      hex: "#A5808E",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-Galaxy-pink.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-galaxy-violet",
+      brandId: "schmincke",
+      name: "Galaxy Violet",
+      pigmentCodes: [
+        "PR233",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#8991C0",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-galaxy-violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-galaxy-blue",
+      brandId: "schmincke",
+      name: "Galaxy Blue",
+      pigmentCodes: [
+        "PG50",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#71B7E0",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-galaxy-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-galaxy-black",
+      brandId: "schmincke",
+      name: "Galaxy Black",
+      pigmentCodes: [
+        "PBK11",
+        "PB29"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7589AD",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-galaxy-black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-galaxy-brown",
+      brandId: "schmincke",
+      name: "Galaxy Brown",
+      pigmentCodes: [
+        "PV62",
+        "PBR6"
+      ],
+      pigmentMix: "Multi",
+      hex: "#A97E75",
+      transparency: "Semi-Opaque",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "4/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-galaxy-brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-tundra-orange",
+      brandId: "schmincke",
+      name: "Tundra Orange",
+      pigmentCodes: [
+        "PR233",
+        "PBR7",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#D8B898",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-tundra-orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-tundra-pink",
+      brandId: "schmincke",
+      name: "Tundra Pink",
+      pigmentCodes: [
+        "PB29",
+        "PR233"
+      ],
+      pigmentMix: "Multi",
+      hex: "#BDA9B7",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-tundra-pink.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-tundra-violet",
+      brandId: "schmincke",
+      name: "Tundra Violet",
+      pigmentCodes: [
+        "PB29",
+        "PBR6"
+      ],
+      pigmentMix: "Multi",
+      hex: "#99949F",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-tundra-violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-tundra-blue",
+      brandId: "schmincke",
+      name: "Tundra Blue",
+      pigmentCodes: [
+        "PB29",
+        "PBR7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#9CA9C2",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-tundra-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-tundra-green",
+      brandId: "schmincke",
+      name: "Tundra Green",
+      pigmentCodes: [
+        "PBR6",
+        "PG19"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7B7855",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-tundra-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-forest-olive",
+      brandId: "schmincke",
+      name: "Forest Olive",
+      pigmentCodes: [
+        "PG18",
+        "PBR7",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#BEBE92",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-forest-olive.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-forest-green",
+      brandId: "schmincke",
+      name: "Forest Green",
+      pigmentCodes: [
+        "PG19",
+        "PBR33"
+      ],
+      pigmentMix: "Multi",
+      hex: "#7C9871",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-forest-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-forest-blue",
+      brandId: "schmincke",
+      name: "Forest Blue",
+      pigmentCodes: [
+        "PB36",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#79928E",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-forest-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-forest-brown",
+      brandId: "schmincke",
+      name: "Forest Brown",
+      pigmentCodes: [
+        "PG26",
+        "PBR7",
+        "PY43"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-forest-grey",
+      brandId: "schmincke",
+      name: "Forest Grey",
+      pigmentCodes: [
+        "PBR7",
+        "PG50",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#918F75",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/schmincke/SC-forest-grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-volcano-yellow",
+      brandId: "schmincke",
+      name: "Volcano Yellow",
+      pigmentCodes: [
+        "PY159"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-volcano-orange",
+      brandId: "schmincke",
+      name: "Volcano Orange",
+      pigmentCodes: [
+        "PY159",
+        "PR108"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-volcano-red",
+      brandId: "schmincke",
+      name: "Volcano Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-volcano-violet",
+      brandId: "schmincke",
+      name: "Volcano Violet",
+      pigmentCodes: [
+        "PV62",
+        "PR108"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-volcano-brown",
+      brandId: "schmincke",
+      name: "Volcano Brown",
+      pigmentCodes: [
+        "PR108",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-desert-yellow",
+      brandId: "schmincke",
+      name: "Desert Yellow",
+      pigmentCodes: [
+        "PY159",
+        "PBR7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-desert-orange",
+      brandId: "schmincke",
+      name: "Desert Orange",
+      pigmentCodes: [
+        "PY159",
+        "PBR33"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-desert-brown",
+      brandId: "schmincke",
+      name: "Desert Brown",
+      pigmentCodes: [
+        "PY159",
+        "PR108",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-desert-green",
+      brandId: "schmincke",
+      name: "Desert Green",
+      pigmentCodes: [
+        "PR108",
+        "PG26"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-desert-grey",
+      brandId: "schmincke",
+      name: "Desert Grey",
+      pigmentCodes: [
+        "PY159",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-shire-yellow",
+      brandId: "schmincke",
+      name: "Shire Yellow",
+      pigmentCodes: [
+        "PY159",
+        "PV62"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-shire-olive",
+      brandId: "schmincke",
+      name: "Shire Olive",
+      pigmentCodes: [
+        "PY159",
+        "PB35"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-shire-green",
+      brandId: "schmincke",
+      name: "Shire Green",
+      pigmentCodes: [
+        "PY159",
+        "PG18"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-shire-blue",
+      brandId: "schmincke",
+      name: "Shire Blue",
+      pigmentCodes: [
+        "PY159",
+        "PB29",
+        "PG26"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Stain",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "schmincke-shire-grey",
+      brandId: "schmincke",
+      name: "Shire Grey",
+      pigmentCodes: [
+        "PY159",
+        "PB74",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Mid",
+      granulation: "Low",
+      lightfastness: "5/5",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-zinc-white",
+      brandId: "blockx",
+      name: "Zinc White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      pigmentMix: "Single",
+      hex: "#ECECD9",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-zinc-white.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-titanium-white",
+      brandId: "blockx",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      pigmentMix: "Single",
+      hex: "#F4F5ED",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-titanium-white.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-nickel-yellow",
+      brandId: "blockx",
+      name: "Nickel Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      pigmentMix: "Single",
+      hex: "#F3E87D",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-nickel-yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-naples-yellow",
+      brandId: "blockx",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PW4",
+        "PY35",
+        "PY42"
+      ],
+      pigmentMix: "Multi",
+      hex: "#F2E05C",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-naples-yellow.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-lemon-yellow",
+      brandId: "blockx",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-lemon-yellow-1.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-blockx-yellow",
+      brandId: "blockx",
+      name: "Blockx Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      pigmentMix: "Single",
+      hex: "#F4E44D",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-blockx-yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-yellow-pale",
+      brandId: "blockx",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#F5E54F",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cadmium-yellow-pale.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-primary-yellow",
+      brandId: "blockx",
+      name: "Primary Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      pigmentMix: "Single",
+      hex: "#F1DE4B",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-primary-yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-golden-green",
+      brandId: "blockx",
+      name: "Golden Green",
+      pigmentCodes: [
+        "PY154",
+        "PG36"
+      ],
+      pigmentMix: "Multi",
+      hex: "#C3C142",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-golden-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-naples-yellow-red",
+      brandId: "blockx",
+      name: "Naples Yellow Red",
+      pigmentCodes: [
+        "PW4",
+        "PY35",
+        "PY42",
+        "PO20"
+      ],
+      pigmentMix: "Multi",
+      hex: "#E7C757",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-naples-yellow-red.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-indian-yellow",
+      brandId: "blockx",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY154",
+        "PO73"
+      ],
+      pigmentMix: "Multi",
+      hex: "#EAC243",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-indian-yellow.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-yellow-medium",
+      brandId: "blockx",
+      name: "Cadmium Yellow Medium",
+      pigmentCodes: [
+        "PY35"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cadmium-yellow-medium-1.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-gamboge",
+      brandId: "blockx",
+      name: "Gamboge",
+      pigmentCodes: [
+        "PY65"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-gamboge-1.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-yellow-orange",
+      brandId: "blockx",
+      name: "Cadmium Yellow Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      pigmentMix: "Single",
+      hex: "#E29837",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cadmium-yellow-orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-permanent-orange",
+      brandId: "blockx",
+      name: "Permanent Orange",
+      pigmentCodes: [
+        "PO62"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-pyrrolo-vermilion",
+      brandId: "blockx",
+      name: "Pyrrolo Vermilion",
+      pigmentCodes: [
+        "PO73"
+      ],
+      pigmentMix: "Single",
+      hex: "#CF5237",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-pyrrolo-vermilion.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-red-orange",
+      brandId: "blockx",
+      name: "Cadmium Red Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      pigmentMix: "Single",
+      hex: "#C8573F",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cadmium-red-orange.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-pyrrolo-red",
+      brandId: "blockx",
+      name: "Pyrrolo Red",
+      pigmentCodes: [
+        "PR255"
+      ],
+      pigmentMix: "Single",
+      hex: "#C94D44",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-pyrrolo-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-blockx-red",
+      brandId: "blockx",
+      name: "Blockx Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      pigmentMix: "Single",
+      hex: "#C1393B",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-blockx-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-red",
+      brandId: "blockx",
+      name: "Cadmium Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cadmium-purple",
+      brandId: "blockx",
+      name: "Cadmium Purple",
+      pigmentCodes: [
+        "PR108"
+      ],
+      pigmentMix: "Single",
+      hex: "#C64241",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cadmium-purple.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-quinacridone-red",
+      brandId: "blockx",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      pigmentMix: "Single",
+      hex: "#B43641",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-quinacridone-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-rose-pale-lake",
+      brandId: "blockx",
+      name: "Rose Pale Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#B83849",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-rose-pale-lake.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-rose-lake",
+      brandId: "blockx",
+      name: "Rose Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#B73D50",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-rose-lake.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-crimson-lake",
+      brandId: "blockx",
+      name: "Crimson Lake",
+      pigmentCodes: [
+        "PR264"
+      ],
+      pigmentMix: "Single",
+      hex: "#AB2F39",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-crimson-lake.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-quinacridone-magenta",
+      brandId: "blockx",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR112"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-magenta",
+      brandId: "blockx",
+      name: "Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-magenta-1.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-dioxazine-mauve",
+      brandId: "blockx",
+      name: "Dioxazine Mauve",
+      pigmentCodes: [
+        "PV23"
+      ],
+      pigmentMix: "Single",
+      hex: "#3F3B57",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-dioxazine-mauve.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-manganese-violet",
+      brandId: "blockx",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      pigmentMix: "Single",
+      hex: "#8A4A7A",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-manganese-violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cobalt-violet",
+      brandId: "blockx",
+      name: "Cobalt Violet",
+      pigmentCodes: [
+        "PV14"
+      ],
+      pigmentMix: "Single",
+      hex: "#9F598D",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cobalt-violet.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-ultramarine-violet",
+      brandId: "blockx",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cerulean-grey",
+      brandId: "blockx",
+      name: "Cerulean Grey",
+      pigmentCodes: [
+        "PB35"
+      ],
+      pigmentMix: "Single",
+      hex: "#377BA6",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cerulean-grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cerulean-blue",
+      brandId: "blockx",
+      name: "Cerulean Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      pigmentMix: "Single",
+      hex: "#2C538F",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cerulean-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cyanine-blue",
+      brandId: "blockx",
+      name: "Cyanine Blue",
+      pigmentCodes: [
+        "PB28",
+        "PB15:1"
+      ],
+      pigmentMix: "Multi",
+      hex: "#1E4989",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cyanine-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cobalt-blue",
+      brandId: "blockx",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      pigmentMix: "Single",
+      hex: "#3C4689",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cobalt-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cobalt-blue-dark",
+      brandId: "blockx",
+      name: "Cobalt Blue Dark",
+      pigmentCodes: [
+        "PB74"
+      ],
+      pigmentMix: "Single",
+      hex: "#29468B",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cobalt-blue-dark.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-french-ultramarine-blue-light",
+      brandId: "blockx",
+      name: "French Ultramarine Blue Light",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#174184",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-french-ultramarine-blue-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-french-ultramarine-blue-dark",
+      brandId: "blockx",
+      name: "French Ultramarine Blue Dark",
+      pigmentCodes: [
+        "PB29"
+      ],
+      pigmentMix: "Single",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: null,
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-prussian-blue",
+      brandId: "blockx",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      pigmentMix: "Single",
+      hex: "#193C61",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-prussian-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-indanthrene-blue",
+      brandId: "blockx",
+      name: "Indanthrene Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      pigmentMix: "Single",
+      hex: "#2A3E5A",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-indanthrene-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-blockx-blue",
+      brandId: "blockx",
+      name: "Blockx Blue",
+      pigmentCodes: [
+        "PB15:1"
+      ],
+      pigmentMix: "Single",
+      hex: "#263A60",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-blockx-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-primary-blue",
+      brandId: "blockx",
+      name: "Primary Blue",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      pigmentMix: "Single",
+      hex: "#1F3F70",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-primary-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-turquoise-blue",
+      brandId: "blockx",
+      name: "Turquoise Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      pigmentMix: "Single",
+      hex: "#255387",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-turquoise-blue.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-indigo",
+      brandId: "blockx",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB29",
+        "PB15",
+        "PBK9"
+      ],
+      pigmentMix: "Multi",
+      hex: "#284066",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-indigo.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-payne-s-grey",
+      brandId: "blockx",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBK11",
+        "PB29",
+        "PB15:3"
+      ],
+      pigmentMix: "Multi",
+      hex: "#3B464A",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-Paynes-grey.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-turquoise-green",
+      brandId: "blockx",
+      name: "Turquoise Green",
+      pigmentCodes: [
+        "PB36"
+      ],
+      pigmentMix: "Single",
+      hex: "#3F7778",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-turquoise-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-chrome-green",
+      brandId: "blockx",
+      name: "Chrome Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      pigmentMix: "Single",
+      hex: "#566C41",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-chrome-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-blockx-green",
+      brandId: "blockx",
+      name: "Blockx Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      pigmentMix: "Single",
+      hex: "#315A4B",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-blockx-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-permanent-green",
+      brandId: "blockx",
+      name: "Permanent Green",
+      pigmentCodes: [
+        "PY154",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#234F34",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-permanent-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-cobalt-green",
+      brandId: "blockx",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG50"
+      ],
+      pigmentMix: "Single",
+      hex: "#41864F",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "Low",
+      lightfastness: "Unknown",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-cobalt-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-phthalo-green",
+      brandId: "blockx",
+      name: "Phthalo Green",
+      pigmentCodes: [
+        "PG36"
+      ],
+      pigmentMix: "Single",
+      hex: "#2A5C3B",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-phthalo-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-viridian",
+      brandId: "blockx",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18"
+      ],
+      pigmentMix: "Single",
+      hex: "#478265",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-viridian.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-green-earth",
+      brandId: "blockx",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PG23"
+      ],
+      pigmentMix: "Single",
+      hex: "#767D4D",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-green-earth.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-sap-green",
+      brandId: "blockx",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY154",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#45803A",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-sap-green.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-hooker-s-green",
+      brandId: "blockx",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PBR7",
+        "PG7"
+      ],
+      pigmentMix: "Multi",
+      hex: "#345E38",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-hookers-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-olive-green",
+      brandId: "blockx",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY154",
+        "PG7",
+        "PV19"
+      ],
+      pigmentMix: "Multi",
+      hex: "#465232",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-olive-green.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-gold-ochre",
+      brandId: "blockx",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#C38B39",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-gold-ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-italian-earth",
+      brandId: "blockx",
+      name: "Italian Earth",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#B67A36",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-italian-earth.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-yellow-ochre",
+      brandId: "blockx",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      pigmentMix: "Single",
+      hex: "#DDA73C",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-yellow-ochre.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-transparent-mars-yellow",
+      brandId: "blockx",
+      name: "Transparent Mars Yellow",
+      pigmentCodes: [
+        "PY42"
+      ],
+      pigmentMix: "Single",
+      hex: "#7A5634",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-transparent-mars-yellow.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-burnt-sienna-light",
+      brandId: "blockx",
+      name: "Burnt Sienna Light",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#8C4637",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-burnt-sienna-light.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-burnt-sienna-deep",
+      brandId: "blockx",
+      name: "Burnt Sienna Deep",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#6F4035",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-burnt-sienna-deep.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-light-red",
+      brandId: "blockx",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      pigmentMix: "Single",
+      hex: "#B74F3C",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-light-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-venetian-red",
+      brandId: "blockx",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      pigmentMix: "Single",
+      hex: "#B84E3B",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-venetian-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-transparent-mars-red",
+      brandId: "blockx",
+      name: "Transparent Mars Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      pigmentMix: "Single",
+      hex: "#743C37",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-transparent-mars-red.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-transparent-mars-brown",
+      brandId: "blockx",
+      name: "Transparent Mars Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      pigmentMix: "Single",
+      hex: "#6A4137",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-transparent-mars-brown.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-van-dijck-brown",
+      brandId: "blockx",
+      name: "Van Dijck Brown",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#4A4035",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-van-dijck-brown.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-burnt-umber",
+      brandId: "blockx",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBR7"
+      ],
+      pigmentMix: "Single",
+      hex: "#554035",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-burnt-umber.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-sepia",
+      brandId: "blockx",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBR7",
+        "PBK11"
+      ],
+      pigmentMix: "Multi",
+      hex: "#403B33",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-sepia.png",
+      hue: "Hue",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-neutral-tint",
+      brandId: "blockx",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PBK11",
+        "PB15",
+        "PV19"
+      ],
+      pigmentMix: "Multi",
+      hex: "#313734",
+      transparency: "Semi-Transparent",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-neutral-tint.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-ivory-black",
+      brandId: "blockx",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBK9"
+      ],
+      pigmentMix: "Single",
+      hex: "#313A36",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-ivory-black.png",
+      hue: "\u2013",
+      isDiscontinued: false
+    },
+    {
+      id: "blockx-lamp-black",
+      brandId: "blockx",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBK6"
+      ],
+      pigmentMix: "Single",
+      hex: "#2C3733",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "Low",
+      lightfastness: "\u2013",
+      isVegan: false,
+      paintNumber: "N/A",
+      performance: "Professional",
+      swatchImage: "/uploads/blockx/BL-lamp-black.png",
+      hue: "\u2013",
+      isDiscontinued: false
     }
   ]
 };
@@ -292,6 +29990,11 @@ var brands_default = {
 var brandNameById = new Map(
   brands_default.items.map(
     (b) => [b.id, b.name]
+  )
+);
+var paintNameById = new Map(
+  paints_default.items.map(
+    (p) => [p.id, p.name]
   )
 );
 var config_default = defineConfig({
@@ -427,6 +30130,99 @@ var config_default = defineConfig({
                 type: "string",
                 name: "subtitle",
                 label: "Subtitle",
+                ui: {
+                  component: "textarea"
+                }
+              },
+              {
+                type: "object",
+                name: "items",
+                label: "Featured Paints",
+                list: true,
+                ui: {
+                  itemProps: (item) => {
+                    const paintId = item?.paintId;
+                    const paintName = paintId ? paintNameById.get(paintId) : null;
+                    return {
+                      label: paintName ? `${paintName} (${paintId})` : paintId || "Featured Paint"
+                    };
+                  }
+                },
+                fields: [
+                  {
+                    type: "string",
+                    name: "paintId",
+                    label: "Paint ID"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        name: "info",
+        label: "Info Pages",
+        path: "content",
+        format: "json",
+        match: {
+          include: "info"
+        },
+        fields: [
+          {
+            type: "object",
+            name: "about",
+            label: "About Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title"
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
+                ui: {
+                  component: "textarea"
+                }
+              }
+            ]
+          },
+          {
+            type: "object",
+            name: "data",
+            label: "Data Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title"
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
+                ui: {
+                  component: "textarea"
+                }
+              }
+            ]
+          },
+          {
+            type: "object",
+            name: "contact",
+            label: "Contact Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title"
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
                 ui: {
                   component: "textarea"
                 }
@@ -646,6 +30442,11 @@ var config_default = defineConfig({
                 name: "pigmentCodes",
                 label: "Pigment Codes",
                 list: true
+              },
+              {
+                type: "boolean",
+                name: "isFeatured",
+                label: "Featured on Home"
               },
               {
                 type: "string",

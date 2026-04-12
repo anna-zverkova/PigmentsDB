@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "tinacms dev -c \"vite\"",
-    "build": "tinacms build && vite build",
+    "build": "npm run sync:featured && tinacms build && vite build",
     "build:pages": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sync:featured": "node scripts/sync-featured.cjs"
   },
   "dependencies": {
     "tinacms": "2.8.2",

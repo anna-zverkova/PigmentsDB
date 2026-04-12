@@ -1,9 +1,15 @@
 import { defineConfig, LocalAuthProvider } from "tinacms";
 import brandsContent from "../content/brands.json";
+import paintsContent from "../content/paints.json";
 
 const brandNameById = new Map(
   (brandsContent as { items: { id: string; name: string }[] }).items.map(
     (b) => [b.id, b.name]
+  )
+);
+const paintNameById = new Map(
+  (paintsContent as { items: { id: string; name: string }[] }).items.map(
+    (p) => [p.id, p.name]
   )
 );
 
@@ -144,6 +150,99 @@ export default defineConfig({
                 type: "string",
                 name: "subtitle",
                 label: "Subtitle",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "object",
+                name: "items",
+                label: "Featured Paints",
+                list: true,
+                ui: {
+                  itemProps: (item) => {
+                    const paintId = item?.paintId as string | undefined;
+                    const paintName = paintId ? paintNameById.get(paintId) : null;
+                    return {
+                      label: paintName ? `${paintName} (${paintId})` : paintId || "Featured Paint",
+                    };
+                  },
+                },
+                fields: [
+                  {
+                    type: "string",
+                    name: "paintId",
+                    label: "Paint ID",
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      },
+      {
+        name: "info",
+        label: "Info Pages",
+        path: "content",
+        format: "json",
+        match: {
+          include: "info",
+        },
+        fields: [
+          {
+            type: "object",
+            name: "about",
+            label: "About Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
+                ui: {
+                  component: "textarea",
+                },
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "data",
+            label: "Data Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
+                ui: {
+                  component: "textarea",
+                },
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "contact",
+            label: "Contact Page",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "body",
+                label: "Body",
                 ui: {
                   component: "textarea",
                 },
@@ -365,6 +464,11 @@ export default defineConfig({
                 name: "pigmentCodes",
                 label: "Pigment Codes",
                 list: true,
+              },
+              {
+                type: "boolean",
+                name: "isFeatured",
+                label: "Featured on Home",
               },
               {
                 type: "string",

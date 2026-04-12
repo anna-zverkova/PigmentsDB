@@ -33,6 +33,23 @@
   ],
   "featured": {
     "title": "Featured Colors",
-    "subtitle": "Newly mapped paints added to the growing TintMap collection."
+    "subtitle": "Newly mapped paints added to the growing TintMap collection.",
+    "items": [
+      {
+        "paintId": "white-nights-quinacridone-lilac-609"
+      },
+      {
+        "paintId": "wn-rose-madder-genuine"
+      },
+      {
+        "paintId": "roman-szmal-misty-morning"
+      },
+      {
+        "paintId": "daniel-smith-manganese-blue-hue"
+      },
+      {
+        "paintId": "daniel-smith-cobalt-turquoise"
+      }
+    ]
   }
 }

@@ -44,6 +44,7 @@ export interface Paint {
   name: string;
   pigmentCodes: string[];
   pigmentMix?: "Single" | "Multi";
+  isFeatured?: boolean;
   hue?: string;
   hex: string;
   transparency: Transparency;
