@@ -200,9 +200,14 @@ export default defineConfig({
                 label: "Title",
               },
               {
+                type: "rich-text",
+                name: "bodyRich",
+                label: "Body (Rich Text)",
+              },
+              {
                 type: "string",
-                name: "body",
-                label: "Body",
+                name: "bodyMarkdown",
+                label: "Body (Markdown Backup)",
                 ui: {
                   component: "textarea",
                 },
@@ -220,9 +225,14 @@ export default defineConfig({
                 label: "Title",
               },
               {
+                type: "rich-text",
+                name: "bodyRich",
+                label: "Body (Rich Text)",
+              },
+              {
                 type: "string",
-                name: "body",
-                label: "Body",
+                name: "bodyMarkdown",
+                label: "Body (Markdown Backup)",
                 ui: {
                   component: "textarea",
                 },
@@ -240,9 +250,14 @@ export default defineConfig({
                 label: "Title",
               },
               {
+                type: "rich-text",
+                name: "bodyRich",
+                label: "Body (Rich Text)",
+              },
+              {
                 type: "string",
-                name: "body",
-                label: "Body",
+                name: "bodyMarkdown",
+                label: "Body (Markdown Backup)",
                 ui: {
                   component: "textarea",
                 },
