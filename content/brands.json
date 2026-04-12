@@ -21,7 +21,8 @@
       "name": "Blockx",
       "logo": "Bx",
       "description": "",
-      "website": "#"
+      "website": "#",
+      "country": "Belgium"
     },
     {
       "id": "cass-art",
@@ -203,6 +204,7 @@
       "logo": "S",
       "description": "",
       "website": "#",
+      "country": "Germany",
       "status": "Professional"
     },
     {
