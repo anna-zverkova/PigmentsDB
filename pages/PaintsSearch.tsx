@@ -11,6 +11,8 @@ export const PaintsSearch: React.FC = () => {
   const [selectedBrands, setSelectedBrands] = useState<string[]>([]);
   const [selectedMixes, setSelectedMixes] = useState<string[]>([]);
   const [discontinuedOnly, setDiscontinuedOnly] = useState(false);
+  const [notDiscontinuedOnly, setNotDiscontinuedOnly] = useState(false);
+  const [noSwatchOnly, setNoSwatchOnly] = useState(false);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const selectedBrandIds = new Set(selectedBrands);
   const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
@@ -39,7 +41,13 @@ export const PaintsSearch: React.FC = () => {
       const matchesDiscontinued =
         !discontinuedOnly || !!paint.isDiscontinued;
 
-      return matchesSearch && matchesFamily && matchesBrand && matchesMix && matchesDiscontinued;
+      const matchesNotDiscontinued =
+        !notDiscontinuedOnly || !paint.isDiscontinued;
+
+      const matchesNoSwatch =
+        !noSwatchOnly || !paint.swatchImage;
+
+      return matchesSearch && matchesFamily && matchesBrand && matchesMix && matchesDiscontinued && matchesNotDiscontinued && matchesNoSwatch;
   });
 
   return (
@@ -155,9 +163,39 @@ export const PaintsSearch: React.FC = () => {
                                     type="checkbox"
                                     className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
                                     checked={discontinuedOnly}
-                                    onChange={(e) => setDiscontinuedOnly(e.target.checked)}
+                                    onChange={(e) => {
+                                        const checked = e.target.checked;
+                                        setDiscontinuedOnly(checked);
+                                        if (checked) setNotDiscontinuedOnly(false);
+                                    }}
                                 />
                                 <span className="text-neutral-600 group-hover:text-neutral-900">Discontinued only</span>
+                            </label>
+                            <label className="mt-2 flex items-center gap-2 text-sm cursor-pointer group">
+                                <input
+                                    type="checkbox"
+                                    className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                    checked={notDiscontinuedOnly}
+                                    onChange={(e) => {
+                                        const checked = e.target.checked;
+                                        setNotDiscontinuedOnly(checked);
+                                        if (checked) setDiscontinuedOnly(false);
+                                    }}
+                                />
+                                <span className="text-neutral-600 group-hover:text-neutral-900">Not discontinued only</span>
+                            </label>
+                        </div>
+
+                        <div>
+                            <h3 className="font-semibold mb-3">Swatch Image</h3>
+                            <label className="flex items-center gap-2 text-sm cursor-pointer group">
+                                <input
+                                    type="checkbox"
+                                    className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                                    checked={noSwatchOnly}
+                                    onChange={(e) => setNoSwatchOnly(e.target.checked)}
+                                />
+                                <span className="text-neutral-600 group-hover:text-neutral-900">No swatch image</span>
                             </label>
                         </div>
                     </div>
@@ -238,9 +276,39 @@ export const PaintsSearch: React.FC = () => {
                             type="checkbox"
                             className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
                             checked={discontinuedOnly}
-                            onChange={(e) => setDiscontinuedOnly(e.target.checked)}
+                            onChange={(e) => {
+                                const checked = e.target.checked;
+                                setDiscontinuedOnly(checked);
+                                if (checked) setNotDiscontinuedOnly(false);
+                            }}
                         />
                         <span className="text-neutral-600 group-hover:text-neutral-900">Discontinued only</span>
+                    </label>
+                    <label className="mt-2 flex items-center gap-2 text-sm cursor-pointer group">
+                        <input
+                            type="checkbox"
+                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                            checked={notDiscontinuedOnly}
+                            onChange={(e) => {
+                                const checked = e.target.checked;
+                                setNotDiscontinuedOnly(checked);
+                                if (checked) setDiscontinuedOnly(false);
+                            }}
+                        />
+                        <span className="text-neutral-600 group-hover:text-neutral-900">Not discontinued only</span>
+                    </label>
+                </div>
+
+                <div>
+                    <h3 className="font-semibold mb-3">Swatch Image</h3>
+                    <label className="flex items-center gap-2 text-sm cursor-pointer group">
+                        <input
+                            type="checkbox"
+                            className="rounded border-neutral-300 text-neutral-900 focus:ring-neutral-900"
+                            checked={noSwatchOnly}
+                            onChange={(e) => setNoSwatchOnly(e.target.checked)}
+                        />
+                        <span className="text-neutral-600 group-hover:text-neutral-900">No swatch image</span>
                     </label>
                 </div>
             </aside>
