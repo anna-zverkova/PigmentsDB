@@ -17,6 +17,8 @@ export const PaintsSearch: React.FC = () => {
   const selectedBrandIds = new Set(selectedBrands);
   const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
   const mixLabel = (paint: any) => paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
+
+  
   
   // Basic filtering logic mocking Algolia
   const visiblePaints = PAINTS.filter(paint => {

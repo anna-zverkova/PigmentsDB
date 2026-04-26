@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, Outlet, useLocation } from 'react-router-dom';
-import { Search, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { ComparisonBar } from './ComparisonBar';
 import { Button } from './ui/Button';
 
@@ -12,7 +12,6 @@ export const Layout: React.FC = () => {
     { name: 'Pigments', path: '/pigments' },
     { name: 'Brands', path: '/brands' },
     { name: 'Paints', path: '/paints' },
-    { name: 'Admin', path: '/admin/index.html', external: true },
   ];
 
   const secondaryLinks = [
@@ -57,15 +56,6 @@ export const Layout: React.FC = () => {
 
           {/* Actions */}
           <div className="flex items-center gap-2">
-            <div className="relative hidden sm:block">
-              <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-neutral-500" />
-              <input
-                type="search"
-                placeholder="Search paints, pigments..."
-                className="h-9 w-64 rounded-md border border-tint-ink/15 bg-white/70 pl-9 pr-4 text-sm outline-none focus:border-tint-ink/40 focus:ring-0"
-              />
-            </div>
-            
             {/* Mobile Menu Toggle */}
             <button 
               className="md:hidden p-2 text-neutral-600"
@@ -79,16 +69,8 @@ export const Layout: React.FC = () => {
         {/* Mobile Nav */}
         {isMobileMenuOpen && (
           <div className="md:hidden border-t border-tint-ink/10 bg-tint-paper px-4 py-4 space-y-4 h-[calc(100vh-64px)] overflow-y-auto">
-             <div className="relative">
-              <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-neutral-500" />
-              <input
-                type="search"
-                placeholder="Search..."
-                className="h-10 w-full rounded-md border border-tint-ink/15 bg-white/70 pl-9 pr-4 text-sm outline-none"
-              />
-            </div>
+             <div className="px-2 py-2 text-xs font-semibold text-neutral-500 uppercase tracking-wider">Menu</div>
             <nav className="flex flex-col space-y-1">
-              <div className="px-2 py-2 text-xs font-semibold text-neutral-500 uppercase tracking-wider">Menu</div>
               {navLinks.map(link => (
                 link.external ? (
                   <a
