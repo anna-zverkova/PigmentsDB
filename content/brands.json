@@ -304,6 +304,14 @@
       "logo": "MH",
       "description": "",
       "website": "#"
+    },
+    {
+      "id": "a-gallo",
+      "name": "A Gallo",
+      "logo": "AG",
+      "description": "A. Gallo is a boutique Italian brand making handmade artisan watercolour paints, crafted in the medieval town of Assisi, Umbria, by artist Alina Gallo. It's a highly regarded brand among serious watercolourists for its unusual pigment selection and meticulous production.",
+      "country": "Italy",
+      "status": "Professional"
     }
   ]
 }
