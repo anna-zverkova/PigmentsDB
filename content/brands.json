@@ -49,7 +49,7 @@
       "id": "daler-rowney-aqua",
       "name": "Daler Rowney Aquafine",
       "logo": "DRA",
-      "description": "Daler Rowney Aquafine is the student\u2011grade watercolor line from the UK brand, designed for learning and everyday practice.",
+      "description": "Daler Rowney Aquafine is the student‑grade watercolor line from the UK brand, designed for learning and everyday practice.",
       "website": "#",
       "country": "UK",
       "status": "Student"
@@ -193,7 +193,7 @@
       "id": "roman-szmal",
       "name": "Roman Szmal",
       "logo": "RS",
-      "description": "Roman Szmal is a Polish professional watercolor brand recognized for its rich granulating and landscape\u2011focused colors.",
+      "description": "Roman Szmal is a Polish professional watercolor brand recognized for its rich granulating and landscape‑focused colors.",
       "website": "#",
       "country": "Poland",
       "status": "Professional"
@@ -211,14 +211,16 @@
       "id": "sennelier",
       "name": "Sennelier",
       "logo": "Se",
-      "description": "",
-      "website": "#"
+      "description": "This exceptional and very high quality watercolor will help you make your works even more powerful due to the liveliness and purity of the hues. The colours mix together perfectly, offering superbly subtle shades. These smooth, intense colours will be a genuine pleasure to paint with. The addition of honey will allow the tubes and pans of Sennelier watercolors to stand up to the passing of time and each time you will paint with them you will be able to accurately translate the diversity of light shape and hues.",
+      "website": "#",
+      "country": "France",
+      "status": "Professional"
     },
     {
       "id": "shinhan-pro",
       "name": "ShinHan Pro (Students)",
       "logo": "SP",
-      "description": "ShinHan Pro is a student\u2011grade watercolor range from South Korea, offering a broad palette at an accessible price point for learners and everyday practice.",
+      "description": "ShinHan Pro is a student‑grade watercolor range from South Korea, offering a broad palette at an accessible price point for learners and everyday practice.",
       "website": "#",
       "country": "Korea",
       "status": "Student"
@@ -227,7 +229,7 @@
       "id": "shinhan-pwc",
       "name": "ShinHan PWC (Artist's)",
       "logo": "PWC",
-      "description": "ShinHan PWC (Professional Water Colour) is the artist\u2011grade line from South Korea, known for strong pigment strength and a wide, traditional palette.",
+      "description": "ShinHan PWC (Professional Water Colour) is the artist‑grade line from South Korea, known for strong pigment strength and a wide, traditional palette.",
       "website": "#",
       "country": "Korea",
       "status": "Professional"
@@ -250,7 +252,7 @@
       "id": "van-gogh",
       "name": "Van Gogh",
       "logo": "VG",
-      "description": "Van Gogh is a student\u2011grade line by Royal Talens, offering reliable, affordable watercolors for learning and practice.",
+      "description": "Van Gogh is a student‑grade line by Royal Talens, offering reliable, affordable watercolors for learning and practice.",
       "website": "#",
       "status": "Student"
     },
