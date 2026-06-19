@@ -1,0 +1,31 @@
+{
+  "title": "Paint Library",
+  "intro": "Browse paints by brand, pigment code, and performance characteristics.",
+  "items": [
+    {
+      "id": "white-nights-zinc-white-100",
+      "brandId": "white-nights",
+      "name": "Zinc White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hue": "\u2013",
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "100",
+      "swatchImage": "/uploads/white-nights/WH-Zinc-white.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "performance": "Professional",
+      "toxicity": "No",
+      "collection": "Standard Assortment"
+    }
+      ]
+}

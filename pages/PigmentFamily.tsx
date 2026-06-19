@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { PIGMENT_FAMILIES, PAINTS, PIGMENTS, BRANDS } from '../constants';
 import { Badge } from '../components/ui/Badge';
@@ -9,16 +9,202 @@ import { Droplet, Sun, Layers, Grid } from 'lucide-react';
 import { Paint, Pigment } from '../types';
 import pigmentsContent from '../content/pigments.json';
 
+type FilterKey = 'lightfastness' | 'transparency' | 'staining' | 'granulation';
+type FilterState = Record<FilterKey, string>;
+
+const filterMeta = {
+  lightfastness: { label: 'Lightfastness', icon: Sun },
+  transparency: { label: 'Transparency', icon: Layers },
+  staining: { label: 'Staining', icon: Droplet },
+  granulation: { label: 'Granulation', icon: Grid },
+} as const;
+
+const transparencyOptions = ['Opaque', 'Semi-Opaque', 'Semi-Transparent', 'Transparent'];
+const granulationOptions = ['None', 'Low', 'Medium', 'High'];
+const stainingOptions = ['Non', 'Low', 'Medium', 'High'];
+
+const normalizeLightfastness = (value?: string) => value?.trim() || '';
+
+const normalizeGranulation = (value?: string) => {
+  const normalized = value?.trim().toLowerCase();
+  if (!normalized || normalized === '-' || normalized === '—') return '';
+  if (normalized === 'none') return 'None';
+  if (normalized === 'low') return 'Low';
+  if (normalized === 'medium') return 'Medium';
+  if (normalized === 'high') return 'High';
+  return value?.trim() || '';
+};
+
+const normalizeTransparency = (value?: string) => {
+  const normalized = value?.trim();
+  return normalized && transparencyOptions.includes(normalized) ? normalized : '';
+};
+
+const normalizeStaining = (value?: string) => {
+  const normalized = value?.trim().toLowerCase();
+  if (!normalized || normalized === '-' || normalized === '—') return '';
+  if (normalized.startsWith('non')) return 'Non';
+  if (normalized.startsWith('low')) return 'Low';
+  if (normalized.startsWith('med') || normalized.startsWith('mid') || normalized === 'stain' || normalized === 'staining') return 'Medium';
+  if (normalized.startsWith('high')) return 'High';
+  return '';
+};
+
+const compareLightfastness = (a: string, b: string) => {
+  const score = (value: string) => {
+    const normalized = value.trim().toUpperCase();
+    if (normalized === 'UNKNOWN') return -4;
+    if (normalized === 'N/A') return -3;
+    if (normalized === 'NAN') return -2;
+    if (normalized === '—' || normalized === '-') return -1;
+
+    const fraction = normalized.match(/^(\d+)(?:\/(\d+))?$/);
+    if (fraction) {
+      const numerator = Number(fraction[1]);
+      const denominator = fraction[2] ? Number(fraction[2]) : numerator;
+      if (Number.isFinite(numerator) && Number.isFinite(denominator) && denominator !== 0) {
+        return numerator / denominator;
+      }
+    }
+
+    return 0;
+  };
+
+  const scoreA = score(a);
+  const scoreB = score(b);
+
+  if (scoreA !== scoreB) return scoreB - scoreA;
+  return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+};
+
+const FilterButton: React.FC<{
+  icon: React.ComponentType<{ size?: number }>;
+  label: string;
+  value: string;
+  active: boolean;
+  onClick: () => void;
+}> = ({ icon: Icon, label, value, active, onClick }) => (
+  <Button
+    type="button"
+    variant={active ? 'secondary' : 'outline'}
+    size="sm"
+    onClick={onClick}
+    className="w-full justify-start gap-3 px-4 py-3 text-left"
+  >
+    <Icon size={16} />
+    <span className="flex min-w-0 flex-col items-start leading-tight">
+      <span className="font-medium">{label}</span>
+      <span className="truncate text-[11px] text-neutral-500">{value || 'All'}</span>
+    </span>
+  </Button>
+);
+
+const FilterChip: React.FC<{
+  label: string;
+  active: boolean;
+  onClick: () => void;
+}> = ({ label, active, onClick }) => (
+  <Button
+    type="button"
+    variant={active ? 'primary' : 'outline'}
+    size="sm"
+    onClick={onClick}
+    className={active ? 'border-transparent' : ''}
+  >
+    {label}
+  </Button>
+);
+
 export const PigmentFamily: React.FC = () => {
   const { family } = useParams<{ family: string }>();
+  const [filters, setFilters] = useState<FilterState>({
+    lightfastness: '',
+    transparency: '',
+    staining: '',
+    granulation: '',
+  });
+  const [activeFilter, setActiveFilter] = useState<FilterKey | null>(null);
+
   // Default to blue if no family provided or invalid
   const activeFamily = PIGMENT_FAMILIES.find(f => f.name.toLowerCase() === family?.toLowerCase()) || PIGMENT_FAMILIES[4];
 
   const pigmentsInFamily = [...PIGMENTS.filter(p => p.family === activeFamily.name)]
     .sort((a, b) => a.code.localeCompare(b.code));
 
+  const familyPaints = useMemo(
+    () => PAINTS.filter((paint) => pigmentsInFamily.some((pigment) => paint.pigmentCodes.includes(pigment.code))),
+    [pigmentsInFamily]
+  );
+
+  const lightfastnessOptions = useMemo(() => {
+    const values = [...new Set(
+      familyPaints
+        .map((paint) => normalizeLightfastness(paint.lightfastness))
+        .filter(Boolean)
+    )];
+
+    return values.sort(compareLightfastness);
+  }, [familyPaints]);
+
+  const hasActiveFilters = Object.values(filters).some(Boolean);
+
+  const matchesFilters = (paint: Paint) => {
+    const lightfastness = normalizeLightfastness(paint.lightfastness);
+    const transparency = normalizeTransparency(paint.transparency);
+    const staining = normalizeStaining(paint.staining);
+    const granulation = normalizeGranulation(paint.granulation);
+
+    if (filters.lightfastness && lightfastness !== filters.lightfastness) return false;
+    if (filters.transparency && transparency !== filters.transparency) return false;
+    if (filters.staining && staining !== filters.staining) return false;
+    if (filters.granulation && granulation !== filters.granulation) return false;
+
+    return true;
+  };
+
+  const filterConfig = {
+    lightfastness: {
+      label: filterMeta.lightfastness.label,
+      icon: filterMeta.lightfastness.icon,
+      value: filters.lightfastness,
+      options: lightfastnessOptions,
+    },
+    transparency: {
+      label: filterMeta.transparency.label,
+      icon: filterMeta.transparency.icon,
+      value: filters.transparency,
+      options: transparencyOptions,
+    },
+    staining: {
+      label: filterMeta.staining.label,
+      icon: filterMeta.staining.icon,
+      value: filters.staining,
+      options: stainingOptions,
+    },
+    granulation: {
+      label: filterMeta.granulation.label,
+      icon: filterMeta.granulation.icon,
+      value: filters.granulation,
+      options: granulationOptions,
+    },
+  } as const;
+
+  const setFilter = (key: FilterKey, value: string) => {
+    setFilters((current) => ({ ...current, [key]: value }));
+  };
+
+  const clearFilters = () => {
+    setFilters({
+      lightfastness: '',
+      transparency: '',
+      staining: '',
+      granulation: '',
+    });
+    setActiveFilter(null);
+  };
+
   // In a real app, we'd fetch paints by pigment code. Here we filter mock data.
-  const getPaintsForPigment = (code: string) => PAINTS.filter(p => p.pigmentCodes.includes(code));
+  const getPaintsForPigment = (code: string) => PAINTS.filter(p => p.pigmentCodes.includes(code)).filter(matchesFilters);
 
   return (
     <div className="min-h-screen bg-neutral-50">
@@ -70,14 +256,67 @@ export const PigmentFamily: React.FC = () => {
                 </button>
               ))}
             </div>
-            <Card className="p-4 bg-white border-neutral-200 shadow-sm mb-8 flex flex-wrap gap-4 text-sm text-neutral-500">
-                <div className="flex items-center gap-2"><Sun size={16} /> Lightfastness</div>
-                <div className="flex items-center gap-2"><Layers size={16} /> Transparency</div>
-                <div className="flex items-center gap-2"><Droplet size={16} /> Staining</div>
-                <div className="flex items-center gap-2"><Grid size={16} /> Granulation</div>
+            <Card className="mb-8 p-4">
+                <div className="flex flex-wrap items-start justify-between gap-3">
+                  <div className="grid w-full gap-2 md:grid-cols-2 xl:grid-cols-4">
+                    {(Object.entries(filterConfig) as Array<[FilterKey, typeof filterConfig[FilterKey]]>).map(([key, config]) => (
+                      <FilterButton
+                        key={key}
+                        icon={config.icon}
+                        label={config.label}
+                        value={config.value}
+                        active={activeFilter === key || Boolean(config.value)}
+                        onClick={() => setActiveFilter((current) => (current === key ? null : key))}
+                      />
+                    ))}
+                  </div>
+
+                  <Button
+                    type="button"
+                    variant="ghost"
+                    size="sm"
+                    onClick={clearFilters}
+                    disabled={!hasActiveFilters}
+                    className="shrink-0 text-neutral-600"
+                  >
+                    Clear filters
+                  </Button>
+                </div>
+
+                {activeFilter && (
+                  <div className="mt-4 border-t border-neutral-200 pt-4">
+                    <div className="mb-3 flex items-center gap-2 text-sm font-medium text-neutral-700">
+                      {React.createElement(filterConfig[activeFilter].icon, { size: 16 })}
+                      <span>{filterConfig[activeFilter].label}</span>
+                    </div>
+                    <div className="flex flex-wrap gap-2">
+                      <FilterChip
+                        label="All"
+                        active={!filterConfig[activeFilter].value}
+                        onClick={() => setFilter(activeFilter, '')}
+                      />
+                      {filterConfig[activeFilter].options.map((option) => (
+                        <FilterChip
+                          key={option}
+                          label={option}
+                          active={filterConfig[activeFilter].value === option}
+                          onClick={() => setFilter(activeFilter, option)}
+                        />
+                      ))}
+                    </div>
+                    <p className="mt-3 text-xs text-neutral-500">
+                      Showing paints that match the selected {filterConfig[activeFilter].label.toLowerCase()} filter.
+                    </p>
+                  </div>
+                )}
             </Card>
 
             {pigmentsInFamily.map(pigment => (
+                (() => {
+                  const paints = getPaintsForPigment(pigment.code);
+                  if (hasActiveFilters && paints.length === 0) return null;
+
+                  return (
                 <section key={pigment.code} id={pigment.code} className="scroll-mt-36">
                     <div className="flex items-baseline gap-4 mb-6 border-b border-neutral-200 pb-4">
                         <h2 className="text-3xl font-bold font-mono text-neutral-900">{pigment.code}</h2>
@@ -86,10 +325,18 @@ export const PigmentFamily: React.FC = () => {
                     </div>
                     
                     <div className="bg-white rounded-xl border border-neutral-200 overflow-hidden shadow-sm">
-                            <PaintTable paints={getPaintsForPigment(pigment.code)} />
+                            <PaintTable paints={paints} />
                     </div>
                 </section>
+                  );
+                })()
             ))}
+
+            {hasActiveFilters && !pigmentsInFamily.some((pigment) => getPaintsForPigment(pigment.code).length > 0) && (
+              <Card className="p-8 text-center text-neutral-500">
+                No paints match the current filters.
+              </Card>
+            )}
         </div>
       </div>
     </div>
