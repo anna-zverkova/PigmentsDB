@@ -4,8 +4,17 @@ import { Menu, X } from 'lucide-react';
 import { ComparisonBar } from './ComparisonBar';
 import { Button } from './ui/Button';
 
+const NEWSLETTER_SCRIPT_URL =
+  import.meta.env.VITE_NEWSLETTER_SCRIPT_URL ||
+  'https://script.google.com/macros/s/AKfycbzclSm-PknF686Ritm5-IDpijScb0a9rpa7BwUif4nOTQbpl4zjmoklGgwgDr_jZzOUvA/exec';
+
 export const Layout: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [newsletterEmail, setNewsletterEmail] = useState('');
+  const [newsletterStatus, setNewsletterStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
+  const [newsletterMessage, setNewsletterMessage] = useState(
+    'Subscribe for occasional updates about new pigments and data changes.'
+  );
   const location = useLocation();
 
   const navLinks = [
@@ -19,6 +28,42 @@ export const Layout: React.FC = () => {
     { name: 'Data', path: '/info/data' },
     { name: 'Contact', path: '/info/contact' },
   ];
+
+  const handleNewsletterInputChange = (value: string) => {
+    setNewsletterEmail(value);
+    if (newsletterStatus !== 'idle') {
+      setNewsletterStatus('idle');
+      setNewsletterMessage('Subscribe for occasional updates about new pigments and data changes.');
+    }
+  };
+
+  const handleNewsletterSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+
+    const email = newsletterEmail.trim();
+    if (!email) return;
+
+    setNewsletterStatus('submitting');
+    setNewsletterMessage('Submitting your email...');
+
+    try {
+      await fetch(NEWSLETTER_SCRIPT_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: {
+          'Content-Type': 'text/plain;charset=utf-8',
+        },
+        body: JSON.stringify({ email }),
+      });
+
+      setNewsletterStatus('success');
+      setNewsletterEmail('');
+      setNewsletterMessage('Thanks, you are subscribed.');
+    } catch (error) {
+      setNewsletterStatus('error');
+      setNewsletterMessage('We could not reach the newsletter service. Please try again.');
+    }
+  };
 
   return (
     <div className="min-h-screen flex flex-col bg-tint-paper text-tint-ink relative">
@@ -138,10 +183,28 @@ export const Layout: React.FC = () => {
           </div>
           <div>
             <h4 className="font-semibold mb-4 text-sm">Newsletter</h4>
-            <div className="flex gap-2">
-                <input type="email" placeholder="Email" className="flex-1 rounded-md border border-neutral-300 px-3 py-2 text-sm" />
-                <Button size="sm">Subscribe</Button>
-            </div>
+            <form
+              className="space-y-2"
+              onSubmit={handleNewsletterSubmit}
+            >
+              <div className="flex gap-2">
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="Email"
+                  value={newsletterEmail}
+                  onChange={(event) => handleNewsletterInputChange(event.target.value)}
+                  required
+                  className="flex-1 rounded-md border border-neutral-300 px-3 py-2 text-sm"
+                />
+                <Button type="submit" size="sm" disabled={newsletterStatus === 'submitting'}>
+                  {newsletterStatus === 'submitting' ? 'Sending...' : newsletterStatus === 'success' ? 'Subscribed' : 'Subscribe'}
+                </Button>
+              </div>
+              <p className={`text-xs ${newsletterStatus === 'error' ? 'text-red-600' : 'text-neutral-500'}`}>
+                {newsletterMessage}
+              </p>
+            </form>
           </div>
         </div>
       </footer>
