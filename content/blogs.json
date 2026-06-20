@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "eyebrow": "TintMap Journal",
+    "title": "Notes, guides, and updates from the pigment atlas",
+    "subtitle": "Short reads about color logic, pigment behavior, and the ongoing work of mapping artist paints."
+  },
+  "featured": {
+    "title": "Latest article",
+    "articleId": "reading-pigment-codes"
+  },
+  "articles": [
+    {
+      "id": "reading-pigment-codes",
+      "title": "How to read pigment codes without getting lost",
+      "date": "June 2026",
+      "readTime": "6 min read",
+      "category": "Guide",
+      "excerpt": "A quick primer on PY, PB, PG, and the weird little suffixes that explain a lot more than brand names do.",
+      "highlight": true
+    },
+    {
+      "id": "granulation-in-watercolour",
+      "title": "Granulation: the texture that makes a wash feel alive",
+      "date": "May 2026",
+      "readTime": "5 min read",
+      "category": "Materials",
+      "excerpt": "What granulation does, why it varies by pigment, and how to use it as a deliberate part of composition.",
+      "highlight": false
+    },
+    {
+      "id": "why-swatches-differ",
+      "title": "Why swatches never look exactly the same twice",
+      "date": "May 2026",
+      "readTime": "4 min read",
+      "category": "Process",
+      "excerpt": "A look at light, paper, scan settings, and why TintMap stores swatches as part of a data workflow rather than as decoration.",
+      "highlight": false
+    },
+    {
+      "id": "mapping-white-nights",
+      "title": "A living checklist: expanding White Nights coverage",
+      "date": "April 2026",
+      "readTime": "7 min read",
+      "category": "Update",
+      "excerpt": "A behind-the-scenes look at how new paint rows and swatches are checked, linked, and pushed into the atlas.",
+      "highlight": false
+    }
+  ]
+}

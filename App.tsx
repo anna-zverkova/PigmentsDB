@@ -8,6 +8,7 @@ import { PaintDetail } from './pages/PaintDetail';
 import { Comparison } from './pages/Comparison';
 import { Brands } from './pages/Brands';
 import { BrandDetail } from './pages/BrandDetail';
+import { Blogs } from './pages/Blogs';
 import { InfoAbout } from './pages/InfoAbout';
 import { InfoData } from './pages/InfoData';
 import { InfoContact } from './pages/InfoContact';
@@ -72,6 +73,7 @@ const App: React.FC = () => {
             
             <Route path="brands" element={<Brands />} />
             <Route path="brands/:id" element={<BrandDetail />} />
+            <Route path="blogs" element={<Blogs />} />
 
             <Route path="info/about" element={<InfoAbout />} />
             <Route path="info/data" element={<InfoData />} />

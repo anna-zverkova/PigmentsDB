@@ -21,6 +21,7 @@ export const Layout: React.FC = () => {
     { name: 'Pigments', path: '/pigments' },
     { name: 'Brands', path: '/brands' },
     { name: 'Paints', path: '/paints' },
+    { name: 'Blogs', path: '/blogs' },
   ];
 
   const secondaryLinks = [
@@ -171,6 +172,7 @@ export const Layout: React.FC = () => {
             <ul className="space-y-2 text-sm text-neutral-500">
               <li><Link to="/pigments" className="hover:text-neutral-900">Pigments</Link></li>
               <li><Link to="/brands" className="hover:text-neutral-900">Brands</Link></li>
+              <li><Link to="/blogs" className="hover:text-neutral-900">Blogs</Link></li>
             </ul>
           </div>
           <div>
