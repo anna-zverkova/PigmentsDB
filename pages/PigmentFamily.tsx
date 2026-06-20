@@ -349,7 +349,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
     if (paints.length === 0) return <div className="p-8 text-center text-neutral-500">No paints found for this pigment in our database.</div>;
 
     const headers = [
-      "Pigment(s)", "Pigment Mix", "Paint Name", "Brand", "Swatch", "Colour",
+      "Pigment(s)", "Swatch", "Pigment Mix", "Paint Name", "Brand", "Colour",
       "Paint Number", "Hue", "Series", "Light", "Staining Levels",
       "Granulation", "Transparency/Opacity", "Performance", "Toxicity",
       "Vegan", "Collection", "Action"
@@ -380,9 +380,19 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                          const brand = BRANDS.find(b => b.id === paint.brandId);
                          const isSelected = selectedPaintIds.includes(paint.id);
 
-                         return (
+                        return (
                             <tr key={paint.id} className="group hover:bg-neutral-50/50 transition-colors">
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.pigmentCodes.join(', ')}</td>
+                                <td className="px-4 py-3">
+                                  {paint.swatchImage ? (
+                                    <img src={paint.swatchImage} alt="Swatch" className="w-12 h-8 object-cover rounded border border-neutral-200" />
+                                  ) : (
+                                    <div 
+                                      className="w-12 h-8 rounded border border-neutral-200 bg-gradient-to-br from-neutral-100 to-neutral-200 mx-auto"
+                                      title="No swatch image"
+                                    />
+                                  )}
+                                </td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{mixLabel(paint)}</td>
                                 <td className="px-4 py-3 text-neutral-900 font-medium min-w-[150px]">
                                     <Link to={`/paints/${paint.id}`} className="hover:underline hover:text-blue-600">
@@ -395,18 +405,6 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                     )}
                                 </td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{brand?.name || paint.brandId}</td>
-
-                                {/* Swatch (Visual Image) */}
-                                <td className="px-4 py-3">
-                                  {paint.swatchImage ? (
-                                    <img src={paint.swatchImage} alt="Swatch" className="w-12 h-8 object-cover rounded border border-neutral-200" />
-                                  ) : (
-                                    <div 
-                                      className="w-12 h-8 rounded border border-neutral-200 bg-gradient-to-br from-neutral-100 to-neutral-200 mx-auto"
-                                      title="No swatch image"
-                                    />
-                                  )}
-                                </td>
 
                                 {/* Colour (Hex Circle) */}
                                 <td className="px-4 py-3 text-center">
