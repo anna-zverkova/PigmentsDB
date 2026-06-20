@@ -59,13 +59,13 @@ const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
   }
 
   const headers = [
-    'Color No.',
     'Paint Name',
-    'Hue',
     'Pigment(s)',
+    'Swatch',
+    'Color No.',
+    'Hue',
     'Series',
     'Colour',
-    'Swatch',
     'Light',
     'Staining',
     'Staining vs Lifting',
@@ -97,14 +97,21 @@ const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
             const isSelected = selectedPaintIds.includes(paint.id);
             return (
               <tr key={paint.id} className="group hover:bg-neutral-50/50 transition-colors">
-                <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">{paint.paintNumber || '—'}</td>
                 <td className="px-4 py-3 text-neutral-900 font-medium min-w-[150px]">
                   <Link to={`/paints/${paint.id}`} className="hover:underline hover:text-blue-600">
                     {paint.name}
                   </Link>
                 </td>
-                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.pigmentCodes.join(', ')}</td>
+                <td className="px-4 py-3">
+                  {paint.swatchImage ? (
+                    <img src={paint.swatchImage} alt="Swatch" className="w-12 h-8 object-cover rounded border border-neutral-200" />
+                  ) : (
+                    <div className="w-12 h-8 rounded border border-neutral-200 bg-gradient-to-br from-neutral-100 to-neutral-200 mx-auto" />
+                  )}
+                </td>
+                <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">{paint.paintNumber || '—'}</td>
+                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
                 <td className="px-4 py-3 text-center">
                   <div
@@ -116,13 +123,6 @@ const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
                     }
                     title={paint.name}
                   />
-                </td>
-                <td className="px-4 py-3">
-                  {paint.swatchImage ? (
-                    <img src={paint.swatchImage} alt="Swatch" className="w-12 h-8 object-cover rounded border border-neutral-200" />
-                  ) : (
-                    <div className="w-12 h-8 rounded border border-neutral-200 bg-gradient-to-br from-neutral-100 to-neutral-200 mx-auto" />
-                  )}
                 </td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.lightfastness}</td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.staining}</td>
