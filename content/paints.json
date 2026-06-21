@@ -62514,6 +62514,2116 @@
       "performance": "Professional",
       "hue": "—",
       "swatchImage": "/uploads/daler-rowney-pro/DR-titanium-white.png"
+    },
+    {
+      "id": "rembrandt-chinese-white",
+      "brandId": "rembrandt",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chinese-white.png"
+    },
+    {
+      "id": "rembrandt-transparent-titanium-white",
+      "brandId": "rembrandt",
+      "name": "Transparent Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-transparent-titanium-white.png"
+    },
+    {
+      "id": "rembrandt-opaque-white",
+      "brandId": "rembrandt",
+      "name": "Opaque White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-opaque-white.png"
+    },
+    {
+      "id": "rembrandt-cadmium-yellow-lemon",
+      "brandId": "rembrandt",
+      "name": "Cadmium Yellow Lemon",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cadmium-yellow-lemon.png"
+    },
+    {
+      "id": "rembrandt-permanent-lemon-yellow",
+      "brandId": "rembrandt",
+      "name": "Permanent Lemon Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-transparent-yellow-medium",
+      "brandId": "rembrandt",
+      "name": "Transparent Yellow Medium",
+      "pigmentCodes": [
+        "PY128"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-azo-yellow-light",
+      "brandId": "rembrandt",
+      "name": "Azo Yellow Light",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cadmium-yellow",
+      "brandId": "rembrandt",
+      "name": "Cadmium Yellow",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cadmium-yellow.png"
+    },
+    {
+      "id": "rembrandt-azo-yellow-medium",
+      "brandId": "rembrandt",
+      "name": "Azo Yellow Medium",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-azo-yellow-deep",
+      "brandId": "rembrandt",
+      "name": "Azo Yellow Deep",
+      "pigmentCodes": [
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-indian-yellow",
+      "brandId": "rembrandt",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY154",
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-aureoline",
+      "brandId": "rembrandt",
+      "name": "Aureoline",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "—",
+      "staining": "—",
+      "granulation": "—",
+      "lightfastness": "–",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-gamboge",
+      "brandId": "rembrandt",
+      "name": "Gamboge",
+      "pigmentCodes": [
+        "PY150",
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-naples-yellow-deep",
+      "brandId": "rembrandt",
+      "name": "Naples Yellow Deep",
+      "pigmentCodes": [
+        "PB424",
+        "PY53",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-naples-yellow-deep.png"
+    },
+    {
+      "id": "rembrandt-titanium-buff",
+      "brandId": "rembrandt",
+      "name": "Titanium Buff",
+      "pigmentCodes": [
+        "PW6",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-titanium-buff.png"
+    },
+    {
+      "id": "rembrandt-naples-yellow-red",
+      "brandId": "rembrandt",
+      "name": "Naples Yellow Red",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-naples-yellow-red.png"
+    },
+    {
+      "id": "rembrandt-benzimidazole-orange",
+      "brandId": "rembrandt",
+      "name": "Benzimidazole Orange",
+      "pigmentCodes": [
+        "PO72"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cadmium-orange",
+      "brandId": "rembrandt",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-pyrrole-orange",
+      "brandId": "rembrandt",
+      "name": "Pyrrole Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-brilliant-orange",
+      "brandId": "rembrandt",
+      "name": "Brilliant Orange",
+      "pigmentCodes": [
+        "PO64"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-vermilion",
+      "brandId": "rembrandt",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR255",
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-permanent-red-medium",
+      "brandId": "rembrandt",
+      "name": "Permanent Red Medium",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cadmium-red",
+      "brandId": "rembrandt",
+      "name": "Cadmium Red",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-permanent-red-deep",
+      "brandId": "rembrandt",
+      "name": "Permanent Red Deep",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-perylene-red-dark",
+      "brandId": "rembrandt",
+      "name": "Perylene Red Dark",
+      "pigmentCodes": [
+        "PR178"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cadmium-red-deep",
+      "brandId": "rembrandt",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-quinacridone-red",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PR207"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-perylene-red",
+      "brandId": "rembrandt",
+      "name": "Perylene Red",
+      "pigmentCodes": [
+        "PR149"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-naphtol-red-bluish",
+      "brandId": "rembrandt",
+      "name": "Naphtol Red Bluish",
+      "pigmentCodes": [
+        "PR170"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-alizarin-crimson",
+      "brandId": "rembrandt",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-alizarin-crimson.png"
+    },
+    {
+      "id": "rembrandt-madder-lake-deep",
+      "brandId": "rembrandt",
+      "name": "Madder Lake Deep",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "1/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-madder-lake-deep.png"
+    },
+    {
+      "id": "rembrandt-permanent-madder-lake",
+      "brandId": "rembrandt",
+      "name": "Permanent Madder Lake",
+      "pigmentCodes": [
+        "PR187"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-carmine",
+      "brandId": "rembrandt",
+      "name": "Carmine",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-permanent-madder-brown",
+      "brandId": "rembrandt",
+      "name": "Permanent Madder Brown",
+      "pigmentCodes": [
+        "PR264",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-permanent-madder-purple",
+      "brandId": "rembrandt",
+      "name": "Permanent Madder Purple",
+      "pigmentCodes": [
+        "PR264",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-venetian-red",
+      "brandId": "rembrandt",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-venetian-red.png"
+    },
+    {
+      "id": "rembrandt-indian-red",
+      "brandId": "rembrandt",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101",
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-permanent-madder-light",
+      "brandId": "rembrandt",
+      "name": "Permanent Madder Light",
+      "pigmentCodes": [
+        "PR254",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-quinacridone-rose",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-rose.png"
+    },
+    {
+      "id": "rembrandt-quinacridone-rose-reddish",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Rose Reddish",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-rose-reddish.png"
+    },
+    {
+      "id": "rembrandt-quinacridone-rose-magenta",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Rose Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-rose",
+      "brandId": "rembrandt",
+      "name": "Rose",
+      "pigmentCodes": [
+        "PR122",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-permanent-red-violet",
+      "brandId": "rembrandt",
+      "name": "Permanent Red VIolet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-red-violet.png"
+    },
+    {
+      "id": "rembrandt-quinacridone-red-violet",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Red Violet",
+      "pigmentCodes": [
+        "PR202"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-benzimidazole-violet",
+      "brandId": "rembrandt",
+      "name": "Benzimidazole Violet",
+      "pigmentCodes": [
+        "PV32"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-mauve",
+      "brandId": "rembrandt",
+      "name": "Mauve",
+      "pigmentCodes": [
+        "PV19",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-mauve.png"
+    },
+    {
+      "id": "rembrandt-quinacridone-purple-bluish",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Purple Bluish",
+      "pigmentCodes": [
+        "PV55"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-manganese-violet",
+      "brandId": "rembrandt",
+      "name": "Manganese Violet",
+      "pigmentCodes": [
+        "PV16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-manganese-violet.png"
+    },
+    {
+      "id": "rembrandt-blue-violet",
+      "brandId": "rembrandt",
+      "name": "Blue Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-ultramarine-violet",
+      "brandId": "rembrandt",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-ultrmarine-violet.png"
+    },
+    {
+      "id": "rembrandt-cobalt-violet",
+      "brandId": "rembrandt",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cobalt-violet.png"
+    },
+    {
+      "id": "rembrandt-lavender",
+      "brandId": "rembrandt",
+      "name": "Lavender",
+      "pigmentCodes": [
+        "PB29",
+        "PV15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-ultramarine-deep",
+      "brandId": "rembrandt",
+      "name": "Ultramarine Deep",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-french-ultramarine",
+      "brandId": "rembrandt",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cobalt-blue-ultramarine",
+      "brandId": "rembrandt",
+      "name": "Cobalt Blue (Ultramarine)",
+      "pigmentCodes": [
+        "PB29",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-cobalt-blue",
+      "brandId": "rembrandt",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-phthalo-blue-rs",
+      "brandId": "rembrandt",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-phthalo-blue-red.png"
+    },
+    {
+      "id": "rembrandt-phthalo-blue-gs",
+      "brandId": "rembrandt",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-phthalo-blue-green.png"
+    },
+    {
+      "id": "rembrandt-prussian-blue",
+      "brandId": "rembrandt",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-indanthrene-blue",
+      "brandId": "rembrandt",
+      "name": "Indanthrene Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-indigo",
+      "brandId": "rembrandt",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-indigo.png"
+    },
+    {
+      "id": "rembrandt-cerulean-blue",
+      "brandId": "rembrandt",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cerulean-blue-phthalo",
+      "brandId": "rembrandt",
+      "name": "Cerulean Blue (Phthalo)",
+      "pigmentCodes": [
+        "PB15",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-cerulean-blue-phthalo.png"
+    },
+    {
+      "id": "rembrandt-cobalt-turquoise-blue",
+      "brandId": "rembrandt",
+      "name": "Cobalt Turquoise Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-turquoise-blue",
+      "brandId": "rembrandt",
+      "name": "Turquoise Blue",
+      "pigmentCodes": [
+        "PB15",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-turquoise-blue.png"
+    },
+    {
+      "id": "rembrandt-cerulean-blue-deep",
+      "brandId": "rembrandt",
+      "name": "Cerulean Blue Deep",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-cobalt-turquoise-green",
+      "brandId": "rembrandt",
+      "name": "Cobalt Turquoise Green",
+      "pigmentCodes": [
+        "PG26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cobalt-turquoise-green.png"
+    },
+    {
+      "id": "rembrandt-bluish-green",
+      "brandId": "rembrandt",
+      "name": "Bluish Green",
+      "pigmentCodes": [
+        "PG7",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-bluish-green.png"
+    },
+    {
+      "id": "rembrandt-viridian",
+      "brandId": "rembrandt",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-viridian.png"
+    },
+    {
+      "id": "rembrandt-phthalo-green",
+      "brandId": "rembrandt",
+      "name": "Phthalo Green",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "—",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-phthalo-green.png"
+    },
+    {
+      "id": "rembrandt-emerald-green",
+      "brandId": "rembrandt",
+      "name": "Emerald Green",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-emerald-green.png"
+    },
+    {
+      "id": "rembrandt-phthalo-green-ys",
+      "brandId": "rembrandt",
+      "name": "Phthalo Green (YS)",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-phthalo-green-yellow.png"
+    },
+    {
+      "id": "rembrandt-permanent-green",
+      "brandId": "rembrandt",
+      "name": "Permanent Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Permanent-Green.png"
+    },
+    {
+      "id": "rembrandt-permanent-yellow-green",
+      "brandId": "rembrandt",
+      "name": "Permanent Yellow Green",
+      "pigmentCodes": [
+        "PY154",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-sap-green",
+      "brandId": "rembrandt",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PY150",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "rembrandt-hooker-green-light",
+      "brandId": "rembrandt",
+      "name": "Hooker Green Light",
+      "pigmentCodes": [
+        "PG7",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Hooker-green.png"
+    },
+    {
+      "id": "rembrandt-hooker-green-deep",
+      "brandId": "rembrandt",
+      "name": "Hooker Green Deep",
+      "pigmentCodes": [
+        "PG7",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Hooker-green-deep.png"
+    },
+    {
+      "id": "rembrandt-chromium-oxide-green",
+      "brandId": "rembrandt",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chromium-oxide-green.png"
+    },
+    {
+      "id": "rembrandt-green-earth",
+      "brandId": "rembrandt",
+      "name": "Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Green-Earth.png"
+    },
+    {
+      "id": "rembrandt-olive-green",
+      "brandId": "rembrandt",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY150",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Olive-Green.png"
+    },
+    {
+      "id": "rembrandt-azomethine-green-yellow",
+      "brandId": "rembrandt",
+      "name": "Azomethine Green Yellow",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-yellow-ochre",
+      "brandId": "rembrandt",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY43",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-gold-ochre",
+      "brandId": "rembrandt",
+      "name": "Gold Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-transparent-oxide-yellow",
+      "brandId": "rembrandt",
+      "name": "Transparent Oxide Yellow",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-transparent-oxide-yellow.png"
+    },
+    {
+      "id": "rembrandt-raw-sienna",
+      "brandId": "rembrandt",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-quinacridone-orange",
+      "brandId": "rembrandt",
+      "name": "Quinacridone Orange",
+      "pigmentCodes": [
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-transparent-oxide-red",
+      "brandId": "rembrandt",
+      "name": "Transparent Oxide Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Transparent-oxide-red.png"
+    },
+    {
+      "id": "rembrandt-burnt-sienna",
+      "brandId": "rembrandt",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Burnt-sienna.png"
+    },
+    {
+      "id": "rembrandt-burnt-umber",
+      "brandId": "rembrandt",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Burnt-umber.png"
+    },
+    {
+      "id": "rembrandt-greenish-umber",
+      "brandId": "rembrandt",
+      "name": "Greenish Umber",
+      "pigmentCodes": [
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Greenish-umber.png"
+    },
+    {
+      "id": "rembrandt-transparent-oxide-umber",
+      "brandId": "rembrandt",
+      "name": "Transparent Oxide Umber",
+      "pigmentCodes": [
+        "PY42",
+        "PR101",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-sepia",
+      "brandId": "rembrandt",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBk7",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-Sepia.png"
+    },
+    {
+      "id": "rembrandt-vandyke-brown",
+      "brandId": "rembrandt",
+      "name": "Vandyke Brown",
+      "pigmentCodes": [
+        "PR101",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-spinel-grey",
+      "brandId": "rembrandt",
+      "name": "Spinel Grey",
+      "pigmentCodes": [
+        "PBk26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Spinel-Grey.png"
+    },
+    {
+      "id": "rembrandt-neutral-tint",
+      "brandId": "rembrandt",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PBk6",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-neutral-tint.png"
+    },
+    {
+      "id": "rembrandt-paynes-grey",
+      "brandId": "rembrandt",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PBk6",
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-paynes-grey.png"
+    },
+    {
+      "id": "rembrandt-davys-grey",
+      "brandId": "rembrandt",
+      "name": "Davy’s Grey",
+      "pigmentCodes": [
+        "PBk11",
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-davys-grey.png"
+    },
+    {
+      "id": "rembrandt-oxide-black",
+      "brandId": "rembrandt",
+      "name": "Oxide Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-oxide-black.png"
+    },
+    {
+      "id": "rembrandt-ivory-black",
+      "brandId": "rembrandt",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-ivory-black.png"
+    },
+    {
+      "id": "rembrandt-lamp-black",
+      "brandId": "rembrandt",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-lamp-black.png"
+    },
+    {
+      "id": "rembrandt-dusk-yellow",
+      "brandId": "rembrandt",
+      "name": "Dusk Yellow",
+      "pigmentCodes": [
+        "PBk11",
+        "PY128"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-Dusk-yellow.png"
+    },
+    {
+      "id": "rembrandt-dusk-pink",
+      "brandId": "rembrandt",
+      "name": "Dusk Pink",
+      "pigmentCodes": [
+        "PR122",
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-dusk-green",
+      "brandId": "rembrandt",
+      "name": "Dusk Green",
+      "pigmentCodes": [
+        "PBk11",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-dusk-green.png"
+    },
+    {
+      "id": "rembrandt-graphite",
+      "brandId": "rembrandt",
+      "name": "Graphite",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-silver",
+      "brandId": "rembrandt",
+      "name": "Silver",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-light-gold",
+      "brandId": "rembrandt",
+      "name": "Light Gold",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-copper",
+      "brandId": "rembrandt",
+      "name": "Copper",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-interference-white",
+      "brandId": "rembrandt",
+      "name": "Interference White",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-interference-violet",
+      "brandId": "rembrandt",
+      "name": "Interference Violet",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-interference-blue",
+      "brandId": "rembrandt",
+      "name": "Interference Blue",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-interference-green",
+      "brandId": "rembrandt",
+      "name": "Interference Green",
+      "pigmentCodes": [
+        "Coated Mica"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-chameleon-gold-red-violet",
+      "brandId": "rembrandt",
+      "name": "Chameleon gold/red/violet",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-chameleon-red-violet-blue",
+      "brandId": "rembrandt",
+      "name": "Chameleon red/violet/blue",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-chameleon-violet-blue-green",
+      "brandId": "rembrandt",
+      "name": "Chameleon violet/blue/green",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-chameleon-blue-green-gold",
+      "brandId": "rembrandt",
+      "name": "Chameleon blue/green/gold",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-spark-green",
+      "brandId": "rembrandt",
+      "name": "Spark green",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-spark-blue",
+      "brandId": "rembrandt",
+      "name": "Spark Blue",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-spark-violet",
+      "brandId": "rembrandt",
+      "name": "Spark Violet",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "rembrandt-spark-pink",
+      "brandId": "rembrandt",
+      "name": "Spark Pink",
+      "pigmentCodes": [
+        "Coated Glass"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "Low",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
     }
   ]
 }
