@@ -134,6 +134,15 @@
       "website": "#"
     },
     {
+      "id": "kuretake-gansai-tambi",
+      "name": "Kuretake Gansai Tambi",
+      "logo": "KG",
+      "description": "Kuretake Gansai Tambi is a professional watercolor maker from Japan.",
+      "website": "#",
+      "country": "Japan",
+      "status": "Professional"
+    },
+    {
       "id": "nila-colori",
       "name": "NILA COLORI",
       "logo": "NC",
