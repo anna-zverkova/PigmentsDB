@@ -179,3 +179,37 @@ node scrapers/import_lutea_from_html.mjs \
   --uploads-dir "public/uploads/lutea" \
   --brand-id "lutea"
 ```
+
+## Blick — import from Oto Kano HTML
+
+**What it does**
+- Parses the Blick paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/blick`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_blick_from_html.mjs \
+  --html "Blick Watercolors - Watercolor Paint Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/blick" \
+  --brand-id "blick"
+```
+
+## QoR — import from Oto Kano HTML
+
+**What it does**
+- Parses the QoR paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/qor`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_qor_from_html.mjs \
+  --html "QoR - Watercolor Paints Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/qor" \
+  --brand-id "qor"
+```

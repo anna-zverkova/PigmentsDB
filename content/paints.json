@@ -64828,6 +64828,2478 @@
       "isDiscontinued": false,
       "hue": "–",
       "swatchImage": "/uploads/lutea/LU-brown.png"
+    },
+    {
+      "id": "blick-bismuth-yellow",
+      "brandId": "blick",
+      "name": "Bismuth Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-aureolin-yellow",
+      "brandId": "blick",
+      "name": "Aureolin Yellow",
+      "pigmentCodes": [
+        "PY151"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "blick-lemon-yellow",
+      "brandId": "blick",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-lemon-yellow.png"
+    },
+    {
+      "id": "blick-cadmium-lemon",
+      "brandId": "blick",
+      "name": "Cadmium Lemon",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-cadmium-lemon.png"
+    },
+    {
+      "id": "blick-cadmium-yellow-light",
+      "brandId": "blick",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-cadmium-yellow-light.png"
+    },
+    {
+      "id": "blick-cadmium-yellow-medium",
+      "brandId": "blick",
+      "name": "Cadmium Yellow Medium",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-cadmium-yellow-medium.png"
+    },
+    {
+      "id": "blick-cadmium-yellow-deep",
+      "brandId": "blick",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-cadmium-yellow-deep.png"
+    },
+    {
+      "id": "blick-gamboge",
+      "brandId": "blick",
+      "name": "Gamboge",
+      "pigmentCodes": [
+        "PY42",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/blick/BL-gamboge.png"
+    },
+    {
+      "id": "blick-indian-yellow",
+      "brandId": "blick",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PO62",
+        "PY97"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "blick-naples-yellow",
+      "brandId": "blick",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PY35",
+        "PW6",
+        "PBr7",
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/blick/BL-naples-yellow-1.png"
+    },
+    {
+      "id": "blick-cadmium-orange",
+      "brandId": "blick",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-transparent-orange",
+      "brandId": "blick",
+      "name": "Transparent Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-vermilion",
+      "brandId": "blick",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR188",
+        "PR170",
+        "PR209",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "blick-cadmium-red-light",
+      "brandId": "blick",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-cadmium-red-medium",
+      "brandId": "blick",
+      "name": "Cadmium Red Medium",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-cadmium-red-deep",
+      "brandId": "blick",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-naphthol-red",
+      "brandId": "blick",
+      "name": "Naphthol Red",
+      "pigmentCodes": [
+        "PR188",
+        "PR170"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-crimson-golden",
+      "brandId": "blick",
+      "name": "Crimson Golden",
+      "pigmentCodes": [
+        "PR83",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-crimson-golden.png"
+    },
+    {
+      "id": "blick-alizarin-crimson",
+      "brandId": "blick",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-alizarin-crimson.png"
+    },
+    {
+      "id": "blick-alizarin-rose",
+      "brandId": "blick",
+      "name": "Alizarin Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-alizarin-crimson-1.png"
+    },
+    {
+      "id": "blick-quinacridone-red",
+      "brandId": "blick",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-quinacridone-rose",
+      "brandId": "blick",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-quinacridone-rose.png"
+    },
+    {
+      "id": "blick-quinacridone-magenta",
+      "brandId": "blick",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-permanent-alizarin",
+      "brandId": "blick",
+      "name": "Permanent Alizarin",
+      "pigmentCodes": [
+        "PR48:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-permanent-alizarin.png"
+    },
+    {
+      "id": "blick-magenta",
+      "brandId": "blick",
+      "name": "Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-cobalt-violet",
+      "brandId": "blick",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-cobalt-violet-1.png"
+    },
+    {
+      "id": "blick-quinacridone-violet",
+      "brandId": "blick",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV23",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-dioxazine-purple",
+      "brandId": "blick",
+      "name": "Dioxazine Purple",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-delft-blue",
+      "brandId": "blick",
+      "name": "Delft Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-ultramarine-blue",
+      "brandId": "blick",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-french-ultramarine-blue",
+      "brandId": "blick",
+      "name": "French Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-phthalo-blue",
+      "brandId": "blick",
+      "name": "Phthalo Blue",
+      "pigmentCodes": [
+        "PB15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-phthalo-blue.png"
+    },
+    {
+      "id": "blick-prussian-blue",
+      "brandId": "blick",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-indigo",
+      "brandId": "blick",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB66"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "blick-cobalt-blue",
+      "brandId": "blick",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-manganese-blue-hue",
+      "brandId": "blick",
+      "name": "Manganese Blue Hue",
+      "pigmentCodes": [
+        "PB15:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-cerulean-blue",
+      "brandId": "blick",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-cobalt-turquoise",
+      "brandId": "blick",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-viridian",
+      "brandId": "blick",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-viridian-1.png"
+    },
+    {
+      "id": "blick-phthalo-green",
+      "brandId": "blick",
+      "name": "Phthalo Green",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-phthalo-green-1.png"
+    },
+    {
+      "id": "blick-emerald-green",
+      "brandId": "blick",
+      "name": "Emerald Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-emerald-green.png"
+    },
+    {
+      "id": "blick-terre-verte",
+      "brandId": "blick",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PBr7",
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-terre-verte.png"
+    },
+    {
+      "id": "blick-chromium-oxide-green",
+      "brandId": "blick",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-chromium-oxide-green.png"
+    },
+    {
+      "id": "blick-hookers-green-light",
+      "brandId": "blick",
+      "name": "Hookers Green Light",
+      "pigmentCodes": [
+        "PB15",
+        "PG7",
+        "PY153",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-hookers-green-light.png"
+    },
+    {
+      "id": "blick-hookers-green-deep",
+      "brandId": "blick",
+      "name": "Hookers Green Deep",
+      "pigmentCodes": [
+        "PB15",
+        "PY97",
+        "PY153",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-hookers-green-deep.png"
+    },
+    {
+      "id": "blick-sap-green",
+      "brandId": "blick",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PB15",
+        "PO48",
+        "PG7",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/blick/BL-sap-green-1.png"
+    },
+    {
+      "id": "blick-phthalo-yellow-green",
+      "brandId": "blick",
+      "name": "Phthalo Yellow Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-yellow-ochre",
+      "brandId": "blick",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-raw-sienna",
+      "brandId": "blick",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-brown-madder",
+      "brandId": "blick",
+      "name": "Brown Madder",
+      "pigmentCodes": [
+        "PR188",
+        "PR17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-burnt-sienna",
+      "brandId": "blick",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-indian-red",
+      "brandId": "blick",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-indian-red.png"
+    },
+    {
+      "id": "blick-english-red",
+      "brandId": "blick",
+      "name": "English Red",
+      "pigmentCodes": [
+        "PY43",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-raw-umber",
+      "brandId": "blick",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-burnt-umber",
+      "brandId": "blick",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "blick-van-dyke-brown",
+      "brandId": "blick",
+      "name": "Van Dyke Brown",
+      "pigmentCodes": [
+        "PBr9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/blick/BL-van-Dyke-Brown.png"
+    },
+    {
+      "id": "blick-sepia",
+      "brandId": "blick",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "blick-davys-gray",
+      "brandId": "blick",
+      "name": "Davy’s Gray",
+      "pigmentCodes": [
+        "PB15",
+        "PB29",
+        "PBk9",
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-davys-gray.png"
+    },
+    {
+      "id": "blick-paynes-gray",
+      "brandId": "blick",
+      "name": "Paynes Gray",
+      "pigmentCodes": [
+        "PB15",
+        "PB29",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-paynes-gray.png"
+    },
+    {
+      "id": "blick-ivory-black",
+      "brandId": "blick",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-ivory-black-1.png"
+    },
+    {
+      "id": "blick-lamp-black",
+      "brandId": "blick",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-lamp-black-1.png"
+    },
+    {
+      "id": "blick-titanium-white",
+      "brandId": "blick",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-titanium-white-1.png"
+    },
+    {
+      "id": "blick-chinese-white",
+      "brandId": "blick",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/blick/BL-chinese-white.png"
+    },
+    {
+      "id": "qor-nickel-yellow",
+      "brandId": "qor",
+      "name": "Nickel Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-yellow-primrose",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Primrose",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cadmium-yellow-primrose.png"
+    },
+    {
+      "id": "qor-hansa-yellow-light",
+      "brandId": "qor",
+      "name": "Hansa Yellow Light",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-hansa-yellow-light.png"
+    },
+    {
+      "id": "qor-bismuth-vanadate-yellow",
+      "brandId": "qor",
+      "name": "Bismuth Vanadate Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-yellow-light",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cadmium-yellow-light.png"
+    },
+    {
+      "id": "qor-benzimidazolone-yellow",
+      "brandId": "qor",
+      "name": "Benzimidazolone Yellow",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-yellow-medium",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Medium",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Cadmium-yellow-medium.png"
+    },
+    {
+      "id": "qor-aureolin-modern",
+      "brandId": "qor",
+      "name": "Aureolin Modern",
+      "pigmentCodes": [
+        "PW6",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-aureolin-modern.png"
+    },
+    {
+      "id": "qor-cadmium-yellow-deep",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-permanent-gamboge",
+      "brandId": "qor",
+      "name": "Permanent Gamboge",
+      "pigmentCodes": [
+        "PY42",
+        "PV19",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "qor-quinacridone-burnt-orange",
+      "brandId": "qor",
+      "name": "Quinacridone Burnt Orange",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-quinacridone-gold",
+      "brandId": "qor",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-diarylide-yellow",
+      "brandId": "qor",
+      "name": "Diarylide Yellow",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-naples-yellow",
+      "brandId": "qor",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PBr24",
+        "PBk7",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-naples-yellow.png"
+    },
+    {
+      "id": "qor-quinacridone-gold-deep",
+      "brandId": "qor",
+      "name": "Quinacridone Gold Deep",
+      "pigmentCodes": [
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-indian-yellow",
+      "brandId": "qor",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY154",
+        "PY150",
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "qor-cadmium-orange",
+      "brandId": "qor",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-transparent-pyrrol-orange",
+      "brandId": "qor",
+      "name": "Transparent Pyrrol Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-red-light",
+      "brandId": "qor",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-pyrrole-red-light",
+      "brandId": "qor",
+      "name": "Pyrrole Red Light",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-pyrrole-red-medium",
+      "brandId": "qor",
+      "name": "Pyrrole Red Medium",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-red-medium",
+      "brandId": "qor",
+      "name": "Cadmium Red Medium",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cadmium-red-deep",
+      "brandId": "qor",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-quinacridone-red-light",
+      "brandId": "qor",
+      "name": "Quinacridone Red Light",
+      "pigmentCodes": [
+        "PR207"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "High",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-pyrrole-red-deep",
+      "brandId": "qor",
+      "name": "Pyrrole Red Deep",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "High",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-permanent-scarlet",
+      "brandId": "qor",
+      "name": "Permanent Scarlet",
+      "pigmentCodes": [
+        "PR168"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-quinacridone-red",
+      "brandId": "qor",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Quinacridone-red.png"
+    },
+    {
+      "id": "qor-permanent-alizarin-crimson",
+      "brandId": "qor",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "qor-quinacridone-crimson",
+      "brandId": "qor",
+      "name": "Quinacridone Crimson",
+      "pigmentCodes": [
+        "PR122",
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-quinacridone-magenta",
+      "brandId": "qor",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-ultramarine-pink",
+      "brandId": "qor",
+      "name": "Ultramarine Pink",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-pink.png"
+    },
+    {
+      "id": "qor-quinacridone-violet",
+      "brandId": "qor",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-quinacridone-violet.png"
+    },
+    {
+      "id": "qor-cobalt-violet",
+      "brandId": "qor",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV49"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-ultramarine-violet",
+      "brandId": "qor",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-violet.png"
+    },
+    {
+      "id": "qor-dioxazine-purple",
+      "brandId": "qor",
+      "name": "Dioxazine Purple",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-indigo",
+      "brandId": "qor",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15:3",
+        "PBk7",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "qor-ultramarine-blue",
+      "brandId": "qor",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-ultramarine-blue-violet",
+      "brandId": "qor",
+      "name": "Ultramarine Blue Violet",
+      "pigmentCodes": [
+        "PV15",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-blue-violet.png"
+    },
+    {
+      "id": "qor-cobalt-blue",
+      "brandId": "qor",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cerulean-blue-chromium",
+      "brandId": "qor",
+      "name": "Cerulean Blue, Chromium",
+      "pigmentCodes": [
+        "PB36:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-indanthrone-blue",
+      "brandId": "qor",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-prussian-blue",
+      "brandId": "qor",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-phthalo-blue-gs",
+      "brandId": "qor",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Phthalo-blue-green-shade.png"
+    },
+    {
+      "id": "qor-french-cerulean-blue",
+      "brandId": "qor",
+      "name": "French Cerulean Blue",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-manganese-blue",
+      "brandId": "qor",
+      "name": "Manganese Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-manganese-blue.png"
+    },
+    {
+      "id": "qor-phthalo-turquoise",
+      "brandId": "qor",
+      "name": "Phthalo Turquoise",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-turquoise-phthalo.png"
+    },
+    {
+      "id": "qor-cobalt-turquoise",
+      "brandId": "qor",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-cobalt-teal",
+      "brandId": "qor",
+      "name": "Cobalt Teal",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cobalt-teal.png"
+    },
+    {
+      "id": "qor-phthalo-green-bs",
+      "brandId": "qor",
+      "name": "Phthalo Green (BS)",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-phthalo-green-blue-shade.png"
+    },
+    {
+      "id": "qor-viridian-green",
+      "brandId": "qor",
+      "name": "Viridian Green",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-viridian-green.png"
+    },
+    {
+      "id": "qor-permanent-green-light",
+      "brandId": "qor",
+      "name": "Permanent Green Light",
+      "pigmentCodes": [
+        "PG7",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-permanent-green-light.png"
+    },
+    {
+      "id": "qor-cobalt-green",
+      "brandId": "qor",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cobalt-green.png"
+    },
+    {
+      "id": "qor-hookers-green",
+      "brandId": "qor",
+      "name": "Hookers Green",
+      "pigmentCodes": [
+        "PY150",
+        "PB60",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-sap-green",
+      "brandId": "qor",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG36",
+        "PR101",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-sap-green.png"
+    },
+    {
+      "id": "qor-terre-verte",
+      "brandId": "qor",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-terre-verte.png"
+    },
+    {
+      "id": "qor-chromium-oxide-green",
+      "brandId": "qor",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-chromium-oxide-green.png"
+    },
+    {
+      "id": "qor-olive-green",
+      "brandId": "qor",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PR101",
+        "PY184",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-bohemian-green-earth",
+      "brandId": "qor",
+      "name": "Bohemian Green Earth",
+      "pigmentCodes": [
+        "PBk7",
+        "PG7",
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-bohemian-green-eath.png"
+    },
+    {
+      "id": "qor-green-gold",
+      "brandId": "qor",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-titan-buff",
+      "brandId": "qor",
+      "name": "Titan Buff",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-titan-buff.png"
+    },
+    {
+      "id": "qor-yellow-ochre-natural",
+      "brandId": "qor",
+      "name": "Yellow Ochre (Natural)",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-transparent-yellow-oxide",
+      "brandId": "qor",
+      "name": "Transparent Yellow Oxide",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-yellow-oxide.png"
+    },
+    {
+      "id": "qor-raw-sienna-natural",
+      "brandId": "qor",
+      "name": "Raw Sienna (Natural)",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-transparent-red-oxide",
+      "brandId": "qor",
+      "name": "Transparent Red Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-red-oxide.png"
+    },
+    {
+      "id": "qor-mars-orange-deep",
+      "brandId": "qor",
+      "name": "Mars Orange Deep",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-mars-orange-deep.png"
+    },
+    {
+      "id": "qor-venetian-red",
+      "brandId": "qor",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-venetian-red.png"
+    },
+    {
+      "id": "qor-burnt-sienna-natural",
+      "brandId": "qor",
+      "name": "Burnt Sienna (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-burnt-sienna-natural.png"
+    },
+    {
+      "id": "qor-transparent-brown-oxide",
+      "brandId": "qor",
+      "name": "Transparent Brown Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-brown-oxide.png"
+    },
+    {
+      "id": "qor-burnt-umber-natural",
+      "brandId": "qor",
+      "name": "Burnt Umber (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-burnt-umber.png"
+    },
+    {
+      "id": "qor-raw-umber-natural",
+      "brandId": "qor",
+      "name": "Raw Umber (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-raw-umber.png"
+    },
+    {
+      "id": "qor-nickel-azo-yellow",
+      "brandId": "qor",
+      "name": "Nickel Azo Yellow",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-van-dyke-brown",
+      "brandId": "qor",
+      "name": "Van Dyke Brown",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-van-dyke-brown.png"
+    },
+    {
+      "id": "qor-sepia",
+      "brandId": "qor",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PR101",
+        "PY150",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue"
+    },
+    {
+      "id": "qor-carbon-black",
+      "brandId": "qor",
+      "name": "Carbon Black",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cabon-black.png"
+    },
+    {
+      "id": "qor-ivory-black",
+      "brandId": "qor",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ivory-black.png"
+    },
+    {
+      "id": "qor-neutral-tint",
+      "brandId": "qor",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PY42",
+        "PR122",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-paynes-gray",
+      "brandId": "qor",
+      "name": "Payne’s Gray",
+      "pigmentCodes": [
+        "PB15:3",
+        "PBk7",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "qor-ardoise-gray",
+      "brandId": "qor",
+      "name": "Ardoise Gray",
+      "pigmentCodes": [
+        "PBk19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ardoise-gray.png"
+    },
+    {
+      "id": "qor-titanium-white",
+      "brandId": "qor",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-titanium-white.png"
+    },
+    {
+      "id": "qor-chinese-white",
+      "brandId": "qor",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-chinese-white.png"
+    },
+    {
+      "id": "qor-iridescent-gold-fine",
+      "brandId": "qor",
+      "name": "Iridescent Gold (Fine)",
+      "pigmentCodes": [
+        "Titanium Dioxide coated mica particles"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-iridescent-gold.png"
+    },
+    {
+      "id": "qor-iridescent-silver-fine",
+      "brandId": "qor",
+      "name": "Iridescent Silver (Fine)",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Iridescent-silver.png"
+    },
+    {
+      "id": "qor-iridescent-pearl-fine",
+      "brandId": "qor",
+      "name": "Iridescent Pearl (Fine)",
+      "pigmentCodes": [
+        "Titanium Dioxide coated mica particles"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Iridescent-pearl.png"
     }
   ]
 }
