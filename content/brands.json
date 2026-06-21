@@ -211,6 +211,13 @@
       "status": "Professional"
     },
     {
+      "id": "natural-pigments",
+      "name": "Natural Pigments (Rublev)",
+      "logo": "NP",
+      "description": "",
+      "website": "#"
+    },
+    {
       "id": "old-holland",
       "name": "Old Holland",
       "logo": "OH",

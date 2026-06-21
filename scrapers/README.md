@@ -230,3 +230,20 @@ node scrapers/import_utrecht_from_html.mjs \
   --uploads-dir "public/uploads/utrecht" \
   --brand-id "utrecht"
 ```
+
+## Natural Pigments (Rublev) — import from Oto Kano HTML
+
+**What it does**
+- Parses the Natural Pigments paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/natural-pigments`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_natural_pigments_from_html.mjs \
+  --html "Natural Pigments (Rublev) Watercolor Paints - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/natural-pigments" \
+  --brand-id "natural-pigments"
+```

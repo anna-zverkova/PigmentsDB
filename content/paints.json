@@ -68413,6 +68413,1157 @@
       "isVegan": true,
       "isDiscontinued": false,
       "hue": "–"
+    },
+    {
+      "id": "natural-pigments-lazurite",
+      "brandId": "natural-pigments",
+      "name": "Lazurite (Lapis Lazuli)",
+      "pigmentCodes": [
+        "Genuine Lapis Lazuli"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Smalt.png"
+    },
+    {
+      "id": "natural-pigments-smalt",
+      "brandId": "natural-pigments",
+      "name": "Smalt",
+      "pigmentCodes": [
+        "PB32"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": null,
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Lapis-Lazuli.png"
+    },
+    {
+      "id": "natural-pigments-prussian-blue",
+      "brandId": "natural-pigments",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Prussian-Blue.png"
+    },
+    {
+      "id": "natural-pigments-verditer-blue",
+      "brandId": "natural-pigments",
+      "name": "Verditer Blue",
+      "pigmentCodes": [
+        "PB30"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": null,
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Verditer-Blue.png"
+    },
+    {
+      "id": "natural-pigments-ultramarine-blue",
+      "brandId": "natural-pigments",
+      "name": "Ultramarine Blue (Green Shade)",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Ultramarine-Blue-Green-Shade.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-zinc-blue",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Zinc Blue",
+      "pigmentCodes": [
+        "PB72"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Zinc-Blue.png"
+    },
+    {
+      "id": "natural-pigments-maya-blue",
+      "brandId": "natural-pigments",
+      "name": "Maya Blue",
+      "pigmentCodes": [
+        "PB82"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": null,
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Maya-Blue.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-chromite-blue",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Chromite Blue",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Chromite-Blue.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-turquoise",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Turquoise.png"
+    },
+    {
+      "id": "natural-pigments-chromium-oxide-green",
+      "brandId": "natural-pigments",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Chromium-Oxide-Green.png"
+    },
+    {
+      "id": "natural-pigments-malachite",
+      "brandId": "natural-pigments",
+      "name": "Malachite",
+      "pigmentCodes": [
+        "PG39"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Malachite.png"
+    },
+    {
+      "id": "natural-pigments-nicosia-green-earth",
+      "brandId": "natural-pigments",
+      "name": "Nicosia Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Nicosia-Green-Earth.png"
+    },
+    {
+      "id": "natural-pigments-verona-green-earth",
+      "brandId": "natural-pigments",
+      "name": "Verona Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Verona-Green-Earth.png"
+    },
+    {
+      "id": "natural-pigments-antica-green-earth",
+      "brandId": "natural-pigments",
+      "name": "Antica Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Antica-Green-Earth.png"
+    },
+    {
+      "id": "natural-pigments-viridian",
+      "brandId": "natural-pigments",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Viridian.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-green-light",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Green Light",
+      "pigmentCodes": [
+        "PG19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Green-Light.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-green-dark",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Green Dark",
+      "pigmentCodes": [
+        "PG19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Green-Dark.png"
+    },
+    {
+      "id": "natural-pigments-ambrogio-yellow-earth",
+      "brandId": "natural-pigments",
+      "name": "Ambrogio Yellow Earth",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Ambrogio-Yellow-Earth.png"
+    },
+    {
+      "id": "natural-pigments-blue-ridge-yellow",
+      "brandId": "natural-pigments",
+      "name": "Blue Ridge Yellow",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Blue-Ridge-Yellow-Ochre.png"
+    },
+    {
+      "id": "natural-pigments-lemon-ochre",
+      "brandId": "natural-pigments",
+      "name": "Lemon Ochre",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Lemon-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-italian-yellow-earth",
+      "brandId": "natural-pigments",
+      "name": "Italian Yellow Earth",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Yellow-Earth.png"
+    },
+    {
+      "id": "natural-pigments-italian-dark-ocher",
+      "brandId": "natural-pigments",
+      "name": "Italian Dark Ocher",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Dark-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-yellow",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Yellow (Aureolin)",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "4/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Yellow-Aureolin.png"
+    },
+    {
+      "id": "natural-pigments-natural-yellow-oxide",
+      "brandId": "natural-pigments",
+      "name": "Natural Yellow Oxide",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Natural-Yellow-Oxide.png"
+    },
+    {
+      "id": "natural-pigments-yellow-ocher-light",
+      "brandId": "natural-pigments",
+      "name": "Yellow Ocher Light",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Yellow-Ocher-Light.png"
+    },
+    {
+      "id": "natural-pigments-yellow-ocher-dark",
+      "brandId": "natural-pigments",
+      "name": "Yellow Ocher Dark",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Yellow-Ocher-Dark.png"
+    },
+    {
+      "id": "natural-pigments-benzimidazolone-yellow",
+      "brandId": "natural-pigments",
+      "name": "Benzimidazolone Yellow",
+      "pigmentCodes": [
+        "PY151"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Benzimidazolone-Yellow.png"
+    },
+    {
+      "id": "natural-pigments-orange-ocher",
+      "brandId": "natural-pigments",
+      "name": "Orange Ocher",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Orange-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-red-sartorius-earth",
+      "brandId": "natural-pigments",
+      "name": "Red Sartorius Earth",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Red-Sartorius-Earth.png"
+    },
+    {
+      "id": "natural-pigments-ercolano-red",
+      "brandId": "natural-pigments",
+      "name": "Ercolano Red",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Ercolano-Red.png"
+    },
+    {
+      "id": "natural-pigments-venetian-red",
+      "brandId": "natural-pigments",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Venetian-Red.png"
+    },
+    {
+      "id": "natural-pigments-french-red-ocher",
+      "brandId": "natural-pigments",
+      "name": "French Red Ocher",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-French-Red-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-pink-pipestone",
+      "brandId": "natural-pigments",
+      "name": "Pink Pipestone",
+      "pigmentCodes": [
+        "Clay from Pipestone Minnesota"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Pink-Pipestone.png"
+    },
+    {
+      "id": "natural-pigments-potters-pink",
+      "brandId": "natural-pigments",
+      "name": "Potters Pink",
+      "pigmentCodes": [
+        "PR233"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": null,
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Potters-Pink.png"
+    },
+    {
+      "id": "natural-pigments-alizarin-crimson",
+      "brandId": "natural-pigments",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Alizarin-Crimson.png"
+    },
+    {
+      "id": "natural-pigments-crimson-ocher",
+      "brandId": "natural-pigments",
+      "name": "Crimson Ocher",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Crimson-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-armenian-brown-mummy",
+      "brandId": "natural-pigments",
+      "name": "Armenian Brown Mummy",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Armenian-Brown-Mummy.png"
+    },
+    {
+      "id": "natural-pigments-hematite",
+      "brandId": "natural-pigments",
+      "name": "Hematite",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Hematite.png"
+    },
+    {
+      "id": "natural-pigments-cadmium-red-light",
+      "brandId": "natural-pigments",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "natural-pigments-cadmium-red-medium",
+      "brandId": "natural-pigments",
+      "name": "Cadmium Red Medium",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cadmium-Red-Medium.png"
+    },
+    {
+      "id": "natural-pigments-cadmium-red-maroon",
+      "brandId": "natural-pigments",
+      "name": "Cadmium Red Maroon",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cadmium-Red-Maroon.png"
+    },
+    {
+      "id": "natural-pigments-french-raw-sienna",
+      "brandId": "natural-pigments",
+      "name": "French Raw Sienna",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-French-Raw-Sienna.png"
+    },
+    {
+      "id": "natural-pigments-french-burnt-sienna",
+      "brandId": "natural-pigments",
+      "name": "French Burnt Sienna",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-French-Burnt-Sienna.png"
+    },
+    {
+      "id": "natural-pigments-french-raw-umber",
+      "brandId": "natural-pigments",
+      "name": "French Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-French-Raw-Umber.png"
+    },
+    {
+      "id": "natural-pigments-french-burnt-umber",
+      "brandId": "natural-pigments",
+      "name": "French Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "natural-pigments-italian-raw-sienna",
+      "brandId": "natural-pigments",
+      "name": "Italian Raw Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Raw-Sienna.png"
+    },
+    {
+      "id": "natural-pigments-italian-burnt-sienna",
+      "brandId": "natural-pigments",
+      "name": "Italian Burnt Sienna",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Burnt-Sienna.png"
+    },
+    {
+      "id": "natural-pigments-cyprus-raw-umber-light",
+      "brandId": "natural-pigments",
+      "name": "Cyprus Raw Umber Light",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cyprus-Raw-Umber-Light.png"
+    },
+    {
+      "id": "natural-pigments-cyprus-raw-umber-medium",
+      "brandId": "natural-pigments",
+      "name": "Cyprus Raw Umber Medium",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cyprus-Raw-Umber-Medium.png"
+    },
+    {
+      "id": "natural-pigments-cyprus-raw-umber-dark",
+      "brandId": "natural-pigments",
+      "name": "Cyprus Raw Umber Dark",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cyprus-Raw-Umber-Dark.png"
+    },
+    {
+      "id": "natural-pigments-cyprus-burnt-umber",
+      "brandId": "natural-pigments",
+      "name": "Cyprus Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cyprus-Burnt-Umber.png"
+    },
+    {
+      "id": "natural-pigments-cyprus-burnt-umber-warm",
+      "brandId": "natural-pigments",
+      "name": "Cyprus Burnt Umber Warm",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Low-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cyprus-Burnt-Umber-Warm.png"
+    },
+    {
+      "id": "natural-pigments-italian-green-umber",
+      "brandId": "natural-pigments",
+      "name": "Italian Green Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Green-Umber.png"
+    },
+    {
+      "id": "natural-pigments-italian-burnt-umber",
+      "brandId": "natural-pigments",
+      "name": "Italian Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Burnt-Umber.png"
+    },
+    {
+      "id": "natural-pigments-italian-burnt-umber-warm",
+      "brandId": "natural-pigments",
+      "name": "Italian Burnt Umber Warm",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Burnt-Umber-Warm.png"
+    },
+    {
+      "id": "natural-pigments-italian-brown-ocher",
+      "brandId": "natural-pigments",
+      "name": "Italian Brown Ocher",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Italian-Brown-Ocher.png"
+    },
+    {
+      "id": "natural-pigments-nicosia-raw-umber",
+      "brandId": "natural-pigments",
+      "name": "Nicosia Raw Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Nicosia-Raw-Umber.png"
+    },
+    {
+      "id": "natural-pigments-nicosia-burnt-umber",
+      "brandId": "natural-pigments",
+      "name": "Nicosia Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Nicosia-Burnt-Umber.png"
+    },
+    {
+      "id": "natural-pigments-violet-hematite",
+      "brandId": "natural-pigments",
+      "name": "Violet Hematite",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Violet-Hematite.png"
+    },
+    {
+      "id": "natural-pigments-purple-ocher",
+      "brandId": "natural-pigments",
+      "name": "Purple Ocher",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "natural-pigments-ultramarine-violet",
+      "brandId": "natural-pigments",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Ultramarine-Violet.png"
+    },
+    {
+      "id": "natural-pigments-cobalt-violet",
+      "brandId": "natural-pigments",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Cobalt-Violet.png"
+    },
+    {
+      "id": "natural-pigments-zinc-oxide",
+      "brandId": "natural-pigments",
+      "name": "Zinc Oxide",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Zinc-OXide.png"
+    },
+    {
+      "id": "natural-pigments-bone-black",
+      "brandId": "natural-pigments",
+      "name": "Bone Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "5/5",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Bone-Black.png"
+    },
+    {
+      "id": "natural-pigments-german-vine-black",
+      "brandId": "natural-pigments",
+      "name": "German Vine Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-German-Vine-Black.png"
+    },
+    {
+      "id": "natural-pigments-roman-black",
+      "brandId": "natural-pigments",
+      "name": "Roman Black",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Low-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "natural-pigments-natural-black-oxide",
+      "brandId": "natural-pigments",
+      "name": "Natural Black Oxide",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/natural-pigments/NP-Natural-Black-Oxide.png"
+    },
+    {
+      "id": "natural-pigments-shungite",
+      "brandId": "natural-pigments",
+      "name": "Shungite",
+      "pigmentCodes": [
+        "Genuine Shungite"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Medium-Staining",
+      "granulation": null,
+      "lightfastness": "5/5",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
     }
   ]
 }
