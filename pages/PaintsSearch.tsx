@@ -3,7 +3,7 @@ import { PAINTS, BRANDS, PIGMENT_FAMILIES, PIGMENTS } from '../constants';
 import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Link } from 'react-router-dom';
-import { Filter, SlidersHorizontal, Search } from 'lucide-react';
+import { Filter, Info, SlidersHorizontal, Search } from 'lucide-react';
 import { SwatchPreview } from '../components/SwatchPreview';
 
 export const PaintsSearch: React.FC = () => {
@@ -318,6 +318,20 @@ export const PaintsSearch: React.FC = () => {
 
             {/* Results Grid */}
             <div className="flex-1">
+                <div className="mb-6 rounded-2xl border border-sky-200 bg-gradient-to-r from-sky-50 via-white to-teal-50 px-4 py-4 shadow-sm">
+                    <div className="flex items-start gap-3">
+                        <div className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-sky-200 bg-white text-sky-700 shadow-sm">
+                            <Info size={18} />
+                        </div>
+                        <div className="space-y-1">
+                            <p className="font-semibold text-slate-900">About swatches</p>
+                            <p className="text-sm leading-relaxed text-slate-600">
+                                Swatch images are the closest visual reference we can show for each paint, but they are only an indication of appearance. Real-world color performance can vary with watercolor paper, absorbency, water ratio, layering, and lighting.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
                 <div className="mb-4 text-sm text-neutral-500">
                     Showing {visiblePaints.length} results
                 </div>
