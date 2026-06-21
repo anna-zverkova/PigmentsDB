@@ -69953,6 +69953,1091 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+    },
+    {
+      id: "grumbacher-academy-alizarin-crimson",
+      brandId: "grumbacher-academy",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "1/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-alizarin-crimson.png"
+    },
+    {
+      id: "grumbacher-academy-thalo-red",
+      brandId: "grumbacher-academy",
+      name: "Thalo Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-thalo-red.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-red-deep-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Red Deep Hue",
+      pigmentCodes: [
+        "PR170",
+        "PY42",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-red-deep-hue.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-red-medium-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Red Medium Hue",
+      pigmentCodes: [
+        "PR149",
+        "PR178",
+        "PR166"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-red-medium-hue.png"
+    },
+    {
+      id: "grumbacher-academy-thalo-crimson",
+      brandId: "grumbacher-academy",
+      name: "Thalo Crimson",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-thalo-crimson.png"
+    },
+    {
+      id: "grumbacher-academy-carmine-hue",
+      brandId: "grumbacher-academy",
+      name: "Carmine Hue",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-carmine-hue.png"
+    },
+    {
+      id: "grumbacher-academy-rose-madder-hue",
+      brandId: "grumbacher-academy",
+      name: "Rose Madder Hue",
+      pigmentCodes: [
+        "PR83"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "1/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-rose-madder-hue.png"
+    },
+    {
+      id: "grumbacher-academy-grumbacher-red",
+      brandId: "grumbacher-academy",
+      name: "Grumbacher Red",
+      pigmentCodes: [
+        "PR170",
+        "PR188"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-grumacher-red.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-red-light-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Red Light Hue",
+      pigmentCodes: [
+        "PY97",
+        "PY65",
+        "PR178",
+        "PR188"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-red-light-hue.png"
+    },
+    {
+      id: "grumbacher-academy-scarlet-lake",
+      brandId: "grumbacher-academy",
+      name: "Scarlet Lake",
+      pigmentCodes: [
+        "PR107",
+        "PO36"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-scarlet-lake.png"
+    },
+    {
+      id: "grumbacher-academy-geranium-lake",
+      brandId: "grumbacher-academy",
+      name: "Geranium Lake",
+      pigmentCodes: [
+        "PR149",
+        "PR166",
+        "PR170"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-geranium-lake.png"
+    },
+    {
+      id: "grumbacher-academy-vermilion-hue",
+      brandId: "grumbacher-academy",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PY65",
+        "PR188"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-vermilion-hue.png"
+    },
+    {
+      id: "grumbacher-academy-alizarin-orange",
+      brandId: "grumbacher-academy",
+      name: "Alizarin Orange",
+      pigmentCodes: [
+        "PY65",
+        "PR209",
+        "PY150"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-Alizarin-orange.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-orange-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Orange Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY138",
+        "PO62",
+        "PR188"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-orange.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-yellow-deep-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Yellow Deep Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-yellow-deep-hue.png"
+    },
+    {
+      id: "grumbacher-academy-indian-yellow-hue",
+      brandId: "grumbacher-academy",
+      name: "Indian Yellow Hue",
+      pigmentCodes: [
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-indian-yellow-hue.png"
+    },
+    {
+      id: "grumbacher-academy-cadmium-yellow-med-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Yellow Med. Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-yellow-medium-hue.png"
+    },
+    {
+      id: "grumbacher-academy-golden-yellow",
+      brandId: "grumbacher-academy",
+      name: "Golden Yellow",
+      pigmentCodes: [
+        "PY65",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013"
+    },
+    {
+      id: "grumbacher-academy-cadmium-yellow-pale-hue",
+      brandId: "grumbacher-academy",
+      name: "Cadmium Yellow Pale Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY97"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cadmium-yellow-pale-hue-1.png"
+    },
+    {
+      id: "grumbacher-academy-lemon-yellow",
+      brandId: "grumbacher-academy",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-lemon-yellow-1.png"
+    },
+    {
+      id: "grumbacher-academy-olive-green-hue",
+      brandId: "grumbacher-academy",
+      name: "Olive Green Hue",
+      pigmentCodes: [
+        "PY3",
+        "PY65",
+        "PBr7",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-olive-green-hue.png"
+    },
+    {
+      id: "grumbacher-academy-thalo-yellow-green",
+      brandId: "grumbacher-academy",
+      name: "Thalo Yellow Green",
+      pigmentCodes: [
+        "PG36",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-Thalo-yellow-green.png"
+    },
+    {
+      id: "grumbacher-academy-permanent-green-light",
+      brandId: "grumbacher-academy",
+      name: "Permanent Green Light",
+      pigmentCodes: [
+        "PY3",
+        "PG36"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-permanent-green-light.png"
+    },
+    {
+      id: "grumbacher-academy-hookers-green-light-hue",
+      brandId: "grumbacher-academy",
+      name: "Hooker\u2019s Green Light Hue",
+      pigmentCodes: [
+        "PG36",
+        "PY97",
+        "PY65",
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-Hookers-green-light-hue.png"
+    },
+    {
+      id: "grumbacher-academy-chromium-oxide-green",
+      brandId: "grumbacher-academy",
+      name: "Chromium Oxide Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-chromium-oxide-green.png"
+    },
+    {
+      id: "grumbacher-academy-sap-green",
+      brandId: "grumbacher-academy",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PO48",
+        "PY150",
+        "PB15:4",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-sap-green.png"
+    },
+    {
+      id: "grumbacher-academy-hookers-green-deep-hue",
+      brandId: "grumbacher-academy",
+      name: "Hooker\u2019s Green Deep Hue",
+      pigmentCodes: [
+        "PB15:4",
+        "PG36",
+        "PY97",
+        "PBk6",
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-hookers-green-deep-hue.png"
+    },
+    {
+      id: "grumbacher-academy-green-earth-hue",
+      brandId: "grumbacher-academy",
+      name: "Green Earth Hue",
+      pigmentCodes: [
+        "PBr7",
+        "PG18"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-green-earth-hue.png"
+    },
+    {
+      id: "grumbacher-academy-thalo-green-bs",
+      brandId: "grumbacher-academy",
+      name: "Thalo Green (BS)",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-Thalo-green-blue-shade.png"
+    },
+    {
+      id: "grumbacher-academy-emerald-green",
+      brandId: "grumbacher-academy",
+      name: "Emerald Green",
+      pigmentCodes: [
+        "PG7",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-emerald-green.png"
+    },
+    {
+      id: "grumbacher-academy-viridian",
+      brandId: "grumbacher-academy",
+      name: "Viridian",
+      pigmentCodes: [
+        "PG18",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-viridian.png"
+    },
+    {
+      id: "grumbacher-academy-turquoise",
+      brandId: "grumbacher-academy",
+      name: "Turquoise",
+      pigmentCodes: [
+        "PB15:4",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-turquoise.png"
+    },
+    {
+      id: "grumbacher-academy-manganesium-green",
+      brandId: "grumbacher-academy",
+      name: "Manganesium Green",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-manganesium-green.png"
+    },
+    {
+      id: "grumbacher-academy-thalo-blue",
+      brandId: "grumbacher-academy",
+      name: "Thalo Blue",
+      pigmentCodes: [
+        "PB15:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-thalo-blue.png"
+    },
+    {
+      id: "grumbacher-academy-cerulean-blue-hue",
+      brandId: "grumbacher-academy",
+      name: "Cerulean Blue Hue",
+      pigmentCodes: [
+        "PB15:4",
+        "PB29",
+        "PBk9",
+        "PW4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cerulean-blue-hue.png"
+    },
+    {
+      id: "grumbacher-academy-ultramarine-blue",
+      brandId: "grumbacher-academy",
+      name: "Ultramarine Blue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-ultramarine-blue.png"
+    },
+    {
+      id: "grumbacher-academy-cobalt-blue-hue",
+      brandId: "grumbacher-academy",
+      name: "Cobalt Blue Hue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-cobalt-blue-hue.png"
+    },
+    {
+      id: "grumbacher-academy-prussian-blue",
+      brandId: "grumbacher-academy",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-prussian-blue.png"
+    },
+    {
+      id: "grumbacher-academy-thio-violet",
+      brandId: "grumbacher-academy",
+      name: "Thio Violet",
+      pigmentCodes: [
+        "PV19",
+        "PV29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-thio-violet.png"
+    },
+    {
+      id: "grumbacher-academy-violet",
+      brandId: "grumbacher-academy",
+      name: "Violet",
+      pigmentCodes: [
+        "PV23",
+        "PB15:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-violet-phthalo-purple.png"
+    },
+    {
+      id: "grumbacher-academy-mauve",
+      brandId: "grumbacher-academy",
+      name: "Mauve",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-mauve.png"
+    },
+    {
+      id: "grumbacher-academy-indigo-hue",
+      brandId: "grumbacher-academy",
+      name: "Indigo Hue",
+      pigmentCodes: [
+        "PB29",
+        "PB19",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-indigo.png"
+    },
+    {
+      id: "grumbacher-academy-paynes-gray",
+      brandId: "grumbacher-academy",
+      name: "Payne\u2019s Gray",
+      pigmentCodes: [
+        "PB15:4",
+        "PB29",
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-paynes-gray.png"
+    },
+    {
+      id: "grumbacher-academy-davys-gray",
+      brandId: "grumbacher-academy",
+      name: "Davy\u2019s Gray",
+      pigmentCodes: [
+        "PB15:4",
+        "PBk9",
+        "PBr7",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-davys-gray.png"
+    },
+    {
+      id: "grumbacher-academy-charcoal-gray",
+      brandId: "grumbacher-academy",
+      name: "Charcoal Gray",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-charcoal-gray.png"
+    },
+    {
+      id: "grumbacher-academy-lamp-black",
+      brandId: "grumbacher-academy",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-lamp-black.png"
+    },
+    {
+      id: "grumbacher-academy-ivory-black",
+      brandId: "grumbacher-academy",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-lvory-black.png"
+    },
+    {
+      id: "grumbacher-academy-sepia-hue",
+      brandId: "grumbacher-academy",
+      name: "Sepia Hue",
+      pigmentCodes: [
+        "PBr7",
+        "PY42",
+        "PBk6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-sepia-hue.png"
+    },
+    {
+      id: "grumbacher-academy-vandycke-brown-hue",
+      brandId: "grumbacher-academy",
+      name: "Vandycke Brown Hue",
+      pigmentCodes: [
+        "PBr7",
+        "PBr7",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-van-dyck-brown-hue.png"
+    },
+    {
+      id: "grumbacher-academy-burnt-umber",
+      brandId: "grumbacher-academy",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-burnt-umber.png"
+    },
+    {
+      id: "grumbacher-academy-raw-umber-hue",
+      brandId: "grumbacher-academy",
+      name: "Raw Umber Hue",
+      pigmentCodes: [
+        "PBr7",
+        "PBr7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-raw-umber-hue.png"
+    },
+    {
+      id: "grumbacher-academy-indian-red-hue",
+      brandId: "grumbacher-academy",
+      name: "Indian Red Hue",
+      pigmentCodes: [
+        "PR101",
+        "PY43"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-indian-red-hue.png"
+    },
+    {
+      id: "grumbacher-academy-perylene-maroon",
+      brandId: "grumbacher-academy",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-perylene-maroon.png"
+    },
+    {
+      id: "grumbacher-academy-light-red-hue",
+      brandId: "grumbacher-academy",
+      name: "Light Red Hue",
+      pigmentCodes: [
+        "PR101",
+        "PY43"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-light-red-hue.png"
+    },
+    {
+      id: "grumbacher-academy-burnt-sienna",
+      brandId: "grumbacher-academy",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-burnt-sienna.png"
+    },
+    {
+      id: "grumbacher-academy-raw-sienna",
+      brandId: "grumbacher-academy",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-raw-sienna.png"
+    },
+    {
+      id: "grumbacher-academy-yellow-ochre-hue",
+      brandId: "grumbacher-academy",
+      name: "Yellow Ochre Hue",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-yellow-ochre-hue.png"
+    },
+    {
+      id: "grumbacher-academy-gamboge-hue",
+      brandId: "grumbacher-academy",
+      name: "Gamboge Hue",
+      pigmentCodes: [
+        "PY65",
+        "PY138",
+        "PO62"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-gamboge-hue-1.png"
+    },
+    {
+      id: "grumbacher-academy-naples-yellow-hue",
+      brandId: "grumbacher-academy",
+      name: "Naples Yellow Hue",
+      pigmentCodes: [
+        "PY3",
+        "PBr7",
+        "PR178",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "3/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "Hue",
+      swatchImage: "/uploads/grumbacher-academy/GA-naples-yellow-hue.png"
+    },
+    {
+      id: "grumbacher-academy-chinese-white",
+      brandId: "grumbacher-academy",
+      name: "Chinese White",
+      pigmentCodes: [
+        "PW6:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "4/4",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/grumbacher-academy/GA-chinese-white.png"
     }
   ]
 };

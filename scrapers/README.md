@@ -247,3 +247,20 @@ node scrapers/import_natural_pigments_from_html.mjs \
   --uploads-dir "public/uploads/natural-pigments" \
   --brand-id "natural-pigments"
 ```
+
+## Grumbacher Academy — import from Oto Kano HTML
+
+**What it does**
+- Parses the Grumbacher Academy paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/grumbacher-academy`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_grumbacher_academy_from_html.mjs \
+  --html "Grumbacher Academy - Watercolor Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/grumbacher-academy" \
+  --brand-id "grumbacher-academy"
+```
