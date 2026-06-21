@@ -213,3 +213,20 @@ node scrapers/import_qor_from_html.mjs \
   --uploads-dir "public/uploads/qor" \
   --brand-id "qor"
 ```
+
+## Utrecht — import from Oto Kano HTML
+
+**What it does**
+- Parses the Utrecht paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/utrecht`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_utrecht_from_html.mjs \
+  --html "Utrecht - Paint Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/utrecht" \
+  --brand-id "utrecht"
+```
