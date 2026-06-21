@@ -145,3 +145,20 @@ node scrapers/import_daler_rowney_pro_from_html.mjs \
   --uploads-dir "public/uploads/daler-rowney-pro" \
   --brand-id "daler-rowney-prof"
 ```
+
+## Rembrandt — import from Oto Kano HTML
+
+**What it does**
+- Parses the Rembrandt paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/rembrandt`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_rembrandt_from_html.mjs \
+  --html "Rembrandt - Paint Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/rembrandt" \
+  --brand-id "rembrandt"
+```
