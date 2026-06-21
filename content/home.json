@@ -29,6 +29,12 @@
       "description": "Navigate pigment families and discover how brands interpret the same codes.",
       "ctaText": "Explore pigments",
       "href": "/paints"
+    },
+    {
+      "title": "Palette Builder",
+      "description": "Collect paints into a working palette and export the selection as a printable PDF.",
+      "ctaText": "Build a palette",
+      "href": "/palette-builder"
     }
   ],
   "featured": {

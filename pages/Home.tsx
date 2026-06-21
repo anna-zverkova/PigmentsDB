@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Search, BarChart2, BookOpen } from 'lucide-react';
+import { ArrowRight, Search, BarChart2, BookOpen, Palette } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
@@ -11,9 +11,9 @@ import { SwatchPreview } from '../components/SwatchPreview';
 
 export const Home: React.FC = () => {
   const { hero, cta, features, featured } = homeContent;
-  const featureIcons = [Search, BarChart2, BookOpen];
-  const featureIconClasses = ['text-tint-ember', 'text-tint-teal', 'text-tint-moss'];
-  const featureBgClasses = ['bg-tint-ember/10', 'bg-tint-teal/10', 'bg-tint-gold/15'];
+  const featureIcons = [Search, BarChart2, BookOpen, Palette];
+  const featureIconClasses = ['text-tint-ember', 'text-tint-teal', 'text-tint-moss', 'text-tint-ink'];
+  const featureBgClasses = ['bg-tint-ember/10', 'bg-tint-teal/10', 'bg-tint-gold/15', 'bg-tint-ink/10'];
   const featuredItems = featured?.items ?? [];
   const featuredPaints = featuredItems
     .map((item: { paintId: string }) => PAINTS.find(p => p.id === item.paintId))
@@ -71,7 +71,7 @@ export const Home: React.FC = () => {
 
       {/* Features Grid */}
       <section className="container mx-auto px-4 relative z-10">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8">
           {features.map((feature, index) => {
             const Icon = featureIcons[index] || Search;
             const iconClass = featureIconClasses[index] || 'text-watercolor-rose';
