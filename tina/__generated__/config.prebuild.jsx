@@ -47,7 +47,8 @@ var brands_default = {
       name: "Daler Rowney Professional",
       logo: "DRP",
       description: "",
-      website: "#"
+      website: "#",
+      country: "UK"
     },
     {
       id: "daler-rowney-aqua",
