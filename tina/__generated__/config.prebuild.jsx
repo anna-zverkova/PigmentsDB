@@ -61449,6 +61449,1452 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/ken-bromley/KB-lamp-black.png"
+    },
+    {
+      id: "daler-rowney-prof-naples-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Naples Yellow",
+      pigmentCodes: [
+        "PR108. PY35",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-nickel-titanium-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Nickel Titanium Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-nickel-titanate-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Nickel Titanate Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-lemon-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-lemon-yellow.png"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-yellow-pale",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-cadmium-yellow-pale.png"
+    },
+    {
+      id: "daler-rowney-prof-bismuth-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Bismuth Yellow",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-permanent-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Yellow",
+      pigmentCodes: [
+        "PY138"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-aureolin",
+      brandId: "daler-rowney-prof",
+      name: "Aureolin",
+      pigmentCodes: [
+        "PY40"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "2/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Yellow",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-yellow-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Yellow Hue",
+      pigmentCodes: [
+        "PY74",
+        "PY153"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-yellow-deep",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35",
+        "PO20"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-cadmium-yellow-deep.png"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-yellow-deep-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Yellow Deep Hue",
+      pigmentCodes: [
+        "PY3",
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-Cadmium-yellow-deep-hue.png"
+    },
+    {
+      id: "daler-rowney-prof-gamboge-hue",
+      brandId: "daler-rowney-prof",
+      name: "Gamboge Hue",
+      pigmentCodes: [
+        "PY3",
+        "PY153"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-gamboge.png"
+    },
+    {
+      id: "daler-rowney-prof-indian-yellow",
+      brandId: "daler-rowney-prof",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-orange",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20",
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-orange-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Orange Hue",
+      pigmentCodes: [
+        "PO62",
+        "PY65"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-warm-orange",
+      brandId: "daler-rowney-prof",
+      name: "Warm Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-permanent-red",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Red",
+      pigmentCodes: [
+        "PR254",
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red-pale",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red Pale",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red-pale-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red Pale Hue",
+      pigmentCodes: [
+        "PR254",
+        "PY74"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-vermilion-hue",
+      brandId: "daler-rowney-prof",
+      name: "Vermilion Hue",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/3",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red Hue",
+      pigmentCodes: [
+        "PR254",
+        "PY74"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-quinacridone-red",
+      brandId: "daler-rowney-prof",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PR209"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red-deep",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cadmium-red-deep-hue",
+      brandId: "daler-rowney-prof",
+      name: "Cadmium Red Deep Hue",
+      pigmentCodes: [
+        "PR264",
+        "PR255"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-perylene-red",
+      brandId: "daler-rowney-prof",
+      name: "Perylene Red",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-alizarin-crimson",
+      brandId: "daler-rowney-prof",
+      name: "Alizarin Crimson",
+      pigmentCodes: [
+        "PR83:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-alizarin-crimson.png"
+    },
+    {
+      id: "daler-rowney-prof-alizarin-crimson-hue",
+      brandId: "daler-rowney-prof",
+      name: "Alizarin Crimson Hue",
+      pigmentCodes: [
+        "PR209",
+        "PR179"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-carmine",
+      brandId: "daler-rowney-prof",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR170"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-permanent-rose",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Rose",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-permanent-rose.png"
+    },
+    {
+      id: "daler-rowney-prof-quinacridone-magenta",
+      brandId: "daler-rowney-prof",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-permanent-magenta",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Magenta",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-permanent-magenta.png"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-magenta",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Magenta",
+      pigmentCodes: [
+        "PV14"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-cobalt-magenta.png"
+    },
+    {
+      id: "daler-rowney-prof-ultramarine-violet",
+      brandId: "daler-rowney-prof",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-permanent-mauve",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Mauve",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-indanthrone-blue",
+      brandId: "daler-rowney-prof",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-prussian-blue",
+      brandId: "daler-rowney-prof",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-indigo",
+      brandId: "daler-rowney-prof",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB15",
+        "PBk7",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-indigo.png"
+    },
+    {
+      id: "daler-rowney-prof-phthalo-blue-rs",
+      brandId: "daler-rowney-prof",
+      name: "Phthalo Blue (RS)",
+      pigmentCodes: [
+        "PB15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-phthalo-blue-red-shade.png"
+    },
+    {
+      id: "daler-rowney-prof-phthalo-blue-gs",
+      brandId: "daler-rowney-prof",
+      name: "Phthalo Blue (GS)",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-phthalo-blue-green-shade.png"
+    },
+    {
+      id: "daler-rowney-prof-manganese-blue-hue",
+      brandId: "daler-rowney-prof",
+      name: "Manganese Blue Hue",
+      pigmentCodes: [
+        "PB15:3",
+        "PW5"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-manganese-blue-hue.png"
+    },
+    {
+      id: "daler-rowney-prof-coeruleum",
+      brandId: "daler-rowney-prof",
+      name: "Coeruleum",
+      pigmentCodes: [
+        "PB35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-blue",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-blue-deep",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB72"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-permanent-blue",
+      brandId: "daler-rowney-prof",
+      name: "Permanent Blue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-french-ultramarine",
+      brandId: "daler-rowney-prof",
+      name: "French Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-turquoise-rs",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Turquoise (RS)",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-turquoise-gs",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Turquoise (GS)",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-transparent-turquoise",
+      brandId: "daler-rowney-prof",
+      name: "Transparent Turquoise",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-transparent-turquoise.png"
+    },
+    {
+      id: "daler-rowney-prof-cobalt-green-deep",
+      brandId: "daler-rowney-prof",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-phthalo-turquoise",
+      brandId: "daler-rowney-prof",
+      name: "Phthalo Turquoise",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-phthalo-turquoise.png"
+    },
+    {
+      id: "daler-rowney-prof-viridian-hue",
+      brandId: "daler-rowney-prof",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PB36",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-phthalo-green",
+      brandId: "daler-rowney-prof",
+      name: "Phthalo Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-phthalo-green.png"
+    },
+    {
+      id: "daler-rowney-prof-hookers-green-dark",
+      brandId: "daler-rowney-prof",
+      name: "Hooker\u2019s Green Dark",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-hookers-green-dark.png"
+    },
+    {
+      id: "daler-rowney-prof-terre-verte-hue",
+      brandId: "daler-rowney-prof",
+      name: "Terre Verte Hue",
+      pigmentCodes: [
+        "PG18",
+        "PY42",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-terre-verte-hue.png"
+    },
+    {
+      id: "daler-rowney-prof-oxide-of-chromium-green",
+      brandId: "daler-rowney-prof",
+      name: "Oxide of Chromium Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-oxide-chromium-green.png"
+    },
+    {
+      id: "daler-rowney-prof-hookers-green-light",
+      brandId: "daler-rowney-prof",
+      name: "Hooker\u2019s Green Light",
+      pigmentCodes: [
+        "PG7",
+        "PY153"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-hookers-green-light.png"
+    },
+    {
+      id: "daler-rowney-prof-vivid-green",
+      brandId: "daler-rowney-prof",
+      name: "Vivid Green",
+      pigmentCodes: [
+        "PY138",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-sap-green",
+      brandId: "daler-rowney-prof",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY153",
+        "PG7",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue"
+    },
+    {
+      id: "daler-rowney-prof-olive-green",
+      brandId: "daler-rowney-prof",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PY153",
+        "PG7",
+        "PR264"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-green-gold",
+      brandId: "daler-rowney-prof",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY129"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/3",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-yellow-ochre",
+      brandId: "daler-rowney-prof",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-yellow-ochre.png"
+    },
+    {
+      id: "daler-rowney-prof-raw-sienna",
+      brandId: "daler-rowney-prof",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PY42",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-burnt-sienna",
+      brandId: "daler-rowney-prof",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-burnt-sienna.png"
+    },
+    {
+      id: "daler-rowney-prof-light-red",
+      brandId: "daler-rowney-prof",
+      name: "Light Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-light-red.png"
+    },
+    {
+      id: "daler-rowney-prof-venetian-red",
+      brandId: "daler-rowney-prof",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-venetian-red.png"
+    },
+    {
+      id: "daler-rowney-prof-transparent-red-brown",
+      brandId: "daler-rowney-prof",
+      name: "Transparent Red Brown",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-perylene-maroon",
+      brandId: "daler-rowney-prof",
+      name: "Perylene Maroon",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-indian-red",
+      brandId: "daler-rowney-prof",
+      name: "Indian Red",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-indian-red.png"
+    },
+    {
+      id: "daler-rowney-prof-mars-violet",
+      brandId: "daler-rowney-prof",
+      name: "Mars Violet",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-mars-violet.png"
+    },
+    {
+      id: "daler-rowney-prof-burnt-umber",
+      brandId: "daler-rowney-prof",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-raw-umber",
+      brandId: "daler-rowney-prof",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-raw-umber.png"
+    },
+    {
+      id: "daler-rowney-prof-vandyke-brown-hue",
+      brandId: "daler-rowney-prof",
+      name: "Vandyke Brown Hue",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-vandyke-brown-hue.png"
+    },
+    {
+      id: "daler-rowney-prof-warm-sepia",
+      brandId: "daler-rowney-prof",
+      name: "Warm Sepia",
+      pigmentCodes: [
+        "PBr7",
+        "PBk11",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "Hue",
+      swatchImage: "/uploads/daler-rowney-pro/DR-warm-sepia.png"
+    },
+    {
+      id: "daler-rowney-prof-neutral-tint",
+      brandId: "daler-rowney-prof",
+      name: "Neutral Tint",
+      pigmentCodes: [
+        "PR101",
+        "PBk11",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014"
+    },
+    {
+      id: "daler-rowney-prof-paynes-grey",
+      brandId: "daler-rowney-prof",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PBk7",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-paynes-grey.png"
+    },
+    {
+      id: "daler-rowney-prof-ivory-black",
+      brandId: "daler-rowney-prof",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-ivory-black.png"
+    },
+    {
+      id: "daler-rowney-prof-lamp-black",
+      brandId: "daler-rowney-prof",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "4/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-lamp-black.png"
+    },
+    {
+      id: "daler-rowney-prof-zinc-white",
+      brandId: "daler-rowney-prof",
+      name: "Zinc White",
+      pigmentCodes: [
+        "PW4",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-zinc-white.png"
+    },
+    {
+      id: "daler-rowney-prof-titanium-white",
+      brandId: "daler-rowney-prof",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "\u2013",
+      granulation: "\u2013",
+      lightfastness: "3/4",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      hue: "\u2014",
+      swatchImage: "/uploads/daler-rowney-pro/DR-titanium-white.png"
     }
   ]
 };

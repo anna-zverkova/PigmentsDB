@@ -128,3 +128,20 @@ node scrapers/import_ken_bromley_from_html.mjs \
   --uploads-dir "public/uploads/ken-bromley" \
   --brand-id "ken-bromley"
 ```
+
+## Daler Rowney Pro — import from Oto Kano HTML
+
+**What it does**
+- Parses the Daler Rowney Pro paint table from the saved Oto Kano HTML
+- Matches swatches from `public/uploads/daler-rowney-pro`
+- Downloads any missing swatch from the archived source URL
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_daler_rowney_pro_from_html.mjs \
+  --html "Daler Rowney Pro - Watercolor Paint Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/daler-rowney-pro" \
+  --brand-id "daler-rowney-prof"
+```
