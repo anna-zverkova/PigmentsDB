@@ -78,6 +78,15 @@
       "website": "#"
     },
     {
+      "id": "blue-pine-arts",
+      "name": "Blue Pine Arts",
+      "logo": "BPA",
+      "description": "Blue Pine Arts is a professional watercolor brand from India.",
+      "website": "#",
+      "country": "India",
+      "status": "Professional"
+    },
+    {
       "id": "greenleaf-blueberry",
       "name": "Greenleaf & Blueberry",
       "logo": "GB",
