@@ -109,11 +109,29 @@
       "website": "#"
     },
     {
+      "id": "kremer-pigments",
+      "name": "Kremer Pigments",
+      "logo": "KP",
+      "description": "Kremer Pigments is a German maker of professional watercolors and artist materials, with a strong focus on traditional pigments and specialist paint making.",
+      "website": "#",
+      "country": "Germany",
+      "status": "Professional"
+    },
+    {
       "id": "kusakabe",
       "name": "Kusakabe",
       "logo": "K",
       "description": "",
       "website": "#"
+    },
+    {
+      "id": "nila-colori",
+      "name": "NILA COLORI",
+      "logo": "NC",
+      "description": "NILA COLORI is an Italian professional watercolor brand focused on artist-grade color and contemporary paint making.",
+      "website": "#",
+      "country": "Italy",
+      "status": "Professional"
     },
     {
       "id": "lukas",
