@@ -8,6 +8,7 @@ import { useComparison } from '../App';
 import { Droplet, Sun, Layers, Grid } from 'lucide-react';
 import { Paint, Pigment } from '../types';
 import pigmentsContent from '../content/pigments.json';
+import { SwatchPreview } from '../components/SwatchPreview';
 
 type FilterKey = 'lightfastness' | 'transparency' | 'staining' | 'granulation';
 type FilterState = Record<FilterKey, string>;
@@ -384,14 +385,12 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                             <tr key={paint.id} className="group hover:bg-neutral-50/50 transition-colors">
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.pigmentCodes.join(', ')}</td>
                                 <td className="px-4 py-3">
-                                  {paint.swatchImage ? (
-                                    <img src={paint.swatchImage} alt="Swatch" className="w-12 h-8 object-cover rounded border border-neutral-200" />
-                                  ) : (
-                                    <div 
-                                      className="w-12 h-8 rounded border border-neutral-200 bg-gradient-to-br from-neutral-100 to-neutral-200 mx-auto"
-                                      title="No swatch image"
-                                    />
-                                  )}
+                                  <SwatchPreview
+                                    src={paint.swatchImage}
+                                    alt={`${paint.name} swatch`}
+                                    className="h-10 w-16 object-cover rounded border border-neutral-200 mx-auto"
+                                    labelClassName="block text-[9px] leading-none"
+                                  />
                                 </td>
                                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{mixLabel(paint)}</td>
                                 <td className="px-4 py-3 text-neutral-900 font-medium min-w-[150px]">

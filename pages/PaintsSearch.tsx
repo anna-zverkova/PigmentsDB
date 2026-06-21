@@ -4,6 +4,7 @@ import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Link } from 'react-router-dom';
 import { Filter, SlidersHorizontal, Search } from 'lucide-react';
+import { SwatchPreview } from '../components/SwatchPreview';
 
 export const PaintsSearch: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -327,15 +328,12 @@ export const PaintsSearch: React.FC = () => {
                             <Link key={paint.id} to={`/paints/${paint.id}`} className="group block h-full">
                                 <Card className="h-full overflow-hidden hover:shadow-md transition-shadow flex flex-col">
                                     <div className="aspect-square w-full relative overflow-hidden group-hover:scale-105 transition-transform duration-500">
-                                        {paint.swatchImage ? (
-                                            <img
-                                                src={paint.swatchImage}
-                                                alt={`${paint.name} swatch`}
-                                                className="absolute inset-0 w-full h-full object-cover"
-                                            />
-                                        ) : (
-                                            <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
-                                        )}
+                                        <SwatchPreview
+                                            src={paint.swatchImage}
+                                            alt={`${paint.name} swatch`}
+                                            className="absolute inset-0 w-full h-full object-cover"
+                                            labelClassName="block text-[9px] leading-none"
+                                        />
                                         {paint.isDiscontinued && (
                                             <div className="absolute top-2 left-2 bg-red-100 text-red-700 text-[10px] font-medium px-2 py-0.5 rounded-full border border-red-200">
                                                 Discontinued

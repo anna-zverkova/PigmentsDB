@@ -7,6 +7,7 @@ import { Badge } from '../components/ui/Badge';
 import homeContent from '../content/home.json';
 import { BRANDS, PAINTS } from '../constants';
 import { Paint } from '../types';
+import { SwatchPreview } from '../components/SwatchPreview';
 
 export const Home: React.FC = () => {
   const { hero, cta, features, featured } = homeContent;
@@ -112,15 +113,12 @@ export const Home: React.FC = () => {
                       <Card className="h-full overflow-hidden hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
                         <div className="aspect-[4/5] bg-white p-3 border-b border-tint-ink/10">
                           <div className="w-full h-full rounded-xl bg-neutral-100 relative overflow-hidden">
-                            {paint.swatchImage ? (
-                              <img
-                                src={paint.swatchImage}
-                                alt={`${paint.name} swatch`}
-                                className="absolute inset-0 w-full h-full object-cover"
-                              />
-                            ) : (
-                              <div className="absolute inset-0" style={{ backgroundColor: paint.hex }} />
-                            )}
+                            <SwatchPreview
+                              src={paint.swatchImage}
+                              alt={`${paint.name} swatch`}
+                              className="absolute inset-0 w-full h-full object-cover"
+                              labelClassName="block text-[9px] leading-none"
+                            />
                             <div className="absolute inset-0 opacity-20 mix-blend-overlay bg-[url('https://www.transparenttextures.com/patterns/watercolor.png')]"></div>
                           </div>
                         </div>

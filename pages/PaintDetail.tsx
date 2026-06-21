@@ -4,6 +4,7 @@ import { PAINTS, BRANDS } from '../constants';
 import { Badge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { useComparison } from '../App';
+import { SwatchPreview } from '../components/SwatchPreview';
 
 export const PaintDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -28,11 +29,12 @@ export const PaintDetail: React.FC = () => {
         <div className="container mx-auto px-4 py-10 grid grid-cols-1 md:grid-cols-[220px_1fr] gap-8 items-start">
           <div className="space-y-4">
             <div className="aspect-square rounded-2xl border border-neutral-200 overflow-hidden bg-white">
-              {paint.swatchImage ? (
-                <img src={paint.swatchImage} alt={`${paint.name} swatch`} className="w-full h-full object-cover" />
-              ) : (
-                <div className="w-full h-full" style={{ backgroundColor: paint.hex }} />
-              )}
+              <SwatchPreview
+                src={paint.swatchImage}
+                alt={`${paint.name} swatch`}
+                className="w-full h-full object-cover"
+                labelClassName="block text-[10px] leading-none"
+              />
             </div>
             <Button
               size="sm"
