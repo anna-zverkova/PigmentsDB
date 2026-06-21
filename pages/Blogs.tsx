@@ -53,7 +53,8 @@ export const Blogs: React.FC = () => {
 
       <section className="container mx-auto px-4 py-12 md:py-16">
         <div className="grid grid-cols-1 lg:grid-cols-[1.3fr_0.7fr] gap-8">
-          <Card className="overflow-hidden border-tint-ink/10 bg-white/90 backdrop-blur-sm">
+          <Link to={`/blogs/${featuredArticle.id}`} className="block group h-full">
+          <Card className="overflow-hidden border-tint-ink/10 bg-white/90 backdrop-blur-sm h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-md">
             <div className="p-8 md:p-10 space-y-6">
               <div className="flex items-center justify-between gap-4 flex-wrap">
                 <div>
@@ -88,15 +89,13 @@ export const Blogs: React.FC = () => {
               </div>
 
               <div className="pt-4">
-                <Link
-                  to="/info/about"
-                  className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink hover:text-tint-ember transition-colors"
-                >
-                  Learn more about TintMap <ArrowRight size={16} />
-                </Link>
+                <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink hover:text-tint-ember transition-colors">
+                  Read article <ArrowRight size={16} />
+                </span>
               </div>
             </div>
           </Card>
+          </Link>
 
           <Card className="border-tint-ink/10 bg-tint-ink text-white overflow-hidden">
             <div className="p-8 md:p-10 space-y-6">
@@ -166,12 +165,12 @@ export const Blogs: React.FC = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {otherArticles.map((article, index) => (
-            <Card
-              key={article.id}
-              className={`p-6 md:p-7 border-tint-ink/10 hover:shadow-md transition-all duration-300 hover:-translate-y-1 ${
-                index === 0 ? 'bg-white' : 'bg-white/90'
-              }`}
-            >
+            <Link key={article.id} to={`/blogs/${article.id}`} className="block group">
+              <Card
+                className={`h-full p-6 md:p-7 border-tint-ink/10 hover:shadow-md transition-all duration-300 hover:-translate-y-1 ${
+                  index === 0 ? 'bg-white' : 'bg-white/90'
+                }`}
+              >
               <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
                 <Badge variant="secondary" className="bg-tint-gold/15 text-tint-ink border-tint-gold/30">
                   {article.category}
@@ -192,11 +191,12 @@ export const Blogs: React.FC = () => {
               <p className="mt-3 text-neutral-600 leading-relaxed">{article.excerpt}</p>
 
               <div className="mt-5">
-                <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink/80">
+                <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink/80 group-hover:text-tint-ember transition-colors">
                   Coming soon <ArrowRight size={15} />
                 </span>
               </div>
-            </Card>
+              </Card>
+            </Link>
           ))}
         </div>
       </section>
