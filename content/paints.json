@@ -60347,6 +60347,727 @@
       "performance": "Professional",
       "toxicity": "No",
       "collection": "Harmonia Granulating Colors"
+    },
+    {
+      "id": "ken-bromley-titanium-white",
+      "brandId": "ken-bromley",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-titanium-white.png"
+    },
+    {
+      "id": "ken-bromley-cotswold-stone",
+      "brandId": "ken-bromley",
+      "name": "Cotswold Stone",
+      "pigmentCodes": [
+        "PW6",
+        "PY42",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cotswold-stone.png"
+    },
+    {
+      "id": "ken-bromley-lemon-yellow-azo",
+      "brandId": "ken-bromley",
+      "name": "Lemon Yellow Azo",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-lemon-yellow-azo.png"
+    },
+    {
+      "id": "ken-bromley-cadmium-yellow",
+      "brandId": "ken-bromley",
+      "name": "Cadmium Yellow",
+      "pigmentCodes": [
+        "PY37"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cadmium-yellow.png"
+    },
+    {
+      "id": "ken-bromley-aureolin",
+      "brandId": "ken-bromley",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-aureolin.png"
+    },
+    {
+      "id": "ken-bromley-cadmium-orange",
+      "brandId": "ken-bromley",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cadmium-orange.png"
+    },
+    {
+      "id": "ken-bromley-cadmium-red",
+      "brandId": "ken-bromley",
+      "name": "Cadmium Red",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cadmium-red.png"
+    },
+    {
+      "id": "ken-bromley-vermilion-hue",
+      "brandId": "ken-bromley",
+      "name": "Vermilion Hue",
+      "pigmentCodes": [
+        "PR166"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-vermilion-hue.png"
+    },
+    {
+      "id": "ken-bromley-alizarin-crimson",
+      "brandId": "ken-bromley",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-alizarin-crimson.png"
+    },
+    {
+      "id": "ken-bromley-rose-madder",
+      "brandId": "ken-bromley",
+      "name": "Rose Madder",
+      "pigmentCodes": [
+        "PR209",
+        "PR254",
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-rose-madder.png"
+    },
+    {
+      "id": "ken-bromley-permanent-rose",
+      "brandId": "ken-bromley",
+      "name": "Permanent Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-permanent-rose.png"
+    },
+    {
+      "id": "ken-bromley-quinacridone-rose",
+      "brandId": "ken-bromley",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–"
+    },
+    {
+      "id": "ken-bromley-manganese-violet",
+      "brandId": "ken-bromley",
+      "name": "Manganese Violet",
+      "pigmentCodes": [
+        "PV16"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-manganese-violet.png"
+    },
+    {
+      "id": "ken-bromley-dioxazine-violet",
+      "brandId": "ken-bromley",
+      "name": "Dioxazine Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-dioxazine-violet.png"
+    },
+    {
+      "id": "ken-bromley-phthalo-blue-rs",
+      "brandId": "ken-bromley",
+      "name": "Phthalo Blue (RS)",
+      "pigmentCodes": [
+        "PB15:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-phthalo-blue-red-shade.png"
+    },
+    {
+      "id": "ken-bromley-phthalo-blue-gs",
+      "brandId": "ken-bromley",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-phthalo-blue-green-shade.png"
+    },
+    {
+      "id": "ken-bromley-prussian-blue",
+      "brandId": "ken-bromley",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-prussian-blue.png"
+    },
+    {
+      "id": "ken-bromley-cobalt-blue",
+      "brandId": "ken-bromley",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cobalt-blue.png"
+    },
+    {
+      "id": "ken-bromley-french-ultramarine",
+      "brandId": "ken-bromley",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-french-ultramarine.png"
+    },
+    {
+      "id": "ken-bromley-cerulean-blue",
+      "brandId": "ken-bromley",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-cerulean-blue.png"
+    },
+    {
+      "id": "ken-bromley-sevres-blue",
+      "brandId": "ken-bromley",
+      "name": "Sevres Blue",
+      "pigmentCodes": [
+        "PW6",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-sevres-blue.png"
+    },
+    {
+      "id": "ken-bromley-teal-blue",
+      "brandId": "ken-bromley",
+      "name": "Teal Blue",
+      "pigmentCodes": [
+        "PB27",
+        "PB15:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-teal-blue.png"
+    },
+    {
+      "id": "ken-bromley-viridian-hue",
+      "brandId": "ken-bromley",
+      "name": "Viridian Hue",
+      "pigmentCodes": [
+        "PG7",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-viridian-hue.png"
+    },
+    {
+      "id": "ken-bromley-phthalo-green",
+      "brandId": "ken-bromley",
+      "name": "Phthalo Green",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-phthalo-green.png"
+    },
+    {
+      "id": "ken-bromley-hookers-green",
+      "brandId": "ken-bromley",
+      "name": "Hookers Green",
+      "pigmentCodes": [
+        "PG7",
+        "PG8",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-hookers-green.png"
+    },
+    {
+      "id": "ken-bromley-sap-green",
+      "brandId": "ken-bromley",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-sap-green.png"
+    },
+    {
+      "id": "ken-bromley-naples-yellow",
+      "brandId": "ken-bromley",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PW6",
+        "PY37",
+        "PR101",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-naples-yellow.png"
+    },
+    {
+      "id": "ken-bromley-yellow-ochre",
+      "brandId": "ken-bromley",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-yellow-ochre.png"
+    },
+    {
+      "id": "ken-bromley-raw-sienna",
+      "brandId": "ken-bromley",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-raw-sienna.png"
+    },
+    {
+      "id": "ken-bromley-burnt-sienna",
+      "brandId": "ken-bromley",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-burnt-sienna.png"
+    },
+    {
+      "id": "ken-bromley-light-red",
+      "brandId": "ken-bromley",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-light-red.png"
+    },
+    {
+      "id": "ken-bromley-venetian-red-translucent",
+      "brandId": "ken-bromley",
+      "name": "Venetian Red Translucent",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-venetian-red-translucent.png"
+    },
+    {
+      "id": "ken-bromley-raw-umber",
+      "brandId": "ken-bromley",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-raw-umber.png"
+    },
+    {
+      "id": "ken-bromley-burnt-umber",
+      "brandId": "ken-bromley",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-burnt-umber.png"
+    },
+    {
+      "id": "ken-bromley-burnt-umber-dark",
+      "brandId": "ken-bromley",
+      "name": "Burnt Umber (Dark)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-bunrt-umber-dark.png"
+    },
+    {
+      "id": "ken-bromley-warm-sepia",
+      "brandId": "ken-bromley",
+      "name": "Warm Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/ken-bromley/KB-warm-sepia.png"
+    },
+    {
+      "id": "ken-bromley-paynes-grey-bs",
+      "brandId": "ken-bromley",
+      "name": "Paynes Grey (BS)",
+      "pigmentCodes": [
+        "PBk9",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-paynes-grey-blue-shade.png"
+    },
+    {
+      "id": "ken-bromley-paynes-grey-dark",
+      "brandId": "ken-bromley",
+      "name": "Paynes Grey (Dark)",
+      "pigmentCodes": [
+        "PBk11",
+        "PB29",
+        "PB27",
+        "PR83:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-paynes-grey-dark.png"
+    },
+    {
+      "id": "ken-bromley-neutral-tint",
+      "brandId": "ken-bromley",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PB15:3",
+        "PR101",
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-neutral-tint.png"
+    },
+    {
+      "id": "ken-bromley-translucent-grey",
+      "brandId": "ken-bromley",
+      "name": "Translucent Grey",
+      "pigmentCodes": [
+        "PBk11",
+        "PBk7",
+        "PB15:3",
+        "PR140"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "1/2",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-transluecent-grey.png"
+    },
+    {
+      "id": "ken-bromley-lamp-black",
+      "brandId": "ken-bromley",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "–",
+      "granulation": "–",
+      "lightfastness": "2/2",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/ken-bromley/KB-lamp-black.png"
     }
   ]
 }
