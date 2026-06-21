@@ -1,5 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { PAINTS, BRANDS, PIGMENT_FAMILIES, PIGMENTS } from '../constants';
+import React, { useDeferredValue, useMemo, useState } from 'react';
+import {
+  AVAILABLE_BRANDS,
+  BRAND_BY_ID,
+  PAINTS,
+  PAINT_FAMILIES_BY_ID,
+  PAINT_SEARCH_TEXT_BY_ID,
+  PIGMENT_FAMILIES,
+  getPaintMixLabel,
+} from '../constants';
 import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import { Link } from 'react-router-dom';
@@ -15,31 +23,29 @@ export const PaintsSearch: React.FC = () => {
   const [notDiscontinuedOnly, setNotDiscontinuedOnly] = useState(false);
   const [noSwatchOnly, setNoSwatchOnly] = useState(false);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
-  const selectedBrandIds = new Set(selectedBrands);
-  const pigmentFamilyByCode = new Map(PIGMENTS.map(p => [p.code, p.family]));
-  const mixLabel = (paint: any) => paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
+  const selectedBrandIds = useMemo(() => new Set(selectedBrands), [selectedBrands]);
+  const selectedFamilySet = useMemo(() => new Set(selectedFamilies), [selectedFamilies]);
+  const selectedMixSet = useMemo(() => new Set(selectedMixes), [selectedMixes]);
+  const deferredSearchTerm = useDeferredValue(searchTerm);
+  const lowerSearchTerm = useMemo(() => deferredSearchTerm.trim().toLowerCase(), [deferredSearchTerm]);
 
-  
-  
   // Basic filtering logic mocking Algolia
-  const visiblePaints = PAINTS.filter(paint => {
-      const matchesSearch = paint.name.toLowerCase().includes(searchTerm.toLowerCase()) || 
-                            paint.pigmentCodes.some(c => c.toLowerCase().includes(searchTerm.toLowerCase()));
-      
+  const visiblePaints = useMemo(() => {
+    return PAINTS.filter((paint) => {
+      const searchableText = PAINT_SEARCH_TEXT_BY_ID.get(paint.id) ?? '';
+      const matchesSearch = searchableText.includes(lowerSearchTerm);
+
       const matchesFamily =
-        selectedFamilies.length === 0 ||
-        paint.pigmentCodes.some(code => {
-          const family = pigmentFamilyByCode.get(code);
-          return family ? selectedFamilies.includes(family) : false;
-        });
+        selectedFamilySet.size === 0 ||
+        (PAINT_FAMILIES_BY_ID.get(paint.id) ?? []).some((family) => selectedFamilySet.has(family));
 
       const matchesBrand =
-        selectedBrands.length === 0 ||
+        selectedBrandIds.size === 0 ||
         selectedBrandIds.has(paint.brandId);
 
       const matchesMix =
-        selectedMixes.length === 0 ||
-        selectedMixes.includes(mixLabel(paint));
+        selectedMixSet.size === 0 ||
+        selectedMixSet.has(getPaintMixLabel(paint));
 
       const matchesDiscontinued =
         !discontinuedOnly || !!paint.isDiscontinued;
@@ -51,7 +57,8 @@ export const PaintsSearch: React.FC = () => {
         !noSwatchOnly || !paint.swatchImage;
 
       return matchesSearch && matchesFamily && matchesBrand && matchesMix && matchesDiscontinued && matchesNotDiscontinued && matchesNoSwatch;
-  });
+    });
+  }, [discontinuedOnly, lowerSearchTerm, noSwatchOnly, notDiscontinuedOnly, selectedBrandIds, selectedFamilySet, selectedMixSet]);
 
   return (
     <div className="min-h-screen bg-neutral-50">
@@ -101,7 +108,7 @@ export const PaintsSearch: React.FC = () => {
                                 <Filter size={16} /> Brand
                             </h3>
                             <div className="space-y-2">
-                                {BRANDS.filter(b => PAINTS.some(p => p.brandId === b.id)).map(brand => (
+                                {AVAILABLE_BRANDS.map(brand => (
                                     <label key={brand.id} className="flex items-center gap-2 text-sm cursor-pointer group">
                                         <input
                                             type="checkbox"
@@ -214,7 +221,7 @@ export const PaintsSearch: React.FC = () => {
                         <Filter size={16} /> Brand
                     </h3>
                     <div className="space-y-2">
-                        {BRANDS.filter(b => PAINTS.some(p => p.brandId === b.id)).map(brand => (
+                                {AVAILABLE_BRANDS.map(brand => (
                             <label key={brand.id} className="flex items-center gap-2 text-sm cursor-pointer group">
                                 <input 
                                     type="checkbox" 
@@ -337,7 +344,7 @@ export const PaintsSearch: React.FC = () => {
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                     {visiblePaints.map(paint => {
-                        const brand = BRANDS.find(b => b.id === paint.brandId);
+                        const brand = BRAND_BY_ID.get(paint.brandId);
                         return (
                             <Link key={paint.id} to={`/paints/${paint.id}`} className="group block h-full">
                                 <Card className="h-full overflow-hidden hover:shadow-md transition-shadow flex flex-col">

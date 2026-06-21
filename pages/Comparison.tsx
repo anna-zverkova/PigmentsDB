@@ -1,18 +1,83 @@
-import React from 'react';
-import { useLocation, Link } from 'react-router-dom';
-import { PAINTS, BRANDS } from '../constants';
+import React, { useEffect, useLayoutEffect, useMemo, useRef } from 'react';
+import { useLocation, Link, useNavigate } from 'react-router-dom';
+import { BRAND_BY_ID, PAINT_BY_ID } from '../constants';
 import { Button } from '../components/ui/Button';
 import { X, Share2, Printer, Palette } from 'lucide-react';
 import { useComparison } from '../App';
 import { SwatchPreview } from '../components/SwatchPreview';
 
+const parseIds = (search: string) => {
+  const queryParams = new URLSearchParams(search);
+  return queryParams.get('ids')?.split(',').map(id => id.trim()).filter(Boolean) || [];
+};
+
+const areSameIds = (left: string[], right: string[]) => (
+  left.length === right.length && left.every((id, index) => id === right[index])
+);
+
+const buildSearch = (ids: string[]) => {
+  if (ids.length === 0) return '';
+
+  return `?ids=${ids.join(',')}`;
+};
+
+const buildShareUrl = (pathname: string, search: string) => `${window.location.href.split('#')[0]}#${pathname}${search}`;
+
 export const Comparison: React.FC = () => {
   const location = useLocation();
-  const queryParams = new URLSearchParams(location.search);
-  const ids = queryParams.get('ids')?.split(',') || [];
-  
-  const paintsToCompare = PAINTS.filter(p => ids.includes(p.id));
-  const { removePaint } = useComparison();
+  const navigate = useNavigate();
+  const { selectedPaintIds, setSelection } = useComparison();
+  const lastSyncedSearchRef = useRef<string | null>(null);
+  const queryIds = useMemo(() => parseIds(location.search), [location.search]);
+  const paintsToCompare = selectedPaintIds
+    .map((id) => PAINT_BY_ID.get(id))
+    .filter((paint): paint is NonNullable<typeof paint> => Boolean(paint));
+
+  useLayoutEffect(() => {
+    if (queryIds.length === 0) {
+      if (lastSyncedSearchRef.current === null) {
+        lastSyncedSearchRef.current = location.search;
+      }
+      return;
+    }
+
+    if (location.search === lastSyncedSearchRef.current) return;
+
+    const sanitizedQueryIds = queryIds.filter((id) => PAINT_BY_ID.has(id));
+
+    if (!areSameIds(selectedPaintIds, sanitizedQueryIds)) {
+      setSelection(sanitizedQueryIds);
+    }
+
+    lastSyncedSearchRef.current = location.search;
+  }, [queryIds, selectedPaintIds, setSelection]);
+
+  useEffect(() => {
+    const nextSearch = buildSearch(selectedPaintIds);
+    if (location.search === nextSearch) return;
+
+    lastSyncedSearchRef.current = nextSearch;
+    navigate({ pathname: location.pathname, search: nextSearch }, { replace: true });
+  }, [location.pathname, location.search, navigate, selectedPaintIds]);
+
+  const handleShare = async () => {
+    const shareUrl = buildShareUrl(location.pathname, buildSearch(selectedPaintIds));
+
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(shareUrl);
+        return;
+      }
+    } catch {
+      // Fall through to the prompt fallback below.
+    }
+
+    try {
+      window.prompt('Copy this comparison link', shareUrl);
+    } catch {
+      // No-op if the environment blocks prompts.
+    }
+  };
 
   if (paintsToCompare.length === 0) {
       return (
@@ -33,13 +98,13 @@ export const Comparison: React.FC = () => {
                     <p className="text-neutral-500 text-sm mt-1">Comparing {paintsToCompare.length} items side-by-side</p>
                 </div>
                 <div className="flex gap-2">
-                    <Link to={`/palette-builder?ids=${ids.join(',')}`}>
+                    <Link to={`/palette-builder${buildSearch(selectedPaintIds)}`}>
                         <Button variant="outline" size="sm" className="gap-2">
                           <Palette size={16}/>
                           Palette Builder
                         </Button>
                     </Link>
-                    <Button variant="outline" size="sm" className="gap-2"><Share2 size={16}/> Share</Button>
+                    <Button variant="outline" size="sm" className="gap-2" onClick={handleShare}><Share2 size={16}/> Share</Button>
                     <Button variant="outline" size="sm" className="gap-2"><Printer size={16}/> Print</Button>
                 </div>
             </div>
@@ -49,7 +114,12 @@ export const Comparison: React.FC = () => {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4 min-w-[800px]">
                 {/* Column for each paint */}
                 {paintsToCompare.map(paint => {
-                    const brand = BRANDS.find(b => b.id === paint.brandId);
+                    const brand = BRAND_BY_ID.get(paint.brandId);
+                    const handleRemove = () => {
+                      const nextIds = selectedPaintIds.filter((id) => id !== paint.id);
+                      setSelection(nextIds);
+                      navigate(`/compare${buildSearch(nextIds)}`, { replace: true });
+                    };
                     
                     return (
                         <div key={paint.id} className="bg-white rounded-xl border border-neutral-200 shadow-sm overflow-hidden flex flex-col">
@@ -64,7 +134,7 @@ export const Comparison: React.FC = () => {
                                 />
                                 <div className="absolute inset-0 shadow-[inset_0_0_30px_rgba(0,0,0,0.1)]"></div>
                                 <button 
-                                    onClick={() => removePaint(paint.id)} // Note: this removes from context but URL state needs manual update in a real app
+                                    onClick={handleRemove}
                                     className="absolute top-2 right-2 p-1.5 bg-white/90 rounded-full text-neutral-500 hover:text-red-500 transition-colors"
                                 >
                                     <X size={16} />

@@ -1,30 +1,39 @@
-import React, { useState } from 'react';
+import React, { lazy, Suspense, useState } from 'react';
 import { Link, Outlet, useLocation } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
-import { ComparisonBar } from './ComparisonBar';
 import { Button } from './ui/Button';
+
+type NavLink = {
+  name: string;
+  path: string;
+  external?: boolean;
+};
 
 const NEWSLETTER_SCRIPT_URL =
   import.meta.env.VITE_NEWSLETTER_SCRIPT_URL ||
   'https://script.google.com/macros/s/AKfycbzclSm-PknF686Ritm5-IDpijScb0a9rpa7BwUif4nOTQbpl4zjmoklGgwgDr_jZzOUvA/exec';
 
+const ComparisonBar = lazy(() =>
+  import('./ComparisonBar').then((module) => ({ default: module.ComparisonBar }))
+);
+
 export const Layout: React.FC = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [newsletterEmail, setNewsletterEmail] = useState('');
-  const [newsletterStatus, setNewsletterStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');
+  const [newsletterStatus, setNewsletterStatus] = useState<'idle' | 'submitting' | 'sent' | 'error'>('idle');
   const [newsletterMessage, setNewsletterMessage] = useState(
     'Subscribe for occasional updates about new pigments and data changes.'
   );
   const location = useLocation();
 
-  const navLinks = [
+  const navLinks: NavLink[] = [
     { name: 'Pigments', path: '/pigments' },
     { name: 'Brands', path: '/brands' },
     { name: 'Paints', path: '/paints' },
     { name: 'Blogs', path: '/blogs' },
   ];
 
-  const secondaryLinks = [
+  const secondaryLinks: NavLink[] = [
     { name: 'About', path: '/info/about' },
     { name: 'Data', path: '/info/data' },
     { name: 'Contact', path: '/info/contact' },
@@ -48,7 +57,7 @@ export const Layout: React.FC = () => {
     setNewsletterMessage('Submitting your email...');
 
     try {
-      await fetch(NEWSLETTER_SCRIPT_URL, {
+      const response = await fetch(NEWSLETTER_SCRIPT_URL, {
         method: 'POST',
         mode: 'no-cors',
         headers: {
@@ -57,12 +66,14 @@ export const Layout: React.FC = () => {
         body: JSON.stringify({ email }),
       });
 
-      setNewsletterStatus('success');
+      setNewsletterStatus('sent');
       setNewsletterEmail('');
-      setNewsletterMessage('Thanks, you are subscribed.');
+      setNewsletterMessage('Your signup request was sent. If the form accepts it, you will receive updates.');
     } catch (error) {
       setNewsletterStatus('error');
-      setNewsletterMessage('We could not reach the newsletter service. Please try again.');
+      setNewsletterMessage(
+        'We could not confirm the subscription from this browser. Please try again later.'
+      );
     }
   };
 
@@ -159,7 +170,9 @@ export const Layout: React.FC = () => {
         <Outlet />
       </main>
 
-      <ComparisonBar />
+      <Suspense fallback={null}>
+        <ComparisonBar />
+      </Suspense>
 
       <footer className="border-t border-tint-ink/10 py-12 bg-tint-paper">
         <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
@@ -200,7 +213,7 @@ export const Layout: React.FC = () => {
                   className="flex-1 rounded-md border border-neutral-300 px-3 py-2 text-sm"
                 />
                 <Button type="submit" size="sm" disabled={newsletterStatus === 'submitting'}>
-                  {newsletterStatus === 'submitting' ? 'Sending...' : newsletterStatus === 'success' ? 'Subscribed' : 'Subscribe'}
+                  {newsletterStatus === 'submitting' ? 'Sending...' : newsletterStatus === 'sent' ? 'Sent' : 'Subscribe'}
                 </Button>
               </div>
               <p className={`text-xs ${newsletterStatus === 'error' ? 'text-red-600' : 'text-neutral-500'}`}>

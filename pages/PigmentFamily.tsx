@@ -1,6 +1,13 @@
 import React, { useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { PIGMENT_FAMILIES, PAINTS, PIGMENTS, BRANDS } from '../constants';
+import {
+  BRAND_BY_ID,
+  PAINTS_BY_FAMILY,
+  PAINTS_BY_PIGMENT_CODE,
+  PIGMENT_FAMILIES,
+  PIGMENTS_BY_FAMILY,
+  getPaintMixLabel,
+} from '../constants';
 import { Badge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
@@ -133,14 +140,19 @@ export const PigmentFamily: React.FC = () => {
   const [activeFilter, setActiveFilter] = useState<FilterKey | null>(null);
 
   // Default to blue if no family provided or invalid
-  const activeFamily = PIGMENT_FAMILIES.find(f => f.name.toLowerCase() === family?.toLowerCase()) || PIGMENT_FAMILIES[4];
+  const activeFamily = useMemo(
+    () => PIGMENT_FAMILIES.find(f => f.name.toLowerCase() === family?.toLowerCase()) || PIGMENT_FAMILIES[4],
+    [family]
+  );
 
-  const pigmentsInFamily = [...PIGMENTS.filter(p => p.family === activeFamily.name)]
-    .sort((a, b) => a.code.localeCompare(b.code));
+  const pigmentsInFamily = useMemo(
+    () => [...(PIGMENTS_BY_FAMILY.get(activeFamily.name) ?? [])].sort((a, b) => a.code.localeCompare(b.code)),
+    [activeFamily.name]
+  );
 
   const familyPaints = useMemo(
-    () => PAINTS.filter((paint) => pigmentsInFamily.some((pigment) => paint.pigmentCodes.includes(pigment.code))),
-    [pigmentsInFamily]
+    () => PAINTS_BY_FAMILY.get(activeFamily.name) ?? [],
+    [activeFamily.name]
   );
 
   const lightfastnessOptions = useMemo(() => {
@@ -155,23 +167,38 @@ export const PigmentFamily: React.FC = () => {
 
   const hasActiveFilters = Object.values(filters).some(Boolean);
 
-  const matchesFilters = (paint: Paint) => {
-    const lightfastness = normalizeLightfastness(paint.lightfastness);
-    const transparency = normalizeTransparency(paint.transparency);
-    const staining = normalizeStaining(paint.staining);
-    const granulation = normalizeGranulation(paint.granulation);
-    const pigmentMix = paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
-    const discontinued = paint.isDiscontinued ? 'Discontinued' : 'Active';
+  const filteredPaintsByPigment = useMemo(() => {
+    const lookup = new Map<string, Paint[]>();
 
-    if (filters.lightfastness && lightfastness !== filters.lightfastness) return false;
-    if (filters.transparency && transparency !== filters.transparency) return false;
-    if (filters.staining && staining !== filters.staining) return false;
-    if (filters.granulation && granulation !== filters.granulation) return false;
-    if (filters.pigmentMix && pigmentMix !== filters.pigmentMix) return false;
-    if (filters.discontinued && discontinued !== filters.discontinued) return false;
+    for (const pigment of pigmentsInFamily) {
+      const paints = (PAINTS_BY_PIGMENT_CODE.get(pigment.code) ?? []).filter((paint) => {
+        const lightfastness = normalizeLightfastness(paint.lightfastness);
+        const transparency = normalizeTransparency(paint.transparency);
+        const staining = normalizeStaining(paint.staining);
+        const granulation = normalizeGranulation(paint.granulation);
+        const pigmentMix = getPaintMixLabel(paint);
+        const discontinued = paint.isDiscontinued ? 'Discontinued' : 'Active';
 
-    return true;
-  };
+        if (filters.lightfastness && lightfastness !== filters.lightfastness) return false;
+        if (filters.transparency && transparency !== filters.transparency) return false;
+        if (filters.staining && staining !== filters.staining) return false;
+        if (filters.granulation && granulation !== filters.granulation) return false;
+        if (filters.pigmentMix && pigmentMix !== filters.pigmentMix) return false;
+        if (filters.discontinued && discontinued !== filters.discontinued) return false;
+
+        return true;
+      });
+
+      lookup.set(pigment.code, paints);
+    }
+
+    return lookup;
+  }, [filters, pigmentsInFamily]);
+
+  const hasAnyFilteredPaints = useMemo(
+    () => [...filteredPaintsByPigment.values()].some((paints) => paints.length > 0),
+    [filteredPaintsByPigment]
+  );
 
   const filterConfig = {
     lightfastness: {
@@ -228,8 +255,7 @@ export const PigmentFamily: React.FC = () => {
     setActiveFilter(null);
   };
 
-  // In a real app, we'd fetch paints by pigment code. Here we filter mock data.
-  const getPaintsForPigment = (code: string) => PAINTS.filter(p => p.pigmentCodes.includes(code)).filter(matchesFilters);
+  const getPaintsForPigment = (code: string) => filteredPaintsByPigment.get(code) ?? [];
 
   return (
     <div className="min-h-screen bg-neutral-50">
@@ -357,7 +383,7 @@ export const PigmentFamily: React.FC = () => {
                 })()
             ))}
 
-            {hasActiveFilters && !pigmentsInFamily.some((pigment) => getPaintsForPigment(pigment.code).length > 0) && (
+            {hasActiveFilters && !hasAnyFilteredPaints && (
               <Card className="p-8 text-center text-neutral-500">
                 No paints match the current filters.
               </Card>
@@ -380,10 +406,9 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
       "Vegan", "Collection", "Action"
     ];
 
-    const mixLabel = (paint: Paint) => paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
     const sortedPaints = [...paints].sort((a, b) => {
-        const aMix = mixLabel(a);
-        const bMix = mixLabel(b);
+        const aMix = getPaintMixLabel(a);
+        const bMix = getPaintMixLabel(b);
         if (aMix !== bMix) return aMix === 'Single' ? -1 : 1;
         return a.name.localeCompare(b.name);
     });
@@ -402,7 +427,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                 </thead>
                 <tbody className="divide-y divide-neutral-100">
                     {sortedPaints.map(paint => {
-                         const brand = BRANDS.find(b => b.id === paint.brandId);
+                         const brand = BRAND_BY_ID.get(paint.brandId);
                          const isSelected = selectedPaintIds.includes(paint.id);
 
                         return (
@@ -417,7 +442,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                     labelClassName="block text-[9px] leading-none"
                                   />
                                 </td>
-                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{mixLabel(paint)}</td>
+                                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{getPaintMixLabel(paint)}</td>
                                 <td className="px-4 py-3 text-neutral-900 font-medium min-w-[150px]">
                                     <Link to={`/paints/${paint.id}`} className="hover:underline hover:text-blue-600">
                                         {paint.name}

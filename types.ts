@@ -71,4 +71,5 @@ export interface ComparisonContextType {
   togglePaint: (id: string) => void;
   clearSelection: () => void;
   removePaint: (id: string) => void;
+  setSelection: (ids: string[]) => void;
 }

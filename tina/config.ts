@@ -12,21 +12,29 @@ const paintNameById = new Map(
     (p) => [p.id, p.name]
   )
 );
+const tinaClientId = process.env.TINA_CLIENT_ID;
+const tinaToken = process.env.TINA_TOKEN;
+const useCloudAuth = Boolean(tinaClientId && tinaToken);
 
 export default defineConfig({
   // Route CMS GraphQL through the Vite dev server so the admin can reach it
   // even when direct access to port 4001 is blocked.
   contentApiUrlOverride: "/api/tina/gql",
-  // Local-only auth to avoid Tina Cloud client ID requirement in dev.
-  authProvider: new LocalAuthProvider(),
-  client: { skip: true },
+  ...(useCloudAuth
+    ? {
+        clientId: tinaClientId!,
+        token: tinaToken!,
+      }
+    : {
+        // Keep local development working without requiring Tina Cloud credentials.
+        authProvider: new LocalAuthProvider(),
+        client: { skip: true },
+      }),
   branch:
     process.env.GITHUB_BRANCH ||
     process.env.VERCEL_GIT_COMMIT_REF ||
     process.env.HEAD ||
     "main",
-  clientId: process.env.TINA_CLIENT_ID || "",
-  token: process.env.TINA_TOKEN || "",
   build: {
     publicFolder: "public",
     outputFolder: "admin",

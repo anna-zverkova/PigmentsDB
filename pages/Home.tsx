@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Search, BarChart2, BookOpen, Palette } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { Badge } from '../components/ui/Badge';
 import homeContent from '../content/home.json';
-import { BRANDS, PAINTS } from '../constants';
+import { BRAND_BY_ID, PAINTS, PAINT_BY_ID } from '../constants';
 import { Paint } from '../types';
 import { SwatchPreview } from '../components/SwatchPreview';
 
@@ -15,13 +15,17 @@ export const Home: React.FC = () => {
   const featureIconClasses = ['text-tint-ember', 'text-tint-teal', 'text-tint-moss', 'text-tint-ink'];
   const featureBgClasses = ['bg-tint-ember/10', 'bg-tint-teal/10', 'bg-tint-gold/15', 'bg-tint-ink/10'];
   const featuredItems = featured?.items ?? [];
-  const featuredPaints = featuredItems
-    .map((item: { paintId: string }) => PAINTS.find(p => p.id === item.paintId))
-    .filter(Boolean) as Paint[];
-  const resolvedFeaturedPaints =
-    featuredPaints.length > 0
-      ? featuredPaints
-      : PAINTS.filter(p => p.isFeatured).slice(0, 5);
+  const featuredPaints = useMemo(
+    () =>
+      featuredItems
+        .map((item: { paintId: string }) => PAINT_BY_ID.get(item.paintId))
+        .filter(Boolean) as Paint[],
+    [featuredItems]
+  );
+  const resolvedFeaturedPaints = useMemo(
+    () => (featuredPaints.length > 0 ? featuredPaints : PAINTS.filter(p => p.isFeatured).slice(0, 5)),
+    [featuredPaints]
+  );
 
   return (
     <div className="space-y-20 pb-20">
@@ -107,7 +111,7 @@ export const Home: React.FC = () => {
             
             <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
                 {resolvedFeaturedPaints.map((paint) => {
-                  const brand = BRANDS.find(b => b.id === paint.brandId);
+                  const brand = BRAND_BY_ID.get(paint.brandId);
                   return (
                     <Link key={paint.id} to={`/paints/${paint.id}`} className="group block text-left">
                       <Card className="h-full overflow-hidden hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">

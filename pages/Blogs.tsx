@@ -15,6 +15,17 @@ type BlogArticle = {
   highlight?: boolean;
 };
 
+function resolveFeaturedArticle(articles: BlogArticle[], featuredArticleId: string) {
+  const featuredArticle = articles.find((article) => article.id === featuredArticleId);
+  const fallbackArticle = articles[0] ?? null;
+  const selectedArticle = featuredArticle ?? fallbackArticle;
+
+  return {
+    article: selectedArticle,
+    usedFallback: Boolean(selectedArticle && selectedArticle.id !== featuredArticleId),
+  };
+}
+
 const blogData = blogsContent as {
   hero: { eyebrow: string; title: string; subtitle: string };
   featured: { title: string; articleId: string };
@@ -22,7 +33,17 @@ const blogData = blogsContent as {
 };
 
 export const Blogs: React.FC = () => {
-  const featuredArticle = blogData.articles.find((article) => article.id === blogData.featured.articleId) ?? blogData.articles[0];
+  const { article: featuredArticle, usedFallback } = resolveFeaturedArticle(blogData.articles, blogData.featured.articleId);
+
+  if (!featuredArticle) {
+    return (
+      <div className="container mx-auto px-4 py-20 text-center">
+        <h1 className="text-2xl font-bold mb-4">No blog articles available</h1>
+        <p className="text-neutral-600">Add at least one article to `content/blogs.json` to populate this page.</p>
+      </div>
+    );
+  }
+
   const otherArticles = blogData.articles.filter((article) => article.id !== featuredArticle.id);
 
   return (
@@ -41,6 +62,11 @@ export const Blogs: React.FC = () => {
               <Sparkles size={14} className="text-tint-ember" />
               {blogData.hero.eyebrow}
             </div>
+            {usedFallback && (
+              <p className="mb-3 text-sm font-medium text-neutral-500">
+                Featured article fallback: showing the first available post because the configured featured id was not found.
+              </p>
+            )}
             <h1 className="font-display text-5xl md:text-7xl font-bold tracking-tight text-tint-ink leading-[1.05] max-w-3xl">
               {blogData.hero.title}
             </h1>
@@ -53,48 +79,52 @@ export const Blogs: React.FC = () => {
 
       <section className="container mx-auto px-4 py-12 md:py-16">
         <div className="grid grid-cols-1 lg:grid-cols-[1.3fr_0.7fr] gap-8">
-          <Link to={`/blogs/${featuredArticle.id}`} className="block group h-full">
-          <Card className="overflow-hidden border-tint-ink/10 bg-white/90 backdrop-blur-sm h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-md">
-            <div className="p-8 md:p-10 space-y-6">
-              <div className="flex items-center justify-between gap-4 flex-wrap">
-                <div>
-                  <p className="text-xs font-semibold uppercase tracking-[0.24em] text-neutral-500">
-                    {blogData.featured.title}
-                  </p>
-                  <h2 className="mt-2 text-3xl md:text-4xl font-bold font-display text-tint-ink">
-                    {featuredArticle.title}
-                  </h2>
+          <Link
+            to={`/blogs/${featuredArticle.id}`}
+            aria-label={usedFallback ? 'Featured article selected from the first available post' : undefined}
+            className="block group h-full"
+          >
+            <Card className="overflow-hidden border-tint-ink/10 bg-white/90 backdrop-blur-sm h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-md">
+              <div className="p-8 md:p-10 space-y-6">
+                <div className="flex items-center justify-between gap-4 flex-wrap">
+                  <div>
+                    <p className="text-xs font-semibold uppercase tracking-[0.24em] text-neutral-500">
+                      {blogData.featured.title}
+                    </p>
+                    <h2 className="mt-2 text-3xl md:text-4xl font-bold font-display text-tint-ink">
+                      {featuredArticle.title}
+                    </h2>
+                  </div>
+                  <Badge variant="secondary" className="bg-tint-ember/10 text-tint-ember border-tint-ember/20">
+                    Featured
+                  </Badge>
                 </div>
-                <Badge variant="secondary" className="bg-tint-ember/10 text-tint-ember border-tint-ember/20">
-                  Featured
-                </Badge>
-              </div>
 
-              <p className="max-w-2xl text-neutral-600 leading-relaxed text-lg">
-                {featuredArticle.excerpt}
-              </p>
+                <p className="max-w-2xl text-neutral-600 leading-relaxed text-lg">
+                  {featuredArticle.excerpt}
+                </p>
 
-              <div className="flex flex-wrap gap-3 text-sm text-neutral-500">
-                <span className="inline-flex items-center gap-2 rounded-full bg-neutral-100 px-3 py-1.5">
-                  <CalendarDays size={14} />
-                  {featuredArticle.date}
-                </span>
-                <span className="inline-flex items-center gap-2 rounded-full bg-neutral-100 px-3 py-1.5">
-                  <Clock3 size={14} />
-                  {featuredArticle.readTime}
-                </span>
-                <Badge variant="outline" className="rounded-full">
-                  {featuredArticle.category}
-                </Badge>
-              </div>
+                <div className="flex flex-wrap gap-3 text-sm text-neutral-500">
+                  <span className="inline-flex items-center gap-2 rounded-full bg-neutral-100 px-3 py-1.5">
+                    <CalendarDays size={14} />
+                    {featuredArticle.date}
+                  </span>
+                  <span className="inline-flex items-center gap-2 rounded-full bg-neutral-100 px-3 py-1.5">
+                    <Clock3 size={14} />
+                    {featuredArticle.readTime}
+                  </span>
+                  <Badge variant="outline" className="rounded-full">
+                    {featuredArticle.category}
+                  </Badge>
+                </div>
 
-              <div className="pt-4">
-                <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink hover:text-tint-ember transition-colors">
-                  Read article <ArrowRight size={16} />
-                </span>
+                <div className="pt-4">
+                  <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink hover:text-tint-ember transition-colors">
+                    Read article <ArrowRight size={16} />
+                  </span>
+                </div>
               </div>
-            </div>
-          </Card>
+            </Card>
           </Link>
 
           <Card className="border-tint-ink/10 bg-tint-ink text-white overflow-hidden">
@@ -171,30 +201,30 @@ export const Blogs: React.FC = () => {
                   index === 0 ? 'bg-white' : 'bg-white/90'
                 }`}
               >
-              <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
-                <Badge variant="secondary" className="bg-tint-gold/15 text-tint-ink border-tint-gold/30">
-                  {article.category}
-                </Badge>
-                <div className="flex items-center gap-3 text-xs text-neutral-500">
-                  <span className="inline-flex items-center gap-1.5">
-                    <CalendarDays size={12} />
-                    {article.date}
-                  </span>
-                  <span className="inline-flex items-center gap-1.5">
-                    <Clock3 size={12} />
-                    {article.readTime}
+                <div className="flex items-center justify-between gap-3 mb-4 flex-wrap">
+                  <Badge variant="secondary" className="bg-tint-gold/15 text-tint-ink border-tint-gold/30">
+                    {article.category}
+                  </Badge>
+                  <div className="flex items-center gap-3 text-xs text-neutral-500">
+                    <span className="inline-flex items-center gap-1.5">
+                      <CalendarDays size={12} />
+                      {article.date}
+                    </span>
+                    <span className="inline-flex items-center gap-1.5">
+                      <Clock3 size={12} />
+                      {article.readTime}
+                    </span>
+                  </div>
+                </div>
+
+                <h3 className="text-xl font-bold text-tint-ink leading-snug">{article.title}</h3>
+                <p className="mt-3 text-neutral-600 leading-relaxed">{article.excerpt}</p>
+
+                <div className="mt-5">
+                  <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink/80 group-hover:text-tint-ember transition-colors">
+                    Coming soon <ArrowRight size={15} />
                   </span>
                 </div>
-              </div>
-
-              <h3 className="text-xl font-bold text-tint-ink leading-snug">{article.title}</h3>
-              <p className="mt-3 text-neutral-600 leading-relaxed">{article.excerpt}</p>
-
-              <div className="mt-5">
-                <span className="inline-flex items-center gap-2 text-sm font-semibold text-tint-ink/80 group-hover:text-tint-ember transition-colors">
-                  Coming soon <ArrowRight size={15} />
-                </span>
-              </div>
               </Card>
             </Link>
           ))}

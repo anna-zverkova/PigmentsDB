@@ -1,16 +1,29 @@
 import React from 'react';
-import { useComparison } from '../App'; // We will define this hook in App.tsx
-import { Link } from 'react-router-dom';
+import { useComparison } from '../App';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Button } from './ui/Button';
-import { PAINTS } from '../constants'; // Direct import for demo speed
+import { PAINT_BY_ID } from '../constants';
 import { X, ArrowRight, Palette } from 'lucide-react';
 
 export const ComparisonBar: React.FC = () => {
   const { selectedPaintIds, removePaint, clearSelection } = useComparison();
+  const location = useLocation();
+  const navigate = useNavigate();
 
   if (selectedPaintIds.length === 0) return null;
 
-  const selectedPaints = PAINTS.filter(p => selectedPaintIds.includes(p.id));
+  const selectedPaints = selectedPaintIds
+    .map((id) => PAINT_BY_ID.get(id))
+    .filter((paint): paint is NonNullable<typeof paint> => Boolean(paint));
+
+  const syncRoute = (ids: string[]) => {
+    if (location.pathname !== '/compare' && location.pathname !== '/palette-builder') {
+      return;
+    }
+
+    const search = ids.length > 0 ? `?ids=${ids.join(',')}` : '';
+    navigate(`${location.pathname}${search}`, { replace: true });
+  };
 
   return (
     <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 w-full max-w-2xl px-4">
@@ -28,7 +41,11 @@ export const ComparisonBar: React.FC = () => {
               />
               <span className="text-xs font-medium text-neutral-700">{paint.name}</span>
               <button 
-                onClick={() => removePaint(paint.id)}
+                onClick={() => {
+                  const nextIds = selectedPaintIds.filter((id) => id !== paint.id);
+                  removePaint(paint.id);
+                  syncRoute(nextIds);
+                }}
                 className="hover:bg-neutral-200 p-0.5 rounded-full"
               >
                 <X size={14} className="text-neutral-500" />
@@ -38,7 +55,14 @@ export const ComparisonBar: React.FC = () => {
         </div>
         
         <div className="flex items-center gap-2 shrink-0">
-            <Button variant="ghost" size="sm" onClick={clearSelection}>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => {
+                clearSelection();
+                syncRoute([]);
+              }}
+            >
                 Clear
             </Button>
             <Link to={`/palette-builder?ids=${selectedPaintIds.join(',')}`}>

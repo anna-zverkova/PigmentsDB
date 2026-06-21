@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+import React, { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { jsPDF } from 'jspdf';
 import { Paint, Brand } from '../types';
-import { PAINTS, BRANDS } from '../constants';
+import { BRAND_BY_ID, PAINT_BY_ID } from '../constants';
 import { Button } from '../components/ui/Button';
 import { SwatchPreview } from '../components/SwatchPreview';
 import { Download, ArrowLeft, FileText, Layers3, Palette } from 'lucide-react';
@@ -10,7 +10,17 @@ import { useComparison } from '../App';
 
 const parseIds = (search: string) => {
   const queryParams = new URLSearchParams(search);
-  return queryParams.get('ids')?.split(',').filter(Boolean) || [];
+  return queryParams.get('ids')?.split(',').map(id => id.trim()).filter(Boolean) || [];
+};
+
+const areSameIds = (left: string[], right: string[]) => (
+  left.length === right.length && left.every((id, index) => id === right[index])
+);
+
+const buildSearch = (ids: string[]) => {
+  if (ids.length === 0) return '';
+
+  return `?ids=${ids.join(',')}`;
 };
 
 const formatValue = (value: unknown) => {
@@ -23,7 +33,7 @@ const formatValue = (value: unknown) => {
   return String(value);
 };
 
-const getBrand = (brandId: string): Brand | undefined => BRANDS.find(brand => brand.id === brandId);
+const getBrand = (brandId: string): Brand | undefined => BRAND_BY_ID.get(brandId);
 
 const loadImageDataUrl = async (src?: string | null) => {
   if (!src) return null;
@@ -142,13 +152,43 @@ const buildPdf = async (paints: Paint[]) => {
 
 export const PaletteBuilder: React.FC = () => {
   const location = useLocation();
-  const { selectedPaintIds, clearSelection } = useComparison();
+  const navigate = useNavigate();
+  const { selectedPaintIds, clearSelection, setSelection } = useComparison();
   const [isExporting, setIsExporting] = useState(false);
   const [exportMessage, setExportMessage] = useState<string | null>(null);
+  const lastSyncedSearchRef = useRef<string | null>(null);
+  const queryIds = useMemo(() => parseIds(location.search), [location.search]);
+  const selectedPaints = useMemo(
+    () => selectedPaintIds.map((id) => PAINT_BY_ID.get(id)).filter((paint): paint is Paint => Boolean(paint)),
+    [selectedPaintIds]
+  );
 
-  const queryIds = parseIds(location.search);
-  const selectedIds = queryIds.length > 0 ? queryIds : selectedPaintIds;
-  const selectedPaints = PAINTS.filter(paint => selectedIds.includes(paint.id));
+  useLayoutEffect(() => {
+    if (queryIds.length === 0) {
+      if (lastSyncedSearchRef.current === null) {
+        lastSyncedSearchRef.current = location.search;
+      }
+      return;
+    }
+
+    if (location.search === lastSyncedSearchRef.current) return;
+
+    const sanitizedQueryIds = queryIds.filter((id) => PAINT_BY_ID.has(id));
+
+    if (!areSameIds(selectedPaintIds, sanitizedQueryIds)) {
+      setSelection(sanitizedQueryIds);
+    }
+
+    lastSyncedSearchRef.current = location.search;
+  }, [queryIds, selectedPaintIds, setSelection]);
+
+  useEffect(() => {
+    const nextSearch = buildSearch(selectedPaintIds);
+    if (location.search === nextSearch) return;
+
+    lastSyncedSearchRef.current = nextSearch;
+    navigate({ pathname: location.pathname, search: nextSearch }, { replace: true });
+  }, [location.pathname, location.search, navigate, selectedPaintIds]);
 
   const handleDownload = async () => {
     if (selectedPaints.length === 0 || isExporting) return;
@@ -214,7 +254,14 @@ export const PaletteBuilder: React.FC = () => {
           </div>
 
           <div className="flex flex-wrap gap-2">
-            <Button variant="outline" className="gap-2" onClick={clearSelection}>
+            <Button
+              variant="outline"
+              className="gap-2"
+              onClick={() => {
+                clearSelection();
+                navigate('/palette-builder', { replace: true });
+              }}
+            >
               <ArrowLeft size={16} />
               Clear selection
             </Button>

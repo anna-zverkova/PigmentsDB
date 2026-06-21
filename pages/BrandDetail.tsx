@@ -1,14 +1,20 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { BRANDS, PAINTS } from '../constants';
+import { BRAND_BY_ID, PAINTS_BY_BRAND_ID } from '../constants';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { SwatchPreview } from '../components/SwatchPreview';
 import { useComparison } from '../App';
+import { Paint } from '../types';
 
 export const BrandDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
-  const brand = BRANDS.find(b => b.id === id);
+  const brand = useMemo(() => (id ? BRAND_BY_ID.get(id) : undefined), [id]);
+  const paints = useMemo(() => (brand ? PAINTS_BY_BRAND_ID.get(brand.id) ?? [] : []), [brand]);
+  const singlePigmentCount = useMemo(
+    () => paints.filter(p => p.pigmentCodes.length === 1 && p.pigmentCodes[0] !== '—').length,
+    [paints]
+  );
 
   if (!brand) {
     return (
@@ -18,9 +24,6 @@ export const BrandDetail: React.FC = () => {
       </div>
     );
   }
-
-  const paints = PAINTS.filter(p => p.brandId === brand.id);
-  const singlePigmentCount = paints.filter(p => p.pigmentCodes.length === 1 && p.pigmentCodes[0] !== '—').length;
   const country = brand.country || 'Unknown';
   const description = brand.description?.trim() || `${brand.name} is a watercolor paint brand based in ${country}.`;
 
@@ -52,7 +55,7 @@ export const BrandDetail: React.FC = () => {
   );
 };
 
-const PaintTable: React.FC<{ paints: typeof PAINTS }> = ({ paints }) => {
+const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
   const { selectedPaintIds, togglePaint } = useComparison();
 
   if (paints.length === 0) {

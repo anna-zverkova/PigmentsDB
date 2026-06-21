@@ -1,7 +1,5 @@
 import React from 'react';
-import { TinaMarkdown } from 'tinacms/dist/rich-text';
-import ReactMarkdown from 'react-markdown';
-import remarkBreaks from 'remark-breaks';
+import { MarkdownBody } from '../components/content/MarkdownBody';
 import infoContent from '../content/info.json';
 
 export const InfoData: React.FC = () => {
@@ -11,43 +9,12 @@ export const InfoData: React.FC = () => {
       bodyMarkdown:
         'This page will describe data sources, update cadence, and how pigment and paint records are maintained.',
     };
-  const rich = dataPage.bodyRich;
-  const rawMarkdown =
-    (typeof rich === 'string' && rich.trim().length > 0 ? rich : null) ??
-    dataPage.bodyMarkdown ??
-    (Array.isArray(dataPage.body) ? dataPage.body.join('\n\n') : dataPage.body) ??
-    '';
-  const markdown = rawMarkdown
-    .replace(/\r\n/g, '\n')
-    .split('\n')
-    .map((line) => line.trimStart())
-    .join('\n');
-  const markdownComponents = {
-    p: (props: React.HTMLAttributes<HTMLParagraphElement>) => (
-      <p className="mb-5 last:mb-0" {...props} />
-    ),
-    h2: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
-      <h2 className="text-xl font-semibold text-neutral-900 mt-8 mb-3" {...props} />
-    ),
-    h3: (props: React.HTMLAttributes<HTMLHeadingElement>) => (
-      <h3 className="text-lg font-semibold text-neutral-900 mt-6 mb-2" {...props} />
-    ),
-  };
-
   return (
     <div className="container mx-auto px-4 py-16 max-w-3xl">
       <h1 className="text-3xl font-bold text-neutral-900 mb-4">
         {dataPage.title}
       </h1>
-      <div className="text-neutral-600 leading-relaxed">
-        {rich && typeof rich === 'object' && (Array.isArray(rich) ? rich.length > 0 : true) ? (
-          <TinaMarkdown content={rich} components={markdownComponents} />
-        ) : (
-          <ReactMarkdown remarkPlugins={[remarkBreaks]} components={markdownComponents}>
-            {markdown}
-          </ReactMarkdown>
-        )}
-      </div>
+      <MarkdownBody richText={dataPage.bodyRich} markdown={dataPage.bodyMarkdown} fallbackMarkdown={Array.isArray(dataPage.body) ? dataPage.body.join('\n\n') : dataPage.body} />
     </div>
   );
 };

@@ -1,4 +1,4 @@
-import { BRANDS, PAINTS, PIGMENTS } from "../constants";
+import { BRANDS, PAINTS, PIGMENTS, PIGMENTS_BY_FAMILY_LOWERCASE } from "../constants";
 import { Brand, Paint, Pigment } from "../types";
 
 export const getPaints = async (): Promise<Paint[]> => {
@@ -21,7 +21,9 @@ export const getPigments = async (): Promise<Pigment[]> => {
 
 export const getPigmentByFamily = async (family: string): Promise<Pigment[]> => {
     return new Promise(resolve => {
-        setTimeout(() => resolve(PIGMENTS.filter(p => p.family.toLowerCase() === family.toLowerCase())), 200);
+        const normalizedFamily = family.toLowerCase();
+        const pigments = PIGMENTS_BY_FAMILY_LOWERCASE.get(normalizedFamily) ?? [];
+        setTimeout(() => resolve(pigments.slice()), 200);
     })
 }
 

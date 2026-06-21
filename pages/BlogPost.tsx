@@ -153,23 +153,8 @@ const articleContent: Record<string, BlogContent> = {
   },
 };
 
-export const BlogPost: React.FC = () => {
-  const { id } = useParams<{ id: string }>();
-  const article = blogData.articles.find((item) => item.id === id);
-
-  if (!article) {
-    return (
-      <div className="container mx-auto px-4 py-20 text-center">
-        <h1 className="text-2xl font-bold mb-4">Blog post not found</h1>
-        <Link to="/blogs" className="inline-flex items-center gap-2 text-tint-ink font-semibold hover:text-tint-ember">
-          <ArrowLeft size={16} />
-          Back to Blogs
-        </Link>
-      </div>
-    );
-  }
-
-  const content = articleContent[article.id] ?? {
+function getBlogContent(article: BlogArticle): BlogContent {
+  return articleContent[article.id] ?? {
     kicker: article.category,
     intro: article.excerpt,
     sections: [
@@ -187,7 +172,26 @@ export const BlogPost: React.FC = () => {
     quote: 'A simple article template is the best place to start.',
     takeaways: ['Minimal structure now.', 'More detail later.', 'Easy to extend.'],
     next: 'This post can be expanded once the editorial style is settled.',
-  } satisfies BlogContent;
+  };
+}
+
+export const BlogPost: React.FC = () => {
+  const { id } = useParams<{ id: string }>();
+  const article = blogData.articles.find((item) => item.id === id);
+
+  if (!article) {
+    return (
+      <div className="container mx-auto px-4 py-20 text-center">
+        <h1 className="text-2xl font-bold mb-4">Blog post not found</h1>
+        <Link to="/blogs" className="inline-flex items-center gap-2 text-tint-ink font-semibold hover:text-tint-ember">
+          <ArrowLeft size={16} />
+          Back to Blogs
+        </Link>
+      </div>
+    );
+  }
+
+  const content = getBlogContent(article);
 
   const relatedArticles = blogData.articles.filter((item) => item.id !== article.id).slice(0, 3);
 
