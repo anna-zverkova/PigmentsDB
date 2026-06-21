@@ -40,7 +40,7 @@ TintMap is a non-profit, solo‑creator pigment atlas for watercolour artists. I
 | Grumbacher Academy |
 | Isaro |
 | Jackson's Own Brand |
-| Ken Bromley Own Brand |
+| Ken Bromley |
 | Kusakabe |
 | Lukas Aquarell |
 | Lutea |
@@ -428,7 +428,7 @@ PM focus: You need a one‑page operational snapshot so you can plan without div
 **Brands roadmap**
 | Coming soon |
 |---|
-| Art Spectrum, Blick Own Brand, Blockx, Cass Arts Own Brand, Da Vinci Paints, Daler Rowney Professional, Daler Rowney Aquafine, Grumbacher Finest, Grumbacher Academy, Isaro, Jackson's Own Brand, Ken Bromley Own Brand, Kusakabe, Lukas Aquarell, Lutea, M. Graham, MaimeriBlu, Mijello Mission Gold, Old Holland, QoR, Rembrandt, Renesans (Pans), Renesans (Tubes), Roman Szmal, Sennelier, ShinHan Pro (Students), ShinHan PWC (Artist's), Turner, Utrecht, Van Gogh, Prima Marketing |
+| Art Spectrum, Blick Own Brand, Blockx, Cass Arts Own Brand, Da Vinci Paints, Daler Rowney Professional, Daler Rowney Aquafine, Grumbacher Finest, Grumbacher Academy, Isaro, Jackson's Own Brand, Ken Bromley, Kusakabe, Lukas Aquarell, Lutea, M. Graham, MaimeriBlu, Mijello Mission Gold, Old Holland, QoR, Rembrandt, Renesans (Pans), Renesans (Tubes), Roman Szmal, Sennelier, ShinHan Pro (Students), ShinHan PWC (Artist's), Turner, Utrecht, Van Gogh, Prima Marketing |
 
 **Key decisions log (why it’s built this way)**
 | Decision | Reason |
