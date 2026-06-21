@@ -5,12 +5,12 @@ import { Badge } from '../components/ui/Badge';
 import { Button } from '../components/ui/Button';
 import { Card } from '../components/ui/Card';
 import { useComparison } from '../App';
-import { Droplet, Sun, Layers, Grid } from 'lucide-react';
+import { Droplet, Sun, Layers, Grid, Layers3, ArchiveX } from 'lucide-react';
 import { Paint, Pigment } from '../types';
 import pigmentsContent from '../content/pigments.json';
 import { SwatchPreview } from '../components/SwatchPreview';
 
-type FilterKey = 'lightfastness' | 'transparency' | 'staining' | 'granulation';
+type FilterKey = 'lightfastness' | 'transparency' | 'staining' | 'granulation' | 'pigmentMix' | 'discontinued';
 type FilterState = Record<FilterKey, string>;
 
 const filterMeta = {
@@ -18,11 +18,15 @@ const filterMeta = {
   transparency: { label: 'Transparency', icon: Layers },
   staining: { label: 'Staining', icon: Droplet },
   granulation: { label: 'Granulation', icon: Grid },
+  pigmentMix: { label: 'Pigment Mix', icon: Layers3 },
+  discontinued: { label: 'Discontinued', icon: ArchiveX },
 } as const;
 
 const transparencyOptions = ['Opaque', 'Semi-Opaque', 'Semi-Transparent', 'Transparent'];
 const granulationOptions = ['None', 'Low', 'Medium', 'High'];
 const stainingOptions = ['Non', 'Low', 'Medium', 'High'];
+const pigmentMixOptions = ['Single', 'Multi'];
+const discontinuedOptions = ['Active', 'Discontinued'];
 
 const normalizeLightfastness = (value?: string) => value?.trim() || '';
 
@@ -123,6 +127,8 @@ export const PigmentFamily: React.FC = () => {
     transparency: '',
     staining: '',
     granulation: '',
+    pigmentMix: '',
+    discontinued: '',
   });
   const [activeFilter, setActiveFilter] = useState<FilterKey | null>(null);
 
@@ -154,11 +160,15 @@ export const PigmentFamily: React.FC = () => {
     const transparency = normalizeTransparency(paint.transparency);
     const staining = normalizeStaining(paint.staining);
     const granulation = normalizeGranulation(paint.granulation);
+    const pigmentMix = paint.pigmentMix || (paint.pigmentCodes.length <= 1 ? 'Single' : 'Multi');
+    const discontinued = paint.isDiscontinued ? 'Discontinued' : 'Active';
 
     if (filters.lightfastness && lightfastness !== filters.lightfastness) return false;
     if (filters.transparency && transparency !== filters.transparency) return false;
     if (filters.staining && staining !== filters.staining) return false;
     if (filters.granulation && granulation !== filters.granulation) return false;
+    if (filters.pigmentMix && pigmentMix !== filters.pigmentMix) return false;
+    if (filters.discontinued && discontinued !== filters.discontinued) return false;
 
     return true;
   };
@@ -188,6 +198,18 @@ export const PigmentFamily: React.FC = () => {
       value: filters.granulation,
       options: granulationOptions,
     },
+    pigmentMix: {
+      label: filterMeta.pigmentMix.label,
+      icon: filterMeta.pigmentMix.icon,
+      value: filters.pigmentMix,
+      options: pigmentMixOptions,
+    },
+    discontinued: {
+      label: filterMeta.discontinued.label,
+      icon: filterMeta.discontinued.icon,
+      value: filters.discontinued,
+      options: discontinuedOptions,
+    },
   } as const;
 
   const setFilter = (key: FilterKey, value: string) => {
@@ -200,6 +222,8 @@ export const PigmentFamily: React.FC = () => {
       transparency: '',
       staining: '',
       granulation: '',
+      pigmentMix: '',
+      discontinued: '',
     });
     setActiveFilter(null);
   };
