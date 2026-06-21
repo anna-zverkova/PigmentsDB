@@ -111,3 +111,20 @@ python scrapers/import_shinhan_from_html.py \
   --performance "Professional" \
   --uploads-dir "public/uploads/shinhan-pwc"
 ```
+
+## Ken Bromley — import from Oto Kano HTML
+
+**What it does**
+- Parses the Ken Bromley paint table from the saved Oto Kano HTML
+- Matches swatches from `public/uploads/ken-bromley`
+- Downloads any missing swatch from the archived source URL
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_ken_bromley_from_html.mjs \
+  --html "Ken Bromley - Watercolor Paints Database - - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/ken-bromley" \
+  --brand-id "ken-bromley"
+```
