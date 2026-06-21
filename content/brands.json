@@ -78,6 +78,15 @@
       "website": "#"
     },
     {
+      "id": "greenleaf-blueberry",
+      "name": "Greenleaf & Blueberry",
+      "logo": "GB",
+      "description": "Greenleaf & Blueberry is a US professional handmade watercolor brand.",
+      "website": "#",
+      "country": "US",
+      "status": "Professional"
+    },
+    {
       "id": "holbein",
       "name": "Holbein",
       "logo": "H",
@@ -131,6 +140,15 @@
       "description": "NILA COLORI is an Italian professional watercolor brand focused on artist-grade color and contemporary paint making.",
       "website": "#",
       "country": "Italy",
+      "status": "Professional"
+    },
+    {
+      "id": "loeil-art-supplies",
+      "name": "L'oeil Art Supplies",
+      "logo": "LA",
+      "description": "L'oeil Art Supplies is a Hong Kong professional watercolor brand.",
+      "website": "#",
+      "country": "Hong Kong",
       "status": "Professional"
     },
     {
@@ -194,18 +212,21 @@
       "website": "#"
     },
     {
-      "id": "renesans-pans",
-      "name": "Renesans (Pans)",
-      "logo": "RP",
+      "id": "renesans",
+      "name": "Renesans",
+      "logo": "RN",
       "description": "",
-      "website": "#"
+      "website": "#",
+      "country": "Poland"
     },
     {
-      "id": "renesans-tubes",
-      "name": "Renesans (Tubes)",
-      "logo": "RT",
-      "description": "",
-      "website": "#"
+      "id": "finetec",
+      "name": "Finetec",
+      "logo": "F",
+      "description": "Finetec is a German professional watercolor brand known for specialty and high-quality artist colors.",
+      "website": "#",
+      "country": "Germany",
+      "status": "Professional"
     },
     {
       "id": "roman-szmal",
