@@ -65006,6 +65006,210 @@ var paints_default = {
       isDiscontinued: false,
       performance: "Professional",
       hue: "\u2014"
+    },
+    {
+      id: "lutea-grey",
+      brandId: "lutea",
+      name: "Grey",
+      pigmentCodes: [
+        "Strawberry"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-grey.png"
+    },
+    {
+      id: "lutea-blue",
+      brandId: "lutea",
+      name: "Blue",
+      pigmentCodes: [
+        "Indigo Polygonum"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-blue.png"
+    },
+    {
+      id: "lutea-purple",
+      brandId: "lutea",
+      name: "Purple",
+      pigmentCodes: [
+        "Logwood"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-violet.png"
+    },
+    {
+      id: "lutea-carmine",
+      brandId: "lutea",
+      name: "Carmine",
+      pigmentCodes: [
+        "Cochineal"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-carmine.png"
+    },
+    {
+      id: "lutea-pink",
+      brandId: "lutea",
+      name: "Pink",
+      pigmentCodes: [
+        "Madder"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-rose.png"
+    },
+    {
+      id: "lutea-red",
+      brandId: "lutea",
+      name: "Red",
+      pigmentCodes: [
+        "Madder"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-red.png"
+    },
+    {
+      id: "lutea-dark-orange",
+      brandId: "lutea",
+      name: "Dark Orange",
+      pigmentCodes: [
+        "Thyme"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-dark-orange.png"
+    },
+    {
+      id: "lutea-orange",
+      brandId: "lutea",
+      name: "Orange",
+      pigmentCodes: [
+        "Cosmos"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-orange.png"
+    },
+    {
+      id: "lutea-yellow",
+      brandId: "lutea",
+      name: "Yellow",
+      pigmentCodes: [
+        "Goldenrod"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-yellow.png"
+    },
+    {
+      id: "lutea-light-green",
+      brandId: "lutea",
+      name: "Light Green",
+      pigmentCodes: [
+        "Meadowsweet"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-light-green.png"
+    },
+    {
+      id: "lutea-dark-green",
+      brandId: "lutea",
+      name: "Dark Green",
+      pigmentCodes: [
+        "Meadowsweet"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-verte-fonce.png"
+    },
+    {
+      id: "lutea-brown",
+      brandId: "lutea",
+      name: "Brown",
+      pigmentCodes: [
+        "Walnut Husk"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2013",
+      swatchImage: "/uploads/lutea/LU-brown.png"
     }
   ]
 };

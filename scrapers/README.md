@@ -162,3 +162,20 @@ node scrapers/import_rembrandt_from_html.mjs \
   --uploads-dir "public/uploads/rembrandt" \
   --brand-id "rembrandt"
 ```
+
+## Lutea — import from Oto Kano HTML
+
+**What it does**
+- Parses the Lutea paint table from the saved Oto Kano HTML
+- Matches swatches only against `public/uploads/lutea`
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_lutea_from_html.mjs \
+  --html "Lutea - Watercolor Paints Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/lutea" \
+  --brand-id "lutea"
+```
