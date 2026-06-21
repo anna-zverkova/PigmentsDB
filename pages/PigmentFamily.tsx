@@ -388,6 +388,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                                   <SwatchPreview
                                     src={paint.swatchImage}
                                     alt={`${paint.name} swatch`}
+                                    variant="badge"
                                     className="h-10 w-16 object-cover rounded border border-neutral-200 mx-auto"
                                     labelClassName="block text-[9px] leading-none"
                                   />

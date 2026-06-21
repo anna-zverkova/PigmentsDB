@@ -32,6 +32,7 @@ export const PaintDetail: React.FC = () => {
               <SwatchPreview
                 src={paint.swatchImage}
                 alt={`${paint.name} swatch`}
+                variant="card"
                 className="w-full h-full object-cover"
                 labelClassName="block text-[10px] leading-none"
               />

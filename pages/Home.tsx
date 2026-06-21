@@ -116,6 +116,7 @@ export const Home: React.FC = () => {
                             <SwatchPreview
                               src={paint.swatchImage}
                               alt={`${paint.name} swatch`}
+                              variant="card"
                               className="absolute inset-0 w-full h-full object-cover"
                               labelClassName="block text-[9px] leading-none"
                             />
