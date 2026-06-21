@@ -6,6 +6,7 @@ import { PigmentFamily } from './pages/PigmentFamily';
 import { PaintsSearch } from './pages/PaintsSearch';
 import { PaintDetail } from './pages/PaintDetail';
 import { Comparison } from './pages/Comparison';
+import { PaletteBuilder } from './pages/PaletteBuilder';
 import { Brands } from './pages/Brands';
 import { BrandDetail } from './pages/BrandDetail';
 import { Blogs } from './pages/Blogs';
@@ -33,10 +34,6 @@ const ComparisonProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
     setSelectedPaintIds(prev => {
       if (prev.includes(id)) {
         return prev.filter(pId => pId !== id);
-      }
-      if (prev.length >= 4) {
-        alert("You can only compare up to 4 paints at a time.");
-        return prev;
       }
       return [...prev, id];
     });
@@ -83,6 +80,7 @@ const App: React.FC = () => {
 
             
             <Route path="compare" element={<Comparison />} />
+            <Route path="palette-builder" element={<PaletteBuilder />} />
           </Route>
         </Routes>
       </Router>

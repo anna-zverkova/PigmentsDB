@@ -11,15 +11,16 @@
     "sync:featured": "node scripts/sync-featured.cjs"
   },
   "dependencies": {
-    "tinacms": "2.8.2",
+    "clsx": "^2.1.1",
+    "jspdf": "^4.2.1",
+    "lucide-react": "^0.563.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "lucide-react": "^0.563.0",
-    "react-router-dom": "^7.13.0",
     "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.13.0",
     "remark-breaks": "^4.0.0",
-    "clsx": "^2.1.1",
-    "tailwind-merge": "^3.5.0"
+    "tailwind-merge": "^3.5.0",
+    "tinacms": "2.8.2"
   },
   "devDependencies": {
     "@tinacms/cli": "1.10.3",

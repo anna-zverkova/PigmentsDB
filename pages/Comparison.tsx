@@ -2,7 +2,7 @@ import React from 'react';
 import { useLocation, Link } from 'react-router-dom';
 import { PAINTS, BRANDS } from '../constants';
 import { Button } from '../components/ui/Button';
-import { X, Share2, Printer } from 'lucide-react';
+import { X, Share2, Printer, Palette } from 'lucide-react';
 import { useComparison } from '../App';
 import { SwatchPreview } from '../components/SwatchPreview';
 
@@ -33,6 +33,12 @@ export const Comparison: React.FC = () => {
                     <p className="text-neutral-500 text-sm mt-1">Comparing {paintsToCompare.length} items side-by-side</p>
                 </div>
                 <div className="flex gap-2">
+                    <Link to={`/palette-builder?ids=${ids.join(',')}`}>
+                        <Button variant="outline" size="sm" className="gap-2">
+                          <Palette size={16}/>
+                          Palette Builder
+                        </Button>
+                    </Link>
                     <Button variant="outline" size="sm" className="gap-2"><Share2 size={16}/> Share</Button>
                     <Button variant="outline" size="sm" className="gap-2"><Printer size={16}/> Print</Button>
                 </div>

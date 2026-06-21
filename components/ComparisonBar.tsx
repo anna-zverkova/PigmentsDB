@@ -3,7 +3,7 @@ import { useComparison } from '../App'; // We will define this hook in App.tsx
 import { Link } from 'react-router-dom';
 import { Button } from './ui/Button';
 import { PAINTS } from '../constants'; // Direct import for demo speed
-import { X, ArrowRight } from 'lucide-react';
+import { X, ArrowRight, Palette } from 'lucide-react';
 
 export const ComparisonBar: React.FC = () => {
   const { selectedPaintIds, removePaint, clearSelection } = useComparison();
@@ -41,6 +41,12 @@ export const ComparisonBar: React.FC = () => {
             <Button variant="ghost" size="sm" onClick={clearSelection}>
                 Clear
             </Button>
+            <Link to={`/palette-builder?ids=${selectedPaintIds.join(',')}`}>
+                <Button variant="outline" size="sm" className="gap-2">
+                  <Palette size={16} />
+                  Palette
+                </Button>
+            </Link>
             <Link to={`/compare?ids=${selectedPaintIds.join(',')}`}>
                 <Button size="sm" className="gap-2">
                 Compare <ArrowRight size={16} />

@@ -232,7 +232,7 @@ PM focus: You need to know how each feature works, what its current limits are, 
 ### 4.5 Side‑by‑Side Compare
 | Aspect | Detail |
 |---|---|
-| What it does | Compare up to 4 paints |
+| What it does | Compare and build palettes from selected paints |
 | How it works | Stored in React context (`useComparison`) |
 | Limitations | No persistence across refresh |
 | Improvement ideas | Persist to URL or localStorage |
