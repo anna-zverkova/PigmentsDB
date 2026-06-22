@@ -70649,6 +70649,1147 @@
       "isDiscontinued": false,
       "hue": "–",
       "swatchImage": "/uploads/grumbacher-academy/GA-chinese-white.png"
+    },
+    {
+      "id": "grumbacher-finest-burnt-alizarin",
+      "brandId": "grumbacher-finest",
+      "name": "Burnt Alizarin",
+      "pigmentCodes": [
+        "PR83",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-burnt-alizarin.png"
+    },
+    {
+      "id": "grumbacher-finest-brown-madder",
+      "brandId": "grumbacher-finest",
+      "name": "Brown Madder",
+      "pigmentCodes": [
+        "PR179",
+        "PR188",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-alizarin-crimson",
+      "brandId": "grumbacher-finest",
+      "name": "Alizarin Crimson",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "1/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-alizarin-crimson.png"
+    },
+    {
+      "id": "grumbacher-finest-permanent-alizarin",
+      "brandId": "grumbacher-finest",
+      "name": "Permanent Alizarin",
+      "pigmentCodes": [
+        "PR48:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-permanent-alizarin.png"
+    },
+    {
+      "id": "grumbacher-finest-alizarin-rose",
+      "brandId": "grumbacher-finest",
+      "name": "Alizarin Rose",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-alizarin-rose.png"
+    },
+    {
+      "id": "grumbacher-finest-magenta",
+      "brandId": "grumbacher-finest",
+      "name": "Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-quinacridone-red",
+      "brandId": "grumbacher-finest",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-quinacridone-rose",
+      "brandId": "grumbacher-finest",
+      "name": "Quinacridone Rose",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-true-red",
+      "brandId": "grumbacher-finest",
+      "name": "True Red",
+      "pigmentCodes": [
+        "PR170",
+        "PO36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-red-deep",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-red-medium",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Red Medium",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-red-light",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-vermilion-deep",
+      "brandId": "grumbacher-finest",
+      "name": "Vermilion Deep",
+      "pigmentCodes": [
+        "PR188",
+        "PR170",
+        "PR209",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-transparent-orange",
+      "brandId": "grumbacher-finest",
+      "name": "Transparent Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-orange",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-yellow-deep",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-cadmium-yellow-deep.png"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-yellow-medium",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Yellow Medium",
+      "pigmentCodes": [
+        "PY35",
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-cadmium-yellow-medium.png"
+    },
+    {
+      "id": "grumbacher-finest-indian-yellow-hue",
+      "brandId": "grumbacher-finest",
+      "name": "Indian Yellow Hue",
+      "pigmentCodes": [
+        "PY97",
+        "PO62"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-yellow-light",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-cadmium-yellow-light.png"
+    },
+    {
+      "id": "grumbacher-finest-aureolin-yellow",
+      "brandId": "grumbacher-finest",
+      "name": "Aureolin Yellow",
+      "pigmentCodes": [
+        "PY151"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-cadmium-yellow-lemon",
+      "brandId": "grumbacher-finest",
+      "name": "Cadmium Yellow Lemon",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-cadmium-yellow-lemon.png"
+    },
+    {
+      "id": "grumbacher-finest-bismuth-yellow",
+      "brandId": "grumbacher-finest",
+      "name": "Bismuth Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-lemon-yellow",
+      "brandId": "grumbacher-finest",
+      "name": "Lemon Yellow",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-lemon-yellow.png"
+    },
+    {
+      "id": "grumbacher-finest-thalo-yellow-green",
+      "brandId": "grumbacher-finest",
+      "name": "Thalo Yellow Green",
+      "pigmentCodes": [
+        "PG36",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-thalo-yellow-green.png"
+    },
+    {
+      "id": "grumbacher-finest-sap-green",
+      "brandId": "grumbacher-finest",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PO48",
+        "PY150",
+        "PB15:4",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-emerald-green",
+      "brandId": "grumbacher-finest",
+      "name": "Emerald Green",
+      "pigmentCodes": [
+        "PG7",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-emerald-green.png"
+    },
+    {
+      "id": "grumbacher-finest-hookers-green-light-hue",
+      "brandId": "grumbacher-finest",
+      "name": "Hooker’s Green Light Hue",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7",
+        "PY153",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/grumbacher-finest/GF-hookers-green-light.png"
+    },
+    {
+      "id": "grumbacher-finest-hookers-green-deep",
+      "brandId": "grumbacher-finest",
+      "name": "Hooker’s Green Deep",
+      "pigmentCodes": [
+        "PB15:4",
+        "PY153",
+        "PY97",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-chromium-oxide-green",
+      "brandId": "grumbacher-finest",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-chromium-oxide-green.png"
+    },
+    {
+      "id": "grumbacher-finest-terre-verde",
+      "brandId": "grumbacher-finest",
+      "name": "Terre Verde",
+      "pigmentCodes": [
+        "PBr7",
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-terre-verde.png"
+    },
+    {
+      "id": "grumbacher-finest-thalo-green",
+      "brandId": "grumbacher-finest",
+      "name": "Thalo Green",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-thalo-green.png"
+    },
+    {
+      "id": "grumbacher-finest-viridian",
+      "brandId": "grumbacher-finest",
+      "name": "Viridian",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-viridian.png"
+    },
+    {
+      "id": "grumbacher-finest-cobalt-turquoise",
+      "brandId": "grumbacher-finest",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-thalo-blue",
+      "brandId": "grumbacher-finest",
+      "name": "Thalo Blue",
+      "pigmentCodes": [
+        "PB15:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cerulean-blue",
+      "brandId": "grumbacher-finest",
+      "name": "Cerulean Blue",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-manganese-blue-hue",
+      "brandId": "grumbacher-finest",
+      "name": "Manganese Blue Hue",
+      "pigmentCodes": [
+        "PB15:4",
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-french-ultramarine",
+      "brandId": "grumbacher-finest",
+      "name": "French Ultramarine",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-ultramarine-blue",
+      "brandId": "grumbacher-finest",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-cobalt-blue-light",
+      "brandId": "grumbacher-finest",
+      "name": "Cobalt Blue Light",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-prussian-blue",
+      "brandId": "grumbacher-finest",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-quinacridone-magenta",
+      "brandId": "grumbacher-finest",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PV19",
+        "PV29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-quinacridone-magenta.png"
+    },
+    {
+      "id": "grumbacher-finest-cobalt-violet-light",
+      "brandId": "grumbacher-finest",
+      "name": "Cobalt Violet Light",
+      "pigmentCodes": [
+        "PV14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-cobalt-violet-light.png"
+    },
+    {
+      "id": "grumbacher-finest-dioxazine-purple",
+      "brandId": "grumbacher-finest",
+      "name": "Dioxazine Purple",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-thalo-purple",
+      "brandId": "grumbacher-finest",
+      "name": "Thalo Purple",
+      "pigmentCodes": [
+        "PV23",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-indigo",
+      "brandId": "grumbacher-finest",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB66"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "1/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue"
+    },
+    {
+      "id": "grumbacher-finest-delft-blue",
+      "brandId": "grumbacher-finest",
+      "name": "Delft Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-paynes-gray",
+      "brandId": "grumbacher-finest",
+      "name": "Payne’s Gray",
+      "pigmentCodes": [
+        "PB15:4",
+        "PB29",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-davys-gray",
+      "brandId": "grumbacher-finest",
+      "name": "Davy’s Gray",
+      "pigmentCodes": [
+        "PB15:4",
+        "PB29",
+        "PY43",
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-lamp-black",
+      "brandId": "grumbacher-finest",
+      "name": "Lamp Black",
+      "pigmentCodes": [
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-lamp-black.png"
+    },
+    {
+      "id": "grumbacher-finest-ivory-black",
+      "brandId": "grumbacher-finest",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-ivory-black.png"
+    },
+    {
+      "id": "grumbacher-finest-sepia",
+      "brandId": "grumbacher-finest",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PBr7",
+        "PBk6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/grumbacher-finest/GF-sepia.png"
+    },
+    {
+      "id": "grumbacher-finest-van-dyck-brown",
+      "brandId": "grumbacher-finest",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "PBr9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/grumbacher-finest/GF-van-dyck-brown.png"
+    },
+    {
+      "id": "grumbacher-finest-burnt-umber",
+      "brandId": "grumbacher-finest",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-burnt-umber.png"
+    },
+    {
+      "id": "grumbacher-finest-raw-umber",
+      "brandId": "grumbacher-finest",
+      "name": "Raw Umber",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-raw-umber.png"
+    },
+    {
+      "id": "grumbacher-finest-indian-red",
+      "brandId": "grumbacher-finest",
+      "name": "Indian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-indian-red.png"
+    },
+    {
+      "id": "grumbacher-finest-burnt-sienna",
+      "brandId": "grumbacher-finest",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-burnt-sienna.png"
+    },
+    {
+      "id": "grumbacher-finest-red-iron-oxide",
+      "brandId": "grumbacher-finest",
+      "name": "Red Iron Oxide",
+      "pigmentCodes": [
+        "PR101",
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—"
+    },
+    {
+      "id": "grumbacher-finest-raw-sienna",
+      "brandId": "grumbacher-finest",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-raw-sienna.png"
+    },
+    {
+      "id": "grumbacher-finest-yellow-ochre",
+      "brandId": "grumbacher-finest",
+      "name": "Yellow Ochre",
+      "pigmentCodes": [
+        "PBr7",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-yellow-ochre.png"
+    },
+    {
+      "id": "grumbacher-finest-gamboge",
+      "brandId": "grumbacher-finest",
+      "name": "Gamboge",
+      "pigmentCodes": [
+        "PY3",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/grumbacher-finest/GF-gamboge.png"
+    },
+    {
+      "id": "grumbacher-finest-naples-yellow",
+      "brandId": "grumbacher-finest",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PBr7",
+        "PR108",
+        "PY35",
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "Hue",
+      "swatchImage": "/uploads/grumbacher-finest/GF-naples-yellow.png"
+    },
+    {
+      "id": "grumbacher-finest-titanium-white",
+      "brandId": "grumbacher-finest",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-titanium-white.png"
+    },
+    {
+      "id": "grumbacher-finest-chinese-white",
+      "brandId": "grumbacher-finest",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "4/4",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "performance": "Professional",
+      "hue": "—",
+      "swatchImage": "/uploads/grumbacher-finest/GF-chinese-white.png"
     }
   ]
 }
