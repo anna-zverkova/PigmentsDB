@@ -281,3 +281,22 @@ node scrapers/import_grumbacher_finest_from_html.mjs \
   --uploads-dir "public/uploads/grumbacher-finest" \
   --brand-id "grumbacher-finest"
 ```
+
+## Renesans — import from Oto Kano HTML
+
+**What it does**
+- Parses both the Renesans Extra Fine (Pans) and Renesans Intense (Tubes) tables
+- Matches swatches only against `public/uploads/renesans`
+- Uses `collection` to distinguish the two lines in the shared brand
+- Leaves `swatchImage` blank when the local swatch file does not exist
+- Appends paints to `content/paints.json`
+
+**Run**
+```bash
+node scrapers/import_renesans_from_html.mjs \
+  --pans-html "Renesans Extra Fine (Pans) - Paint Database - Dr. Oto Kano.html" \
+  --tubes-html "Renesans Intense (Tubes) - Paint Database - Dr. Oto Kano.html" \
+  --paints "content/paints.json" \
+  --uploads-dir "public/uploads/renesans" \
+  --brand-id "renesans"
+```

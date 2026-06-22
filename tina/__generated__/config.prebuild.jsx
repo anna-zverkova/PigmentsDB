@@ -72179,6 +72179,2401 @@ var paints_default = {
       performance: "Professional",
       hue: "\u2014",
       swatchImage: "/uploads/grumbacher-finest/GF-chinese-white.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-titanium-white",
+      brandId: "renesans",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-titanium-white.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-naples-yellow-reddish",
+      brandId: "renesans",
+      name: "Naples Yellow Reddish",
+      pigmentCodes: [
+        "PW6",
+        "PR254",
+        "PBr6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-naples-yellow-reddish.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-persian-yellow",
+      brandId: "renesans",
+      name: "Persian Yellow",
+      pigmentCodes: [
+        "PY74",
+        "PBr6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-persian-yellow.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-lemon-yellow-primary",
+      brandId: "renesans",
+      name: "Lemon Yellow (Primary)",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-extra-fine-pans-cadmium-yellow-pale",
+      brandId: "renesans",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cadmium-yellow-pale.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-gamboge-hue",
+      brandId: "renesans",
+      name: "Gamboge Hue",
+      pigmentCodes: [
+        "PY3",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-gamboge.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cadmium-yellow-deep",
+      brandId: "renesans",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cadmium-yellow-deep.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-indian-yellow",
+      brandId: "renesans",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-indian-yellow.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cadmium-orange",
+      brandId: "renesans",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cadmium-orange.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-vermilion",
+      brandId: "renesans",
+      name: "Vermilion",
+      pigmentCodes: [
+        "PR254",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-vermilion.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cadmium-red-pale",
+      brandId: "renesans",
+      name: "Cadmium Red Pale",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-Cadmium-red-pale.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-scarlet",
+      brandId: "renesans",
+      name: "Scarlet",
+      pigmentCodes: [
+        "PR254",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-scarlet.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cadmium-deep-red",
+      brandId: "renesans",
+      name: "Cadmium Deep Red",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cadmium-red-deep.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-carmine",
+      brandId: "renesans",
+      name: "Carmine",
+      pigmentCodes: [
+        "PR48:1",
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-carmine.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-magenta-lake",
+      brandId: "renesans",
+      name: "Magenta Lake",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-magenta-lake.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-alizarine-madder-lake",
+      brandId: "renesans",
+      name: "Alizarine Madder Lake",
+      pigmentCodes: [
+        "PV19",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-alizarine-madder-lake.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-geranium-lake",
+      brandId: "renesans",
+      name: "Geranium Lake",
+      pigmentCodes: [
+        "PR177"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-geranium-lake.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-mineral-violet",
+      brandId: "renesans",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PR63:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-mineral-violet.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-indigo",
+      brandId: "renesans",
+      name: "Indigo",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-indigo.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-prussian-blue",
+      brandId: "renesans",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-prussian-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-paris-blue",
+      brandId: "renesans",
+      name: "Paris Blue",
+      pigmentCodes: [
+        "PB27",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-paris-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-phthalo-blue-heliogen",
+      brandId: "renesans",
+      name: "Phthalo Blue (Heliogen)",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-phthalo-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-polish-blue",
+      brandId: "renesans",
+      name: "Polish Blue",
+      pigmentCodes: [
+        "PB15:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-polish-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-ultramarine",
+      brandId: "renesans",
+      name: "Ultramarine",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-ultramarine.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cobalt-blue",
+      brandId: "renesans",
+      name: "Cobalt Blue",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cobalt-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cobalt-coerulean-blue",
+      brandId: "renesans",
+      name: "Cobalt Coerulean Blue",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cobalt-coerulean-blue.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cobalt-turquoise",
+      brandId: "renesans",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PB36",
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cobalt-turquoise.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-ultramarine-green",
+      brandId: "renesans",
+      name: "Ultramarine Green",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-ultramarine-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cinnabar-green-pale",
+      brandId: "renesans",
+      name: "Cinnabar Green Pale",
+      pigmentCodes: [
+        "PG7",
+        "PY3",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-cinnabar-green-pale.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-zinc-green",
+      brandId: "renesans",
+      name: "Zinc Green",
+      pigmentCodes: [
+        "PG7",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-zinc-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-emerald-green",
+      brandId: "renesans",
+      name: "Emerald Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-emerald-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cobalt-green",
+      brandId: "renesans",
+      name: "Cobalt Green",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-cobalt-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-chromium-oxide",
+      brandId: "renesans",
+      name: "Chromium Oxide",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-chromium-oxide.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-golden-green",
+      brandId: "renesans",
+      name: "Golden Green",
+      pigmentCodes: [
+        "PY83",
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "2/3",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-gold-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-hookers-green",
+      brandId: "renesans",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PG8"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "6/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-hookers-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-olive-green",
+      brandId: "renesans",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PG8",
+        "PY42",
+        "PBk7",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-olive-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-sap-green",
+      brandId: "renesans",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG8",
+        "PY42",
+        "PBk7",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-sap-green.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-cinnabar-green-deep",
+      brandId: "renesans",
+      name: "Cinnabar Green Deep",
+      pigmentCodes: [
+        "PG7",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-cinnabar-green-deep.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-green-earth-natural",
+      brandId: "renesans",
+      name: "Green Earth natural",
+      pigmentCodes: [
+        "PB27",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-green-earth-natural.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-venetian-yellow",
+      brandId: "renesans",
+      name: "Venetian Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-venetian-yellow.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-yellow-ochre",
+      brandId: "renesans",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-yellow-ochre.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-raw-sienna",
+      brandId: "renesans",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-raw-sienna.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-still-de-grain-brown",
+      brandId: "renesans",
+      name: "Still De Grain Brown",
+      pigmentCodes: [
+        "PY42",
+        "PBk6",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-stil-de-grain-brown.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-dragons-blood",
+      brandId: "renesans",
+      name: "Dragon\u2019s Blood",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-dragons-blood.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-claret",
+      brandId: "renesans",
+      name: "Claret",
+      pigmentCodes: [
+        "PR48:4",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-claret.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-burnt-sienna",
+      brandId: "renesans",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PR101",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-burnt-sienna.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-raw-umber",
+      brandId: "renesans",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PY42",
+        "PBk7",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-raw-umber.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-sepia",
+      brandId: "renesans",
+      name: "Sepia",
+      pigmentCodes: [
+        "PY42",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-extra-fine-pans-caput-mortuum",
+      brandId: "renesans",
+      name: "Caput Mortuum",
+      pigmentCodes: [
+        "PR101",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-caput-mortuum.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-burnt-umber",
+      brandId: "renesans",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PR101",
+        "PY42",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-burnt-umber.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-kassel-earth",
+      brandId: "renesans",
+      name: "Kassel Earth",
+      pigmentCodes: [
+        "PR101",
+        "PBk6",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-extra-fine-pans-paynes-gray",
+      brandId: "renesans",
+      name: "Payne\u2019s Gray",
+      pigmentCodes: [
+        "PBk11",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RENE-paynes-gray.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-ivory-black",
+      brandId: "renesans",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RENE-ivory-black.png"
+    },
+    {
+      id: "renesans-extra-fine-pans-lamp-black",
+      brandId: "renesans",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Extra Fine (Pans)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/Rene-lamp-black.png"
+    },
+    {
+      id: "renesans-intense-tubes-titanium-opaque-white",
+      brandId: "renesans",
+      name: "Titanium Opaque White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-titanium-opaque-white.png"
+    },
+    {
+      id: "renesans-intense-tubes-permanent-chinese-white",
+      brandId: "renesans",
+      name: "Permanent Chinese White",
+      pigmentCodes: [
+        "PW4"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-permanent-chinese-white.png"
+    },
+    {
+      id: "renesans-intense-tubes-naples-yellow-pale",
+      brandId: "renesans",
+      name: "Naples Yellow Pale",
+      pigmentCodes: [
+        "PW4",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RT-naples-yellow-pale.png"
+    },
+    {
+      id: "renesans-intense-tubes-naples-yellow-deep",
+      brandId: "renesans",
+      name: "Naples Yellow Deep",
+      pigmentCodes: [
+        "PW4",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RT-naples-yellow-deep.png"
+    },
+    {
+      id: "renesans-intense-tubes-naples-yellow-reddish",
+      brandId: "renesans",
+      name: "Naples Yellow Reddish",
+      pigmentCodes: [
+        "PW4",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RT-naples-yellow-reddish.png"
+    },
+    {
+      id: "renesans-intense-tubes-titanium-yellow",
+      brandId: "renesans",
+      name: "Titanium Yellow",
+      pigmentCodes: [
+        "PY53"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-lemon-yellow",
+      brandId: "renesans",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-lemon-yellow.png"
+    },
+    {
+      id: "renesans-intense-tubes-chromium-yellow-hue",
+      brandId: "renesans",
+      name: "Chromium Yellow (hue)",
+      pigmentCodes: [
+        "PY74"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-yellow-pale",
+      brandId: "renesans",
+      name: "Cadmium Yellow Pale",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-cadmium-yellow-pale.png"
+    },
+    {
+      id: "renesans-intense-tubes-aureoline-hue",
+      brandId: "renesans",
+      name: "Aureoline (Hue)",
+      pigmentCodes: [
+        "PY151"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-transparent-yellow",
+      brandId: "renesans",
+      name: "Transparent Yellow",
+      pigmentCodes: [
+        "PY150"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-transparent-gold-ochre",
+      brandId: "renesans",
+      name: "Transparent Gold Ochre",
+      pigmentCodes: [
+        "PY150",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-yellow-deep",
+      brandId: "renesans",
+      name: "Cadmium Yellow Deep",
+      pigmentCodes: [
+        "PY35"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-cadmium-yellow-deep.png"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-orange",
+      brandId: "renesans",
+      name: "Cadmium Orange",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-indian-yellow",
+      brandId: "renesans",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-chromium-orange-hue",
+      brandId: "renesans",
+      name: "Chromium Orange (hue)",
+      pigmentCodes: [
+        "PO62"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-red-pale",
+      brandId: "renesans",
+      name: "Cadmium Red Pale",
+      pigmentCodes: [
+        "PO20"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-scarlet-red",
+      brandId: "renesans",
+      name: "Scarlet Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-red-medium",
+      brandId: "renesans",
+      name: "Cadmium Red Medium",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-red-deep",
+      brandId: "renesans",
+      name: "Cadmium Red Deep",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-permanent-carmine",
+      brandId: "renesans",
+      name: "Permanent Carmine",
+      pigmentCodes: [
+        "PR48:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-cadmium-bordeaux",
+      brandId: "renesans",
+      name: "Cadmium Bordeaux",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-quinacridone-red",
+      brandId: "renesans",
+      name: "Quinacridone Red",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-quancridone-red.png"
+    },
+    {
+      id: "renesans-intense-tubes-purple-magenta",
+      brandId: "renesans",
+      name: "Purple Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-manganese-violet",
+      brandId: "renesans",
+      name: "Manganese Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-manganese-violet.png"
+    },
+    {
+      id: "renesans-intense-tubes-ultramarine-violet-hue",
+      brandId: "renesans",
+      name: "Ultramarine Violet (hue)",
+      pigmentCodes: [
+        "PV16",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-mineral-violet",
+      brandId: "renesans",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-ultramarine-blue",
+      brandId: "renesans",
+      name: "Ultramarine Blue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-prussian-blue",
+      brandId: "renesans",
+      name: "Prussian Blue",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-hello-cerulean",
+      brandId: "renesans",
+      name: "Hello Cerulean",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-helio-cerulean.png"
+    },
+    {
+      id: "renesans-intense-tubes-phthalo-blue",
+      brandId: "renesans",
+      name: "Phthalo Blue",
+      pigmentCodes: [
+        "PB15:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-phthalo-blue.png"
+    },
+    {
+      id: "renesans-intense-tubes-cobalt-blue-pale",
+      brandId: "renesans",
+      name: "Cobalt Blue Pale",
+      pigmentCodes: [
+        "PB28"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-cobalt-blue-deep",
+      brandId: "renesans",
+      name: "Cobalt Blue Deep",
+      pigmentCodes: [
+        "PB36"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-indanthrone-blue",
+      brandId: "renesans",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-indigo-hue",
+      brandId: "renesans",
+      name: "Indigo (hue)",
+      pigmentCodes: [
+        "PB60",
+        "PV19",
+        "PB15:3",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-cobalt-turquoise",
+      brandId: "renesans",
+      name: "Cobalt Turquoise",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-cobalt-turquoise.png"
+    },
+    {
+      id: "renesans-intense-tubes-prussian-green",
+      brandId: "renesans",
+      name: "Prussian Green",
+      pigmentCodes: [
+        "PG7",
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-prussian-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-helio-turquoise",
+      brandId: "renesans",
+      name: "Helio Turquoise",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-helio-turquoise.png"
+    },
+    {
+      id: "renesans-intense-tubes-permanent-green",
+      brandId: "renesans",
+      name: "Permanent Green",
+      pigmentCodes: [
+        "PY150",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-sap-green",
+      brandId: "renesans",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PG7",
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RT-sap-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-cobalt-green-pale",
+      brandId: "renesans",
+      name: "Cobalt Green Pale",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-cobalt-green-pale.png"
+    },
+    {
+      id: "renesans-intense-tubes-phthalo-green",
+      brandId: "renesans",
+      name: "Phthalo Green",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-Phthalo-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-cobalt-green-deep",
+      brandId: "renesans",
+      name: "Cobalt Green Deep",
+      pigmentCodes: [
+        "PG50"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-cobalt-green-deep.png"
+    },
+    {
+      id: "renesans-intense-tubes-chromium-oxide-green",
+      brandId: "renesans",
+      name: "Chromium Oxide Green",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-chromium-oxide-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-olive-green",
+      brandId: "renesans",
+      name: "Olive Green",
+      pigmentCodes: [
+        "PG7",
+        "PO62"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-olive-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-green-earth",
+      brandId: "renesans",
+      name: "Green Earth",
+      pigmentCodes: [
+        "PG17",
+        "PBr6",
+        "PO62"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-green-earth.png"
+    },
+    {
+      id: "renesans-intense-tubes-hookers-green",
+      brandId: "renesans",
+      name: "Hooker\u2019s Green",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-hookers-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-golden-green",
+      brandId: "renesans",
+      name: "Golden Green",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PY150",
+        "PY151",
+        "PBr6"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-golden-green.png"
+    },
+    {
+      id: "renesans-intense-tubes-gold-ochre",
+      brandId: "renesans",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PY159"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-yellow-ochre",
+      brandId: "renesans",
+      name: "Yellow Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-yellow-ochre.png"
+    },
+    {
+      id: "renesans-intense-tubes-raw-sienna",
+      brandId: "renesans",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-raw-sienna.png"
+    },
+    {
+      id: "renesans-intense-tubes-orange-ochre",
+      brandId: "renesans",
+      name: "Orange Ochre",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-orange-ochre.png"
+    },
+    {
+      id: "renesans-intense-tubes-burnt-sienna",
+      brandId: "renesans",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-burnt-sienna.png"
+    },
+    {
+      id: "renesans-intense-tubes-red-ochre",
+      brandId: "renesans",
+      name: "Red Ochre",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-Red-ochre.png"
+    },
+    {
+      id: "renesans-intense-tubes-mars-bordeaux",
+      brandId: "renesans",
+      name: "Mars Bordeaux",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-mars-bordeaux.png"
+    },
+    {
+      id: "renesans-intense-tubes-mars-brown",
+      brandId: "renesans",
+      name: "Mars Brown",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-mars-brown.png"
+    },
+    {
+      id: "renesans-intense-tubes-potters-pink",
+      brandId: "renesans",
+      name: "Potter\u2019s Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-brown-madder",
+      brandId: "renesans",
+      name: "Brown Madder",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-brown-madder.png"
+    },
+    {
+      id: "renesans-intense-tubes-burnt-umber",
+      brandId: "renesans",
+      name: "Burnt Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-burnt-umber.png"
+    },
+    {
+      id: "renesans-intense-tubes-polish-brown",
+      brandId: "renesans",
+      name: "Polish Brown",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-polish-brown.png"
+    },
+    {
+      id: "renesans-intense-tubes-raw-umber",
+      brandId: "renesans",
+      name: "Raw Umber",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-raw-umber.png"
+    },
+    {
+      id: "renesans-intense-tubes-sepia",
+      brandId: "renesans",
+      name: "Sepia",
+      pigmentCodes: [
+        "PY150",
+        "PBr7",
+        "PBk11",
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue"
+    },
+    {
+      id: "renesans-intense-tubes-vandyke-brown",
+      brandId: "renesans",
+      name: "Vandyke Brown",
+      pigmentCodes: [
+        "PB15:3",
+        "PR48:4",
+        "PR101",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-vandyke-brown.png"
+    },
+    {
+      id: "renesans-intense-tubes-perylene-violet-hue",
+      brandId: "renesans",
+      name: "Perylene Violet (Hue)",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "Hue",
+      swatchImage: "/uploads/renesans/RT-perylene-violet-hue.png"
+    },
+    {
+      id: "renesans-intense-tubes-paynes-gray",
+      brandId: "renesans",
+      name: "Payne\u2019s Gray",
+      pigmentCodes: [
+        "PB29",
+        "PBk9",
+        "PBk11",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-mineral-grey",
+      brandId: "renesans",
+      name: "Mineral Grey",
+      pigmentCodes: [
+        "PW6",
+        "PG17",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-mineral-grey.png"
+    },
+    {
+      id: "renesans-intense-tubes-neutral-grey",
+      brandId: "renesans",
+      name: "Neutral Grey",
+      pigmentCodes: [
+        "PO62",
+        "PR254",
+        "PB60"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014"
+    },
+    {
+      id: "renesans-intense-tubes-ivory-black",
+      brandId: "renesans",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-ivory-black.png"
+    },
+    {
+      id: "renesans-intense-tubes-mars-black",
+      brandId: "renesans",
+      name: "Mars Black",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-marks-black.png"
+    },
+    {
+      id: "renesans-intense-tubes-lamp-black",
+      brandId: "renesans",
+      name: "Lamp Black",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: null,
+      granulation: null,
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      collection: "Intense (Tubes)",
+      hue: "\u2014",
+      swatchImage: "/uploads/renesans/RT-lamp-black.png"
     }
   ]
 };
