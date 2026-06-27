@@ -11,14 +11,16 @@ var brands_default = {
       name: "Art Spectrum",
       logo: "AS",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Australia"
     },
     {
       id: "blick",
       name: "Blick Own Brand",
       logo: "B",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "blockx",
@@ -33,14 +35,16 @@ var brands_default = {
       name: "Cass Arts Own Brand",
       logo: "CA",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United Kingdom"
     },
     {
       id: "da-vinci",
       name: "Da Vinci Paints",
       logo: "DV",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "daler-rowney-prof",
@@ -48,7 +52,7 @@ var brands_default = {
       logo: "DRP",
       description: "",
       website: "#",
-      country: "UK"
+      country: "United Kingdom"
     },
     {
       id: "daler-rowney-aqua",
@@ -56,7 +60,7 @@ var brands_default = {
       logo: "DRA",
       description: "Daler Rowney Aquafine is the student\u2011grade watercolor line from the UK brand, designed for learning and everyday practice.",
       website: "#",
-      country: "UK",
+      country: "United Kingdom",
       status: "Student"
     },
     {
@@ -65,7 +69,7 @@ var brands_default = {
       logo: "DS",
       description: "The brand prioritises marketing over scientific accuracy. Because the pigment chemistry is not precisely disclosed, an accurate comparison of their paints is challenging.",
       website: "#",
-      country: "US",
+      country: "United States",
       status: "Professional"
     },
     {
@@ -73,14 +77,16 @@ var brands_default = {
       name: "Grumbacher Finest",
       logo: "GF",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "grumbacher-academy",
       name: "Grumbacher Academy",
       logo: "GA",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "blue-pine-arts",
@@ -97,7 +103,7 @@ var brands_default = {
       logo: "GB",
       description: "Greenleaf & Blueberry is a US professional handmade watercolor brand.",
       website: "#",
-      country: "US",
+      country: "United States",
       status: "Professional"
     },
     {
@@ -114,7 +120,8 @@ var brands_default = {
       name: "Isaro",
       logo: "I",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Belgium"
     },
     {
       id: "jacksons",
@@ -122,7 +129,7 @@ var brands_default = {
       logo: "J",
       description: "",
       website: "#",
-      country: "UK"
+      country: "United Kingdom"
     },
     {
       id: "ken-bromley",
@@ -130,7 +137,7 @@ var brands_default = {
       logo: "KB",
       description: "",
       website: "#",
-      country: "UK"
+      country: "United Kingdom"
     },
     {
       id: "kremer-pigments",
@@ -146,7 +153,8 @@ var brands_default = {
       name: "Kusakabe",
       logo: "K",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Japan"
     },
     {
       id: "kuretake-gansai-tambi",
@@ -180,21 +188,24 @@ var brands_default = {
       name: "Lukas Aquarell",
       logo: "L",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Germany"
     },
     {
       id: "lutea",
       name: "Lutea",
       logo: "Lu",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Belgium"
     },
     {
       id: "m-graham",
       name: "M. Graham",
       logo: "MG",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "maimeriblu",
@@ -219,28 +230,32 @@ var brands_default = {
       name: "Natural Pigments (Rublev)",
       logo: "NP",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "old-holland",
       name: "Old Holland",
       logo: "OH",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Netherlands"
     },
     {
       id: "qor",
       name: "QoR",
       logo: "Q",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "rembrandt",
       name: "Rembrandt",
       logo: "R",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Netherlands"
     },
     {
       id: "renesans",
@@ -309,14 +324,16 @@ var brands_default = {
       name: "Turner",
       logo: "T",
       description: "",
-      website: "#"
+      website: "#",
+      country: "Japan"
     },
     {
       id: "utrecht",
       name: "Utrecht",
       logo: "U",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "van-gogh",
@@ -324,6 +341,7 @@ var brands_default = {
       logo: "VG",
       description: "Van Gogh is a student\u2011grade line by Royal Talens, offering reliable, affordable watercolors for learning and practice.",
       website: "#",
+      country: "Netherlands",
       status: "Student"
     },
     {
@@ -341,7 +359,7 @@ var brands_default = {
       logo: "WNC",
       description: "",
       website: "#",
-      country: "UK",
+      country: "United Kingdom",
       status: "Student"
     },
     {
@@ -350,7 +368,7 @@ var brands_default = {
       logo: "WNP",
       description: "",
       website: "#",
-      country: "UK",
+      country: "United Kingdom",
       status: "Professional"
     },
     {
@@ -358,7 +376,8 @@ var brands_default = {
       name: "Prima Marketing",
       logo: "PM",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United States"
     },
     {
       id: "della-magna-watercolors",
@@ -373,7 +392,8 @@ var brands_default = {
       name: "Michael Harding",
       logo: "MH",
       description: "",
-      website: "#"
+      website: "#",
+      country: "United Kingdom"
     },
     {
       id: "a-gallo",
