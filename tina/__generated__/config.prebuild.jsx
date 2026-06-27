@@ -74594,6 +74594,1672 @@ var paints_default = {
       collection: "Intense (Tubes)",
       hue: "\u2014",
       swatchImage: "/uploads/renesans/RT-lamp-black.png"
+    },
+    {
+      id: "a-gallo-buff-titanium",
+      brandId: "a-gallo",
+      name: "Buff Titanium",
+      pigmentCodes: [
+        "PW6:1"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Buff-Titanium.png"
+    },
+    {
+      id: "a-gallo-lemon-yellow",
+      brandId: "a-gallo",
+      name: "Lemon Yellow",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Lemon-Yellow.png"
+    },
+    {
+      id: "a-gallo-lemon-yellow-permanent",
+      brandId: "a-gallo",
+      name: "Lemon Yellow, Permanent",
+      pigmentCodes: [
+        "PY184"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Lemon-Yellow-Permanent.png"
+    },
+    {
+      id: "a-gallo-azo-yellow-gold",
+      brandId: "a-gallo",
+      name: "Azo Yellow Gold",
+      pigmentCodes: [
+        "PY151",
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Azo-Yellow-Gold.png"
+    },
+    {
+      id: "a-gallo-royal-yellow",
+      brandId: "a-gallo",
+      name: "Royal Yellow",
+      pigmentCodes: [
+        "PY154"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Royal-Yellow.png"
+    },
+    {
+      id: "a-gallo-indian-yellow",
+      brandId: "a-gallo",
+      name: "Indian Yellow",
+      pigmentCodes: [
+        "PY110",
+        "PY154"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Indian-Yellow.png"
+    },
+    {
+      id: "a-gallo-arancione",
+      brandId: "a-gallo",
+      name: "Arancione",
+      pigmentCodes: [
+        "PY83",
+        "PV19",
+        "PR101"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Arancione.png"
+    },
+    {
+      id: "a-gallo-hokkaido-orange",
+      brandId: "a-gallo",
+      name: "Hokkaido Orange",
+      pigmentCodes: [
+        "PY216"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Hokkaido-Orange.png"
+    },
+    {
+      id: "a-gallo-vermilion-red",
+      brandId: "a-gallo",
+      name: "Vermilion Red",
+      pigmentCodes: [
+        "PR255"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Vermilion-Red.png"
+    },
+    {
+      id: "a-gallo-medici-red",
+      brandId: "a-gallo",
+      name: "Medici Red",
+      pigmentCodes: [
+        "PR168"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "7.5/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Medici-Red.png"
+    },
+    {
+      id: "a-gallo-scarlet-red",
+      brandId: "a-gallo",
+      name: "Scarlet Red",
+      pigmentCodes: [
+        "PR254"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Scarlet-Red.png"
+    },
+    {
+      id: "a-gallo-ruby-red",
+      brandId: "a-gallo",
+      name: "Ruby Red",
+      pigmentCodes: [
+        "PR264"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ruby-Red.png"
+    },
+    {
+      id: "a-gallo-alizarin-crimson-hue",
+      brandId: "a-gallo",
+      name: "Alizarin Crimson hue",
+      pigmentCodes: [
+        "PR177",
+        "PR144",
+        "PV19"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "7.5/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No"
+    },
+    {
+      id: "a-gallo-permanent-carmine",
+      brandId: "a-gallo",
+      name: "Permanent Carmine",
+      pigmentCodes: [
+        "PV19"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Permanent-Carmine.png"
+    },
+    {
+      id: "a-gallo-quinacridone-magenta",
+      brandId: "a-gallo",
+      name: "Quinacridone Magenta",
+      pigmentCodes: [
+        "PR122"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Quinacridone-Magenta.png"
+    },
+    {
+      id: "a-gallo-ultramarine-pink",
+      brandId: "a-gallo",
+      name: "Ultramarine Pink",
+      pigmentCodes: [
+        "PR259"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ultramarine-Pink.png"
+    },
+    {
+      id: "a-gallo-pietra-rosa",
+      brandId: "a-gallo",
+      name: "Pietra Rosa",
+      pigmentCodes: [
+        "PR233",
+        "PV19",
+        "PV16"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Pietra-Rosa.png"
+    },
+    {
+      id: "a-gallo-potters-pink",
+      brandId: "a-gallo",
+      name: "Potter\u2019s Pink",
+      pigmentCodes: [
+        "PR233"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Potters-Pink.png"
+    },
+    {
+      id: "a-gallo-rose-madder-genuine",
+      brandId: "a-gallo",
+      name: "Rose Madder, Genuine",
+      pigmentCodes: [
+        "NR9"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "3/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Rose-Madder.png"
+    },
+    {
+      id: "a-gallo-dragons-blood",
+      brandId: "a-gallo",
+      name: "Dragon\u2019s Blood",
+      pigmentCodes: [
+        "NR31"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "3/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Dragons-Blood.png"
+    },
+    {
+      id: "a-gallo-quinacridone-violet",
+      brandId: "a-gallo",
+      name: "Quinacridone Violet",
+      pigmentCodes: [
+        "PV55"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Quinacridone-Violet.png"
+    },
+    {
+      id: "a-gallo-mineral-violet",
+      brandId: "a-gallo",
+      name: "Mineral Violet",
+      pigmentCodes: [
+        "PV16"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No"
+    },
+    {
+      id: "a-gallo-tyrian-purple",
+      brandId: "a-gallo",
+      name: "Tyrian Purple",
+      pigmentCodes: [
+        "PV15",
+        "PV16"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No"
+    },
+    {
+      id: "a-gallo-ultramarine-violet",
+      brandId: "a-gallo",
+      name: "Ultramarine Violet",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ultramarine-Violet.png"
+    },
+    {
+      id: "a-gallo-dioxazine-violet",
+      brandId: "a-gallo",
+      name: "Dioxazine Violet",
+      pigmentCodes: [
+        "PV37"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Dioxazine-Violet.png"
+    },
+    {
+      id: "a-gallo-notturno",
+      brandId: "a-gallo",
+      name: "Notturno",
+      pigmentCodes: [
+        "PB29",
+        "PR101",
+        "PV19"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Nutturno.png"
+    },
+    {
+      id: "a-gallo-zirconium-blue",
+      brandId: "a-gallo",
+      name: "Zirconium Blue",
+      pigmentCodes: [
+        "PB71"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Zirconium-Blue.png"
+    },
+    {
+      id: "a-gallo-cerulean-hue",
+      brandId: "a-gallo",
+      name: "Cerulean Hue",
+      pigmentCodes: [
+        "PB15:3",
+        "PW4",
+        "PB29"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Cerulean-Hue.png"
+    },
+    {
+      id: "a-gallo-transparent-cerulean",
+      brandId: "a-gallo",
+      name: "Transparent Cerulean",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Transparent-Cerulean.png"
+    },
+    {
+      id: "a-gallo-azzurro",
+      brandId: "a-gallo",
+      name: "Azzurro",
+      pigmentCodes: [
+        "PB29",
+        "PB15:3"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Azzuro.png"
+    },
+    {
+      id: "a-gallo-yinmn-blue",
+      brandId: "a-gallo",
+      name: "YInMn Blue",
+      pigmentCodes: [
+        "PB86"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-YInMn-Blue.png"
+    },
+    {
+      id: "a-gallo-lapis-lazuli-genuine",
+      brandId: "a-gallo",
+      name: "Lapis Lazuli, Genuine",
+      pigmentCodes: [
+        "Genuine Lapis Lazuli"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Lapis-Lazuli.png"
+    },
+    {
+      id: "a-gallo-ultramarine-blue-dark",
+      brandId: "a-gallo",
+      name: "Ultramarine Blue Dark",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ultramarine-Blue.png"
+    },
+    {
+      id: "a-gallo-periwinkle",
+      brandId: "a-gallo",
+      name: "Periwinkle",
+      pigmentCodes: [
+        "PB15:1",
+        "PB29",
+        "PW6",
+        "PR122"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Periwinkle.png"
+    },
+    {
+      id: "a-gallo-midnight-blue",
+      brandId: "a-gallo",
+      name: "Midnight Blue",
+      pigmentCodes: [
+        "PB15:1",
+        "PBk9"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Midnight-Blue.png"
+    },
+    {
+      id: "a-gallo-indanthrone-blue",
+      brandId: "a-gallo",
+      name: "Indanthrone Blue",
+      pigmentCodes: [
+        "PB60"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Indanthrone-Blue.png"
+    },
+    {
+      id: "a-gallo-copper-blue",
+      brandId: "a-gallo",
+      name: "Copper Blue",
+      pigmentCodes: [
+        "PW4",
+        "PG7",
+        "PB15:3",
+        "PY3"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Copper-Blue.png"
+    },
+    {
+      id: "a-gallo-teal-blue",
+      brandId: "a-gallo",
+      name: "Teal Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7",
+        "PW6"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Teal.png"
+    },
+    {
+      id: "a-gallo-aquamarine",
+      brandId: "a-gallo",
+      name: "Aquamarine",
+      pigmentCodes: [
+        "PB15:4",
+        "PG7",
+        "PB29"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Aquamarine.png"
+    },
+    {
+      id: "a-gallo-habor-blue",
+      brandId: "a-gallo",
+      name: "Habor Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PBr8"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Habour-Blue.png"
+    },
+    {
+      id: "a-gallo-dark-forest",
+      brandId: "a-gallo",
+      name: "Dark Forest",
+      pigmentCodes: [
+        "PG7",
+        "PBk7",
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Dark-Forest.png"
+    },
+    {
+      id: "a-gallo-forest-green",
+      brandId: "a-gallo",
+      name: "Forest Green",
+      pigmentCodes: [
+        "PG7",
+        "PBk7",
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Forest-Green.png"
+    },
+    {
+      id: "a-gallo-viridian-hue",
+      brandId: "a-gallo",
+      name: "Viridian Hue",
+      pigmentCodes: [
+        "PG7",
+        "PB29"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Viridian-Hue.png"
+    },
+    {
+      id: "a-gallo-deep-sea-green",
+      brandId: "a-gallo",
+      name: "Deep Sea Green",
+      pigmentCodes: [
+        "PG8",
+        "PB29"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Deep-Sea-Green.png"
+    },
+    {
+      id: "a-gallo-green-earth-cool",
+      brandId: "a-gallo",
+      name: "Green Earth, Cool",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Green-Earth-Cool.png"
+    },
+    {
+      id: "a-gallo-malachite-hue",
+      brandId: "a-gallo",
+      name: "Malachite Hue",
+      pigmentCodes: [
+        "PG7",
+        "PG36",
+        "PY43",
+        "PW4"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Malachite.png"
+    },
+    {
+      id: "a-gallo-spring-green",
+      brandId: "a-gallo",
+      name: "Spring Green",
+      pigmentCodes: [
+        "PG7",
+        "PY184",
+        "PB29"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Spring-Green.png"
+    },
+    {
+      id: "a-gallo-phthalo-green-light",
+      brandId: "a-gallo",
+      name: "Phthalo Green Light",
+      pigmentCodes: [
+        "PY184",
+        "PG36"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Phthalo-Green-Light.png"
+    },
+    {
+      id: "a-gallo-fig-green",
+      brandId: "a-gallo",
+      name: "Fig Green",
+      pigmentCodes: [
+        "PY151",
+        "PG17"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Fig-Green.png"
+    },
+    {
+      id: "a-gallo-green-gold",
+      brandId: "a-gallo",
+      name: "Green Gold",
+      pigmentCodes: [
+        "PY150",
+        "PY184",
+        "PG36"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Green-Gold.png"
+    },
+    {
+      id: "a-gallo-sap-green",
+      brandId: "a-gallo",
+      name: "Sap Green",
+      pigmentCodes: [
+        "PY83",
+        "PG36",
+        "PV19",
+        "PR101"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Sap-Green.png"
+    },
+    {
+      id: "a-gallo-chromium-oxide",
+      brandId: "a-gallo",
+      name: "Chromium Oxide",
+      pigmentCodes: [
+        "PG17"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Chrome-Green.png"
+    },
+    {
+      id: "a-gallo-olive-green-deep",
+      brandId: "a-gallo",
+      name: "Olive Green Deep",
+      pigmentCodes: [
+        "PY154",
+        "PY110",
+        "PB29"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Olive-Green.png"
+    },
+    {
+      id: "a-gallo-green-earth-warm",
+      brandId: "a-gallo",
+      name: "Green Earth, Warm",
+      pigmentCodes: [
+        "PG23"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No"
+    },
+    {
+      id: "a-gallo-french-ochre-sahara",
+      brandId: "a-gallo",
+      name: "French Ochre, Sahara",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-French-Ochre-Sahara.png"
+    },
+    {
+      id: "a-gallo-verdaccio",
+      brandId: "a-gallo",
+      name: "Verdaccio",
+      pigmentCodes: [
+        "PBr7",
+        "PBk11"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Verdaccio.png"
+    },
+    {
+      id: "a-gallo-green-umber",
+      brandId: "a-gallo",
+      name: "Green Umber",
+      pigmentCodes: [
+        "PBr8"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Non-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Green-Umber.png"
+    },
+    {
+      id: "a-gallo-jarosite",
+      brandId: "a-gallo",
+      name: "Jarosite",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No"
+    },
+    {
+      id: "a-gallo-gold-ochre",
+      brandId: "a-gallo",
+      name: "Gold Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Gold-Ochre.png"
+    },
+    {
+      id: "a-gallo-moroccan-yellow-ochre",
+      brandId: "a-gallo",
+      name: "Moroccan Yellow Ochre",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Morrocan-Ochre.png"
+    },
+    {
+      id: "a-gallo-raw-sienna",
+      brandId: "a-gallo",
+      name: "Raw Sienna",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Raw-Sienna.png"
+    },
+    {
+      id: "a-gallo-raw-sienna-badia",
+      brandId: "a-gallo",
+      name: "Raw Sienna, Badia",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Raw-Sienna-Badia.png"
+    },
+    {
+      id: "a-gallo-yellow-ochre-burgundy",
+      brandId: "a-gallo",
+      name: "Yellow Ochre, Burgundy",
+      pigmentCodes: [
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Yellow-Ochre-Burgundy.png"
+    },
+    {
+      id: "a-gallo-quinacridone-gold",
+      brandId: "a-gallo",
+      name: "Quinacridone Gold",
+      pigmentCodes: [
+        "PY150",
+        "PR101",
+        "PV19"
+      ],
+      hue: "Hue",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Quinacridone-Gold.png"
+    },
+    {
+      id: "a-gallo-transparent-red-oxide",
+      brandId: "a-gallo",
+      name: "Transparent Red Oxide",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Transparent-Red-Oxide.png"
+    },
+    {
+      id: "a-gallo-castile-orange",
+      brandId: "a-gallo",
+      name: "Castile Orange",
+      pigmentCodes: [
+        "PR102",
+        "PY43"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Castile-Orange.png"
+    },
+    {
+      id: "a-gallo-ercolano-red",
+      brandId: "a-gallo",
+      name: "Ercolano Red",
+      pigmentCodes: [
+        "PR102",
+        "PR101"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ercolano-Red.png"
+    },
+    {
+      id: "a-gallo-burnt-sienna",
+      brandId: "a-gallo",
+      name: "Burnt Sienna",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Burnt-Sienna.png"
+    },
+    {
+      id: "a-gallo-sartorio-red",
+      brandId: "a-gallo",
+      name: "Sartorio Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Sartorio-Red.png"
+    },
+    {
+      id: "a-gallo-venetian-red",
+      brandId: "a-gallo",
+      name: "Venetian Red",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Venetian-Red.png"
+    },
+    {
+      id: "a-gallo-hematite-intense",
+      brandId: "a-gallo",
+      name: "Hematite, Intense",
+      pigmentCodes: [
+        "PR102"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Hematite.png"
+    },
+    {
+      id: "a-gallo-morellone",
+      brandId: "a-gallo",
+      name: "Morellone",
+      pigmentCodes: [
+        "PR101"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Morellone.png"
+    },
+    {
+      id: "a-gallo-quinacridone-chestnut",
+      brandId: "a-gallo",
+      name: "Quinacridone Chestnut",
+      pigmentCodes: [
+        "PR206"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Quinacridone-Chestnut.png"
+    },
+    {
+      id: "a-gallo-burnt-umber-cyprus",
+      brandId: "a-gallo",
+      name: "Burnt Umber, Cyprus",
+      pigmentCodes: [
+        "PBr8"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Burnt-Umber-Cyprus.png"
+    },
+    {
+      id: "a-gallo-burnt-umber-brownish",
+      brandId: "a-gallo",
+      name: "Burnt Umber, Brownish",
+      pigmentCodes: [
+        "PBr8"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Burnt-Umber-Brownish.png"
+    },
+    {
+      id: "a-gallo-chromite-brown",
+      brandId: "a-gallo",
+      name: "Chromite Brown",
+      pigmentCodes: [
+        "FeCr2O4",
+        "PBr8"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Chromite-Brown.png"
+    },
+    {
+      id: "a-gallo-burnt-umber-dark",
+      brandId: "a-gallo",
+      name: "Burnt Umber, Dark",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Burnt-Umber-Dark.png"
+    },
+    {
+      id: "a-gallo-sepia",
+      brandId: "a-gallo",
+      name: "Sepia",
+      pigmentCodes: [
+        "PBk9",
+        "PBr7"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Sepia.png"
+    },
+    {
+      id: "a-gallo-indigo",
+      brandId: "a-gallo",
+      name: "Indigo",
+      pigmentCodes: [
+        "NB1"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "7/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Indigo.png"
+    },
+    {
+      id: "a-gallo-paynes-grey",
+      brandId: "a-gallo",
+      name: "Payne\u2019s Grey",
+      pigmentCodes: [
+        "PB15:1",
+        "PBk7",
+        "PV19"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Paynes-Grey.png"
+    },
+    {
+      id: "a-gallo-roman-black-earth",
+      brandId: "a-gallo",
+      name: "Roman Black Earth",
+      pigmentCodes: [
+        "PBk11"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "High",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Roman-Black-Earth.png"
+    },
+    {
+      id: "a-gallo-ivory-black",
+      brandId: "a-gallo",
+      name: "Ivory Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Ivory-Black.png"
+    },
+    {
+      id: "a-gallo-slate-grey",
+      brandId: "a-gallo",
+      name: "Slate Grey",
+      pigmentCodes: [
+        "PBk19"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Non-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Slate-Grey.png"
+    },
+    {
+      id: "a-gallo-titanium-white",
+      brandId: "a-gallo",
+      name: "Titanium White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Titanium-White.png"
+    },
+    {
+      id: "a-gallo-antique-gold",
+      brandId: "a-gallo",
+      name: "Antique Gold",
+      pigmentCodes: [
+        "PY43",
+        "Metallic Pigments"
+      ],
+      hue: "\u2014",
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Medium-Staining",
+      granulation: "None",
+      lightfastness: "8/8",
+      isVegan: false,
+      isDiscontinued: false,
+      performance: "Professional",
+      toxicity: "No",
+      swatchImage: "/uploads/a-gallo/AG-Antique-Gold.png"
     }
   ]
 };
