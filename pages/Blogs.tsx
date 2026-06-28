@@ -132,16 +132,18 @@ export const Blogs: React.FC = () => {
             <div className="p-8 md:p-10 space-y-6">
               <div className="space-y-2">
                 <p className="text-xs font-semibold uppercase tracking-[0.24em] text-white/60">Coming next</p>
-                <h3 className="text-2xl font-bold font-display">
+              </div>
+              <div className="rounded-2xl bg-white text-tint-ink p-5 shadow-sm space-y-3">
+                <h3 className="text-xl md:text-2xl font-bold font-display leading-tight">
                   {blogData.draft?.title ?? 'A preview of the next journal entry.'}
                 </h3>
-                <p className="text-sm leading-relaxed text-white/75 max-w-sm">
+                <p className="text-sm leading-relaxed text-neutral-600">
                   {blogData.draft?.excerpt ??
                     'The next post is shown here as a teaser, without a link, until it is ready to publish.'}
                 </p>
-              </div>
-              <div className="rounded-2xl bg-white text-tint-ink p-5 shadow-sm">
-                <p className="text-sm font-semibold text-tint-ink/70">Coming soon</p>
+                <p className="text-sm font-semibold text-tint-ink/70">
+                  Coming soon
+                </p>
               </div>
             </div>
           </Card>
