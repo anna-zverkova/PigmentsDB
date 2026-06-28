@@ -75851,6 +75851,2588 @@
       "performance": "Professional",
       "toxicity": "No",
       "swatchImage": "/uploads/a-gallo/AG-Antique-Gold.png"
+    },
+    {
+      "id": "kremer-pigments-pinkcolor",
+      "brandId": "kremer-pigments",
+      "name": "Pinkcolor",
+      "pigmentCodes": [
+        "PR233"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Pinkcolor.png"
+    },
+    {
+      "id": "kremer-pigments-blue-verditer",
+      "brandId": "kremer-pigments",
+      "name": "Blue Verditer",
+      "pigmentCodes": [
+        "PB30"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-azurite-sky-blue-light",
+      "brandId": "kremer-pigments",
+      "name": "Azurite, Sky-Blue Light",
+      "pigmentCodes": [
+        "PB30"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Azurite-Sky-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-malachite",
+      "brandId": "kremer-pigments",
+      "name": "Malachite",
+      "pigmentCodes": [
+        "PB30"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Malachite.png"
+    },
+    {
+      "id": "kremer-pigments-lapis-lazuli-from-chile",
+      "brandId": "kremer-pigments",
+      "name": "Lapis Lazuli from Chile",
+      "pigmentCodes": [
+        "Genuine Lapis Lazuli"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Lapid-Lazuli.png"
+    },
+    {
+      "id": "kremer-pigments-russian-green-earth",
+      "brandId": "kremer-pigments",
+      "name": "Russian Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Russian-Green-Earth.png"
+    },
+    {
+      "id": "kremer-pigments-thulit",
+      "brandId": "kremer-pigments",
+      "name": "Thulit",
+      "pigmentCodes": [
+        "Zoiesite from Norway"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Thulit.png"
+    },
+    {
+      "id": "kremer-pigments-eggshell",
+      "brandId": "kremer-pigments",
+      "name": "Eggshell",
+      "pigmentCodes": [
+        "PW18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Eggshell-White.png"
+    },
+    {
+      "id": "kremer-pigments-burgundy-yellow-ochre-fine",
+      "brandId": "kremer-pigments",
+      "name": "Burgundy Yellow Ochre, Fine",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Burgundy-Yellow-Ochre.png"
+    },
+    {
+      "id": "kremer-pigments-burgundy-red-ochre-fine",
+      "brandId": "kremer-pigments",
+      "name": "Burgundy Red Ochre, Fine",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Burgundy-Red-Ochre.png"
+    },
+    {
+      "id": "kremer-pigments-selenite-marienglas",
+      "brandId": "kremer-pigments",
+      "name": "Selenite, Marienglas",
+      "pigmentCodes": [
+        "PW25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Selenite.png"
+    },
+    {
+      "id": "kremer-pigments-sepia-fine",
+      "brandId": "kremer-pigments",
+      "name": "Sepia, Fine",
+      "pigmentCodes": [
+        "NBr9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Sepia.png"
+    },
+    {
+      "id": "kremer-pigments-bideford-black",
+      "brandId": "kremer-pigments",
+      "name": "Bideford Black",
+      "pigmentCodes": [
+        "PBk8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bideford-Black.png"
+    },
+    {
+      "id": "kremer-pigments-jarosite-from-cyprus",
+      "brandId": "kremer-pigments",
+      "name": "Jarosite, From Cyprus",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Jarosite.png"
+    },
+    {
+      "id": "kremer-pigments-natural-sienna-monte-amiata",
+      "brandId": "kremer-pigments",
+      "name": "Natural Sienna, Monte Amiata",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Natural-Sienna-Monte-Amiata.png"
+    },
+    {
+      "id": "kremer-pigments-bluish-green-earth-from-cyprus",
+      "brandId": "kremer-pigments",
+      "name": "Bluish Green Earth, From Cyprus",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bluish-Green-Earth.png"
+    },
+    {
+      "id": "kremer-pigments-phthalo-green-dark",
+      "brandId": "kremer-pigments",
+      "name": "Phthalo Green Dark",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Phthalo-Green-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-phthalo-green-yellowish",
+      "brandId": "kremer-pigments",
+      "name": "Phthalo Green, Yellowish",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Phthalo-Green-Yellowish.png"
+    },
+    {
+      "id": "kremer-pigments-pea-green-mixture",
+      "brandId": "kremer-pigments",
+      "name": "Pea Green Mixture",
+      "pigmentCodes": [
+        "PG36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Pea-Green.png"
+    },
+    {
+      "id": "kremer-pigments-phthalo-blue",
+      "brandId": "kremer-pigments",
+      "name": "Phthalo Blue",
+      "pigmentCodes": [
+        "PB15:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Phthalo-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-phthalo-blue-cyan-blue-transparent",
+      "brandId": "kremer-pigments",
+      "name": "Phthalo Blue, Cyan Blue Transparent",
+      "pigmentCodes": [
+        "PB15:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Phthalo-Blue-Cyan.png"
+    },
+    {
+      "id": "kremer-pigments-anthraquinone-blue",
+      "brandId": "kremer-pigments",
+      "name": "Anthraquinone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Anthraquinone-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-orange-dpp",
+      "brandId": "kremer-pigments",
+      "name": "Orange DPP",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Orange-DPP.png"
+    },
+    {
+      "id": "kremer-pigments-scarlet-red-dpp-ek",
+      "brandId": "kremer-pigments",
+      "name": "Scarlet Red DPP EK",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Scarlet-Red-DPP-EK.png"
+    },
+    {
+      "id": "kremer-pigments-red-dpp-bo",
+      "brandId": "kremer-pigments",
+      "name": "Red DPP BO",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Red-DPP-BO.png"
+    },
+    {
+      "id": "kremer-pigments-dpp-red",
+      "brandId": "kremer-pigments",
+      "name": "DPP Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-DPP-Red.png"
+    },
+    {
+      "id": "kremer-pigments-ruby-dpp-tr",
+      "brandId": "kremer-pigments",
+      "name": "Ruby DPP TR",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ruby.png"
+    },
+    {
+      "id": "kremer-pigments-cpt-scarlet-red",
+      "brandId": "kremer-pigments",
+      "name": "CPT Scarlet Red",
+      "pigmentCodes": [
+        "PR166"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Scarlet-Red-DPP-EK.png"
+    },
+    {
+      "id": "kremer-pigments-permanent-red-dark",
+      "brandId": "kremer-pigments",
+      "name": "Permanent Red Dark",
+      "pigmentCodes": [
+        "PR194"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Permanent-Red-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-permanent-yellow-medium",
+      "brandId": "kremer-pigments",
+      "name": "Permanent Yellow Medium",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Permanent-Yellow-Medium.png"
+    },
+    {
+      "id": "kremer-pigments-yellow-greenish",
+      "brandId": "kremer-pigments",
+      "name": "Yellow Greenish",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Yellow-Greenish.png"
+    },
+    {
+      "id": "kremer-pigments-indian-yellow-imitation",
+      "brandId": "kremer-pigments",
+      "name": "Indian Yellow Imitation",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Indian-Yellow-Imitation.png"
+    },
+    {
+      "id": "kremer-pigments-pyramid-yellow-medium",
+      "brandId": "kremer-pigments",
+      "name": "Pyramid Yellow Medium",
+      "pigmentCodes": [
+        "PY108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Pyramid-Yellow-Medium.png"
+    },
+    {
+      "id": "kremer-pigments-quinacridone-pink-transparent",
+      "brandId": "kremer-pigments",
+      "name": "Quinacridone Pink, Transparent",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Quinacridone-Pink-Transparent.png"
+    },
+    {
+      "id": "kremer-pigments-quinacridone-pink-d",
+      "brandId": "kremer-pigments",
+      "name": "Quinacridone Pink D",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Quinacridone-Pink-D.png"
+    },
+    {
+      "id": "kremer-pigments-purple-red-brownish",
+      "brandId": "kremer-pigments",
+      "name": "Purple Red, Brownish",
+      "pigmentCodes": [
+        "PR175"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Purple-Red-Brownish.png"
+    },
+    {
+      "id": "kremer-pigments-gubbio-red",
+      "brandId": "kremer-pigments",
+      "name": "Gubbio Red",
+      "pigmentCodes": [
+        "PBr23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Gubbio-Red.png"
+    },
+    {
+      "id": "kremer-pigments-maroon-pr179",
+      "brandId": "kremer-pigments",
+      "name": "Maroon, PR179",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Maroon-PR179.png"
+    },
+    {
+      "id": "kremer-pigments-maroon",
+      "brandId": "kremer-pigments",
+      "name": "Maroon",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Maroon.png"
+    },
+    {
+      "id": "kremer-pigments-alizarine-crimson-dark",
+      "brandId": "kremer-pigments",
+      "name": "Alizarine Crimson Dark",
+      "pigmentCodes": [
+        "PR83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Alizarine-Crimson-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-brilliant-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Brilliant Yellow",
+      "pigmentCodes": [
+        "PY74"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Brilliant-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-studio-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Studio Yellow",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Studio-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-indigo-genuine",
+      "brandId": "kremer-pigments",
+      "name": "Indigo, Genuine",
+      "pigmentCodes": [
+        "NB1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Indigo.png"
+    },
+    {
+      "id": "kremer-pigments-madder-lake-dark-red",
+      "brandId": "kremer-pigments",
+      "name": "Madder Lake, Dark Red",
+      "pigmentCodes": [
+        "NR9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Madder-Lake-Dark-Red.png"
+    },
+    {
+      "id": "kremer-pigments-french-ochre-very-light",
+      "brandId": "kremer-pigments",
+      "name": "French Ochre, Very Light",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-French-Ochre-Very-Light.png"
+    },
+    {
+      "id": "kremer-pigments-french-ochre-jals",
+      "brandId": "kremer-pigments",
+      "name": "French Ochre JALS",
+      "pigmentCodes": [
+        "PY43",
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-French-Ochre-JALS.png"
+    },
+    {
+      "id": "kremer-pigments-italian-gold-ochre-light",
+      "brandId": "kremer-pigments",
+      "name": "Italian Gold Ochre Light",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Italian-Gold-Ochre-Light.png"
+    },
+    {
+      "id": "kremer-pigments-raw-sienna-italian",
+      "brandId": "kremer-pigments",
+      "name": "Raw Sienna, Italian",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Raw-Sienna-Italian.png"
+    },
+    {
+      "id": "kremer-pigments-dark-burnt-sienna",
+      "brandId": "kremer-pigments",
+      "name": "Dark Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-red-bole",
+      "brandId": "kremer-pigments",
+      "name": "Red Bole",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Red-Bole.png"
+    },
+    {
+      "id": "kremer-pigments-venetian-red",
+      "brandId": "kremer-pigments",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Venetian-Red.png"
+    },
+    {
+      "id": "kremer-pigments-raw-umber-greenish-dark",
+      "brandId": "kremer-pigments",
+      "name": "Raw Umber, Greenish Dark",
+      "pigmentCodes": [
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Raw-Umber-Greenish-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-raw-umber-greenish",
+      "brandId": "kremer-pigments",
+      "name": "Raw Umber, Greenish",
+      "pigmentCodes": [
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Raw-Umber-Greenish.png"
+    },
+    {
+      "id": "kremer-pigments-burnt-umber-dark-brown",
+      "brandId": "kremer-pigments",
+      "name": "Burnt Umber, Dark Brown",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/Burnt-Umber-Dark-Brown.png"
+    },
+    {
+      "id": "kremer-pigments-bohemian-green-earth",
+      "brandId": "kremer-pigments",
+      "name": "Bohemian Green Earth",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bohemian-Green-Earth.png"
+    },
+    {
+      "id": "kremer-pigments-green-earth-from-verona",
+      "brandId": "kremer-pigments",
+      "name": "Green Earth From Verona",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Green-Earth-Verona.png"
+    },
+    {
+      "id": "kremer-pigments-slate-gray-gray-green",
+      "brandId": "kremer-pigments",
+      "name": "Slate Gray, Gray-Green",
+      "pigmentCodes": [
+        "PBk19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Slate-Gray-Gray-Green.png"
+    },
+    {
+      "id": "kremer-pigments-van-dyck-brown",
+      "brandId": "kremer-pigments",
+      "name": "Van Dyck Brown",
+      "pigmentCodes": [
+        "NBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Van-Dyck-Brown.png"
+    },
+    {
+      "id": "kremer-pigments-vagone-green-earth",
+      "brandId": "kremer-pigments",
+      "name": "Vagone Green Earth",
+      "pigmentCodes": [
+        "PG7",
+        "PB11",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Vagone-Green-Earth.png"
+    },
+    {
+      "id": "kremer-pigments-vermilion",
+      "brandId": "kremer-pigments",
+      "name": "Vermilion",
+      "pigmentCodes": [
+        "PR106"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Vermilion.png"
+    },
+    {
+      "id": "kremer-pigments-carmine-naccarat",
+      "brandId": "kremer-pigments",
+      "name": "Carmine Naccarat",
+      "pigmentCodes": [
+        "NR4:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Carmine-Naccarat.png"
+    },
+    {
+      "id": "kremer-pigments-cerium-red",
+      "brandId": "kremer-pigments",
+      "name": "Cerium Red",
+      "pigmentCodes": [
+        "PR265"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cerium-Red.png"
+    },
+    {
+      "id": "kremer-pigments-ultramarine-red-violet-pink",
+      "brandId": "kremer-pigments",
+      "name": "Ultramarine Red, Violet Pink",
+      "pigmentCodes": [
+        "PR259"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultramarine-Red-Violet-Pink.png"
+    },
+    {
+      "id": "kremer-pigments-nickel-titanium-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Nickel Titanium Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Nickel-Titanium-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-titanium-orange",
+      "brandId": "kremer-pigments",
+      "name": "Titanium Orange",
+      "pigmentCodes": [
+        "PBr24"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Orange-DPP.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Yellow",
+      "pigmentCodes": [
+        "PY40"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-intensive-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Intensive Yellow",
+      "pigmentCodes": [
+        "PY159"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Intensive-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-bismuth-vanadate-yellow-light",
+      "brandId": "kremer-pigments",
+      "name": "Bismuth Vanadate Yellow, Light",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bismuth-Vanadate-Yellow-Light.png"
+    },
+    {
+      "id": "kremer-pigments-bismuth-vanadate-yellow-medium",
+      "brandId": "kremer-pigments",
+      "name": "Bismuth Vanadate Yellow, Medium",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bismuth-Vanadate-Yellow-Medium.png"
+    },
+    {
+      "id": "kremer-pigments-bismuth-vanadate-yellow-dark",
+      "brandId": "kremer-pigments",
+      "name": "Bismuth Vanadate Yellow, Dark",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bismuth-Vanadate-Yellow-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-green",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Green.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-bottle-green",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Bottle Green",
+      "pigmentCodes": [
+        "PG26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Bottle-Green.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-green-bluish-a",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Green Bluish A",
+      "pigmentCodes": [
+        "PG19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Green-Bluish-A.png"
+    },
+    {
+      "id": "kremer-pigments-pastel-green-victoria-green",
+      "brandId": "kremer-pigments",
+      "name": "Pastel Green, Victoria Green",
+      "pigmentCodes": [
+        "PG51"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-chrome-oxide-green",
+      "brandId": "kremer-pigments",
+      "name": "Chrome Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Chrome-Oxide-Green.png"
+    },
+    {
+      "id": "kremer-pigments-viridian-green",
+      "brandId": "kremer-pigments",
+      "name": "Viridian Green",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Viridian-Green.png"
+    },
+    {
+      "id": "kremer-pigments-coni-green",
+      "brandId": "kremer-pigments",
+      "name": "CoNi Green",
+      "pigmentCodes": [
+        "PB28",
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-CoNi-Green.png"
+    },
+    {
+      "id": "kremer-pigments-ultramarine-green-genuine",
+      "brandId": "kremer-pigments",
+      "name": "Ultramarine Green, Genuine",
+      "pigmentCodes": [
+        "PG24"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultramarine-Green.png"
+    },
+    {
+      "id": "kremer-pigments-ultramarine-blue-very-dark",
+      "brandId": "kremer-pigments",
+      "name": "Ultramarine Blue, Very Dark",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultramarine-Blue-Very-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-ultramarine-blue-light",
+      "brandId": "kremer-pigments",
+      "name": "Ultramarine Blue Light",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultramarine-Blue-Light.png"
+    },
+    {
+      "id": "kremer-pigments-ultramarine-violet-reddish",
+      "brandId": "kremer-pigments",
+      "name": "Ultramarine Violet Reddish",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultramarine-Violet-Reddish.png"
+    },
+    {
+      "id": "kremer-pigments-paris-blue",
+      "brandId": "kremer-pigments",
+      "name": "Paris Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Paris-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-yinmn-blue",
+      "brandId": "kremer-pigments",
+      "name": "YInMn Blue",
+      "pigmentCodes": [
+        "PB86"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-YInMn-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-zirconium-cerulean-blue",
+      "brandId": "kremer-pigments",
+      "name": "Zirconium Cerulean Blue",
+      "pigmentCodes": [
+        "PB71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Zirconium-Cerulean-Blue.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-dark",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue Dark",
+      "pigmentCodes": [
+        "PB74"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-pale",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue Pale",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Pale.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-light",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue Light",
+      "pigmentCodes": [
+        "PB35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Light.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-greenish",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue, Greenish",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Greenish.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-turquoise-light",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue Turquoise Light",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Turquoise-Light.png"
+    },
+    {
+      "id": "kremer-pigments-cobalt-blue-turquoise-dark",
+      "brandId": "kremer-pigments",
+      "name": "Cobalt Blue Turquoise Dark",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cobalt-Blue-Turquoise-Dark.png"
+    },
+    {
+      "id": "kremer-pigments-titanium-white-rutile",
+      "brandId": "kremer-pigments",
+      "name": "Titanium White Rutile",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Titanium-White-Rutile.png"
+    },
+    {
+      "id": "kremer-pigments-buff-titanium",
+      "brandId": "kremer-pigments",
+      "name": "Buff Titanium",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Buff-Titanium.png"
+    },
+    {
+      "id": "kremer-pigments-zinc-white",
+      "brandId": "kremer-pigments",
+      "name": "Zinc White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Zinc-White.png"
+    },
+    {
+      "id": "kremer-pigments-incarnate-1",
+      "brandId": "kremer-pigments",
+      "name": "Incarnate 1",
+      "pigmentCodes": [
+        "PR101",
+        "PY43",
+        "PW18",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Incarnate-1.png"
+    },
+    {
+      "id": "kremer-pigments-incarnate-2",
+      "brandId": "kremer-pigments",
+      "name": "Incarnate 2",
+      "pigmentCodes": [
+        "PR106",
+        "PY43",
+        "PW18",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Incarnate-2.png"
+    },
+    {
+      "id": "kremer-pigments-bone-black",
+      "brandId": "kremer-pigments",
+      "name": "Bone Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bone-Black.png"
+    },
+    {
+      "id": "kremer-pigments-furnace-black",
+      "brandId": "kremer-pigments",
+      "name": "Furnace Black",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-graphite-powder-silver",
+      "brandId": "kremer-pigments",
+      "name": "Graphite Powder Silver",
+      "pigmentCodes": [
+        "PBk10"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Graphite-Powder-Silver.png"
+    },
+    {
+      "id": "kremer-pigments-paynes-gray-mixture",
+      "brandId": "kremer-pigments",
+      "name": "Paynes Gray, Mixture",
+      "pigmentCodes": [
+        "PB29",
+        "PBk7",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Paynes-Gray-Mixture.png"
+    },
+    {
+      "id": "kremer-pigments-warm-gray-no-1",
+      "brandId": "kremer-pigments",
+      "name": "Warm Gray No. 1",
+      "pigmentCodes": [
+        "PW4",
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Warm-Gray-1.png"
+    },
+    {
+      "id": "kremer-pigments-warm-gray-no-2",
+      "brandId": "kremer-pigments",
+      "name": "Warm Gray No. 2",
+      "pigmentCodes": [
+        "PW4",
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Warm-Gray-2.png"
+    },
+    {
+      "id": "kremer-pigments-warm-gray-no-5",
+      "brandId": "kremer-pigments",
+      "name": "Warm Gray No. 5",
+      "pigmentCodes": [
+        "PW4",
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Warm-Gray-5.png"
+    },
+    {
+      "id": "kremer-pigments-warm-gray-no-6",
+      "brandId": "kremer-pigments",
+      "name": "Warm Gray No. 6",
+      "pigmentCodes": [
+        "PW4",
+        "PBr8"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Warm-Gray-6.png"
+    },
+    {
+      "id": "kremer-pigments-cool-gray-no-1",
+      "brandId": "kremer-pigments",
+      "name": "Cool Gray No. 1",
+      "pigmentCodes": [
+        "PW4",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cool-Gray-1.png"
+    },
+    {
+      "id": "kremer-pigments-cool-gray-no-2",
+      "brandId": "kremer-pigments",
+      "name": "Cool Gray No. 2",
+      "pigmentCodes": [
+        "PW4",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cool-Gray-2.png"
+    },
+    {
+      "id": "kremer-pigments-cool-gray-no-5",
+      "brandId": "kremer-pigments",
+      "name": "Cool Gray No. 5",
+      "pigmentCodes": [
+        "PW4",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cool-Gray-5.png"
+    },
+    {
+      "id": "kremer-pigments-cool-gray-no-6",
+      "brandId": "kremer-pigments",
+      "name": "Cool Gray No. 6",
+      "pigmentCodes": [
+        "PW4",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Cool-Gray-6.png"
+    },
+    {
+      "id": "kremer-pigments-caput-mortuum-violet",
+      "brandId": "kremer-pigments",
+      "name": "Caput Mortuum, Violet",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Caput-Mortuum-Violet.png"
+    },
+    {
+      "id": "kremer-pigments-magnetite-very-fine",
+      "brandId": "kremer-pigments",
+      "name": "Magnetite, Very Fine",
+      "pigmentCodes": [
+        "PBk11"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Magnetite.png"
+    },
+    {
+      "id": "kremer-pigments-iron-glimmer-violet",
+      "brandId": "kremer-pigments",
+      "name": "Iron Glimmer Violet",
+      "pigmentCodes": [
+        "PR102"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Iron-Glimmer-Violet.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-103-rutile-sterling-silver",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 103 Rutile Sterling Silver",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Rutile-Sterling-Silver.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-119-polar-white-polarsilver",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 119 Polar White, Polarsilver",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Polar-White.png"
+    },
+    {
+      "id": "kremer-pigments-pyrisma-t40-27-color-space-indigo",
+      "brandId": "kremer-pigments",
+      "name": "Pyrisma T40-27 Color Space Indigo",
+      "pigmentCodes": [
+        "Mica with titanium interference layer"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/Space-Indigo.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-300-gold-pearl-colibri-gold",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 300 Gold Pearl, Colibri Gold",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Gold-Pearl.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-307-star-gold-colibri-fine",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 307 Star Gold Colibri, Fine",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Star-Gold.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-323-royal-goldsatin",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 323 Royal Goldsatin",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Royal-Goldsatin.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-303-royal-gold",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 303 Royal Gold",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Royal-Gold.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-320-bright-gold",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 320 Bright Gold",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bright-Gold.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-500-bronze",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 500 Bronze",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Bronze.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-530-glitter-bronze",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 530 Glitter Bronze",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Glitter-Bronze.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-504-red",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 504 Red",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-504-Red.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-7225-rutile-blue-pearl",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 7225 Rutile Blue Pearl",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Rutile-Blue-Pearl.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-7215-ultra-red-chroma-red",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 7215 Ultra Red, Chroma Red",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Chroma-Red.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-7219-ultra-rutile-lilac-pearl",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 7219 Ultra Rutile Lilac Pearl",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Rutile-Lilac-Pearl.png"
+    },
+    {
+      "id": "kremer-pigments-iriodin-7235-ultra-green-chroma",
+      "brandId": "kremer-pigments",
+      "name": "Iriodin 7235 Ultra Green, Chroma",
+      "pigmentCodes": [
+        "Mica laminated with titanium oxide and tin oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Ultra-Green-Chroma.png"
+    },
+    {
+      "id": "kremer-pigments-colorstream-f10-00-magic-indian-summer",
+      "brandId": "kremer-pigments",
+      "name": "Colorstream F10-00 Magic Indian Summer",
+      "pigmentCodes": [
+        "Silicium dioxide laminated with iron oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-pearl-luster-magic-purpur",
+      "brandId": "kremer-pigments",
+      "name": "Pearl Luster Magic Purpur",
+      "pigmentCodes": [
+        "Aluminium powder laminated with silicium dioxide and iron-III-oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/Pearl-Luster-Magic-Purpur.png"
+    },
+    {
+      "id": "kremer-pigments-colorstream-t10-03",
+      "brandId": "kremer-pigments",
+      "name": "Colorstream T10-03",
+      "pigmentCodes": [
+        "Silicium dioxide laminated with titanium oxide",
+        "tin oxide",
+        "zirconia oxide"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-T10-03.png"
+    },
+    {
+      "id": "kremer-pigments-translucent-yellow",
+      "brandId": "kremer-pigments",
+      "name": "Translucent Yellow",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Translucent-Yellow.png"
+    },
+    {
+      "id": "kremer-pigments-translucent-orange",
+      "brandId": "kremer-pigments",
+      "name": "Translucent Orange",
+      "pigmentCodes": [
+        "PY42",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Translucent-Orange.png"
+    },
+    {
+      "id": "kremer-pigments-translucent-orange-red",
+      "brandId": "kremer-pigments",
+      "name": "Translucent Orange-Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Translucent-Orange-Red.png"
+    },
+    {
+      "id": "kremer-pigments-translucent-red-medium",
+      "brandId": "kremer-pigments",
+      "name": "Translucent Red Medium",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-studio-pigment-bordeaux",
+      "brandId": "kremer-pigments",
+      "name": "Studio Pigment Bordeaux",
+      "pigmentCodes": [
+        "PR12"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "5/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Studio-Pigment-Bordeaux.png"
+    },
+    {
+      "id": "kremer-pigments-studio-pigment-light-green",
+      "brandId": "kremer-pigments",
+      "name": "Studio Pigment Light Green",
+      "pigmentCodes": [
+        "PY74",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "8/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No"
+    },
+    {
+      "id": "kremer-pigments-studio-pigment-violet",
+      "brandId": "kremer-pigments",
+      "name": "Studio Pigment Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "7/8",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Professional",
+      "toxicity": "No",
+      "swatchImage": "/uploads/kremer-pigments/KM-Studio-Pigment-Violet.png"
     }
   ]
 }
