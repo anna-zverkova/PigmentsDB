@@ -29,6 +29,7 @@ function resolveFeaturedArticle(articles: BlogArticle[], featuredArticleId: stri
 const blogData = blogsContent as {
   hero: { eyebrow: string; title: string; subtitle: string };
   featured: { title: string; articleId: string };
+  draft?: { title: string; excerpt: string };
   articles: BlogArticle[];
 };
 
@@ -130,52 +131,17 @@ export const Blogs: React.FC = () => {
           <Card className="border-tint-ink/10 bg-tint-ink text-white overflow-hidden">
             <div className="p-8 md:p-10 space-y-6">
               <div className="space-y-2">
-                <p className="text-xs font-semibold uppercase tracking-[0.24em] text-white/60">What this page is</p>
-                <h3 className="text-2xl font-bold font-display">Short notes for curious painters.</h3>
+                <p className="text-xs font-semibold uppercase tracking-[0.24em] text-white/60">Coming next</p>
+                <h3 className="text-2xl font-bold font-display">
+                  {blogData.draft?.title ?? 'A preview of the next journal entry.'}
+                </h3>
                 <p className="text-sm leading-relaxed text-white/75 max-w-sm">
-                  TintMap Journal is where we collect small, useful essays about pigment behavior, brand research, and the work of keeping the atlas tidy.
+                  {blogData.draft?.excerpt ??
+                    'The next post is shown here as a teaser, without a link, until it is ready to publish.'}
                 </p>
               </div>
-
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                <div className="rounded-2xl bg-white/10 border border-white/10 p-4">
-                  <p className="text-[11px] uppercase tracking-[0.2em] text-white/55">Focus</p>
-                  <p className="mt-2 text-sm font-semibold">Pigment behavior, swatches, and brand updates</p>
-                </div>
-                <div className="rounded-2xl bg-white/10 border border-white/10 p-4">
-                  <p className="text-[11px] uppercase tracking-[0.2em] text-white/55">Style</p>
-                  <p className="mt-2 text-sm font-semibold">Brief, practical, and easy to scan</p>
-                </div>
-              </div>
-
               <div className="rounded-2xl bg-white text-tint-ink p-5 shadow-sm">
-                <p className="text-xs font-semibold uppercase tracking-[0.2em] text-neutral-500">Coming next</p>
-                <h4 className="mt-2 text-xl font-bold font-display leading-tight">
-                  Comparing swatches across paper, light, and scan settings
-                </h4>
-                <p className="mt-3 text-sm leading-relaxed text-neutral-600">
-                  This post will explain why two swatches can tell different stories, even when they come from the same paint and the same brand.
-                </p>
-                <div className="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-2">
-                  <div className="rounded-xl bg-tint-paper px-3 py-2">
-                    <p className="text-[11px] uppercase tracking-[0.18em] text-neutral-500">Paper</p>
-                    <p className="mt-1 text-sm font-semibold">Surface texture</p>
-                  </div>
-                  <div className="rounded-xl bg-tint-paper px-3 py-2">
-                    <p className="text-[11px] uppercase tracking-[0.18em] text-neutral-500">Light</p>
-                    <p className="mt-1 text-sm font-semibold">Viewing conditions</p>
-                  </div>
-                  <div className="rounded-xl bg-tint-paper px-3 py-2">
-                    <p className="text-[11px] uppercase tracking-[0.18em] text-neutral-500">Scan</p>
-                    <p className="mt-1 text-sm font-semibold">Image consistency</p>
-                  </div>
-                </div>
-                <Link
-                  to="/info/about"
-                  className="mt-4 inline-flex items-center gap-2 text-sm font-semibold text-tint-ink hover:text-tint-ember transition-colors"
-                >
-                  About TintMap <ArrowRight size={15} />
-                </Link>
+                <p className="text-sm font-semibold text-tint-ink/70">Coming soon</p>
               </div>
             </div>
           </Card>
@@ -188,9 +154,6 @@ export const Blogs: React.FC = () => {
             <p className="text-xs font-semibold uppercase tracking-[0.24em] text-neutral-500">Articles</p>
             <h2 className="mt-2 text-2xl md:text-3xl font-bold font-display text-tint-ink">More from the journal</h2>
           </div>
-          <p className="text-sm text-neutral-500 max-w-md">
-            The page is intentionally lightweight for now, so we can add posts without adding complexity.
-          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

@@ -8,6 +8,10 @@
     "title": "Latest article",
     "articleId": "reading-pigment-codes"
   },
+  "draft": {
+    "title": "Seeing granulation in the wash",
+    "excerpt": "A closer look at how texture emerges in watercolor, how paper changes the result, and why the same pigment can behave differently from one surface to another."
+  },
   "articles": [
     {
       "id": "reading-pigment-codes",

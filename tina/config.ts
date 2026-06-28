@@ -582,6 +582,125 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "blogs",
+        label: "Blogs",
+        path: "content",
+        format: "json",
+        match: {
+          include: "blogs",
+        },
+        fields: [
+          {
+            type: "object",
+            name: "hero",
+            label: "Hero",
+            fields: [
+              {
+                type: "string",
+                name: "eyebrow",
+                label: "Eyebrow",
+              },
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "subtitle",
+                label: "Subtitle",
+                ui: {
+                  component: "textarea",
+                },
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "featured",
+            label: "Featured",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "articleId",
+                label: "Article ID",
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "draft",
+            label: "Draft Teaser",
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "excerpt",
+                label: "Excerpt",
+                ui: {
+                  component: "textarea",
+                },
+              },
+            ],
+          },
+          {
+            type: "object",
+            name: "articles",
+            label: "Articles",
+            list: true,
+            fields: [
+              {
+                type: "string",
+                name: "id",
+                label: "ID",
+              },
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+              },
+              {
+                type: "string",
+                name: "date",
+                label: "Date",
+              },
+              {
+                type: "string",
+                name: "readTime",
+                label: "Read Time",
+              },
+              {
+                type: "string",
+                name: "category",
+                label: "Category",
+              },
+              {
+                type: "string",
+                name: "excerpt",
+                label: "Excerpt",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "boolean",
+                name: "highlight",
+                label: "Highlight",
+              },
+            ],
+          },
+        ],
+      },
     ],
   },
 });
