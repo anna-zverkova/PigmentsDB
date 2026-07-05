@@ -159,10 +159,12 @@
       "id": "kuretake-gansai-tambi",
       "name": "Kuretake Gansai Tambi",
       "logo": "KG",
-      "description": "Kuretake Gansai Tambi is a professional watercolor maker from Japan.",
+      "description": "Kuretake Gansai Tambi is a traditional Japanese watercolor line with a creamy, highly pigmented formula and a distinctive semi-opaque finish. The paints rewet easily, lay down smooth color, and can behave somewhere between watercolor and gouache, making them popular for illustration, calligraphy, sumi-e, and expressive washes on both light and dark paper.",
+      "comment": "Made with pigment and a combination of binders, including animal hide glue, beeswax, sugar, sugar syrup, and/or glycerin. Not a traditional western watercolour",
       "website": "#",
       "country": "Japan",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Water soluble resin"
     },
     {
       "id": "nila-colori",
