@@ -265,7 +265,7 @@
       "id": "finetec",
       "name": "Finetec",
       "logo": "F",
-      "description": "Finetec is a German professional watercolor brand known for specialty and high-quality artist colors.",
+      "description": "Finetec is a German watercolor brand best known for its luminous pearlescent, metallic, iridescent, flip-flop, and neon colours. Its paints are designed for striking sheen, strong opacity, and decorative effects, making them especially popular for calligraphy, hand lettering, illustration accents, and mixed-media work. The range is widely appreciated for its intense shimmer, smooth application, and premium effect pigments, with production carried out in Germany under strict quality standards.",
       "website": "#",
       "country": "Germany",
       "status": "Professional"
@@ -373,7 +373,8 @@
       "logo": "PM",
       "description": "",
       "website": "#",
-      "country": "United States"
+      "country": "United States",
+      "status": "Student"
     },
     {
       "id": "della-magna-watercolors",
