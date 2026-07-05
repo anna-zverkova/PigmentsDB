@@ -66,7 +66,8 @@
       "description": "The brand prioritises marketing over scientific accuracy. Because the pigment chemistry is not precisely disclosed, an accurate comparison of their paints is challenging.",
       "website": "#",
       "country": "United States",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Gum arabic"
     },
     {
       "id": "grumbacher-finest",
@@ -109,7 +110,8 @@
       "description": "",
       "website": "#",
       "country": "Japan",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Gum arabic"
     },
     {
       "id": "isaro",
@@ -201,7 +203,8 @@
       "logo": "MG",
       "description": "",
       "website": "#",
-      "country": "United States"
+      "country": "United States",
+      "binder": "Northwest blackberry honey"
     },
     {
       "id": "maimeriblu",
@@ -243,7 +246,8 @@
       "logo": "Q",
       "description": "",
       "website": "#",
-      "country": "United States"
+      "country": "United States",
+      "binder": "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       "id": "rembrandt",
@@ -268,7 +272,8 @@
       "description": "Finetec is a German watercolor brand best known for its luminous pearlescent, metallic, iridescent, flip-flop, and neon colours. Its paints are designed for striking sheen, strong opacity, and decorative effects, making them especially popular for calligraphy, hand lettering, illustration accents, and mixed-media work. The range is widely appreciated for its intense shimmer, smooth application, and premium effect pigments, with production carried out in Germany under strict quality standards.",
       "website": "#",
       "country": "Germany",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Gum arabic; mica-based pearlescent colors"
     },
     {
       "id": "roman-szmal",
@@ -286,7 +291,8 @@
       "description": "",
       "website": "#",
       "country": "Germany",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       "id": "sennelier",
@@ -295,7 +301,8 @@
       "description": "This exceptional and very high quality watercolor will help you make your works even more powerful due to the liveliness and purity of the hues. The colours mix together perfectly, offering superbly subtle shades. These smooth, intense colours will be a genuine pleasure to paint with. The addition of honey will allow the tubes and pans of Sennelier watercolors to stand up to the passing of time and each time you will paint with them you will be able to accurately translate the diversity of light shape and hues.",
       "website": "#",
       "country": "France",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Kordofan gum arabic plus honey"
     },
     {
       "id": "shinhan-pro",
@@ -347,7 +354,8 @@
       "description": "",
       "website": "#",
       "country": "Russia",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Gum arabic"
     },
     {
       "id": "wn-cotman",
@@ -356,7 +364,8 @@
       "description": "",
       "website": "#",
       "country": "United Kingdom",
-      "status": "Student"
+      "status": "Student",
+      "binder": "Blend of standard Gum Arabic and Dextrin"
     },
     {
       "id": "wn",
@@ -365,7 +374,8 @@
       "description": "",
       "website": "#",
       "country": "United Kingdom",
-      "status": "Professional"
+      "status": "Professional",
+      "binder": "Gum arabic (Gum Kordofan)"
     },
     {
       "id": "prima",
