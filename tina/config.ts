@@ -335,6 +335,14 @@ export default defineConfig({
               },
               {
                 type: "string",
+                name: "comment",
+                label: "Comment",
+                ui: {
+                  component: "textarea",
+                },
+              },
+              {
+                type: "string",
                 name: "website",
                 label: "Website",
               },
@@ -348,6 +356,11 @@ export default defineConfig({
                 name: "status",
                 label: "Status",
                 options: ["Professional", "Student"],
+              },
+              {
+                type: "string",
+                name: "binder",
+                label: "Binder",
               },
             ],
           },

@@ -33,9 +33,11 @@ export interface Brand {
   name: string;
   logo: string;
   description: string;
+  comment?: string;
   website: string;
   country?: string;
   status?: "Professional" | "Student";
+  binder?: string;
 }
 
 export interface Paint {

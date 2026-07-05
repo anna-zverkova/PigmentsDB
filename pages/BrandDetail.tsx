@@ -25,7 +25,9 @@ export const BrandDetail: React.FC = () => {
     );
   }
   const country = brand.country || 'Unknown';
+  const binder = brand.binder || 'Unknown';
   const description = brand.description?.trim() || `${brand.name} is a watercolor paint brand based in ${country}.`;
+  const comment = brand.comment?.trim();
 
   return (
     <div className="min-h-screen bg-neutral-50 pb-20">
@@ -39,10 +41,18 @@ export const BrandDetail: React.FC = () => {
           </div>
           <div className="flex flex-wrap gap-6 text-sm text-neutral-600">
             <div><span className="font-medium text-neutral-800">Country:</span> {country}</div>
+            <div><span className="font-medium text-neutral-800">Binder:</span> {binder}</div>
             <div><span className="font-medium text-neutral-800">Watercolors:</span> {paints.length}</div>
             <div><span className="font-medium text-neutral-800">Single Pigment Colors:</span> {singlePigmentCount}</div>
           </div>
-          <p className="max-w-3xl text-neutral-600 leading-relaxed">{description}</p>
+          <div className="max-w-3xl space-y-3 text-neutral-600 leading-relaxed">
+            <p>{description}</p>
+            {comment && (
+              <p>
+                <span className="font-medium text-neutral-800">Comment:</span> {comment}
+              </p>
+            )}
+          </div>
         </div>
       </div>
 
