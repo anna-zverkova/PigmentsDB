@@ -67,10 +67,12 @@ var brands_default = {
       id: "ds",
       name: "Daniel Smith",
       logo: "DS",
-      description: "The brand prioritises marketing over scientific accuracy. Because the pigment chemistry is not precisely disclosed, an accurate comparison of their paints is challenging.",
+      description: "Daniel Smith is a watercolor brand based in the United States.",
+      comment: "The brand prioritises marketing over scientific accuracy. Because the pigment chemistry is not precisely disclosed, an accurate comparison of their paints is challenging.",
       website: "#",
       country: "United States",
-      status: "Professional"
+      status: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "grumbacher-finest",
@@ -113,7 +115,8 @@ var brands_default = {
       description: "",
       website: "#",
       country: "Japan",
-      status: "Professional"
+      status: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "isaro",
@@ -160,10 +163,12 @@ var brands_default = {
       id: "kuretake-gansai-tambi",
       name: "Kuretake Gansai Tambi",
       logo: "KG",
-      description: "Kuretake Gansai Tambi is a professional watercolor maker from Japan.",
+      description: "Kuretake Gansai Tambi is a traditional Japanese watercolor line with a creamy, highly pigmented formula and a distinctive semi-opaque finish. The paints rewet easily, lay down smooth color, and can behave somewhere between watercolor and gouache, making them popular for illustration, calligraphy, sumi-e, and expressive washes on both light and dark paper.",
+      comment: "Made with pigment and a combination of binders, including animal hide glue, beeswax, sugar, sugar syrup, and/or glycerin. Not a traditional western watercolour",
       website: "#",
       country: "Japan",
-      status: "Professional"
+      status: "Professional",
+      binder: "Water soluble resin"
     },
     {
       id: "nila-colori",
@@ -205,7 +210,8 @@ var brands_default = {
       logo: "MG",
       description: "",
       website: "#",
-      country: "United States"
+      country: "United States",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "maimeriblu",
@@ -247,7 +253,8 @@ var brands_default = {
       logo: "Q",
       description: "",
       website: "#",
-      country: "United States"
+      country: "United States",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "rembrandt",
@@ -269,10 +276,11 @@ var brands_default = {
       id: "finetec",
       name: "Finetec",
       logo: "F",
-      description: "Finetec is a German professional watercolor brand known for specialty and high-quality artist colors.",
+      description: "Finetec is a German watercolor brand best known for its luminous pearlescent, metallic, iridescent, flip-flop, and neon colours. Its paints are designed for striking sheen, strong opacity, and decorative effects, making them especially popular for calligraphy, hand lettering, illustration accents, and mixed-media work. The range is widely appreciated for its intense shimmer, smooth application, and premium effect pigments, with production carried out in Germany under strict quality standards.",
       website: "#",
       country: "Germany",
-      status: "Professional"
+      status: "Professional",
+      binder: "Gum arabic; mica-based pearlescent colors"
     },
     {
       id: "roman-szmal",
@@ -290,7 +298,8 @@ var brands_default = {
       description: "",
       website: "#",
       country: "Germany",
-      status: "Professional"
+      status: "Professional",
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "sennelier",
@@ -299,7 +308,8 @@ var brands_default = {
       description: "This exceptional and very high quality watercolor will help you make your works even more powerful due to the liveliness and purity of the hues. The colours mix together perfectly, offering superbly subtle shades. These smooth, intense colours will be a genuine pleasure to paint with. The addition of honey will allow the tubes and pans of Sennelier watercolors to stand up to the passing of time and each time you will paint with them you will be able to accurately translate the diversity of light shape and hues.",
       website: "#",
       country: "France",
-      status: "Professional"
+      status: "Professional",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "shinhan-pro",
@@ -351,7 +361,8 @@ var brands_default = {
       description: "",
       website: "#",
       country: "Russia",
-      status: "Professional"
+      status: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "wn-cotman",
@@ -360,7 +371,8 @@ var brands_default = {
       description: "",
       website: "#",
       country: "United Kingdom",
-      status: "Student"
+      status: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn",
@@ -369,7 +381,8 @@ var brands_default = {
       description: "",
       website: "#",
       country: "United Kingdom",
-      status: "Professional"
+      status: "Professional",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "prima",
@@ -377,7 +390,8 @@ var brands_default = {
       logo: "PM",
       description: "",
       website: "#",
-      country: "United States"
+      country: "United States",
+      status: "Student"
     },
     {
       id: "della-magna-watercolors",
@@ -434,7 +448,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-titanium-white-101",
@@ -458,7 +473,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cadmium-yellow-medium-201",
@@ -483,7 +499,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cadmium-lemon-203",
@@ -508,7 +525,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ochre-light-206",
@@ -533,7 +551,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-naples-yellow-209",
@@ -561,7 +580,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-211",
@@ -586,7 +606,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-211-v2",
@@ -611,7 +632,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lemon-214",
@@ -636,7 +658,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-hansa-yellow-215",
@@ -661,7 +684,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-golden-216",
@@ -687,7 +711,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-golden-216-v2",
@@ -713,7 +738,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-golden-deep-217",
@@ -738,7 +764,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-ochre-218",
@@ -764,7 +791,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-ochre-218-v2",
@@ -790,7 +818,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-naples-yellow-light-219",
@@ -815,7 +844,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-naples-flesh-222",
@@ -841,7 +871,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-titian-red-226",
@@ -866,7 +897,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indian-yellow-228",
@@ -891,7 +923,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indian-gold-244",
@@ -917,7 +950,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-aureolin-253",
@@ -942,7 +976,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-naples-orange-254",
@@ -967,7 +1002,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-dunes-255",
@@ -994,7 +1030,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-peach-256",
@@ -1021,7 +1058,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-irgazin-yellow-257",
@@ -1046,7 +1084,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-petesburg-ochre-258",
@@ -1072,7 +1111,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-tuff-268",
@@ -1097,7 +1137,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-iron-oxide-270",
@@ -1121,7 +1162,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-nickel-titanate-yellow-271",
@@ -1145,7 +1187,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-isoindolinone-yellow-273",
@@ -1169,7 +1212,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-isoindolinone-yellow.jpg",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-chrome-titanate-yellow-274",
@@ -1193,7 +1237,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-morning-brume-279",
@@ -1218,7 +1263,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cadmium-red-light-302",
@@ -1243,7 +1289,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cadmium-orange-304",
@@ -1268,7 +1315,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-red-ochre-309",
@@ -1293,7 +1341,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-shakhnazarskaya-red-311",
@@ -1318,7 +1367,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-vermillion-hue-312",
@@ -1343,7 +1393,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-madder-lake-red-light-313",
@@ -1368,7 +1419,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-orange-315",
@@ -1393,7 +1445,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-scarlet-318",
@@ -1418,7 +1471,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-scarlet-318-v2",
@@ -1444,7 +1498,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-carmine-319",
@@ -1469,7 +1524,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-orange-lake-320",
@@ -1494,7 +1550,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-english-red-321",
@@ -1519,7 +1576,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-322",
@@ -1544,7 +1602,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ruby-323",
@@ -1569,7 +1628,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-rose-324",
@@ -1594,7 +1654,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-claret-325",
@@ -1620,7 +1681,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-claret-325-v2",
@@ -1645,7 +1707,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-scarlet-light-328",
@@ -1671,7 +1734,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-coral-355",
@@ -1697,7 +1761,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-venetian-red-357",
@@ -1723,7 +1788,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-red-361",
@@ -1748,7 +1814,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-geranium-red-364",
@@ -1773,7 +1840,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-venice-purple-365",
@@ -1798,7 +1866,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-pink-peony-366",
@@ -1824,7 +1893,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-quartz-367",
@@ -1850,7 +1920,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-neon-pink-368",
@@ -1876,7 +1947,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-magnolia-369",
@@ -1902,7 +1974,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-mist-382",
@@ -1927,7 +2000,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-scarlet-385",
@@ -1951,7 +2025,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-red-brown-hematite-386",
@@ -1975,7 +2050,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ruby-mist-387",
@@ -2000,7 +2076,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-orange-mist-388",
@@ -2025,7 +2102,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-orange-mist.jpg",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-scarlet-mist-389",
@@ -2050,7 +2128,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-brown-393",
@@ -2074,7 +2153,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-pyrrole-red-396",
@@ -2098,7 +2178,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-pyrrole-red.jpg",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-purple-mist-398",
@@ -2123,7 +2204,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-pyrrol-orange-399",
@@ -2147,7 +2229,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-vandyke-brown-401",
@@ -2171,7 +2254,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-raw-sienna-405",
@@ -2196,7 +2280,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-raw-sienna-405-v2",
@@ -2221,7 +2306,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-burnt-sienna-406",
@@ -2246,7 +2332,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-burnt-umber-408",
@@ -2271,7 +2358,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mars-brown-412",
@@ -2296,7 +2384,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-sepia-413",
@@ -2323,7 +2412,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-umber-418",
@@ -2350,7 +2440,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-maroon-432",
@@ -2377,7 +2468,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mocha-433",
@@ -2404,7 +2496,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-bistre-447",
@@ -2428,7 +2521,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-spinel-brown-448",
@@ -2451,7 +2545,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mountain-brume-466",
@@ -2478,7 +2573,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-black-mystery-467",
@@ -2504,7 +2600,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ceruleum-blue-503",
@@ -2528,7 +2625,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-turquoise-blue-507",
@@ -2554,7 +2652,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-blue-508",
@@ -2579,7 +2678,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-bright-blue-509",
@@ -2604,7 +2704,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-lake-510",
@@ -2629,7 +2730,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ultramarine-511",
@@ -2654,7 +2756,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-celestial-blue-512",
@@ -2680,7 +2783,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-azure-513",
@@ -2705,7 +2809,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-515",
@@ -2730,7 +2835,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indigo-516",
@@ -2757,7 +2863,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indigo-516-v2",
@@ -2784,7 +2891,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indigo-516-v3",
@@ -2811,7 +2919,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-prussian-blue-518",
@@ -2836,7 +2945,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-azure-blue-519",
@@ -2862,7 +2972,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ultramarine-deep-521",
@@ -2887,7 +2998,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indanthrene-blue-524",
@@ -2910,7 +3022,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-royal-blue-528",
@@ -2936,7 +3049,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-turquoise-531",
@@ -2961,7 +3075,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-azure-blue-532",
@@ -2986,7 +3101,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-chrome-turquoise-533",
@@ -3011,7 +3127,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-indanthrene-blue-light-537",
@@ -3035,7 +3152,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-dark-blue-shadows-555",
@@ -3061,7 +3179,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-shadows-556",
@@ -3087,7 +3206,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-sky-blue-shadows-557",
@@ -3113,7 +3233,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-mist-558",
@@ -3139,7 +3260,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-aquamarine-mist-559",
@@ -3165,7 +3287,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-mist-560",
@@ -3191,7 +3314,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-turquoise-cobalt-mist-561",
@@ -3215,7 +3339,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-grey-blue-mist-562",
@@ -3241,7 +3366,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-chromium-cobalt-mist-563",
@@ -3266,7 +3392,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-dream-570",
@@ -3291,7 +3418,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-mystery-571",
@@ -3317,7 +3445,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-sea-mist-595",
@@ -3342,7 +3471,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-helio-blue-596",
@@ -3366,7 +3496,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-helio-blue.jpg",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-violet-light-602",
@@ -3390,7 +3521,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-violet-deep-603",
@@ -3414,7 +3546,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-cobalt-violet-deep.JPG",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-caput-mortuum-604",
@@ -3439,7 +3572,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-607",
@@ -3464,7 +3598,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-rose-608",
@@ -3489,7 +3624,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-lilac-609",
@@ -3515,7 +3651,8 @@ var paints_default = {
       performance: "Professional",
       toxicity: "No",
       collection: "Standard Assortment",
-      isFeatured: true
+      isFeatured: true,
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ultramarine-violet-613",
@@ -3540,7 +3677,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-manganese-violet-light-614",
@@ -3564,7 +3702,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-manganese-violet-light.jpg",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-violet-621",
@@ -3589,7 +3728,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-quinacridone-violet-rose-622",
@@ -3614,7 +3754,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lavender-625",
@@ -3641,7 +3782,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lilac-626",
@@ -3667,7 +3809,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-perylene-violet-627",
@@ -3692,7 +3835,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-dioxazine-violet-628",
@@ -3717,7 +3861,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-shadows-629",
@@ -3742,7 +3887,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-mist-630",
@@ -3769,7 +3915,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lilac-mist-631",
@@ -3795,7 +3942,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-hematite-mist-632",
@@ -3821,7 +3969,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-augite-porphyite-633",
@@ -3845,7 +3994,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-grey-violet-granite-634",
@@ -3869,7 +4019,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-sunset-mist-635",
@@ -3894,7 +4045,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-chromium-oxide-704",
@@ -3919,7 +4071,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-green-deep-705",
@@ -3943,7 +4096,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-emerald-green-713",
@@ -3968,7 +4122,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-sap-green-716",
@@ -3995,7 +4150,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-light-717",
@@ -4020,7 +4176,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellowish-green-718",
@@ -4046,7 +4203,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-original-719",
@@ -4072,7 +4230,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-725",
@@ -4097,7 +4256,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-olive-green-727",
@@ -4124,7 +4284,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-olive-green-727-v2",
@@ -4151,7 +4312,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-earth-730",
@@ -4177,7 +4339,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mint-735",
@@ -4203,7 +4366,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-may-green-745",
@@ -4229,7 +4393,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-warm-green-747",
@@ -4256,7 +4421,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-shadows-760",
@@ -4282,7 +4448,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-taiga-mist-761",
@@ -4308,7 +4475,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-mist-762",
@@ -4333,7 +4501,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellowis-green-mist-763",
@@ -4357,7 +4526,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-cobalt-titanate-green-765",
@@ -4381,7 +4551,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-spinel-green-766",
@@ -4405,7 +4576,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mint-dream-776",
@@ -4431,7 +4603,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/white-nights/WH-mint-dream.png",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-dream-777",
@@ -4457,7 +4630,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-forest-brume-778",
@@ -4482,7 +4656,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-mystery-779",
@@ -4508,7 +4683,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-mars-black-800",
@@ -4531,7 +4707,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lamp-black-801",
@@ -4556,7 +4733,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-neutral-black-805",
@@ -4583,7 +4761,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-voronezhskaya-black-806",
@@ -4608,7 +4787,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-ivory-black-hue-811",
@@ -4632,7 +4812,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-payne-s-gray-812",
@@ -4657,7 +4838,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-payne-s-gray-812-v2",
@@ -4682,7 +4864,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-payne-s-gray-812-v3",
@@ -4707,7 +4890,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "Yes",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-marengo-818",
@@ -4734,7 +4918,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-pearl-grey-819",
@@ -4761,7 +4946,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Pastel"
+      collection: "Pastel",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-grey-pink-mist-832",
@@ -4786,7 +4972,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-spinel-grey-837",
@@ -4809,7 +4996,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-chromium-iron-oxide-838",
@@ -4832,7 +5020,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Granulating Colors"
+      collection: "Granulating Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-perylene-green-839",
@@ -4855,7 +5044,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-neutral-tint-840",
@@ -4881,7 +5071,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-silver-light-961",
@@ -4906,7 +5097,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-silver-deep-962",
@@ -4931,7 +5123,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-bronze-963",
@@ -4956,7 +5149,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-copper-964",
@@ -4981,7 +5175,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-aztec-gold-968",
@@ -5006,7 +5201,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-inca-gold-969",
@@ -5031,7 +5227,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-antique-gold-981",
@@ -5056,7 +5253,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metallic"
+      collection: "Metallic",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-gold-flare-982",
@@ -5079,7 +5277,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-silver-flare-983",
@@ -5102,7 +5301,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-yellow-green-shimmer-984",
@@ -5129,7 +5329,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-shimmer-985",
@@ -5153,7 +5354,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lemon-shimmer-986",
@@ -5179,7 +5381,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-orange-shimmer-987",
@@ -5205,7 +5408,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-red-shimmer-988",
@@ -5231,7 +5435,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-shimmer-989",
@@ -5257,7 +5462,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-lilac-shimmer-990",
@@ -5283,7 +5489,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-glow-991",
@@ -5307,7 +5514,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-golden-glow-992",
@@ -5331,7 +5539,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-brown-glow-993",
@@ -5355,7 +5564,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-red-glow-994",
@@ -5379,7 +5589,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-glow-995",
@@ -5403,7 +5614,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-glow-996",
@@ -5427,7 +5639,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-turquoise-rose-shine-997",
@@ -5451,7 +5664,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-gold-shine-998",
@@ -5475,7 +5689,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-green-shine-999",
@@ -5499,7 +5714,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-carmine-shine-1000",
@@ -5524,7 +5740,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-creamy-pink-shine-1001",
@@ -5548,7 +5765,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-violet-shine-1002",
@@ -5573,7 +5791,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-blue-shine-1003",
@@ -5598,7 +5817,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-grey-violet-shine-1004",
@@ -5623,7 +5843,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-violet-shine-1005",
@@ -5647,7 +5868,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: null,
-      collection: "Shimmering Colors"
+      collection: "Shimmering Colors",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-evening-brume-3001",
@@ -5673,7 +5895,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-rose-dream-3002",
@@ -5698,7 +5921,8 @@ var paints_default = {
       performance: "Professional",
       toxicity: "No",
       swatchImage: "/uploads/white-nights/WH-rose-dream.webp",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "white-nights-red-mystery-3003",
@@ -5724,7 +5948,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Metamorphoses Limited Edition"
+      collection: "Metamorphoses Limited Edition",
+      binder: "Gum arabic"
     },
     {
       id: "wn-lemon-yellow",
@@ -5743,7 +5968,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Lemon-Yellow-Nickel-Titanate.png",
       performance: "Professional",
       paintNumber: 347,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-bismuth-yellow",
@@ -5762,7 +5988,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Bismuth-Yellow.png",
       performance: "Professional",
       paintNumber: 25,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-lemon",
@@ -5781,7 +6008,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Lemon.png",
       performance: "Professional",
       paintNumber: 898,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-yellow-lemon",
@@ -5800,7 +6028,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Lemon.png",
       performance: "Professional",
       paintNumber: 86,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-lemon",
@@ -5819,7 +6048,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Lemon.png",
       performance: "Professional",
       paintNumber: 722,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-yellow",
@@ -5838,7 +6068,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Yellow.png",
       performance: "Professional",
       paintNumber: 730,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-lemon-yellow-deep",
@@ -5857,7 +6088,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Lemon-Yellow-Deep.png",
       performance: "Professional",
       paintNumber: 348,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-aureolin",
@@ -5876,7 +6108,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Aureolin.png",
       performance: "Professional",
       paintNumber: 417,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-transparent-yellow",
@@ -5894,7 +6127,8 @@ var paints_default = {
       isVegan: true,
       performance: "Professional",
       paintNumber: 653,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-yellow-pale",
@@ -5913,7 +6147,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Pale.png",
       performance: "Professional",
       paintNumber: 907,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-yellow-pale",
@@ -5932,7 +6167,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow-Pale.png",
       performance: "Professional",
       paintNumber: 118,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-turner-s-yellow",
@@ -5951,7 +6187,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Turners-Yellow.png",
       performance: "Professional",
       paintNumber: 649,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-new-gamboge",
@@ -5971,7 +6208,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-New-Gamboge.png",
       performance: "Professional",
       paintNumber: 267,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-yellow",
@@ -5991,7 +6229,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow.png",
       performance: "Professional",
       paintNumber: 108,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-yellow",
@@ -6010,7 +6249,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow.png",
       performance: "Professional",
       paintNumber: 890,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-yellow-deep",
@@ -6029,7 +6269,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Yellow-Deep.png",
       performance: "Professional",
       paintNumber: 731,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-indian-yellow",
@@ -6049,7 +6290,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Indian-Yellow.png",
       performance: "Professional",
       paintNumber: 319,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-yellow-deep",
@@ -6068,7 +6310,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Yellow-Deep.png",
       performance: "Professional",
       paintNumber: 111,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-yellow-deep",
@@ -6087,7 +6330,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Yellow-Deep.png",
       performance: "Professional",
       paintNumber: 891,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-orange",
@@ -6106,7 +6350,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-cadmium-Orange.png",
       performance: "Professional",
       paintNumber: 89,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-orange",
@@ -6125,7 +6370,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-orange.png",
       performance: "Professional",
       paintNumber: 899,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-orange",
@@ -6144,7 +6390,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Orange.png",
       performance: "Professional",
       paintNumber: 724,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-orange-rs",
@@ -6163,7 +6410,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Orange-RS.png",
       performance: "Professional",
       paintNumber: 723,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-transparent-orange",
@@ -6181,7 +6429,8 @@ var paints_default = {
       isVegan: true,
       performance: "Professional",
       paintNumber: 650,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-scarlet",
@@ -6200,7 +6449,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-SCarlet.png",
       performance: "Professional",
       paintNumber: 106,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-scarlet",
@@ -6219,7 +6469,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Scarlet.png",
       performance: "Professional",
       paintNumber: 903,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-scarlet-lake",
@@ -6238,7 +6489,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Scarlet-Lake.png",
       performance: "Professional",
       paintNumber: 603,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-red",
@@ -6257,7 +6509,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Red.png",
       performance: "Professional",
       paintNumber: 94,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-red",
@@ -6276,7 +6529,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Red.png",
       performance: "Professional",
       paintNumber: 901,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-red-deep",
@@ -6295,7 +6549,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Red-Deep.png",
       performance: "Professional",
       paintNumber: 97,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cadmium-free-red-deep",
@@ -6314,7 +6569,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cadmium-Free-Red-Deep.png",
       performance: "Professional",
       paintNumber: 895,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-red",
@@ -6333,7 +6589,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Red.png",
       performance: "Professional",
       paintNumber: 726,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-rose-madder-genuine",
@@ -6353,7 +6610,8 @@ var paints_default = {
       performance: "Professional",
       isFeatured: true,
       paintNumber: 587,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-quinacridone-red",
@@ -6372,7 +6630,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Red.png",
       performance: "Professional",
       paintNumber: 548,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-red-deep",
@@ -6391,7 +6650,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Red-Deep.png",
       performance: "Professional",
       paintNumber: 725,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-alizarin-crimson",
@@ -6410,7 +6670,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-permanent-Alizarin-Crimson.png",
       performance: "Professional",
       paintNumber: 466,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-alizarin-crimson",
@@ -6429,7 +6690,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Alizarin-Crimson.png",
       performance: "Professional",
       paintNumber: 4,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-carmine",
@@ -6448,7 +6710,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Permanent-Carmine.png",
       performance: "Professional",
       paintNumber: 479,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-rose",
@@ -6467,7 +6730,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-permanent-Rose.png",
       performance: "Professional",
       paintNumber: 502,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-opera-rose",
@@ -6486,7 +6750,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Opera-Rose.png",
       performance: "Professional",
       paintNumber: 448,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-quinacridone-magenta",
@@ -6505,7 +6770,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Magenta.png",
       performance: "Professional",
       paintNumber: 545,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-magenta",
@@ -6524,7 +6790,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Permanent-Magenta.png",
       performance: "Professional",
       paintNumber: 489,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-violet",
@@ -6543,7 +6810,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Violet.png",
       performance: "Professional",
       paintNumber: 192,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-mauve",
@@ -6562,7 +6830,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Permanent-Mauve.png",
       performance: "Professional",
       paintNumber: 491,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-quinacridone-violet",
@@ -6581,7 +6850,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Violet.png",
       performance: "Professional",
       paintNumber: 550,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-ultramarine-violet",
@@ -6600,7 +6870,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Ultramarine-Violet.png",
       performance: "Professional",
       paintNumber: 672,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-violet-dioxazine",
@@ -6619,7 +6890,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Violet-Dioxazine.png",
       performance: "Professional",
       paintNumber: 733,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-indanthrone-blue",
@@ -6638,7 +6910,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Indanthrene-Blue.png",
       performance: "Professional",
       paintNumber: 321,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-smalt-dumont-s-blue",
@@ -6657,7 +6930,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Smalt-Dumonts-Blue.png",
       performance: "Professional",
       paintNumber: 710,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-blue-deep",
@@ -6676,7 +6950,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Blue-Deep.png",
       performance: "Professional",
       paintNumber: 180,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-french-ultramarine",
@@ -6695,7 +6970,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-French-Ultramarine.png",
       performance: "Professional",
       paintNumber: 263,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-ultramarine-gs",
@@ -6714,7 +6990,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Ultramarine-GS.png",
       performance: "Professional",
       paintNumber: 667,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-blue",
@@ -6733,7 +7010,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Blue.png",
       performance: "Professional",
       paintNumber: 178,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-blue-rs",
@@ -6752,7 +7030,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Blue-RS.png",
       performance: "Professional",
       paintNumber: 709,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-antwerp-blue",
@@ -6771,7 +7050,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Antwerp-Blue.png",
       performance: "Professional",
       paintNumber: 10,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-prussian-blue",
@@ -6790,7 +7070,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Prussian-Blue.png",
       performance: "Professional",
       paintNumber: 538,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-blue-gs",
@@ -6809,7 +7090,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Blue-GS.png",
       performance: "Professional",
       paintNumber: 707,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cerulean-blue-rs",
@@ -6828,7 +7110,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cerulean-Blue-RS.png",
       performance: "Professional",
       paintNumber: 140,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cerulean-blue",
@@ -6847,7 +7130,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cerulean-Blue.png",
       performance: "Professional",
       paintNumber: 137,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-manganese-blue-hue",
@@ -6866,7 +7150,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Manganese-Blue-Hue.png",
       performance: "Professional",
       paintNumber: 379,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-phthalo-turquoise",
@@ -6885,7 +7170,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Phthalo-Turquoise.png",
       performance: "Professional",
       paintNumber: 526,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-turquoise-light",
@@ -6904,7 +7190,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Turquoise-Light.png",
       performance: "Professional",
       paintNumber: 191,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-turquoise",
@@ -6924,7 +7211,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Turquoise.png",
       performance: "Professional",
       paintNumber: 190,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-aqua-green",
@@ -6943,7 +7231,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Aqua-Green.png",
       performance: "Professional",
       paintNumber: 697,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-green",
@@ -6962,7 +7251,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Green.png",
       performance: "Professional",
       paintNumber: 184,
-      series: "S4"
+      series: "S4",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cobalt-green-deep",
@@ -6981,7 +7271,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Cobalt-Green-Deep.png",
       performance: "Professional",
       paintNumber: 185,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-green-bs",
@@ -7000,7 +7291,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Green-BS.png",
       performance: "Professional",
       paintNumber: 719,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-viridian",
@@ -7019,7 +7311,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Viridian.png",
       performance: "Professional",
       paintNumber: null,
-      series: null
+      series: null,
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-winsor-green-ys",
@@ -7038,7 +7331,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Winsor-Green-YS.png",
       performance: "Professional",
       paintNumber: 721,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-terre-verte",
@@ -7059,7 +7353,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Terre-Verte.png",
       performance: "Professional",
       paintNumber: 637,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-perylene-green",
@@ -7078,7 +7373,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Perylene-Green.png",
       performance: "Professional",
       paintNumber: 460,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-oxide-of-chromium",
@@ -7097,7 +7393,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Oxide-of-Chromium.png",
       performance: "Professional",
       paintNumber: 459,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-hooker-s-green",
@@ -7117,7 +7414,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Hookers-Green.png",
       performance: "Professional",
       paintNumber: 311,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-permanent-sap-green",
@@ -7137,7 +7435,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Permanent-Sap-Green.png",
       performance: "Professional",
       paintNumber: 503,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-olive-green",
@@ -7158,7 +7457,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Olive-Green.png",
       performance: "Professional",
       paintNumber: 447,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-terre-verte-ys",
@@ -7177,7 +7477,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Terre-Verte-Yellow-Shade.png",
       performance: "Professional",
       paintNumber: 638,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-green-gold",
@@ -7196,7 +7497,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Green-Gold.png",
       performance: "Professional",
       paintNumber: 294,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-naples-yellow",
@@ -7216,7 +7518,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Naples-Yellow.png",
       performance: "Professional",
       paintNumber: 422,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-naples-yellow-deep",
@@ -7235,7 +7538,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Naples-Yellow-Deep.png",
       performance: "Professional",
       paintNumber: 425,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-yellow-ochre-light",
@@ -7253,7 +7557,8 @@ var paints_default = {
       isVegan: true,
       performance: "Professional",
       paintNumber: 745,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-yellow-ochre",
@@ -7272,7 +7577,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Yellow-Ochre.png",
       performance: "Professional",
       paintNumber: 744,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-raw-sienna",
@@ -7292,7 +7598,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Raw-Sienna.png",
       performance: "Professional",
       paintNumber: 552,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-gold-ochre",
@@ -7311,7 +7618,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Gold-Ochre.png",
       performance: "Professional",
       paintNumber: 285,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-quinacridone-gold",
@@ -7332,7 +7640,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Quinacridone-Gold.png",
       performance: "Professional",
       paintNumber: 547,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-brown-ochre",
@@ -7351,7 +7660,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Brown-Ochre.png",
       performance: "Professional",
       paintNumber: 59,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-magnesium-brown",
@@ -7370,7 +7680,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Magnesium-Brown.png",
       performance: "Professional",
       paintNumber: 381,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-burnt-sienna",
@@ -7389,7 +7700,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Burnt-Sienna.png",
       performance: "Professional",
       paintNumber: 74,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-light-red",
@@ -7408,7 +7720,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Light-Red.png",
       performance: "Professional",
       paintNumber: 362,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-venetian-red",
@@ -7427,7 +7740,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Venetian-Red.png",
       performance: "Professional",
       paintNumber: 678,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-indian-red",
@@ -7446,7 +7760,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Indian-Red.png",
       performance: "Professional",
       paintNumber: 317,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-brown-madder",
@@ -7465,7 +7780,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Brown-Madder.png",
       performance: "Professional",
       paintNumber: 56,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-potter-s-pink",
@@ -7484,7 +7800,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Potters-Pink.png",
       performance: "Professional",
       paintNumber: 537,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-perylene-maroon",
@@ -7503,7 +7820,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Perylene-Maroon.png",
       performance: "Professional",
       paintNumber: 507,
-      series: "S3"
+      series: "S3",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-perylene-violet",
@@ -7522,7 +7840,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Perylene-Violet.png",
       performance: "Professional",
       paintNumber: 470,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-caput-mortuum-violet",
@@ -7541,7 +7860,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Caput-Mortuum-Violet.png",
       performance: "Professional",
       paintNumber: 125,
-      series: "S2"
+      series: "S2",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-raw-umber",
@@ -7560,7 +7880,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Raw-Umber.png",
       performance: "Professional",
       paintNumber: 554,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-burnt-umber",
@@ -7581,7 +7902,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Burnt-Umber.png",
       performance: "Professional",
       paintNumber: 76,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-vandyke-brown",
@@ -7601,7 +7923,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Vandyke-Brown.png",
       performance: "Professional",
       paintNumber: 676,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-sepia",
@@ -7621,7 +7944,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Sepia.png",
       performance: "Professional",
       paintNumber: 609,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-indigo",
@@ -7642,7 +7966,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Indigo.png",
       performance: "Professional",
       paintNumber: 322,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-payne-s-grey",
@@ -7663,7 +7988,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Paynes-Gray.png",
       performance: "Professional",
       paintNumber: 465,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-neutral-tint",
@@ -7684,7 +8010,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Neutral-Tint.png",
       performance: "Professional",
       paintNumber: 430,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-ivory-black",
@@ -7703,7 +8030,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Ivory-Black.png",
       performance: "Professional",
       paintNumber: 331,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-lamp-black",
@@ -7723,7 +8051,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Lamp-Black.png",
       performance: "Professional",
       paintNumber: 337,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-mars-black",
@@ -7742,7 +8071,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Mars-Black.png",
       performance: "Professional",
       paintNumber: 386,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-davy-s-gray",
@@ -7764,7 +8094,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Davys-Gray.png",
       performance: "Professional",
       paintNumber: 217,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-chinese-white",
@@ -7783,7 +8114,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Chinese-White.png",
       performance: "Professional",
       paintNumber: 150,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-titanium-white",
@@ -7802,7 +8134,8 @@ var paints_default = {
       swatchImage: "/uploads/winsor-newton/WN-Titanium-White.png",
       performance: "Professional",
       paintNumber: 644,
-      series: "S1"
+      series: "S1",
+      binder: "Gum arabic (Gum Kordofan)"
     },
     {
       id: "wn-cotman-lemon-yellow-hue",
@@ -7817,7 +8150,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-yellow-pale-hue",
@@ -7834,7 +8168,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-yellow-pale-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-gamboge-hue",
@@ -7850,7 +8185,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-yellow-hue",
@@ -7866,7 +8202,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-orange-hue",
@@ -7882,7 +8219,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-red-pale-hue",
@@ -7899,7 +8237,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-red-pale-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-red-hue",
@@ -7916,7 +8255,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-red-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cadmium-red-deep-hue",
@@ -7932,7 +8272,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-alizarin-crimson-hue",
@@ -7947,7 +8288,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-permanent-rose",
@@ -7963,7 +8305,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-permanent-rose.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-rose-madder-hue",
@@ -7979,7 +8322,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-rose-madder-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-purple-lake",
@@ -7995,7 +8339,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-purple-lake.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-mauve",
@@ -8011,7 +8356,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-dioxazine-violet",
@@ -8026,7 +8372,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-ultramarine",
@@ -8041,7 +8388,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cobalt-blue-hue",
@@ -8057,7 +8405,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-cerulean-blue-hue",
@@ -8073,7 +8422,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-cerulean-blue-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-turquoise",
@@ -8090,7 +8440,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-turquoise.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-intense-blue-phthalo-blue",
@@ -8106,7 +8457,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-intense-blue-phthalo-blue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-prussian-blue",
@@ -8121,7 +8473,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-intense-green-phthalo-green",
@@ -8137,7 +8490,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-intense-green-phthalo-green.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-viridian-hue",
@@ -8153,7 +8507,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-viridian-hue.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-emerald",
@@ -8170,7 +8525,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-emerald.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-hooker-s-green-dark",
@@ -8188,7 +8544,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-hookers-green-dark.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-hooker-s-green-light",
@@ -8206,7 +8563,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-hookers-green-light.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-sap-green",
@@ -8224,7 +8582,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-sap-green.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-raw-sienna",
@@ -8240,7 +8599,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-yellow-ochre",
@@ -8256,7 +8616,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-yellow-ochre.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-raw-umber",
@@ -8273,7 +8634,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-Raw-umber.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-burnt-sienna",
@@ -8289,7 +8651,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-burnt-sienna.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-light-red",
@@ -8305,7 +8668,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-light-red.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-indian-red",
@@ -8321,7 +8685,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-Indian-red.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-burnt-umber",
@@ -8338,7 +8703,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-burnt-umber.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-vandyke-brown",
@@ -8355,7 +8721,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-vandyke-brown.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-sepia",
@@ -8372,7 +8739,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-sepia.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-indigo",
@@ -8390,7 +8758,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-indigo.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-payne-s-gray",
@@ -8407,7 +8776,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-ivory-black",
@@ -8423,7 +8793,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-ivory-black.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-lamp-black",
@@ -8439,7 +8810,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-lamp-black.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-chinese-white",
@@ -8455,7 +8827,8 @@ var paints_default = {
       lightfastness: "Unknown",
       isVegan: true,
       swatchImage: "/uploads/winsor-newton-cotman/COT-chinese-white.png",
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-iridescent-blue",
@@ -8471,7 +8844,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-yellow-gold",
@@ -8486,7 +8860,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-bronze",
@@ -8501,7 +8876,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-red-copper",
@@ -8516,7 +8892,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-silver",
@@ -8532,7 +8909,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-pewter",
@@ -8547,7 +8925,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-iridescent-black",
@@ -8562,7 +8941,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "wn-cotman-iridescent-white",
@@ -8577,7 +8957,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "Unknown",
       isVegan: true,
-      performance: "Student"
+      performance: "Student",
+      binder: "Blend of standard Gum Arabic and Dextrin"
     },
     {
       id: "holbein-crimson-lake",
@@ -8596,7 +8977,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Crimson-Lake.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-alizarin-crimson",
@@ -8614,7 +8996,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Alizarin-Crimson.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-carmine",
@@ -8631,7 +9014,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Carmine.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-rose-madder-permanent",
@@ -8648,7 +9032,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Rose-Madder.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-quinacridone-red",
@@ -8665,7 +9050,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Quinacridone-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-pyrrol-rubin",
@@ -8682,7 +9068,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Pyrrole-Rubin.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-perylene-maroon",
@@ -8699,7 +9086,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Perylene-Maroon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-pyrrol-red",
@@ -8716,7 +9104,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Pyrrol-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-quinacridone-scarlet",
@@ -8733,7 +9122,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Quinacridone-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-scarlet-lake",
@@ -8752,7 +9142,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Scarlet-Lake.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-opera",
@@ -8770,7 +9161,8 @@ var paints_default = {
       lightfastness: "1/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Opera.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-brilliant-pink",
@@ -8788,7 +9180,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Brilliant-Pink.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-shell-pink",
@@ -8806,7 +9199,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Shell-Pink.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-red-purple",
@@ -8823,7 +9217,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Red-Purple.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-red-deep",
@@ -8840,7 +9235,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Red-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-red-light",
@@ -8858,7 +9254,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Red-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-vermilion",
@@ -8876,7 +9273,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Vermilion.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-vermilion-hue",
@@ -8895,7 +9293,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Vermilion-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-red-orange",
@@ -8912,7 +9311,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-cadmium-red-orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-brilliant-orange",
@@ -8930,7 +9330,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Brilliant-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-yellow-orange",
@@ -8949,7 +9350,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Yellow-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-yellow-orange",
@@ -8966,7 +9368,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-yellow-deep",
@@ -8983,7 +9386,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-yellow-light",
@@ -9000,7 +9404,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-yellow-pale",
@@ -9017,7 +9422,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-cadmium-yellow-pale.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-yellow-lemon",
@@ -9034,7 +9440,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Yellow-Lemon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-imidazolone-lemon",
@@ -9051,7 +9458,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Imidazolone-Lemon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-imidazolone-yellow",
@@ -9068,7 +9476,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Imidazolone-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-gamboge-nova",
@@ -9087,7 +9496,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Gamboge-Nova.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-isoiondolinone-yellow-deep",
@@ -9104,7 +9514,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Isoindoline-Yellow-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-quinacridone-gold",
@@ -9122,7 +9533,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Quinacridone-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-yellow-deep",
@@ -9140,7 +9552,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Yellow-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-yellow-light",
@@ -9158,7 +9571,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Yellow-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-aureolin",
@@ -9177,7 +9591,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Aureolin.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-yellow-lemon",
@@ -9195,7 +9610,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Yellow-Lemon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-lemon-yellow",
@@ -9213,7 +9629,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Lemon-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-naples-yellow",
@@ -9232,7 +9649,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Naples-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-jaune-brilliant-no-1",
@@ -9251,7 +9669,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Jaun-Brilliant-1.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-jaune-brilliant-no-2",
@@ -9269,7 +9688,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Jaun-Brilliant-2.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-greenish-yellow",
@@ -9288,7 +9708,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Greenish-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-olive-green",
@@ -9307,7 +9728,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Olive-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-leaf-green",
@@ -9325,7 +9747,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Leaf-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-green-no-1",
@@ -9344,7 +9767,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Green-1.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-green-no-2",
@@ -9363,7 +9787,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Green-2.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-green-deep",
@@ -9382,7 +9807,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Green-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cadmium-green-pale",
@@ -9400,7 +9826,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cadmium-Green-Pale.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-hooker-s-green",
@@ -9419,7 +9846,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Hookers-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-bamboo-green",
@@ -9436,7 +9864,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Bamboo-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cobalt-green",
@@ -9455,7 +9884,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cobalt-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-viridian",
@@ -9472,7 +9902,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Viridian.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-viridian-hue",
@@ -9489,7 +9920,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Viridian-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-emerald-green-nova",
@@ -9508,7 +9940,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Emerald-Green-nova.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-compose-green",
@@ -9527,7 +9960,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Compose-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-sap-green",
@@ -9546,7 +9980,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Sap-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-terre-verte",
@@ -9564,7 +9999,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Terre-Verte.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-green-grey",
@@ -9583,7 +10019,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Green-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-shadow-green",
@@ -9600,7 +10037,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Shadow-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-phthalo-blue-rs",
@@ -9617,7 +10055,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Phthalo-Blue-RS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-phthalo-blue-ys",
@@ -9634,7 +10073,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Phthalo-Blue-YS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-marine-blue",
@@ -9652,7 +10092,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Marine-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-turquoise-blue",
@@ -9671,7 +10112,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Turquoise-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cobalt-turquoise-light",
@@ -9688,7 +10130,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cobalt-Turquoise-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-peacock-blue",
@@ -9706,7 +10149,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Peacock-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-manganese-blue-nova",
@@ -9723,7 +10167,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-manganese-Blue-Nova.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-horizon-blue",
@@ -9742,7 +10187,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Horizon-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-compose-blue",
@@ -9760,7 +10206,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Compose-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-verditer-blue",
@@ -9778,7 +10225,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Vertider-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cerulean-blue",
@@ -9795,7 +10243,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cerulean-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cobalt-blue",
@@ -9812,7 +10261,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cobalt-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cobalt-blue-hue",
@@ -9830,7 +10280,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cobalt-Blue-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-ultramarine-light",
@@ -9847,7 +10298,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Ultramarine-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-ultramarine-deep",
@@ -9864,7 +10316,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Ultramarine-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-prussian-blue",
@@ -9881,7 +10334,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Prussian-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-royal-blue",
@@ -9898,7 +10352,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Royal-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-indigo",
@@ -9917,7 +10372,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Indigo.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-lavender",
@@ -9936,7 +10392,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-lavender.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-permanent-violet",
@@ -9953,7 +10410,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Permanent-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-mineral-violet",
@@ -9972,7 +10430,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Mineral-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-cobalt-violet-light",
@@ -9989,7 +10448,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Cobalt-Violet-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-lilac",
@@ -10008,7 +10468,8 @@ var paints_default = {
       lightfastness: "2/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Lilac.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-bright-violet",
@@ -10026,7 +10487,8 @@ var paints_default = {
       lightfastness: "1/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Bright-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-bright-rose",
@@ -10044,7 +10506,8 @@ var paints_default = {
       lightfastness: "1/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Bright-Rose.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-quinacridone-magenta-rose-violet",
@@ -10061,7 +10524,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Quinacridone-Magenta.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-quinacridone-violet-perm-magenta",
@@ -10078,7 +10542,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Quinacridone-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-mars-violet",
@@ -10097,7 +10562,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Mars-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-indian-red",
@@ -10114,7 +10580,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Indian-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-imidazolone-brown",
@@ -10131,7 +10598,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Imidazolone-Brown.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-light-red",
@@ -10148,7 +10616,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Light-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-burnt-sienna",
@@ -10165,7 +10634,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Burnt-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-burnt-umber",
@@ -10182,7 +10652,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Burnt-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-raw-umber",
@@ -10200,7 +10671,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Raw-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-raw-sienna",
@@ -10218,7 +10690,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Raw-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-yellow-ochre",
@@ -10235,7 +10708,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Yellow-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-yellow-grey",
@@ -10254,7 +10728,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Yellow-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-umber",
@@ -10271,7 +10746,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-van-dyck-brown",
@@ -10288,7 +10764,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Vandyke-Brown.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-sepia",
@@ -10306,7 +10783,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Sepia.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-ivory-black",
@@ -10323,7 +10801,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Ivory-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-lamp-black",
@@ -10340,7 +10819,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Lamp-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-peach-black",
@@ -10357,7 +10837,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Peach-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-neutral-tint",
@@ -10376,7 +10857,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Neutral-Tint.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-payne-s-grey",
@@ -10395,7 +10877,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Paynes-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-davy-s-grey",
@@ -10414,7 +10897,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Davys-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-grey-of-greys",
@@ -10432,7 +10916,8 @@ var paints_default = {
       lightfastness: "3/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Grey-of-Greys.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-chinese-white",
@@ -10449,7 +10934,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Chinese-White.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-titanium-white",
@@ -10466,7 +10952,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Titanium-White.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-gold",
@@ -10483,7 +10970,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "holbein-silver",
@@ -10500,7 +10988,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       swatchImage: "/uploads/holbein/H-Silver.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "maimeriblu-chinese-white",
@@ -12899,7 +13388,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Cherry-Quinacridone-Red.png"
     },
     {
       id: "roman-szmal-quinacridone-red",
@@ -12966,7 +13456,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Quinacridone-Fuchsia.png"
     },
     {
       id: "roman-szmal-quinacridone-purple",
@@ -13560,7 +14051,7 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      swatchImage: "",
+      swatchImage: "/uploads/roman-szmal/RS-Phthalo-Turquoise.png",
       performance: "Professional"
     },
     {
@@ -13819,7 +14310,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Aquarius-Green.png"
     },
     {
       id: "roman-szmal-hookers-green",
@@ -13854,7 +14346,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Sap-Green.png"
     },
     {
       id: "roman-szmal-sap-green-light",
@@ -13889,7 +14382,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "7/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Permanent-Green-Light.png"
     },
     {
       id: "roman-szmal-olive-green-light",
@@ -14655,7 +15149,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Potters-Pink.png"
     },
     {
       id: "roman-szmal-caput-mortuum",
@@ -14671,7 +15166,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Caput-Mortuum.png"
     },
     {
       id: "roman-szmal-manganese-brown",
@@ -14687,7 +15183,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Manganese-Brown.png"
     },
     {
       id: "roman-szmal-iron-chrome-brown",
@@ -14720,7 +15217,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Hematite-Violet-Shade.png"
     },
     {
       id: "roman-szmal-hematite",
@@ -14736,7 +15234,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Hematite.png"
     },
     {
       id: "roman-szmal-hematite-brown-shade",
@@ -14752,7 +15251,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Hematite-Brown-Shade.png"
     },
     {
       id: "roman-szmal-transparent-oxide-brown",
@@ -14853,7 +15353,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Dark-Ochre.png"
     },
     {
       id: "roman-szmal-cyprus-raw-umber",
@@ -14974,7 +15475,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Shadow-Grey.png"
     },
     {
       id: "roman-szmal-przybyszs-grey",
@@ -14992,7 +15494,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "7/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Przybyszs-Grey.png"
     },
     {
       id: "roman-szmal-paynes-grey",
@@ -15097,7 +15600,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "8/8",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/roman-szmal/RS-Neutral-Tint.png"
     },
     {
       id: "roman-szmal-mars-black",
@@ -19706,7 +20210,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Buff-Titanium.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-nickel-titanate-yellow",
@@ -19724,7 +20229,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Nickel-Titanate-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-bismuth-vanadate-yellow",
@@ -19742,7 +20248,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Bismuth-Vanadate.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-hansa-yellow-light",
@@ -19760,7 +20267,8 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-azo-yellow",
@@ -19778,7 +20286,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Azo-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinophthalone-yellow",
@@ -19796,7 +20305,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinophthalone-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-yellow-light-hue",
@@ -19816,7 +20326,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Light-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-yellow-medium-hue",
@@ -19836,7 +20347,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Medium-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-aureolin-cobalt-yellow",
@@ -19854,7 +20366,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Aureolin.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-yellow-deep-hue",
@@ -19873,7 +20386,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Yellow-Deep-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-hansa-yellow-medium",
@@ -19891,7 +20405,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Medium.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mayan-yellow",
@@ -19909,7 +20424,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mayan-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lemon-yellow",
@@ -19926,7 +20442,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-indian-yellow",
@@ -19945,7 +20462,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Indian-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-naples-yellow",
@@ -19965,7 +20483,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Naples-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-hansa-yellow-deep",
@@ -19983,7 +20502,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Hansa-Yellow-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-new-gamboge",
@@ -20002,7 +20522,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-New-Gamboge.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-isoindoline-yellow",
@@ -20020,7 +20541,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Isoindoline-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-yellow-deep",
@@ -20038,7 +20560,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Yellow-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-aussie-red-gold",
@@ -20058,7 +20581,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Aussie-Red-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-pyrrol-orange",
@@ -20076,7 +20600,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-orange",
@@ -20094,7 +20619,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-orange-hue",
@@ -20114,7 +20640,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Orange-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perinone-orange",
@@ -20132,7 +20659,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perinone-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-red-scarlet-hue",
@@ -20152,7 +20680,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Red-Scarlet-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-transparent-pyrrol-orange",
@@ -20170,7 +20699,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Transparent-Pyrrol-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-organic-vermilion",
@@ -20188,7 +20718,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Organic-Vermilion.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mayan-orange",
@@ -20207,7 +20738,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mayan-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-coral",
@@ -20225,7 +20757,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Coral.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-pyrrol-scarlet",
@@ -20243,7 +20776,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perylene-scarlet",
@@ -20261,7 +20795,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perylene-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-anthraquinoid-scarlet",
@@ -20279,7 +20814,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Anthraquinoid-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cadmium-red-medium-hue",
@@ -20298,7 +20834,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cadmium-Red-Medium-Hue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-pyrrol-red",
@@ -20316,7 +20853,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perylene-red",
@@ -20334,7 +20872,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perylene-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-red",
@@ -20353,7 +20892,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-red-deep",
@@ -20372,7 +20912,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Red-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-red",
@@ -20390,7 +20931,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-anthraquinoid-red",
@@ -20408,7 +20950,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Anthraquinoid-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mayan-red",
@@ -20426,7 +20969,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mayan-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-alizarin-crimson",
@@ -20444,7 +20988,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Alizarin-Crimson.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-alizarin-crimson",
@@ -20463,7 +21008,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-carmine",
@@ -20481,7 +21027,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Carmine.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-rose-madder-permanent",
@@ -20501,7 +21048,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Rose-Madder-Permanent.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-opera-pink",
@@ -20520,7 +21068,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Opera-Pink.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-potters-pink",
@@ -20538,7 +21087,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Potters-Pink.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-pink",
@@ -20556,7 +21106,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Pink.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-rose",
@@ -20574,7 +21125,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Rose.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-lilac",
@@ -20592,7 +21144,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Lilac.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-magenta",
@@ -20610,7 +21163,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-magenta.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-pyrrol-crimson",
@@ -20628,7 +21182,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Pyrrol-Crimson.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-fuchsia",
@@ -20646,7 +21201,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Fuchsia.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mayan-violet",
@@ -20664,7 +21220,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mayan-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-bordeaux",
@@ -20682,7 +21239,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Bordeaux.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-violet",
@@ -20701,7 +21259,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-violet",
@@ -20719,7 +21278,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Qinacirdone-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perylene-violet",
@@ -20737,7 +21297,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perylene-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-violet",
@@ -20755,7 +21316,8 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-violet-deep",
@@ -20773,7 +21335,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Violet-Deep.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-ultramarine-violet",
@@ -20791,7 +21354,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-rose-of-ultramarine",
@@ -20810,7 +21374,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Rose-of-Ultramarine.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-imperial-purple",
@@ -20829,7 +21394,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Imperial-Purple.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-purple",
@@ -20847,7 +21413,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Purple.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-ultramarine-violet-v2",
@@ -20865,7 +21432,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-carbazole-violet",
@@ -20884,7 +21452,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Carbazole-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-wisteria",
@@ -20903,7 +21472,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Wisteria.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-blue-violet",
@@ -20922,7 +21492,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Blue-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-moonglow",
@@ -20942,7 +21513,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Moonglow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-shadow-violet",
@@ -20962,7 +21534,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Shadow-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-indigo",
@@ -20981,7 +21554,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Indigo.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mayan-dark-blue",
@@ -20999,7 +21573,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mayan-Dark-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-indanthrone-blue",
@@ -21017,7 +21592,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Indanthrone-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-ultramarine-blue",
@@ -21035,7 +21611,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-french-ultramarine",
@@ -21053,7 +21630,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-French-Ultramaine-.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-blue",
@@ -21071,7 +21649,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-blue-gs",
@@ -21089,7 +21668,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-GS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-verditer-blue",
@@ -21109,7 +21689,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Verditer-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lavender",
@@ -21129,7 +21710,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lavender.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-blue-rs",
@@ -21147,7 +21729,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-RS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-prussian-blue",
@@ -21165,7 +21748,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Prussian-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cerulean-blue",
@@ -21183,7 +21767,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cerulean-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cerulean-blue-chromium",
@@ -21201,7 +21786,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cerulean-Blue-Chromium.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-manganese-blue-hue",
@@ -21220,7 +21806,8 @@ var paints_default = {
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-manganese-Blue-Hue.png",
       performance: "Professional",
-      isFeatured: true
+      isFeatured: true,
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-blue-turquoise",
@@ -21238,7 +21825,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Blue-Turquoise.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-teal-blue",
@@ -21256,7 +21844,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Teal-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-turquoise",
@@ -21275,7 +21864,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Tuquoise.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-ultramarine-turquoise",
@@ -21294,7 +21884,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Ultramarine-Turquoise.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-turquoise",
@@ -21313,7 +21904,8 @@ var paints_default = {
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Turquoise.png",
       performance: "Professional",
-      isFeatured: true
+      isFeatured: true,
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lunar-blue",
@@ -21332,7 +21924,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lunar-Blue.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-green-pale",
@@ -21350,7 +21943,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Green-pale.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-viridian",
@@ -21368,7 +21962,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Viridian.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-green-bs",
@@ -21386,7 +21981,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Green-BS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cascade-green",
@@ -21405,7 +22001,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cascade-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-cobalt-green",
@@ -21423,7 +22020,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Cobalt-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-spring-green",
@@ -21443,7 +22041,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Spring-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-green-light",
@@ -21462,7 +22061,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Green-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-yellow-green",
@@ -21481,7 +22081,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Yellow-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-green",
@@ -21500,7 +22101,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-phthalo-green-ys",
@@ -21518,7 +22120,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Phthalo-Green-YS.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-hookers-green",
@@ -21539,7 +22142,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Hookers-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-sap-green",
@@ -21559,7 +22163,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Sap-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-chromium-green-oxide",
@@ -21577,7 +22182,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Chromium-Green-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-terre-verte",
@@ -21596,7 +22202,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Terre-Verte.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-deep-sap-green",
@@ -21616,7 +22223,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Deep-Sap-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perylene-green",
@@ -21634,7 +22242,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perylene-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-prussian-green",
@@ -21653,7 +22262,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Prussian-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-rare-green-earth",
@@ -21671,7 +22281,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Rare-Green-Earth.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-undersea-green",
@@ -21691,7 +22302,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Undersea-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-olive-green",
@@ -21711,7 +22323,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Olive-Green.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-green-gold",
@@ -21731,7 +22344,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Green-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-rich-green-gold",
@@ -21749,7 +22363,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Rich-Green-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-nickel-azo-yellow",
@@ -21767,7 +22382,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Nickel-Azo-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-verona-gold-ochre",
@@ -21785,7 +22401,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Verona-Gold-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-french-ochre",
@@ -21803,7 +22420,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-French-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-raw-sienna-light",
@@ -21821,7 +22439,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Raw-Sienna-Light.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burgundy-yellow-ochre",
@@ -21839,7 +22458,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Burgundy-Yellow-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-yellow-ochre",
@@ -21857,7 +22477,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Yellow-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-mars-yellow",
@@ -21875,7 +22496,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Mars-Yellow.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-raw-sienna",
@@ -21893,7 +22515,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Raw-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-gold",
@@ -21912,7 +22535,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-transparent-yellow-oxide",
@@ -21930,7 +22554,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Tranparent-Yellow-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-monte-amiata-natural-sienna",
@@ -21948,7 +22573,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Monte-Amiata-Natural-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-enviro-friendly-yellow-iron-oxide",
@@ -21966,7 +22592,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Yellow-Iron-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-goethite-brown-ochre",
@@ -21984,7 +22611,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Goethite.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-deep-gold",
@@ -22003,7 +22631,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Deep-Gold.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-italian-deep-ochre",
@@ -22021,7 +22650,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Italian-Deep-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lunar-earth",
@@ -22039,7 +22669,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lunar-Earth.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burnt-yellow-ochre",
@@ -22057,7 +22688,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Burnt-Yellow-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-roasted-french-ochre",
@@ -22075,7 +22707,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/Ds-Roasted-French-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burgundy-red-ochre",
@@ -22093,7 +22726,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Burgundy-Red-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-indian-red",
@@ -22111,7 +22745,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Indian-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-venetian-red",
@@ -22129,7 +22764,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Venetian-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-italian-burnt-sienna",
@@ -22147,7 +22783,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Italian-Burnt-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-burnt-orange",
@@ -22165,7 +22802,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Burnt-Orange.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-sienna",
@@ -22185,7 +22823,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-pompeii-red",
@@ -22203,7 +22842,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Pompeii-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-terre-ercolano",
@@ -22222,7 +22862,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Terre-Ercolano.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-italian-venetian-red",
@@ -22240,7 +22881,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Italian-Venetian-Red.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-english-red-earth",
@@ -22258,7 +22900,8 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-English-Red-Earth.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-burnt-scarlet",
@@ -22276,7 +22919,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Burnt-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-perylene-maroon",
@@ -22294,7 +22938,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Perylene-Maroon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-deep-scarlet",
@@ -22312,7 +22957,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Deep-Scarlet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-napthamide-maroon",
@@ -22330,7 +22976,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Naphthamide-Maroon.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lunar-red-rock",
@@ -22348,7 +22995,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lunar-Red-Rock.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-german-greenish-raw-umber",
@@ -22366,7 +23014,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-German-Greenish-Raw-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-grey-titanium",
@@ -22384,7 +23033,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Grey-Titanium.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-permanent-brown",
@@ -22402,7 +23052,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Permanent-Brown.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-raw-umber-violet",
@@ -22421,7 +23072,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Raw-Umber-VIolet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-transparent-brown-oxide",
@@ -22439,7 +23091,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Transparent-Brown-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-transparent-red-oxide",
@@ -22457,7 +23110,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Transparent-Red-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-fired-gold-ochre",
@@ -22475,7 +23129,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Fired-Gold-OChre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burnt-sienna-light",
@@ -22493,7 +23148,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-enviro-friendly-red-iron-oxide",
@@ -22511,7 +23167,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Red-Iron-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burnt-sienna",
@@ -22529,7 +23186,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-BUrnt-Sienna.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-english-red-ochre",
@@ -22547,7 +23205,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-English-Red-Ochre.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-burnt-umber",
@@ -22565,7 +23224,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Burnt-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-enviro-friendly-brown-iron-oxide",
@@ -22583,7 +23243,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Enviro-Friendly-Brown-Iron-Oxide.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-raw-umber",
@@ -22601,7 +23262,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Raw-Umber.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-sepia",
@@ -22620,7 +23282,8 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Sepia.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-van-dyck-brown",
@@ -22640,7 +23303,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Van-Dycke-Brown.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lunar-violet",
@@ -22659,7 +23323,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lunar-Violet.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-neutral-tint",
@@ -22679,7 +23344,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Neutral-Tint.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-graphite-grey",
@@ -22697,7 +23363,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Graphite-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-joseph-zs-neutral-grey",
@@ -22716,7 +23383,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: false,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-joseph-zs-cool-grey",
@@ -22735,7 +23403,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-joseph-zs-warm-grey",
@@ -22754,7 +23423,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-janes-grey",
@@ -22772,7 +23442,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-alvaros-fresco-grey",
@@ -22791,7 +23462,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-alvaros-caliente-grey",
@@ -22811,7 +23483,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Alvaro-Caliente-Grey.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-paynes-blue-grey",
@@ -22829,7 +23502,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: true,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-paynes-grey",
@@ -22847,7 +23521,8 @@ var paints_default = {
       lightfastness: "4/4",
       isVegan: false,
       paintNumber: "N/A",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lamp-black",
@@ -22865,7 +23540,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lamp-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-ivory-black",
@@ -22883,7 +23559,8 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Ivory-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-lunar-black",
@@ -22901,7 +23578,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Lunar-Black.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-chinese-white",
@@ -22919,7 +23597,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Chinese-white.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-titanium-white",
@@ -22937,7 +23616,8 @@ var paints_default = {
       isVegan: true,
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Titanium-White.png",
-      performance: "Professional"
+      performance: "Professional",
+      binder: "Gum arabic"
     },
     {
       id: "daniel-smith-quinacridone-gold-v2",
@@ -22956,7 +23636,8 @@ var paints_default = {
       paintNumber: "N/A",
       swatchImage: "/uploads/daniel-smith/DS-Quinacridone-Gold.png",
       performance: "Professional",
-      collection: "Extra Fine"
+      collection: "Extra Fine",
+      binder: "Gum arabic"
     },
     {
       id: "della-magna-watercolors-quinacridone-gold-deep",
@@ -25216,7 +25897,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Titanium-Opaque-White.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-chinese-white",
@@ -25236,7 +25918,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Chinese-White.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-titanium-yellow",
@@ -25256,7 +25939,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Titanium-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-lemon-yellow",
@@ -25276,7 +25960,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Lemon-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-yellow-lemon",
@@ -25296,7 +25981,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Lemon.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-yellow-hue-lemon",
@@ -25316,7 +26002,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Lemon.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-vanadium-yellow",
@@ -25336,7 +26023,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Vanadium-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-yellow-light",
@@ -25356,7 +26044,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Light.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-pure-yellow",
@@ -25376,7 +26065,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Pure-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-aureolin-hue",
@@ -25396,7 +26086,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-yellow-medium",
@@ -25416,7 +26107,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Medium.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-yellow-hue-light",
@@ -25437,7 +26129,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Light.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-yellow",
@@ -25457,7 +26150,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-turner-s-yellow",
@@ -25477,7 +26171,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-quinacridone-gold-hue",
@@ -25498,7 +26193,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Quinacridone-Gold-Hue.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-yellow-hue-deep",
@@ -25518,7 +26214,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Deep.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-yellow-deep",
@@ -25539,7 +26236,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-indian-yellow",
@@ -25560,7 +26258,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Indian-Yellow.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-yellow-orange",
@@ -25580,7 +26279,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Yellow-Orange.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-orange-light",
@@ -25600,7 +26300,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Orange-Light.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-orange-hue",
@@ -25620,7 +26321,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Orange-Hue.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-orange-deep",
@@ -25640,7 +26342,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Orange-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-orange",
@@ -25660,7 +26363,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Orange.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-saturn-red",
@@ -25680,7 +26384,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Saturn-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-red-orange",
@@ -25700,7 +26405,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Orange.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-red-orange",
@@ -25721,7 +26427,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Red-Orange.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-red",
@@ -25742,7 +26449,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-red-light",
@@ -25762,7 +26470,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Light.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-geranium-red",
@@ -25782,7 +26491,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Geranium-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-vermilion",
@@ -25802,7 +26512,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Vermilion.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-vermilion-light",
@@ -25822,7 +26533,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Vermilion-Light.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-scarlet-red",
@@ -25842,7 +26554,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Scarlet-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-red-medium",
@@ -25862,7 +26575,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Medium.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-quinacridone-red-light",
@@ -25882,7 +26596,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Quinacridone-Red-Light.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-red-deep",
@@ -25902,7 +26617,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Red-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cadmium-red-deep",
@@ -25922,7 +26638,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cadmium-Red-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-perylene-maroon",
@@ -25942,7 +26659,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Perylene-Maroon.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-perylene-dark-red",
@@ -25962,7 +26680,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Perylene-Dark-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-alizarin-crimson",
@@ -25982,7 +26701,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Alizarin-Crimson.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ruby-red-deep",
@@ -26002,7 +26722,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ruby-Red-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-madder-lake-deep",
@@ -26023,7 +26744,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Madder-Lake-Deep.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-madder-red-dark",
@@ -26044,7 +26766,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Madder-Red-Dark.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-bordeaux",
@@ -26064,7 +26787,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Bordeaux.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-rose-madder",
@@ -26085,7 +26809,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Rose-Madder.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-carmine",
@@ -26105,7 +26830,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Carmine.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ruby-red",
@@ -26125,7 +26851,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ruby-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-magenta",
@@ -26145,7 +26872,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Magenta.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-purple-magenta",
@@ -26165,7 +26893,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Purple-Magenta.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-quinacridone-magenta",
@@ -26185,7 +26914,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Quinacridone-Magenta.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-quinacridone-violet",
@@ -26205,7 +26935,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Quinacridone-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-potters-pink",
@@ -26225,7 +26956,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Potters-Pink.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-perylene-violet",
@@ -26245,7 +26977,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Perylene-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-quinacridone-purple",
@@ -26265,7 +26998,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Quinacridone-Purple.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-manganese-violet",
@@ -26285,7 +27019,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Manganese-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-schmincke-violet",
@@ -26305,7 +27040,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ultramarine-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-violet-hue",
@@ -26325,7 +27061,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Violet-Hue.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ultramarine-violet",
@@ -26346,7 +27083,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ultramarine-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-delft-blue",
@@ -26366,7 +27104,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Delft-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-indigo",
@@ -26387,7 +27126,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Indigo.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-dark-blue",
@@ -26407,7 +27147,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Dark-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-phthalo-sapphire-blue",
@@ -26427,7 +27168,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-PHthalo-Sapphire-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-blue-deep",
@@ -26447,7 +27189,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Deep.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-french-ultramarine",
@@ -26467,7 +27210,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-French-Ultramarine.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ultramarine-finest",
@@ -26487,7 +27231,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ultramarine-Finest.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ultramarine-blue",
@@ -26508,7 +27253,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ultramarine-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-blue-light",
@@ -26528,7 +27274,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Light.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-blue-hue",
@@ -26549,7 +27296,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Blue-Hue.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-mountain-blue",
@@ -26571,7 +27319,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Mountain-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-azure",
@@ -26591,7 +27340,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Azure.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-prussian-blue",
@@ -26611,7 +27361,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Prussian-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-paris-blue",
@@ -26633,7 +27384,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Paris-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-phthalo-blue",
@@ -26653,7 +27405,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Phthalo-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cerulean-blue-hue",
@@ -26674,7 +27427,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cerulean-Blue-Hue.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-helio-cerulean",
@@ -26694,7 +27448,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Helio-Cerulean.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-cerulean",
@@ -26714,7 +27469,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Cerulean.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-helio-turquoise",
@@ -26734,7 +27490,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Helio-Turquoise.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-turquoise",
@@ -26754,7 +27511,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Turquoise.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-green-turquoise",
@@ -26774,7 +27532,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Turquoise.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-prussian-green",
@@ -26795,7 +27554,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Prussian-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-viridian",
@@ -26815,7 +27575,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Viridian.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-oxide-green-brilliant",
@@ -26836,7 +27597,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Oxide-Green-Brilliant.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-phthalo-green",
@@ -26856,7 +27618,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Phthalo-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-helio-green",
@@ -26876,7 +27639,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Helio-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-green-olive",
@@ -26897,7 +27661,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Green-Olive.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-sap-green",
@@ -26918,7 +27683,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Sap-Green.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-permanent-green",
@@ -26939,7 +27705,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Permanent-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-may-green",
@@ -26960,7 +27727,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-May-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-green-pure",
@@ -26980,7 +27748,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Pure.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-cobalt-green-dark",
@@ -27000,7 +27769,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Cobalt-Green-Dark.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-hooker-s-green",
@@ -27022,7 +27792,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Hookers-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-olive-green",
@@ -27043,7 +27814,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Olive-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-chromium-oxide-green",
@@ -27063,7 +27835,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Chromium-Oxide-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-olive-green-yellowish",
@@ -27084,7 +27857,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Olive-Green-Yellowish.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-green-earth",
@@ -27105,7 +27879,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Green-Earth.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-green-gold",
@@ -27126,7 +27901,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Green-Gold.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-rutile-yellow",
@@ -27146,7 +27922,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Rutile-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-jaune-brilliant-dark",
@@ -27168,7 +27945,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Jaune-Brilliant-Dark.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-naples-yellow",
@@ -27190,7 +27968,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Naples-Yellow.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-raw-sienna",
@@ -27211,7 +27990,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Raw-Sienna.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-yellow-raw-ochre",
@@ -27232,7 +28012,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Yellow-Raw-Ochre.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-titanium-gold-ochre",
@@ -27252,7 +28033,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Titanium-Gold-OChre.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-yellow-ochre",
@@ -27272,7 +28054,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Yellow-Ochre.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-ochre",
@@ -27292,7 +28075,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Ochre.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-raw-umber",
@@ -27313,7 +28097,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Raw-Umber.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-naples-yellow-reddish",
@@ -27336,7 +28121,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Naples-Yellow-Reddish.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-spinel-brown",
@@ -27356,7 +28142,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Spinel-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-gold-brown",
@@ -27377,7 +28164,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Sepia-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-sienna",
@@ -27397,7 +28185,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Sienna.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-maroon-brown",
@@ -27417,7 +28206,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Maroon-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-burnt-sienna",
@@ -27438,7 +28228,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Burnt-Sienna.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-english-venetian-red",
@@ -27458,7 +28249,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-English-Venetian-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-madder-brown",
@@ -27478,7 +28270,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Madder-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-brown",
@@ -27498,7 +28291,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-mahogany-brown",
@@ -27518,7 +28312,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Mahogany-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-indian-red",
@@ -27539,7 +28334,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Indian-Red.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-mars-brown",
@@ -27559,7 +28355,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Mars-Brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-transparent-umber",
@@ -27579,7 +28376,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Transparent-Umber.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-burnt-umber",
@@ -27599,7 +28397,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Burnt-Umber.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-green-umber",
@@ -27619,7 +28418,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Green-Umber.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-van-dyke-brown",
@@ -27641,7 +28441,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Vandyke-Brown.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-sepia-brown",
@@ -27663,7 +28464,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Sepia-Brown.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-sepia-brown-reddish",
@@ -27685,7 +28487,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Sepia-Brown-Reddish.png",
       hue: "Hue",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-neutral-tint",
@@ -27707,7 +28510,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Neutral-Tint.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-neutral-grey",
@@ -27729,7 +28533,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Neutral-Grey.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-payne-s-grey-bluish",
@@ -27750,7 +28555,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Paynes-Grey-Bluish.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-perylene-green",
@@ -27770,7 +28576,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Perylene-Green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-schmincke-s-payne-s-grey",
@@ -27792,7 +28599,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-lamp-black",
@@ -27812,7 +28620,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Lamp-Black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ivory-black",
@@ -27832,7 +28641,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Ivory-Black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-hematite-black",
@@ -27852,7 +28662,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Hematite-Black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-anthracite",
@@ -27872,7 +28683,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-ANthracite.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-graphite-grey",
@@ -27892,7 +28704,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Graphite-Grey.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-mars-black",
@@ -27912,7 +28725,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Mars-Black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-silver",
@@ -27932,7 +28746,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Silver.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-gold",
@@ -27952,7 +28767,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Gold.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-brilliant-opera-rose",
@@ -27973,7 +28789,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Brilliant-Opera-rose.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-brilliant-purple",
@@ -27994,7 +28811,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Brilliant-Purple.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-brilliant-red-violet",
@@ -28015,7 +28833,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Brilliant-Red-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-brilliant-blue-violet",
@@ -28037,7 +28856,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Brilliant-Blue-Violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-random-grey-2022-limited-edition",
@@ -28057,7 +28877,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/Schmincke-Random-Grey-2022.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ocean-grey-limited-edition",
@@ -28079,7 +28900,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/Schmincke-Ocean-Grey.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-lagoon-blue-limited-edition",
@@ -28100,7 +28922,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/Schmincke-Lagoon-Blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-ice-blue-limited-edition",
@@ -28121,7 +28944,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-lapis-lazuli-limited-edition",
@@ -28141,7 +28965,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-yinmn-blue-limited-edition",
@@ -28161,7 +28986,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-deep-sea-violet",
@@ -28182,7 +29008,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-deep-sea-violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-deep-sea-indigo",
@@ -28203,7 +29030,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-deep-sea-indigo.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-deep-sea-blue",
@@ -28225,7 +29053,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-deep-sea-blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-deep-sea-green",
@@ -28246,7 +29075,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-deep-sea-green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-deep-sea-black",
@@ -28268,7 +29098,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-deep-sea-black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-glacier-blue",
@@ -28289,7 +29120,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Glacier-blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-glacier-turquoise",
@@ -28310,7 +29142,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Glacier-turquoise.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-glacier-green",
@@ -28331,7 +29164,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Glacier-green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-glacier-brown",
@@ -28352,7 +29186,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-glacier-brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-glacier-black",
@@ -28373,7 +29208,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-glacier-black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-galaxy-pink",
@@ -28394,7 +29230,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-Galaxy-pink.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-galaxy-violet",
@@ -28415,7 +29252,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-galaxy-violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-galaxy-blue",
@@ -28436,7 +29274,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-galaxy-blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-galaxy-black",
@@ -28457,7 +29296,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-galaxy-black.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-galaxy-brown",
@@ -28478,7 +29318,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-galaxy-brown.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-tundra-orange",
@@ -28500,7 +29341,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-tundra-orange.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-tundra-pink",
@@ -28521,7 +29363,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-tundra-pink.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-tundra-violet",
@@ -28542,7 +29385,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-tundra-violet.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-tundra-blue",
@@ -28563,7 +29407,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-tundra-blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-tundra-green",
@@ -28584,7 +29429,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-tundra-green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-forest-olive",
@@ -28606,7 +29452,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-forest-olive.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-forest-green",
@@ -28627,7 +29474,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-forest-green.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-forest-blue",
@@ -28648,7 +29496,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-forest-blue.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-forest-brown",
@@ -28670,7 +29519,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-forest-grey",
@@ -28692,7 +29542,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: "/uploads/schmincke/SC-forest-grey.png",
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-volcano-yellow",
@@ -28712,7 +29563,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-volcano-orange",
@@ -28733,7 +29585,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-volcano-red",
@@ -28753,7 +29606,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-volcano-violet",
@@ -28774,7 +29628,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-volcano-brown",
@@ -28795,7 +29650,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-desert-yellow",
@@ -28816,7 +29672,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-desert-orange",
@@ -28837,7 +29694,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-desert-brown",
@@ -28859,7 +29717,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-desert-green",
@@ -28880,7 +29739,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-desert-grey",
@@ -28901,7 +29761,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-shire-yellow",
@@ -28922,7 +29783,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-shire-olive",
@@ -28943,7 +29805,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-shire-green",
@@ -28964,7 +29827,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-shire-blue",
@@ -28986,7 +29850,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "schmincke-shire-grey",
@@ -29008,7 +29873,8 @@ var paints_default = {
       performance: "Professional",
       swatchImage: null,
       hue: "\u2013",
-      isDiscontinued: false
+      isDiscontinued: false,
+      binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
       id: "blockx-zinc-white",
@@ -48416,7 +49282,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-chinese-white-112",
@@ -48441,7 +49308,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-nickel-yellow-576",
@@ -48466,7 +49334,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-lemon-yellow-501",
@@ -48491,7 +49360,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-aureoline-559",
@@ -48516,7 +49386,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-lemon-yellow-535",
@@ -48541,7 +49412,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-primary-yellow-574",
@@ -48566,7 +49438,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-yellow-light-529",
@@ -48591,7 +49464,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-yellow-light-578",
@@ -48616,7 +49490,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-indian-yellow-517",
@@ -48642,7 +49517,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-yellow-lake-561",
@@ -48667,7 +49543,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-naples-yellow-567",
@@ -48694,7 +49571,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-yellow-sophie-587",
@@ -48719,7 +49597,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-naples-yellow-deep-566",
@@ -48744,7 +49623,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-yellow-deep-533",
@@ -48769,7 +49649,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-yellow-deep-579",
@@ -48795,7 +49676,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-yellow-orange-537",
@@ -48821,7 +49703,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-red-orange-640",
@@ -48847,7 +49730,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-orange-641",
@@ -48872,7 +49756,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-chinese-orange-645",
@@ -48899,7 +49784,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-french-vermilion-675",
@@ -48924,7 +49810,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-scarlet-laquer-612",
@@ -48949,7 +49836,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-rose-dore-madder-lake-691",
@@ -48974,7 +49862,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-bright-red-619",
@@ -48997,7 +49886,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-red-light-605",
@@ -49022,7 +49912,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-red-636",
@@ -49047,7 +49938,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-perylen-brown-499",
@@ -49074,7 +49966,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-red-purple-611",
@@ -49099,7 +49992,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-alizarin-crimson-lake-695",
@@ -49124,7 +50018,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-venetian-red-623",
@@ -49149,7 +50044,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-alizarin-crimson-689",
@@ -49176,7 +50072,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-carmine-635",
@@ -49201,7 +50098,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-crimson-lake-688",
@@ -49228,7 +50126,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-quinacridone-red-679",
@@ -49253,7 +50152,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-rose-madder-lake-690",
@@ -49278,7 +50178,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-opera-rose-659",
@@ -49304,7 +50205,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cobalt-violet-light-hue-911",
@@ -49331,7 +50233,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-permanent-magenta-680",
@@ -49356,7 +50259,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cobalt-violet-deep-hue-913",
@@ -49382,7 +50286,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-red-violet-905",
@@ -49407,7 +50312,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-helios-purple-671",
@@ -49432,7 +50338,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-blue-violet-903",
@@ -49457,7 +50364,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-dioxazine-purple-917",
@@ -49482,7 +50390,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-prussian-blue-318",
@@ -49507,7 +50416,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-indigo-308",
@@ -49534,7 +50444,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-blue-indanthrene-395",
@@ -49559,7 +50470,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cobalt-deep-309",
@@ -49584,7 +50496,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cobalt-blue-307",
@@ -49609,7 +50522,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-ultramarine-deep-315",
@@ -49634,7 +50548,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-french-ultramarine-blue-314",
@@ -49660,7 +50575,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-ultramarine-light-312",
@@ -49685,7 +50601,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-blue-sennelier-399",
@@ -49710,7 +50627,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-phthalocyanine-blue-326",
@@ -49735,7 +50653,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cinereous-blue-344",
@@ -49761,7 +50680,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-royal-blue-322",
@@ -49788,7 +50708,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cerulean-blue-302",
@@ -49813,7 +50734,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cerulean-blue-red-shade-305",
@@ -49838,7 +50760,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-turquoise-green-843",
@@ -49863,7 +50786,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cobalt-green-856",
@@ -49888,7 +50812,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-phthalocyanine-turquoise-341",
@@ -49914,7 +50839,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-forest-green-899",
@@ -49941,7 +50867,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-phthalo-green-deep-807",
@@ -49967,7 +50894,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-viridian-green-837",
@@ -49993,7 +50921,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-emerald-green-847",
@@ -50018,7 +50947,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-green-817",
@@ -50043,7 +50973,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-cadmium-green-light-823",
@@ -50069,7 +51000,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-hookers-green-809",
@@ -50095,7 +51027,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-chromium-oxide-green-815",
@@ -50120,7 +51053,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-green-earth-213",
@@ -50145,7 +51079,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sap-green-819",
@@ -50171,7 +51106,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-olive-green-813",
@@ -50198,7 +51134,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-phthalo-green-light-805",
@@ -50224,7 +51161,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-bright-yellow-green-871",
@@ -50250,7 +51188,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-brown-green-857",
@@ -50275,7 +51214,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-brown-pink-445",
@@ -50302,7 +51242,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-french-ochre-565",
@@ -50330,7 +51271,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-light-yellow-ochre-254",
@@ -50356,7 +51298,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-yellow-ochre-252",
@@ -50381,7 +51324,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-gold-ochre-257",
@@ -50408,7 +51352,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-quinacridone-gold-599",
@@ -50435,7 +51380,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-burnt-sienna-211",
@@ -50460,7 +51406,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-permanent-alizarin-crimson-deep-699",
@@ -50485,7 +51432,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-caput-mortum-919",
@@ -50510,7 +51458,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-paynes-grey-703",
@@ -50537,7 +51486,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-neutral-tint-931",
@@ -50564,7 +51514,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-van-dyck-brown-407",
@@ -50590,7 +51541,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-warm-sepia-440",
@@ -50616,7 +51568,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-raw-umber-205",
@@ -50641,7 +51594,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-raw-sienna-208",
@@ -50666,7 +51620,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-burnt-umber-202",
@@ -50691,7 +51646,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-transparent-brown-435",
@@ -50717,7 +51673,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-warm-grey-705",
@@ -50745,7 +51702,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-sennelier-grey-709",
@@ -50772,7 +51730,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-greenish-umber-203",
@@ -50799,7 +51758,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-light-grey-707",
@@ -50826,7 +51786,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-lamp-black-753",
@@ -50852,7 +51813,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-ivory-black-755",
@@ -50877,7 +51839,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "sennelier-raw-sepia-443",
@@ -50903,7 +51866,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Kordofan gum arabic plus honey"
     },
     {
       id: "m-graham-bismuth-yellow",
@@ -50928,7 +51892,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-hansa-yellow",
@@ -50953,7 +51918,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-yellow-light",
@@ -50978,7 +51944,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-azo-yellow",
@@ -51003,7 +51970,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-hansa-yellow-deep",
@@ -51028,7 +51996,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-yellow",
@@ -51053,7 +52022,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-yellow-deep",
@@ -51078,7 +52048,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-gamboge",
@@ -51104,7 +52075,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-indian-yellow",
@@ -51129,7 +52101,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-azo-orange",
@@ -51154,7 +52127,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-orange",
@@ -51179,7 +52153,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-scarlet-pyrrol",
@@ -51204,7 +52179,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-quinacridone-red",
@@ -51229,7 +52205,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-red-light",
@@ -51254,7 +52231,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-naphthol-red",
@@ -51279,7 +52257,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-red",
@@ -51304,7 +52283,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cadmium-red-deep",
@@ -51329,7 +52309,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-quinacridone-rose",
@@ -51354,7 +52335,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-alizarin-crimson",
@@ -51379,7 +52361,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-permanent-alizarin-crimson",
@@ -51404,7 +52387,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-maroon-perylene",
@@ -51429,7 +52413,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-ultramarine-pink",
@@ -51454,7 +52439,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-quinacridone-violet",
@@ -51479,7 +52465,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-mineral-violet",
@@ -51505,7 +52492,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cobalt-violet",
@@ -51530,7 +52518,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-ultramarine-violet-deep",
@@ -51555,7 +52544,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-dioxazine-purple",
@@ -51580,7 +52570,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-ultramarine-violet",
@@ -51606,7 +52597,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-ultramarine-blue",
@@ -51631,7 +52623,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cobalt-blue",
@@ -51656,7 +52649,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-anthraquinone-blue",
@@ -51681,7 +52675,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-pyrrol-red",
@@ -51706,7 +52701,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cerulean-blue-null",
@@ -51731,7 +52727,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cerulean-blue-deep-null",
@@ -51756,7 +52753,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-phthalocyanine-blue-rs-null",
@@ -51781,7 +52779,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-prussian-blue-null",
@@ -51806,7 +52805,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-phthalocyanine-blue-null",
@@ -51831,7 +52831,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-manganese-blue-hue-null",
@@ -51857,7 +52858,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cobalt-teal-null",
@@ -51882,7 +52884,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-turquoise-null",
@@ -51908,7 +52911,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-phthalocyanine-green-null",
@@ -51933,7 +52937,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-viridian-null",
@@ -51958,7 +52963,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-phthalocyanine-green-ys-null",
@@ -51983,7 +52989,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-cobalt-green-null",
@@ -52008,7 +53015,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-permanent-green-light-null",
@@ -52034,7 +53042,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-permanent-green-pale-null",
@@ -52060,7 +53069,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-hookers-green-null",
@@ -52086,7 +53096,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-sap-green-null",
@@ -52112,7 +53123,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-olive-green",
@@ -52139,7 +53151,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-azo-green",
@@ -52164,7 +53177,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-transparent-yellow-iron-oxide",
@@ -52189,7 +53203,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-yellow-ochre",
@@ -52214,7 +53229,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-raw-sienna",
@@ -52239,7 +53255,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-nickel-azo-yellow",
@@ -52264,7 +53281,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-naples-yellow",
@@ -52289,7 +53307,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-nickel-quinacridone-gold",
@@ -52315,7 +53334,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-transparent-orange-iron-oxide",
@@ -52341,7 +53361,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-quinacridone-rust",
@@ -52366,7 +53387,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-transparent-red-iron-oxide",
@@ -52391,7 +53413,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-burnt-sienna",
@@ -52416,7 +53439,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-terra-rosa",
@@ -52441,7 +53465,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-burnt-umber",
@@ -52466,7 +53491,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-raw-umber",
@@ -52491,7 +53517,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-sepia",
@@ -52517,7 +53544,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-ivory-black",
@@ -52542,7 +53570,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-lamp-black",
@@ -52567,7 +53596,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-neutral-tint",
@@ -52593,7 +53623,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-paynes-gray",
@@ -52619,7 +53650,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-titanium-white",
@@ -52644,7 +53676,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "m-graham-chinese-white",
@@ -52669,7 +53702,8 @@ var paints_default = {
       tintingStrength: null,
       performance: "Professional",
       toxicity: "No",
-      collection: "Standard Assortment"
+      collection: "Standard Assortment",
+      binder: "Northwest blackberry honey"
     },
     {
       id: "turner-titanium-white",
@@ -66325,7 +67359,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-yellow-primrose",
@@ -66342,7 +67377,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-cadmium-yellow-primrose.png"
+      swatchImage: "/uploads/qor/Q-cadmium-yellow-primrose.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-hansa-yellow-light",
@@ -66359,7 +67395,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-hansa-yellow-light.png"
+      swatchImage: "/uploads/qor/Q-hansa-yellow-light.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-bismuth-vanadate-yellow",
@@ -66375,7 +67412,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-yellow-light",
@@ -66392,7 +67430,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-cadmium-yellow-light.png"
+      swatchImage: "/uploads/qor/Q-cadmium-yellow-light.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-benzimidazolone-yellow",
@@ -66408,7 +67447,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-yellow-medium",
@@ -66425,7 +67465,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-Cadmium-yellow-medium.png"
+      swatchImage: "/uploads/qor/Q-Cadmium-yellow-medium.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-aureolin-modern",
@@ -66443,7 +67484,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      swatchImage: "/uploads/qor/Q-aureolin-modern.png"
+      swatchImage: "/uploads/qor/Q-aureolin-modern.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-yellow-deep",
@@ -66459,7 +67501,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-permanent-gamboge",
@@ -66477,7 +67520,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "Hue"
+      hue: "Hue",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-burnt-orange",
@@ -66493,7 +67537,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-gold",
@@ -66510,7 +67555,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-diarylide-yellow",
@@ -66526,7 +67572,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-naples-yellow",
@@ -66545,7 +67592,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      swatchImage: "/uploads/qor/Q-naples-yellow.png"
+      swatchImage: "/uploads/qor/Q-naples-yellow.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-gold-deep",
@@ -66561,7 +67609,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-indian-yellow",
@@ -66579,7 +67628,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "Hue"
+      hue: "Hue",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-orange",
@@ -66595,7 +67645,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-transparent-pyrrol-orange",
@@ -66611,7 +67662,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-red-light",
@@ -66627,7 +67679,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-pyrrole-red-light",
@@ -66643,7 +67696,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-pyrrole-red-medium",
@@ -66659,7 +67713,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-red-medium",
@@ -66675,7 +67730,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cadmium-red-deep",
@@ -66691,7 +67747,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-red-light",
@@ -66707,7 +67764,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-pyrrole-red-deep",
@@ -66723,7 +67781,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-permanent-scarlet",
@@ -66739,7 +67798,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-red",
@@ -66756,7 +67816,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-Quinacridone-red.png"
+      swatchImage: "/uploads/qor/Q-Quinacridone-red.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-permanent-alizarin-crimson",
@@ -66772,7 +67833,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "Hue"
+      hue: "Hue",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-crimson",
@@ -66789,7 +67851,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-magenta",
@@ -66805,7 +67868,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ultramarine-pink",
@@ -66822,7 +67886,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-ultramarine-pink.png"
+      swatchImage: "/uploads/qor/Q-ultramarine-pink.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-quinacridone-violet",
@@ -66839,7 +67904,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-quinacridone-violet.png"
+      swatchImage: "/uploads/qor/Q-quinacridone-violet.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cobalt-violet",
@@ -66855,7 +67921,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ultramarine-violet",
@@ -66872,7 +67939,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-ultramarine-violet.png"
+      swatchImage: "/uploads/qor/Q-ultramarine-violet.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-dioxazine-purple",
@@ -66888,7 +67956,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-indigo",
@@ -66906,7 +67975,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "Hue"
+      hue: "Hue",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ultramarine-blue",
@@ -66922,7 +67992,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ultramarine-blue-violet",
@@ -66940,7 +68011,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-ultramarine-blue-violet.png"
+      swatchImage: "/uploads/qor/Q-ultramarine-blue-violet.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cobalt-blue",
@@ -66956,7 +68028,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cerulean-blue-chromium",
@@ -66972,7 +68045,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-indanthrone-blue",
@@ -66988,7 +68062,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-prussian-blue",
@@ -67004,7 +68079,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-phthalo-blue-gs",
@@ -67021,7 +68097,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-Phthalo-blue-green-shade.png"
+      swatchImage: "/uploads/qor/Q-Phthalo-blue-green-shade.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-french-cerulean-blue",
@@ -67037,7 +68114,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-manganese-blue",
@@ -67055,7 +68133,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-manganese-blue.png"
+      swatchImage: "/uploads/qor/Q-manganese-blue.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-phthalo-turquoise",
@@ -67073,7 +68152,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-turquoise-phthalo.png"
+      swatchImage: "/uploads/qor/Q-turquoise-phthalo.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cobalt-turquoise",
@@ -67089,7 +68169,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cobalt-teal",
@@ -67106,7 +68187,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-cobalt-teal.png"
+      swatchImage: "/uploads/qor/Q-cobalt-teal.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-phthalo-green-bs",
@@ -67123,7 +68205,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-phthalo-green-blue-shade.png"
+      swatchImage: "/uploads/qor/Q-phthalo-green-blue-shade.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-viridian-green",
@@ -67140,7 +68223,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-viridian-green.png"
+      swatchImage: "/uploads/qor/Q-viridian-green.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-permanent-green-light",
@@ -67158,7 +68242,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-permanent-green-light.png"
+      swatchImage: "/uploads/qor/Q-permanent-green-light.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-cobalt-green",
@@ -67175,7 +68260,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-cobalt-green.png"
+      swatchImage: "/uploads/qor/Q-cobalt-green.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-hookers-green",
@@ -67193,7 +68279,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-sap-green",
@@ -67212,7 +68299,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      swatchImage: "/uploads/qor/Q-sap-green.png"
+      swatchImage: "/uploads/qor/Q-sap-green.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-terre-verte",
@@ -67229,7 +68317,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-terre-verte.png"
+      swatchImage: "/uploads/qor/Q-terre-verte.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-chromium-oxide-green",
@@ -67246,7 +68335,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-chromium-oxide-green.png"
+      swatchImage: "/uploads/qor/Q-chromium-oxide-green.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-olive-green",
@@ -67264,7 +68354,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-bohemian-green-earth",
@@ -67284,7 +68375,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-bohemian-green-eath.png"
+      swatchImage: "/uploads/qor/Q-bohemian-green-eath.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-green-gold",
@@ -67300,7 +68392,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-titan-buff",
@@ -67317,7 +68410,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-titan-buff.png"
+      swatchImage: "/uploads/qor/Q-titan-buff.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-yellow-ochre-natural",
@@ -67333,7 +68427,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-transparent-yellow-oxide",
@@ -67350,7 +68445,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-transparent-yellow-oxide.png"
+      swatchImage: "/uploads/qor/Q-transparent-yellow-oxide.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-raw-sienna-natural",
@@ -67366,7 +68462,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-transparent-red-oxide",
@@ -67383,7 +68480,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-transparent-red-oxide.png"
+      swatchImage: "/uploads/qor/Q-transparent-red-oxide.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-mars-orange-deep",
@@ -67400,7 +68498,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-mars-orange-deep.png"
+      swatchImage: "/uploads/qor/Q-mars-orange-deep.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-venetian-red",
@@ -67417,7 +68516,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-venetian-red.png"
+      swatchImage: "/uploads/qor/Q-venetian-red.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-burnt-sienna-natural",
@@ -67434,7 +68534,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-burnt-sienna-natural.png"
+      swatchImage: "/uploads/qor/Q-burnt-sienna-natural.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-transparent-brown-oxide",
@@ -67451,7 +68552,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-transparent-brown-oxide.png"
+      swatchImage: "/uploads/qor/Q-transparent-brown-oxide.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-burnt-umber-natural",
@@ -67468,7 +68570,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-burnt-umber.png"
+      swatchImage: "/uploads/qor/Q-burnt-umber.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-raw-umber-natural",
@@ -67485,7 +68588,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-raw-umber.png"
+      swatchImage: "/uploads/qor/Q-raw-umber.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-nickel-azo-yellow",
@@ -67501,7 +68605,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-van-dyke-brown",
@@ -67518,7 +68623,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      swatchImage: "/uploads/qor/Q-van-dyke-brown.png"
+      swatchImage: "/uploads/qor/Q-van-dyke-brown.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-sepia",
@@ -67536,7 +68642,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "Hue"
+      hue: "Hue",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-carbon-black",
@@ -67553,7 +68660,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-cabon-black.png"
+      swatchImage: "/uploads/qor/Q-cabon-black.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ivory-black",
@@ -67570,7 +68678,8 @@ var paints_default = {
       isVegan: false,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-ivory-black.png"
+      swatchImage: "/uploads/qor/Q-ivory-black.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-neutral-tint",
@@ -67588,7 +68697,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-paynes-gray",
@@ -67606,7 +68716,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       isDiscontinued: false,
-      hue: "\u2013"
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-ardoise-gray",
@@ -67623,7 +68734,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-ardoise-gray.png"
+      swatchImage: "/uploads/qor/Q-ardoise-gray.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-titanium-white",
@@ -67640,7 +68752,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-titanium-white.png"
+      swatchImage: "/uploads/qor/Q-titanium-white.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-chinese-white",
@@ -67657,7 +68770,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-chinese-white.png"
+      swatchImage: "/uploads/qor/Q-chinese-white.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-iridescent-gold-fine",
@@ -67674,7 +68788,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-iridescent-gold.png"
+      swatchImage: "/uploads/qor/Q-iridescent-gold.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-iridescent-silver-fine",
@@ -67691,7 +68806,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-Iridescent-silver.png"
+      swatchImage: "/uploads/qor/Q-Iridescent-silver.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "qor-iridescent-pearl-fine",
@@ -67708,7 +68824,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      swatchImage: "/uploads/qor/Q-Iridescent-pearl.png"
+      swatchImage: "/uploads/qor/Q-Iridescent-pearl.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)"
     },
     {
       id: "utrecht-permanent-white",
@@ -78842,6 +79959,7140 @@ var paints_default = {
       performance: "Professional",
       toxicity: "No",
       swatchImage: "/uploads/kremer-pigments/KM-Studio-Pigment-Violet.png"
+    },
+    {
+      id: "prima-the-classics-dove-white-01",
+      brandId: "prima",
+      name: "Dove / White",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "01"
+    },
+    {
+      id: "prima-the-classics-candy-pinky-02",
+      brandId: "prima",
+      name: "Candy / Pinky",
+      pigmentCodes: [
+        "PR81"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "02"
+    },
+    {
+      id: "prima-the-classics-rouge-red-03",
+      brandId: "prima",
+      name: "Rouge / Red",
+      pigmentCodes: [
+        "PR112",
+        "PR170"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "03"
+    },
+    {
+      id: "prima-the-classics-carrot-orange-04",
+      brandId: "prima",
+      name: "Carrot / Orange",
+      pigmentCodes: [
+        "PO13",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "04"
+    },
+    {
+      id: "prima-the-classics-canary-yellow-05",
+      brandId: "prima",
+      name: "Canary / Yellow",
+      pigmentCodes: [
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "05"
+    },
+    {
+      id: "prima-the-classics-green-apple-green-06",
+      brandId: "prima",
+      name: "Green Apple / Green",
+      pigmentCodes: [
+        "PY14",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "06"
+    },
+    {
+      id: "prima-the-classics-breeze-icy-blue-07",
+      brandId: "prima",
+      name: "Breeze / Icy Blue",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "07"
+    },
+    {
+      id: "prima-the-classics-sailor-blue-08",
+      brandId: "prima",
+      name: "Sailor / Blue",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "08"
+    },
+    {
+      id: "prima-the-classics-lavender-purple-09",
+      brandId: "prima",
+      name: "Lavender / Purple",
+      pigmentCodes: [
+        "PB81",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "09"
+    },
+    {
+      id: "prima-the-classics-roasted-coffee-10",
+      brandId: "prima",
+      name: "Roasted Coffee",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "10"
+    },
+    {
+      id: "prima-the-classics-slate-grey-11",
+      brandId: "prima",
+      name: "Slate / Grey",
+      pigmentCodes: [
+        "PW6",
+        "PBk9",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "11"
+    },
+    {
+      id: "prima-the-classics-dark-night-black-12",
+      brandId: "prima",
+      name: "Dark Night / Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "The Classics",
+      paintNumber: "12"
+    },
+    {
+      id: "prima-tropicals-grassland-island-13",
+      brandId: "prima",
+      name: "Grassland / Island",
+      pigmentCodes: [
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "13"
+    },
+    {
+      id: "prima-tropicals-plantain-coconut-14",
+      brandId: "prima",
+      name: "Plantain / Coconut",
+      pigmentCodes: [
+        "PY42",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "14"
+    },
+    {
+      id: "prima-tropicals-thunderstorm-15",
+      brandId: "prima",
+      name: "Thunderstorm",
+      pigmentCodes: [
+        "PB29",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "15"
+    },
+    {
+      id: "prima-tropicals-avocado-parrot-16",
+      brandId: "prima",
+      name: "Avocado / Parrot",
+      pigmentCodes: [
+        "PY42",
+        "PY14",
+        "PB27",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "16"
+    },
+    {
+      id: "prima-tropicals-tropicana-hibiscus-17",
+      brandId: "prima",
+      name: "Tropicana / Hibiscus",
+      pigmentCodes: [
+        "PO13",
+        "PR112"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "17"
+    },
+    {
+      id: "prima-tropicals-rainforest-palms-18",
+      brandId: "prima",
+      name: "Rainforest / Palms",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "18"
+    },
+    {
+      id: "prima-tropicals-red-parrot-pitaya-19",
+      brandId: "prima",
+      name: "Red Parrot / Pitaya",
+      pigmentCodes: [
+        "PR57:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "19"
+    },
+    {
+      id: "prima-tropicals-north-isle-reef-20",
+      brandId: "prima",
+      name: "North Isle / Reef",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "20"
+    },
+    {
+      id: "prima-tropicals-sunset-pineapple-21",
+      brandId: "prima",
+      name: "Sunset / Pineapple",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "21"
+    },
+    {
+      id: "prima-tropicals-lush-sunset-22",
+      brandId: "prima",
+      name: "Lush / Sunset",
+      pigmentCodes: [
+        "PR81"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "22"
+    },
+    {
+      id: "prima-tropicals-wild-berry-ocean-23",
+      brandId: "prima",
+      name: "Wild Berry / Ocean",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "23"
+    },
+    {
+      id: "prima-tropicals-cacao-tiki-24",
+      brandId: "prima",
+      name: "Cacao / Tiki",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Tropicals",
+      paintNumber: "24"
+    },
+    {
+      id: "prima-decadent-pies-frosting-white-25",
+      brandId: "prima",
+      name: "Frosting / White",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "25"
+    },
+    {
+      id: "prima-decadent-pies-silver-pearl-earl-grey-26",
+      brandId: "prima",
+      name: "Silver Pearl / Earl Grey",
+      pigmentCodes: [
+        "PW20",
+        "PBk9",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "26"
+    },
+    {
+      id: "prima-decadent-pies-praline-pischahio-27",
+      brandId: "prima",
+      name: "Praline / Pischahio",
+      pigmentCodes: [
+        "PW20",
+        "PY83",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "27"
+    },
+    {
+      id: "prima-decadent-pies-rose-petal-guava-28",
+      brandId: "prima",
+      name: "Rose Petal / Guava",
+      pigmentCodes: [
+        "PW20",
+        "PR101",
+        "PO13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "28"
+    },
+    {
+      id: "prima-decadent-pies-vanilla-cream-banana-29",
+      brandId: "prima",
+      name: "Vanilla Cream / Banana",
+      pigmentCodes: [
+        "PY6",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "29"
+    },
+    {
+      id: "prima-decadent-pies-dark-chocolate-30",
+      brandId: "prima",
+      name: "Dark Chocolate",
+      pigmentCodes: [
+        "PR48:4",
+        "PO13",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "30"
+    },
+    {
+      id: "prima-decadent-pies-frappe-peach-cobler-31",
+      brandId: "prima",
+      name: "Frappe / Peach Cobler",
+      pigmentCodes: [
+        "PW6",
+        "PO13",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "31"
+    },
+    {
+      id: "prima-decadent-pies-sweet-jam-apple-32",
+      brandId: "prima",
+      name: "Sweet Jam / Apple",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "32"
+    },
+    {
+      id: "prima-decadent-pies-caramel-pumpkin-33",
+      brandId: "prima",
+      name: "Caramel / Pumpkin",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "33"
+    },
+    {
+      id: "prima-decadent-pies-pistachio-keylime-34",
+      brandId: "prima",
+      name: "Pistachio / Keylime",
+      pigmentCodes: [
+        "PB27",
+        "PY14",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "34"
+    },
+    {
+      id: "prima-decadent-pies-blue-berry-35",
+      brandId: "prima",
+      name: "Blue Berry",
+      pigmentCodes: [
+        "PB27",
+        "PBk9",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "35"
+    },
+    {
+      id: "prima-decadent-pies-berry-syrup-36",
+      brandId: "prima",
+      name: "Berry Syrup",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Decadent Pies",
+      paintNumber: "36"
+    },
+    {
+      id: "prima-pastel-dreams-brown-37",
+      brandId: "prima",
+      name: "Brown",
+      pigmentCodes: [
+        "PR101",
+        "PB27",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "37"
+    },
+    {
+      id: "prima-pastel-dreams-chocolate-38",
+      brandId: "prima",
+      name: "Chocolate",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "38"
+    },
+    {
+      id: "prima-pastel-dreams-crimson-39",
+      brandId: "prima",
+      name: "Crimson",
+      pigmentCodes: [
+        "PO13",
+        "PR112"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "39"
+    },
+    {
+      id: "prima-pastel-dreams-rose-40",
+      brandId: "prima",
+      name: "Rose",
+      pigmentCodes: [
+        "PO13",
+        "PR112"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "40"
+    },
+    {
+      id: "prima-pastel-dreams-lemonade-41",
+      brandId: "prima",
+      name: "Lemonade",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "41"
+    },
+    {
+      id: "prima-pastel-dreams-citrus-42",
+      brandId: "prima",
+      name: "Citrus",
+      pigmentCodes: [
+        "PY83"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "42"
+    },
+    {
+      id: "prima-pastel-dreams-bumblebee-43",
+      brandId: "prima",
+      name: "Bumblebee",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "43"
+    },
+    {
+      id: "prima-pastel-dreams-sea-dream-44",
+      brandId: "prima",
+      name: "Sea Dream",
+      pigmentCodes: [
+        "PB15:3",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "44"
+    },
+    {
+      id: "prima-pastel-dreams-paradise-45",
+      brandId: "prima",
+      name: "Paradise",
+      pigmentCodes: [
+        "PG7",
+        "PY14",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "45"
+    },
+    {
+      id: "prima-pastel-dreams-pool-party-46",
+      brandId: "prima",
+      name: "Pool Party",
+      pigmentCodes: [
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "46"
+    },
+    {
+      id: "prima-pastel-dreams-icy-sky-47",
+      brandId: "prima",
+      name: "Icy Sky",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "47"
+    },
+    {
+      id: "prima-pastel-dreams-lilac-rain-48",
+      brandId: "prima",
+      name: "Lilac Rain",
+      pigmentCodes: [
+        "PR81"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Pastel Dreams",
+      paintNumber: "48"
+    },
+    {
+      id: "prima-shimmering-lights-gold-49",
+      brandId: "prima",
+      name: "Gold",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "49"
+    },
+    {
+      id: "prima-shimmering-lights-twinkle-50",
+      brandId: "prima",
+      name: "Twinkle",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "50"
+    },
+    {
+      id: "prima-shimmering-lights-allure-51",
+      brandId: "prima",
+      name: "Allure",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "51"
+    },
+    {
+      id: "prima-shimmering-lights-treasure-52",
+      brandId: "prima",
+      name: "Treasure",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "52"
+    },
+    {
+      id: "prima-shimmering-lights-glaze-53",
+      brandId: "prima",
+      name: "Glaze",
+      pigmentCodes: [
+        "PY14",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "53"
+    },
+    {
+      id: "prima-shimmering-lights-antique-54",
+      brandId: "prima",
+      name: "Antique",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "54"
+    },
+    {
+      id: "prima-shimmering-lights-coppered-55",
+      brandId: "prima",
+      name: "Coppered",
+      pigmentCodes: [
+        "PR101",
+        "PY83",
+        "PO13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "55"
+    },
+    {
+      id: "prima-shimmering-lights-flare-56",
+      brandId: "prima",
+      name: "Flare",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PR48:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "56"
+    },
+    {
+      id: "prima-shimmering-lights-disco-57",
+      brandId: "prima",
+      name: "Disco",
+      pigmentCodes: [
+        "PY42",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "57"
+    },
+    {
+      id: "prima-shimmering-lights-goldstone-58",
+      brandId: "prima",
+      name: "Goldstone",
+      pigmentCodes: [
+        "PO13",
+        "PY14",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "58"
+    },
+    {
+      id: "prima-shimmering-lights-champagne-59",
+      brandId: "prima",
+      name: "Champagne",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "59"
+    },
+    {
+      id: "prima-shimmering-lights-chandelier-60",
+      brandId: "prima",
+      name: "Chandelier",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Shimmering Lights",
+      paintNumber: "60"
+    },
+    {
+      id: "prima-celestial-venus-61",
+      brandId: "prima",
+      name: "Venus",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "61"
+    },
+    {
+      id: "prima-celestial-comet-62",
+      brandId: "prima",
+      name: "Comet",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "62"
+    },
+    {
+      id: "prima-celestial-vega-63",
+      brandId: "prima",
+      name: "Vega",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "63"
+    },
+    {
+      id: "prima-celestial-aurora-64",
+      brandId: "prima",
+      name: "Aurora",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "64"
+    },
+    {
+      id: "prima-celestial-nebula-65",
+      brandId: "prima",
+      name: "Nebula",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "65"
+    },
+    {
+      id: "prima-celestial-galactic-66",
+      brandId: "prima",
+      name: "Galactic",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "66"
+    },
+    {
+      id: "prima-celestial-heavenly-67",
+      brandId: "prima",
+      name: "Heavenly",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "67"
+    },
+    {
+      id: "prima-celestial-stellar-68",
+      brandId: "prima",
+      name: "Stellar",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "68"
+    },
+    {
+      id: "prima-celestial-luna-69",
+      brandId: "prima",
+      name: "Luna",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "69"
+    },
+    {
+      id: "prima-celestial-big-bang-70",
+      brandId: "prima",
+      name: "Big Bang",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "70"
+    },
+    {
+      id: "prima-celestial-nova-71",
+      brandId: "prima",
+      name: "Nova",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "71"
+    },
+    {
+      id: "prima-celestial-divina-72",
+      brandId: "prima",
+      name: "Divina",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Celestial",
+      paintNumber: "72"
+    },
+    {
+      id: "prima-odyssey-tokyo-73",
+      brandId: "prima",
+      name: "Tokyo",
+      pigmentCodes: [
+        "PR57:1",
+        "PR170"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "73"
+    },
+    {
+      id: "prima-odyssey-rome-74",
+      brandId: "prima",
+      name: "Rome",
+      pigmentCodes: [
+        "PR57:1",
+        "PR170",
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "74"
+    },
+    {
+      id: "prima-odyssey-amsterdam-75",
+      brandId: "prima",
+      name: "Amsterdam",
+      pigmentCodes: [
+        "PV23",
+        "PR122"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "75"
+    },
+    {
+      id: "prima-odyssey-maui-76",
+      brandId: "prima",
+      name: "Maui",
+      pigmentCodes: [
+        "PR112",
+        "PO13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "76"
+    },
+    {
+      id: "prima-odyssey-jordan-77",
+      brandId: "prima",
+      name: "Jordan",
+      pigmentCodes: [
+        "PR101",
+        "PR48:4",
+        "PY14",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "77"
+    },
+    {
+      id: "prima-odyssey-cusco-78",
+      brandId: "prima",
+      name: "Cusco",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "78"
+    },
+    {
+      id: "prima-odyssey-dubai-79",
+      brandId: "prima",
+      name: "Dubai",
+      pigmentCodes: [
+        "PR101",
+        "PR48:4",
+        "PO13",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "79"
+    },
+    {
+      id: "prima-odyssey-jamaica-80",
+      brandId: "prima",
+      name: "Jamaica",
+      pigmentCodes: [
+        "PG7",
+        "PY14",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "80"
+    },
+    {
+      id: "prima-odyssey-london-81",
+      brandId: "prima",
+      name: "London",
+      pigmentCodes: [
+        "PB15:3",
+        "PB27",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "81"
+    },
+    {
+      id: "prima-odyssey-inca-82",
+      brandId: "prima",
+      name: "Inca",
+      pigmentCodes: [
+        "PR101",
+        "PO13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "82"
+    },
+    {
+      id: "prima-odyssey-budapest-83",
+      brandId: "prima",
+      name: "Budapest",
+      pigmentCodes: [
+        "PR170",
+        "PO13",
+        "PV23",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "83"
+    },
+    {
+      id: "prima-odyssey-calgary-84",
+      brandId: "prima",
+      name: "Calgary",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Odyssey",
+      paintNumber: "84"
+    },
+    {
+      id: "prima-woodlands-sand-ridge-85",
+      brandId: "prima",
+      name: "Sand Ridge",
+      pigmentCodes: [
+        "PY42",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "85"
+    },
+    {
+      id: "prima-woodlands-shadow-86",
+      brandId: "prima",
+      name: "Shadow",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "86"
+    },
+    {
+      id: "prima-woodlands-cavern-87",
+      brandId: "prima",
+      name: "Cavern",
+      pigmentCodes: [
+        "PY42",
+        "PBk7",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "87"
+    },
+    {
+      id: "prima-woodlands-foxberry-88",
+      brandId: "prima",
+      name: "Foxberry",
+      pigmentCodes: [
+        "PR112",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "88"
+    },
+    {
+      id: "prima-woodlands-pond-89",
+      brandId: "prima",
+      name: "Pond",
+      pigmentCodes: [
+        "PG7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "89"
+    },
+    {
+      id: "prima-woodlands-stream-90",
+      brandId: "prima",
+      name: "Stream",
+      pigmentCodes: [
+        "PB27",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "90"
+    },
+    {
+      id: "prima-woodlands-bear-91",
+      brandId: "prima",
+      name: "Bear",
+      pigmentCodes: [
+        "PY14",
+        "PY42",
+        "PR48:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "91"
+    },
+    {
+      id: "prima-woodlands-mist-92",
+      brandId: "prima",
+      name: "Mist",
+      pigmentCodes: [
+        "PB27",
+        "PB15:3",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "92"
+    },
+    {
+      id: "prima-woodlands-greystone-93",
+      brandId: "prima",
+      name: "Greystone",
+      pigmentCodes: [
+        "PBk7",
+        "PY42",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "93"
+    },
+    {
+      id: "prima-woodlands-daylight-94",
+      brandId: "prima",
+      name: "Daylight",
+      pigmentCodes: [
+        "PY14",
+        "PB27",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "94"
+    },
+    {
+      id: "prima-woodlands-redwood-95",
+      brandId: "prima",
+      name: "Redwood",
+      pigmentCodes: [
+        "PR48:4",
+        "PR101",
+        "PB15:3",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "95"
+    },
+    {
+      id: "prima-woodlands-deep-moss-96",
+      brandId: "prima",
+      name: "Deep Moss",
+      pigmentCodes: [
+        "PB15:3",
+        "PB27",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Woodlands",
+      paintNumber: "96"
+    },
+    {
+      id: "prima-essence-adore-97",
+      brandId: "prima",
+      name: "Adore",
+      pigmentCodes: [
+        "PR101",
+        "PR48:4",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "97"
+    },
+    {
+      id: "prima-essence-chant-98",
+      brandId: "prima",
+      name: "Chant",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "98"
+    },
+    {
+      id: "prima-essence-emotion-99",
+      brandId: "prima",
+      name: "Emotion",
+      pigmentCodes: [
+        "PB27",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "99"
+    },
+    {
+      id: "prima-essence-earth-100",
+      brandId: "prima",
+      name: "Earth",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "100"
+    },
+    {
+      id: "prima-essence-namaste-101",
+      brandId: "prima",
+      name: "Namaste",
+      pigmentCodes: [
+        "PY42",
+        "PY14",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "101"
+    },
+    {
+      id: "prima-essence-ponder-102",
+      brandId: "prima",
+      name: "Ponder",
+      pigmentCodes: [
+        "PR101",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "102"
+    },
+    {
+      id: "prima-essence-eternity-103",
+      brandId: "prima",
+      name: "Eternity",
+      pigmentCodes: [
+        "PB15:3",
+        "PB27",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "103"
+    },
+    {
+      id: "prima-essence-nirvana-104",
+      brandId: "prima",
+      name: "Nirvana",
+      pigmentCodes: [
+        "PB27",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "104"
+    },
+    {
+      id: "prima-essence-unite-105",
+      brandId: "prima",
+      name: "Unite",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "105"
+    },
+    {
+      id: "prima-essence-awake-106",
+      brandId: "prima",
+      name: "Awake",
+      pigmentCodes: [
+        "PR48:4",
+        "PR101",
+        "PB15:3",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "106"
+    },
+    {
+      id: "prima-essence-creation-107",
+      brandId: "prima",
+      name: "Creation",
+      pigmentCodes: [
+        "PB29",
+        "PB15:3",
+        "PR57:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "107"
+    },
+    {
+      id: "prima-essence-serenity-108",
+      brandId: "prima",
+      name: "Serenity",
+      pigmentCodes: [
+        "PY3",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Essence",
+      paintNumber: "108"
+    },
+    {
+      id: "prima-complexion-black-12",
+      brandId: "prima",
+      name: "Black",
+      pigmentCodes: [
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "12"
+    },
+    {
+      id: "prima-complexion-coconut-14",
+      brandId: "prima",
+      name: "Coconut",
+      pigmentCodes: [
+        "PY42",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "14"
+    },
+    {
+      id: "prima-complexion-tiki-24",
+      brandId: "prima",
+      name: "Tiki",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk9"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "24"
+    },
+    {
+      id: "prima-complexion-peach-cobbler-31",
+      brandId: "prima",
+      name: "Peach Cobbler",
+      pigmentCodes: [
+        "PW6",
+        "PO13",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "31"
+    },
+    {
+      id: "prima-complexion-lemonade-41",
+      brandId: "prima",
+      name: "Lemonade",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "41"
+    },
+    {
+      id: "prima-complexion-gold-49",
+      brandId: "prima",
+      name: "Gold",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "49"
+    },
+    {
+      id: "prima-complexion-cavern-87",
+      brandId: "prima",
+      name: "Cavern",
+      pigmentCodes: [
+        "PY42",
+        "PBk7",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "87"
+    },
+    {
+      id: "prima-complexion-bear-91",
+      brandId: "prima",
+      name: "Bear",
+      pigmentCodes: [
+        "PY14",
+        "PY42",
+        "PR48:4"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "91"
+    },
+    {
+      id: "prima-complexion-redwood-95",
+      brandId: "prima",
+      name: "Redwood",
+      pigmentCodes: [
+        "PR48:4",
+        "PR101",
+        "PB15:3",
+        "PY14"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "95"
+    },
+    {
+      id: "prima-complexion-chant-98",
+      brandId: "prima",
+      name: "Chant",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "98"
+    },
+    {
+      id: "prima-complexion-namaste-101",
+      brandId: "prima",
+      name: "Namaste",
+      pigmentCodes: [
+        "PY42",
+        "PY14",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "101"
+    },
+    {
+      id: "prima-complexion-unite-105",
+      brandId: "prima",
+      name: "Unite",
+      pigmentCodes: [
+        "PR101",
+        "PY14",
+        "PR48:4",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Student",
+      toxicity: "No",
+      collection: "Complexion",
+      paintNumber: "105"
+    },
+    {
+      id: "kuretake-gansai-tambi-10-white",
+      brandId: "kuretake-gansai-tambi",
+      name: "WHITE",
+      pigmentCodes: [
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "10",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-10-white.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-11-natural-beige",
+      brandId: "kuretake-gansai-tambi",
+      name: "NATURAL BEIGE",
+      pigmentCodes: [
+        "PW6",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "11",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-11-natural-beige.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-12-rose-beige",
+      brandId: "kuretake-gansai-tambi",
+      name: "ROSE BEIGE",
+      pigmentCodes: [
+        "PW6",
+        "PY42",
+        "PR48:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "12",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-12-rose-beige.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-13-lilac",
+      brandId: "kuretake-gansai-tambi",
+      name: "LILAC",
+      pigmentCodes: [
+        "PW6",
+        "PV23",
+        "PB1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "13",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-13-lilac.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-14-cherry-blossom-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "CHERRY BLOSSOM PINK",
+      pigmentCodes: [
+        "PR48:3",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "14",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-14-cherry-blossom-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-15-pale-aqua",
+      brandId: "kuretake-gansai-tambi",
+      name: "PALE AQUA",
+      pigmentCodes: [
+        "PY3",
+        "PB15:3",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "15",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-15-pale-aqua.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-16-ecru-beige",
+      brandId: "kuretake-gansai-tambi",
+      name: "ECRU BEIGE",
+      pigmentCodes: [
+        "PB27",
+        "PY42",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "16",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-16-ecru-beige.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-17-coral-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "CORAL PINK",
+      pigmentCodes: [
+        "PR101",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "17",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-17-coral-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-18-pale-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "PALE PINK",
+      pigmentCodes: [
+        "PY3",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "18",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-18-pale-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-19-potters-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "POTTER'S PINK",
+      pigmentCodes: [
+        "PG7",
+        "PR101",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "19",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-19-potters-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-20-black",
+      brandId: "kuretake-gansai-tambi",
+      name: "BLACK",
+      pigmentCodes: [
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "20",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-20-black.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-21-gray",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAY",
+      pigmentCodes: [
+        "PW6",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "21",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-21-gray.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-30-cadmium-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "CADMIUM RED",
+      pigmentCodes: [
+        "PY3",
+        "PR48:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "30",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-30-cadmium-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-31-cadmium-scarlet",
+      brandId: "kuretake-gansai-tambi",
+      name: "CADMIUM SCARLET",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "31",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-31-cadmium-scarlet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-32-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "RED",
+      pigmentCodes: [
+        "PR48:3",
+        "PY1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "32",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-32-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-33-cadmium-orange",
+      brandId: "kuretake-gansai-tambi",
+      name: "CADMIUM ORANGE",
+      pigmentCodes: [
+        "PY1",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "33",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-33-cadmium-orange.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-34-rose-madder",
+      brandId: "kuretake-gansai-tambi",
+      name: "ROSE MADDER",
+      pigmentCodes: [
+        "PY3",
+        "PR48:3",
+        "PR81"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "34",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-34-rose-madder.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-35-carmine",
+      brandId: "kuretake-gansai-tambi",
+      name: "CARMINE",
+      pigmentCodes: [
+        "PR48:2",
+        "PR48:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "35",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-35-carmine.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-36-rose-madder-deep",
+      brandId: "kuretake-gansai-tambi",
+      name: "ROSE MADDER DEEP",
+      pigmentCodes: [
+        "PR48:3",
+        "PR63:1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "36",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-36-rose-madder-deep.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-37-purple",
+      brandId: "kuretake-gansai-tambi",
+      name: "PURPLE",
+      pigmentCodes: [
+        "PR63:1",
+        "PV3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "37",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-37-purple.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-38-imperial-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "IMPERIAL VIOLET",
+      pigmentCodes: [
+        "PV23"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "38",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-38-imperial-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-40-lemon-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "LEMON YELLOW",
+      pigmentCodes: [
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "40",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-40-lemon-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-42-aureolin",
+      brandId: "kuretake-gansai-tambi",
+      name: "AUREOLIN",
+      pigmentCodes: [
+        "PY3",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "42",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-42-aureolin.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-43-cadmium-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "CADMIUM YELLOW",
+      pigmentCodes: [
+        "PY1",
+        "PY55"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "43",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-43-cadmium-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-44-yellow-ochre",
+      brandId: "kuretake-gansai-tambi",
+      name: "YELLOW OCHRE",
+      pigmentCodes: [
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "44",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-44-yellow-ochre.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-46-burnt-sienna",
+      brandId: "kuretake-gansai-tambi",
+      name: "BURNT SIENNA",
+      pigmentCodes: [
+        "PR101",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "46",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-46-burnt-sienna.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-47-raw-umber-deep",
+      brandId: "kuretake-gansai-tambi",
+      name: "RAW UMBER DEEP",
+      pigmentCodes: [
+        "PY42",
+        "PR101",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "47",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-47-raw-umber-deep.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-48-greenish-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "GREENISH YELLOW",
+      pigmentCodes: [
+        "PY3",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "48",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-48-greenish-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-49-yellow-brown",
+      brandId: "kuretake-gansai-tambi",
+      name: "YELLOW BROWN",
+      pigmentCodes: [
+        "PR101",
+        "PBk11",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "49",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-49-yellow-brown.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-50-malachite",
+      brandId: "kuretake-gansai-tambi",
+      name: "MALACHITE",
+      pigmentCodes: [
+        "PW6",
+        "PG7",
+        "PY3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "50",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-50-malachite.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-51-sap-green-light",
+      brandId: "kuretake-gansai-tambi",
+      name: "SAP GREEN LIGHT",
+      pigmentCodes: [
+        "PY3",
+        "PY55",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "51",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-51-sap-green-light.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-52-hookers-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "HOOKER'S GREEN",
+      pigmentCodes: [
+        "PY55",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "52",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-52-hookers-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-53-sap-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "SAP GREEN",
+      pigmentCodes: [
+        "PY1",
+        "PG7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "53",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-53-sap-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-54-olive-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "OLIVE GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PY42",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "54",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-54-olive-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-55-viridian",
+      brandId: "kuretake-gansai-tambi",
+      name: "VIRIDIAN",
+      pigmentCodes: [
+        "PY3",
+        "PG7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "55",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-55-viridian.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-56-forest-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "FOREST GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PY1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "56",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-56-forest-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-57-turquoise-green-deep",
+      brandId: "kuretake-gansai-tambi",
+      name: "TURQUOISE GREEN DEEP",
+      pigmentCodes: [
+        "PG7",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "57",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-57-turquoise-green-deep.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-58-sap-green-deep",
+      brandId: "kuretake-gansai-tambi",
+      name: "SAP GREEN DEEP",
+      pigmentCodes: [
+        "PG7",
+        "PY1",
+        "PR101",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "58",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-58-sap-green-deep.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-59-lime-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "LIME GREEN",
+      pigmentCodes: [
+        "PY3",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "59",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-59-lime-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-60-cobalt-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "COBALT BLUE",
+      pigmentCodes: [
+        "PB29",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "60",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-60-cobalt-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-61-ultramarine-pale",
+      brandId: "kuretake-gansai-tambi",
+      name: "ULTRAMARINE PALE",
+      pigmentCodes: [
+        "PW6",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "61",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-61-ultramarine-pale.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-62-turquoise-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "TURQUOISE BLUE",
+      pigmentCodes: [
+        "PY3",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "62",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-62-turquoise-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-63-cerulean-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "CERULEAN BLUE",
+      pigmentCodes: [
+        "PB29",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "63",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-63-cerulean-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-64-ultramarine",
+      brandId: "kuretake-gansai-tambi",
+      name: "ULTRAMARINE",
+      pigmentCodes: [
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "64",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-64-ultramarine.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-66-prussian-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "PRUSSIAN BLUE",
+      pigmentCodes: [
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "66",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-66-prussian-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-67-indigo",
+      brandId: "kuretake-gansai-tambi",
+      name: "INDIGO",
+      pigmentCodes: [
+        "PY3",
+        "PB27"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "67",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-67-indigo.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-68-blue-gray-deep",
+      brandId: "kuretake-gansai-tambi",
+      name: "BLUE GRAY DEEP",
+      pigmentCodes: [
+        "PR48:3",
+        "PB27",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "68",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-68-blue-gray-deep.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-69-horizon-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "HORIZON BLUE",
+      pigmentCodes: [
+        "PW6",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "69",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-69-horizon-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-71-indian-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "INDIAN RED",
+      pigmentCodes: [
+        "PR48:3",
+        "PR101",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "71",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-71-indian-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-72-maroon",
+      brandId: "kuretake-gansai-tambi",
+      name: "MAROON",
+      pigmentCodes: [
+        "PR48:3",
+        "PY42",
+        "PR101",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "72",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-72-maroon.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-90-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "GOLD",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "90",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-90-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-91-bluish-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "BLUISH GOLD",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "91",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-91-bluish-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-101-gofun-white",
+      brandId: "kuretake-gansai-tambi",
+      name: "GOFUN WHITE",
+      pigmentCodes: [
+        "PW18"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "101",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-101-gofun-white.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-139-cobalt-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "COBALT VIOLET",
+      pigmentCodes: [
+        "PV23",
+        "PB1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "139",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-139-cobalt-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-230-graphite-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE RED",
+      pigmentCodes: [
+        "PBk10"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "230",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-230-graphite-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-231-sumi-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI RED",
+      pigmentCodes: [
+        "PBk7",
+        "PY1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "231",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-231-sumi-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-240-graphite-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE YELLOW",
+      pigmentCodes: [
+        "PBk10",
+        "PY55"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "240",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-240-graphite-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-241-sumi-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI YELLOW",
+      pigmentCodes: [
+        "PBk7",
+        "PY1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "241",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-241-sumi-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-250-graphite-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE GREEN",
+      pigmentCodes: [
+        "PBk10",
+        "PG7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "250",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-250-graphite-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-251-sumi-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI GREEN",
+      pigmentCodes: [
+        "PBk7",
+        "PG7",
+        "PY1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "251",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-251-sumi-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-260-graphite-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE VIOLET",
+      pigmentCodes: [
+        "PBk10",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "260",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-260-graphite-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-261-graphite-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE BLUE",
+      pigmentCodes: [
+        "PBk10",
+        "PV23",
+        "PB1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "261",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-261-graphite-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-262-sumi-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI BLUE",
+      pigmentCodes: [
+        "PBk7",
+        "PB29"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "262",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-262-sumi-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-263-sumi-purple",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI PURPLE",
+      pigmentCodes: [
+        "PBk7",
+        "PB1"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "263",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-263-sumi-purple.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-270-graphite-brown",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAPHITE BROWN",
+      pigmentCodes: [
+        "PBk10",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "270",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-270-graphite-brown.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-271-sumi-brown",
+      brandId: "kuretake-gansai-tambi",
+      name: "SUMI BROWN",
+      pigmentCodes: [
+        "PBk7",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "271",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-271-sumi-brown.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-301-old-mauve",
+      brandId: "kuretake-gansai-tambi",
+      name: "OLD MAUVE",
+      pigmentCodes: [
+        "PB27",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "301",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-301-old-mauve.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-302-vermillion",
+      brandId: "kuretake-gansai-tambi",
+      name: "VERMILLION",
+      pigmentCodes: [
+        "PY1",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "302",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-302-vermillion.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-303-mauve-taupe",
+      brandId: "kuretake-gansai-tambi",
+      name: "MAUVE TAUPE",
+      pigmentCodes: [
+        "PW6",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "303",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-303-mauve-taupe.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-304-alizarin-crimson",
+      brandId: "kuretake-gansai-tambi",
+      name: "ALIZARIN CRIMSON",
+      pigmentCodes: [
+        "PW6",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "304",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-304-alizarin-crimson.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-401-flax-beige",
+      brandId: "kuretake-gansai-tambi",
+      name: "FLAX BEIGE",
+      pigmentCodes: [
+        "PR101",
+        "PBk11",
+        "PY42",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "401",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-401-flax-beige.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-402-mars-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "MARS YELLOW",
+      pigmentCodes: [
+        "PY1",
+        "PR101"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "402",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-402-mars-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-403-venetian-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "VENETIAN RED",
+      pigmentCodes: [
+        "PR101",
+        "PBk11"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "403",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-403-venetian-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-404-saferon-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "SAFERON YELLOW",
+      pigmentCodes: [
+        "PY1",
+        "PB15:3",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "404",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-404-saferon-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-405-green-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "GREEN GOLD",
+      pigmentCodes: [
+        "PG7",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "405",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-405-green-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-406-beige-gray",
+      brandId: "kuretake-gansai-tambi",
+      name: "BEIGE GRAY",
+      pigmentCodes: [
+        "PY3",
+        "PR101",
+        "PBk11",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "406",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-406-beige-gray.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-501-pea-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEA GREEN",
+      pigmentCodes: [
+        "PY55",
+        "PG7",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "501",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-501-pea-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-502-billiard-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "BILLIARD GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "502",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-502-billiard-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-503-cobalt-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "COBALT GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PR101",
+        "PBk11",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "503",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-503-cobalt-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-504-green-gray",
+      brandId: "kuretake-gansai-tambi",
+      name: "GREEN GRAY",
+      pigmentCodes: [
+        "PG7",
+        "PR101",
+        "PBk11",
+        "PY42"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "504",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-504-green-gray.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-505-ivy-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "IVY GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PY42",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "505",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-505-ivy-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-506-shadow-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "SHADOW GREEN",
+      pigmentCodes: [
+        "PG7",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "506",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-506-shadow-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-601-grayish-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "GRAYISH BLUE",
+      pigmentCodes: [
+        "PB15:3",
+        "PW6",
+        "PBk7"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "601",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-601-grayish-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-602-cobalt-turquoise-light",
+      brandId: "kuretake-gansai-tambi",
+      name: "COBALT TURQUOISE LIGHT",
+      pigmentCodes: [
+        "PY3",
+        "PB15:3",
+        "PW6"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "602",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-602-cobalt-turquoise-light.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-634-opal-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL PINK",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "634",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-634-opal-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-638-opal-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL VIOLET",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "638",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-638-opal-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-651-opal-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL GREEN",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "651",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-651-opal-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-663-opal-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL BLUE",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "663",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-663-opal-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-692-opal-copper",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL COPPER",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "692",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-692-opal-copper.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-695-opal-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "OPAL GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "695",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-695-opal-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-731-pearl-scaret-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEARL SCARET RED",
+      pigmentCodes: [
+        "PW20",
+        "PR245",
+        "PY13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "731",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-731-pearl-scaret-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-734-pearl-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEARL PINK",
+      pigmentCodes: [
+        "PW20",
+        "PR245"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "734",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-734-pearl-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-740-pearl-lemon-yellow",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEARL LEMON YELLOW",
+      pigmentCodes: [
+        "PW20",
+        "PY13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "740",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-740-pearl-lemon-yellow.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-751-pearl-may-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEARL MAY GREEN",
+      pigmentCodes: [
+        "PW20",
+        "PG7",
+        "PY13"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "751",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-751-pearl-may-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-762-pearl-cobalt-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "PEARL COBALT BLUE",
+      pigmentCodes: [
+        "PW20",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "762",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-762-pearl-cobalt-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-771-aurora-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "AURORA RED",
+      pigmentCodes: [],
+      hex: "#e7becf",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "771",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-771-aurora-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-772-aurora-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "AURORA PINK",
+      pigmentCodes: [],
+      hex: "#d8cdd4",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "772",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-772-aurora-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-773-aurora-orange",
+      brandId: "kuretake-gansai-tambi",
+      name: "AURORA ORANGE",
+      pigmentCodes: [],
+      hex: "#debba9",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "773",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-773-aurora-orange.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-774-aurora-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "AURORA BLUE",
+      pigmentCodes: [],
+      hex: "#cfbac7",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "774",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-774-aurora-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-775-aurora-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "AURORA VIOLET",
+      pigmentCodes: [],
+      hex: "#c6afc7",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "775",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-775-aurora-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-830-gem-red",
+      brandId: "kuretake-gansai-tambi",
+      name: "GEM RED",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "830",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-830-gem-red.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-831-gem-pink",
+      brandId: "kuretake-gansai-tambi",
+      name: "GEM PINK",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "831",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-831-gem-pink.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-850-gem-green",
+      brandId: "kuretake-gansai-tambi",
+      name: "GEM GREEN",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "850",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-850-gem-green.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-860-gem-blue",
+      brandId: "kuretake-gansai-tambi",
+      name: "GEM BLUE",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "860",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-860-gem-blue.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-861-gem-violet",
+      brandId: "kuretake-gansai-tambi",
+      name: "GEM VIOLET",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "861",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-861-gem-violet.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-901-blue-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "BLUE GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "901",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-901-blue-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-902-red-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "RED GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "902",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-902-red-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-903-yellow-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "YELLOW GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "903",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-903-yellow-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-904-champagne-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "CHAMPAGNE GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "904",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-904-champagne-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-905-light-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "LIGHT GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "905",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-905-light-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "kuretake-gansai-tambi-906-white-gold",
+      brandId: "kuretake-gansai-tambi",
+      name: "WHITE GOLD",
+      pigmentCodes: [
+        "PW20"
+      ],
+      hex: "#E6D9C6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      hue: "\u2014",
+      performance: "Professional",
+      collection: "Gansai Tambi",
+      paintNumber: "906",
+      swatchImage: "/uploads/kuretake-gansai-tambi/KT-906-white-gold.png",
+      binder: "Water soluble resin"
+    },
+    {
+      id: "finetec-1280-deep-black",
+      brandId: "finetec",
+      name: "Deep Black",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#181818",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1280",
+      swatchImage: "/uploads/finetec/finetec-1280-deep-black.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2414-platinum",
+      brandId: "finetec",
+      name: "Platinum",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#A9B6BC",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2414",
+      swatchImage: "/uploads/finetec/finetec-2414-platinum.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-610-silver",
+      brandId: "finetec",
+      name: "Silver",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BBC5CA",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "610",
+      swatchImage: "/uploads/finetec/finetec-610-silver.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-611-champagne-silver",
+      brandId: "finetec",
+      name: "Champagne Silver",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D3CDAC",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "611",
+      swatchImage: "/uploads/finetec/finetec-611-champagne-silver.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1223-crystal-gold",
+      brandId: "finetec",
+      name: "Crystal Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D0B93F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1223",
+      swatchImage: "/uploads/finetec/finetec-1223-crystal-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-621-olympic-gold",
+      brandId: "finetec",
+      name: "Olympic Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BDA054",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "621",
+      swatchImage: "/uploads/finetec/finetec-621-olympic-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1222-pearl-gold",
+      brandId: "finetec",
+      name: "Pearl Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B59D4A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1222",
+      swatchImage: "/uploads/finetec/finetec-1222-pearl-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1212-pearl-silver",
+      brandId: "finetec",
+      name: "Pearl Silver",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CFCDC0",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1212",
+      swatchImage: "/uploads/finetec/finetec-1212-pearl-silver.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-620-arabic-gold",
+      brandId: "finetec",
+      name: "Arabic Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D6BC4A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "620",
+      swatchImage: "/uploads/finetec/finetec-620-arabic-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-625-royal-gold",
+      brandId: "finetec",
+      name: "Royal Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C39C53",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "625",
+      swatchImage: "/uploads/finetec/finetec-625-royal-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-630-bronze",
+      brandId: "finetec",
+      name: "Bronze",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C59B58",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "630",
+      swatchImage: "/uploads/finetec/finetec-630-bronze.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2435-hazelnut",
+      brandId: "finetec",
+      name: "Hazelnut",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BD9D62",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2435",
+      swatchImage: "/uploads/finetec/finetec-2435-hazelnut.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-9034-golden-ros",
+      brandId: "finetec",
+      name: "Golden Ros\xE9",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CC8C71",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "9034",
+      swatchImage: "/uploads/finetec/finetec-9034-golden-ros.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-631-copper",
+      brandId: "finetec",
+      name: "Copper",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C06B3E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "631",
+      swatchImage: "/uploads/finetec/finetec-631-copper.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2436-tangelo",
+      brandId: "finetec",
+      name: "Tangelo",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C96A4D",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2436",
+      swatchImage: "/uploads/finetec/finetec-2436-tangelo.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1250-amethyst",
+      brandId: "finetec",
+      name: "Amethyst",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#6F4C93",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1250",
+      swatchImage: "/uploads/finetec/finetec-1250-amethyst.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-652-vintage-lilac",
+      brandId: "finetec",
+      name: "Vintage Lilac",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#73518A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "652",
+      swatchImage: "/uploads/finetec/finetec-652-vintage-lilac.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1260-sapphire-blue",
+      brandId: "finetec",
+      name: "Sapphire Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#3F659F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1260",
+      swatchImage: "/uploads/finetec/finetec-1260-sapphire-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1232-orange-copper",
+      brandId: "finetec",
+      name: "Orange Copper",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B2632E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1232",
+      swatchImage: "/uploads/finetec/finetec-1232-orange-copper.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2444-ruby",
+      brandId: "finetec",
+      name: "Ruby",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CA516A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2444",
+      swatchImage: "/uploads/finetec/finetec-2444-ruby.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-9043-fuchsia",
+      brandId: "finetec",
+      name: "Fuchsia",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B4659C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "9043",
+      swatchImage: "/uploads/finetec/finetec-9043-fuchsia.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1241-purple",
+      brandId: "finetec",
+      name: "Purple",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#895178",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1241",
+      swatchImage: "/uploads/finetec/finetec-1241-purple.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1240-red",
+      brandId: "finetec",
+      name: "Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#9B4C5C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1240",
+      swatchImage: "/uploads/finetec/finetec-1240-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-9062-high-chroma-blue",
+      brandId: "finetec",
+      name: "High Chroma Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#578BCE",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "9062",
+      swatchImage: "/uploads/finetec/finetec-9062-high-chroma-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-9076-dark-teal",
+      brandId: "finetec",
+      name: "Dark Teal",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#5E99A1",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "9076",
+      swatchImage: "/uploads/finetec/finetec-9076-dark-teal.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1270-caribbean-green",
+      brandId: "finetec",
+      name: "Caribbean Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#52A19E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1270",
+      swatchImage: "/uploads/finetec/finetec-1270-caribbean-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-674-emerald",
+      brandId: "finetec",
+      name: "Emerald",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#4A9574",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "674",
+      swatchImage: "/uploads/finetec/finetec-674-emerald.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-9073-mint",
+      brandId: "finetec",
+      name: "Mint",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#A1CABE",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "9073",
+      swatchImage: "/uploads/finetec/finetec-9073-mint.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1213-blue-silver",
+      brandId: "finetec",
+      name: "Blue Silver",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#8199A7",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1213",
+      swatchImage: "/uploads/finetec/finetec-1213-blue-silver.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-1290-mystic-colour",
+      brandId: "finetec",
+      name: "Mystic Colour",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#5A7E7A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "1290",
+      swatchImage: "/uploads/finetec/finetec-1290-mystic-colour.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-692-autumn-gold",
+      brandId: "finetec",
+      name: "Autumn Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D2849E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "692",
+      swatchImage: "/uploads/finetec/finetec-692-autumn-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2491-patina",
+      brandId: "finetec",
+      name: "Patina",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#5CBEAC",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2491",
+      swatchImage: "/uploads/finetec/finetec-2491-patina.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-2493-twilight",
+      brandId: "finetec",
+      name: "Twilight",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#6847BD",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "2493",
+      swatchImage: "/uploads/finetec/finetec-2493-twilight.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5624-gold",
+      brandId: "finetec",
+      name: "Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BB9D5E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5624",
+      swatchImage: "/uploads/finetec/finetec-5624-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5633-golden-copper",
+      brandId: "finetec",
+      name: "Golden Copper",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B98E8E",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5633",
+      swatchImage: "/uploads/finetec/finetec-5633-golden-copper.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5642-light-purple",
+      brandId: "finetec",
+      name: "Light Purple",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B18091",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5642",
+      swatchImage: "/uploads/finetec/finetec-5642-light-purple.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5651-amethyst",
+      brandId: "finetec",
+      name: "Amethyst",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#AC7DC3",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5651",
+      swatchImage: "/uploads/finetec/finetec-5651-amethyst.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5661-sapphire-blue",
+      brandId: "finetec",
+      name: "Sapphire Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#669CD5",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5661",
+      swatchImage: "/uploads/finetec/finetec-5661-sapphire-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-5671-jade-green",
+      brandId: "finetec",
+      name: "Jade Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#87BA99",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "5671",
+      swatchImage: "/uploads/finetec/finetec-5671-jade-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7800-galaxy-black",
+      brandId: "finetec",
+      name: "Galaxy Black",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#2B2E3A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7800",
+      swatchImage: "/uploads/finetec/finetec-7800-galaxy-black.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7101-pewter",
+      brandId: "finetec",
+      name: "Pewter",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#8E8F92",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7101",
+      swatchImage: "/uploads/finetec/finetec-7101-pewter.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7207-beach-gold",
+      brandId: "finetec",
+      name: "Beach Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D2BE5C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7207",
+      swatchImage: "/uploads/finetec/finetec-7207-beach-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7202-pharaohs-gold",
+      brandId: "finetec",
+      name: "Pharaohs Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CEBA55",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7202",
+      swatchImage: "/uploads/finetec/finetec-7202-pharaohs-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7206-volcano-gold",
+      brandId: "finetec",
+      name: "Volcano Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CC9B3C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7206",
+      swatchImage: "/uploads/finetec/finetec-7206-volcano-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7203-fine-gold",
+      brandId: "finetec",
+      name: "Fine gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C99D55",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7203",
+      swatchImage: "/uploads/finetec/finetec-7203-fine-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7204-pale-gold",
+      brandId: "finetec",
+      name: "Pale Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B6966C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7204",
+      swatchImage: "/uploads/finetec/finetec-7204-pale-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7102-glittering-sea",
+      brandId: "finetec",
+      name: "Glittering Sea",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B9B9B9",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7102",
+      swatchImage: "/uploads/finetec/finetec-7102-glittering-sea.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7201-rich-gold",
+      brandId: "finetec",
+      name: "Rich Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BDB475",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7201",
+      swatchImage: "/uploads/finetec/finetec-7201-rich-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7401-mars-red",
+      brandId: "finetec",
+      name: "Mars Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B35158",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7401",
+      swatchImage: "/uploads/finetec/finetec-7401-mars-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7400-fiery-red",
+      brandId: "finetec",
+      name: "Fiery Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#DB3C41",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7400",
+      swatchImage: "/uploads/finetec/finetec-7400-fiery-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7601-ocean-blue",
+      brandId: "finetec",
+      name: "Ocean Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#3080AC",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7601",
+      swatchImage: "/uploads/finetec/finetec-7601-ocean-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7702-poseidon-green",
+      brandId: "finetec",
+      name: "Poseidon Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#239477",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7702",
+      swatchImage: "/uploads/finetec/finetec-7702-poseidon-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7700-high-chroma-green",
+      brandId: "finetec",
+      name: "High Chroma Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#4A967F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7700",
+      swatchImage: "/uploads/finetec/finetec-7700-high-chroma-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7701-sea-green",
+      brandId: "finetec",
+      name: "Sea Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#51905A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7701",
+      swatchImage: "/uploads/finetec/finetec-7701-sea-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7103-moon-grey",
+      brandId: "finetec",
+      name: "Moon Grey",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#8B929C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7103",
+      swatchImage: "/uploads/finetec/finetec-7103-moon-grey.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7302-caramel",
+      brandId: "finetec",
+      name: "Caramel",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B9936C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7302",
+      swatchImage: "/uploads/finetec/finetec-7302-caramel.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7301-magma-orange",
+      brandId: "finetec",
+      name: "Magma Orange",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#E9903C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7301",
+      swatchImage: "/uploads/finetec/finetec-7301-magma-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7300-brilliant-rust",
+      brandId: "finetec",
+      name: "Brilliant Rust",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#AE5D4C",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7300",
+      swatchImage: "/uploads/finetec/finetec-7300-brilliant-rust.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7501-phoenix-pink",
+      brandId: "finetec",
+      name: "Phoenix Pink",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D04AA1",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7501",
+      swatchImage: "/uploads/finetec/finetec-7501-phoenix-pink.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7500-sparkling-pink",
+      brandId: "finetec",
+      name: "Sparkling Pink",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#A55096",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7500",
+      swatchImage: "/uploads/finetec/finetec-7500-sparkling-pink.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8690-blue",
+      brandId: "finetec",
+      name: "Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#6394DD",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8690",
+      swatchImage: "/uploads/finetec/finetec-8690-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7402-outback-red",
+      brandId: "finetec",
+      name: "Outback Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B46245",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7402",
+      swatchImage: "/uploads/finetec/finetec-7402-outback-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7303-colorado-brown",
+      brandId: "finetec",
+      name: "Colorado Brown",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#CF9D70",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7303",
+      swatchImage: "/uploads/finetec/finetec-7303-colorado-brown.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7208-sahara-gold",
+      brandId: "finetec",
+      name: "Sahara Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D39442",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7208",
+      swatchImage: "/uploads/finetec/finetec-7208-sahara-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-6100-real-silver",
+      brandId: "finetec",
+      name: "Real Silver",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B3AF93",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "6100",
+      swatchImage: "/uploads/finetec/finetec-6100-real-silver.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Metallic Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-6200-high-reflection-gold",
+      brandId: "finetec",
+      name: "High Reflection Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C0A64D",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "6200",
+      swatchImage: "/uploads/finetec/finetec-6200-high-reflection-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Metallic Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8190-white",
+      brandId: "finetec",
+      name: "White",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D8D5CA",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8190",
+      swatchImage: "/uploads/finetec/finetec-8190-white.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8590-amethyst",
+      brandId: "finetec",
+      name: "Amethyst",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B178C3",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8590",
+      swatchImage: "/uploads/finetec/finetec-8590-amethyst.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8790-turquoise",
+      brandId: "finetec",
+      name: "Turquoise",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#34C0C4",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8790",
+      swatchImage: "/uploads/finetec/finetec-8790-turquoise.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7209-orient-gold",
+      brandId: "finetec",
+      name: "Orient Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D9B637",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7209",
+      swatchImage: "/uploads/finetec/finetec-7209-orient-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Pearlescent Colours - Satin",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8290-gold",
+      brandId: "finetec",
+      name: "Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C8BC5F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8290",
+      swatchImage: "/uploads/finetec/finetec-8290-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8490-red",
+      brandId: "finetec",
+      name: "Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#C37DA2",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8490",
+      swatchImage: "/uploads/finetec/finetec-8490-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours - High Sparkle",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8200-sun-gold",
+      brandId: "finetec",
+      name: "Sun Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D0BA51",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8200",
+      swatchImage: "/uploads/finetec/finetec-8200-sun-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8700-aurora-green",
+      brandId: "finetec",
+      name: "Aurora Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#5EBB81",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8700",
+      swatchImage: "/uploads/finetec/finetec-8700-aurora-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7900-red-gold",
+      brandId: "finetec",
+      name: "Red/Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#B0693F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7900",
+      swatchImage: "/uploads/finetec/finetec-7900-red-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7901-pink-orange",
+      brandId: "finetec",
+      name: "Pink/Orange",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BD6A85",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7901",
+      swatchImage: "/uploads/finetec/finetec-7901-pink-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7902-turquoise-red",
+      brandId: "finetec",
+      name: "Turquoise/Red",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#847C8A",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7902",
+      swatchImage: "/uploads/finetec/finetec-7902-turquoise-red.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7903-golden-green-pink",
+      brandId: "finetec",
+      name: "Golden Green/Pink",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#8D7B6D",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7903",
+      swatchImage: "/uploads/finetec/finetec-7903-golden-green-pink.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7904-green-amethyst",
+      brandId: "finetec",
+      name: "Green/Amethyst",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#778FA9",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7904",
+      swatchImage: "/uploads/finetec/finetec-7904-green-amethyst.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Flip-Flop Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7600-blue-violet",
+      brandId: "finetec",
+      name: "Blue Violet",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#9586DC",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7600",
+      swatchImage: "/uploads/finetec/finetec-7600-blue-violet.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "TwoTone Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8500-aurora-pink",
+      brandId: "finetec",
+      name: "Aurora Pink",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#BE5AC4",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8500",
+      swatchImage: "/uploads/finetec/finetec-8500-aurora-pink.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8300-orange-sky",
+      brandId: "finetec",
+      name: "Orange Sky",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D88D5F",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8300",
+      swatchImage: "/uploads/finetec/finetec-8300-orange-sky.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8601-dusk-blue",
+      brandId: "finetec",
+      name: "Dusk Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#6357C1",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8601",
+      swatchImage: "/uploads/finetec/finetec-8601-dusk-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-8600-sky-blue",
+      brandId: "finetec",
+      name: "Sky Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#4B73D0",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "8600",
+      swatchImage: "/uploads/finetec/finetec-8600-sky-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Iridescent Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n901-yellow-afterglowing",
+      brandId: "finetec",
+      name: "Yellow Afterglowing",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#D8E042",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N901",
+      swatchImage: "/uploads/finetec/finetec-n901-yellow-afterglowing.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n902-orange",
+      brandId: "finetec",
+      name: "Orange",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#F48835",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N902",
+      swatchImage: "/uploads/finetec/finetec-n902-orange.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n904-magenta",
+      brandId: "finetec",
+      name: "Magenta",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#ED3F95",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N904",
+      swatchImage: "/uploads/finetec/finetec-n904-magenta.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n905-purple",
+      brandId: "finetec",
+      name: "Purple",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#9B4198",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N905",
+      swatchImage: "/uploads/finetec/finetec-n905-purple.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n906-blue",
+      brandId: "finetec",
+      name: "Blue",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#00A9E6",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N906",
+      swatchImage: "/uploads/finetec/finetec-n906-blue.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-n907-green",
+      brandId: "finetec",
+      name: "Green",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#6CBE55",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "N907",
+      swatchImage: "/uploads/finetec/finetec-n907-green.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
+    },
+    {
+      id: "finetec-7205-pearl-blue-gold",
+      brandId: "finetec",
+      name: "Pearl Blue Gold",
+      pigmentCodes: [],
+      hue: null,
+      hex: "#8C9577",
+      transparency: null,
+      staining: null,
+      granulation: null,
+      lightfastness: null,
+      isVegan: null,
+      isDiscontinued: false,
+      series: null,
+      paintNumber: "7205",
+      swatchImage: "/uploads/finetec/finetec-7205-pearl-blue-gold.png",
+      stainingVsLifting: null,
+      flow: null,
+      tintingStrength: null,
+      performance: "Professional",
+      toxicity: null,
+      collection: "Neon Colours",
+      binder: "Gum arabic; mica-based pearlescent colors"
     }
   ]
 };
@@ -79173,6 +87424,14 @@ var config_default = defineConfig({
               },
               {
                 type: "string",
+                name: "comment",
+                label: "Comment",
+                ui: {
+                  component: "textarea"
+                }
+              },
+              {
+                type: "string",
                 name: "website",
                 label: "Website"
               },
@@ -79186,6 +87445,11 @@ var config_default = defineConfig({
                 name: "status",
                 label: "Status",
                 options: ["Professional", "Student"]
+              },
+              {
+                type: "string",
+                name: "binder",
+                label: "Binder"
               }
             ]
           }
@@ -79383,6 +87647,11 @@ var config_default = defineConfig({
                 type: "string",
                 name: "swatchImage",
                 label: "Swatch Image"
+              },
+              {
+                type: "string",
+                name: "binder",
+                label: "Binder"
               },
               {
                 type: "string",
