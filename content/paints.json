@@ -63622,7 +63622,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-lemon-yellow.png"
     },
     {
       "id": "rembrandt-transparent-yellow-medium",
@@ -63639,7 +63640,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-transparent-yellow-medium.png"
     },
     {
       "id": "rembrandt-azo-yellow-light",
@@ -63656,7 +63658,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-azo-yellow-light.png"
     },
     {
       "id": "rembrandt-cadmium-yellow",
@@ -63691,7 +63694,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-azo-yellow-medium.png"
     },
     {
       "id": "rembrandt-azo-yellow-deep",
@@ -63708,7 +63712,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-azo-yellow-deep.png"
     },
     {
       "id": "rembrandt-indian-yellow",
@@ -63726,7 +63731,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-indian-yellow.png"
     },
     {
       "id": "rembrandt-aureoline",
@@ -63743,7 +63749,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-aureoline.png"
     },
     {
       "id": "rembrandt-gamboge",
@@ -63761,7 +63768,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-gamboge.png"
     },
     {
       "id": "rembrandt-naples-yellow-deep",
@@ -63835,7 +63843,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-benzimidazole-orange.png"
     },
     {
       "id": "rembrandt-cadmium-orange",
@@ -63852,7 +63861,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cadmium-orange.png"
     },
     {
       "id": "rembrandt-pyrrole-orange",
@@ -63869,7 +63879,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-pyrrole-orange.png"
     },
     {
       "id": "rembrandt-brilliant-orange",
@@ -63886,7 +63897,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-brilliant-orange.png"
     },
     {
       "id": "rembrandt-vermilion",
@@ -63904,7 +63916,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-vermilion.png"
     },
     {
       "id": "rembrandt-permanent-red-medium",
@@ -63921,7 +63934,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-red-medium.png"
     },
     {
       "id": "rembrandt-cadmium-red",
@@ -63938,7 +63952,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cadmium-red.png"
     },
     {
       "id": "rembrandt-permanent-red-deep",
@@ -63955,7 +63970,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-red-deep.png"
     },
     {
       "id": "rembrandt-perylene-red-dark",
@@ -63972,7 +63988,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-perylene-red-dark.png"
     },
     {
       "id": "rembrandt-cadmium-red-deep",
@@ -63989,7 +64006,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cadmium-red-deep.png"
     },
     {
       "id": "rembrandt-quinacridone-red",
@@ -64006,7 +64024,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-red.png"
     },
     {
       "id": "rembrandt-perylene-red",
@@ -64023,7 +64042,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-perylene-red.png"
     },
     {
       "id": "rembrandt-naphtol-red-bluish",
@@ -64040,7 +64060,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-naphtol-red-bluish.png"
     },
     {
       "id": "rembrandt-alizarin-crimson",
@@ -64093,7 +64114,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-madder-lake.png"
     },
     {
       "id": "rembrandt-carmine",
@@ -64110,7 +64132,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-carmine.png"
     },
     {
       "id": "rembrandt-permanent-madder-brown",
@@ -64128,7 +64151,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-madder-brown.png"
     },
     {
       "id": "rembrandt-permanent-madder-purple",
@@ -64146,7 +64170,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-madder-purple.png"
     },
     {
       "id": "rembrandt-venetian-red",
@@ -64182,7 +64207,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-indian-red.png"
     },
     {
       "id": "rembrandt-permanent-madder-light",
@@ -64200,7 +64226,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-madder-light.png"
     },
     {
       "id": "rembrandt-quinacridone-rose",
@@ -64253,7 +64280,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-rose-magenta.png"
     },
     {
       "id": "rembrandt-rose",
@@ -64271,7 +64299,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-rose.png"
     },
     {
       "id": "rembrandt-permanent-red-violet",
@@ -64306,7 +64335,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-red-violet.png"
     },
     {
       "id": "rembrandt-benzimidazole-violet",
@@ -64323,7 +64353,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-benzimidazole-violet.png"
     },
     {
       "id": "rembrandt-mauve",
@@ -64359,7 +64390,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-purple-bluish.png"
     },
     {
       "id": "rembrandt-manganese-violet",
@@ -64394,7 +64426,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-blue-violet.png"
     },
     {
       "id": "rembrandt-ultramarine-violet",
@@ -64449,7 +64482,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-lavender.png"
     },
     {
       "id": "rembrandt-ultramarine-deep",
@@ -64466,7 +64500,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-ultramarine-deep.png"
     },
     {
       "id": "rembrandt-french-ultramarine",
@@ -64483,7 +64518,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-french-ultramarine.png"
     },
     {
       "id": "rembrandt-cobalt-blue-ultramarine",
@@ -64501,7 +64537,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-cobalt-blue-ultramarine.png"
     },
     {
       "id": "rembrandt-cobalt-blue",
@@ -64518,7 +64555,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cobalt-blue.png"
     },
     {
       "id": "rembrandt-phthalo-blue-rs",
@@ -64571,7 +64609,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-prussian-blue.png"
     },
     {
       "id": "rembrandt-indanthrene-blue",
@@ -64588,7 +64627,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-indanthrene-blue.png"
     },
     {
       "id": "rembrandt-indigo",
@@ -64624,7 +64664,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cerulean-blue.png"
     },
     {
       "id": "rembrandt-cerulean-blue-phthalo",
@@ -64660,7 +64701,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cobalt-turquoise-blue.png"
     },
     {
       "id": "rembrandt-turquoise-blue",
@@ -64696,7 +64738,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-cerulean-blue-deep.png"
     },
     {
       "id": "rembrandt-cobalt-turquoise-green",
@@ -64842,7 +64885,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-permanent-yellow-green.png"
     },
     {
       "id": "rembrandt-sap-green",
@@ -64860,7 +64904,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/rembrandt/RM-sap-green.png"
     },
     {
       "id": "rembrandt-hooker-green-light",
@@ -64971,7 +65016,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-azomethine-green-yellow.png"
     },
     {
       "id": "rembrandt-yellow-ochre",
@@ -64989,7 +65035,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-yellow-ochre.png"
     },
     {
       "id": "rembrandt-gold-ochre",
@@ -65006,7 +65053,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-gold-ochre.png"
     },
     {
       "id": "rembrandt-transparent-oxide-yellow",
@@ -65041,7 +65089,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-raw-sienna.png"
     },
     {
       "id": "rembrandt-quinacridone-orange",
@@ -65058,7 +65107,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-quinacridone-orange.png"
     },
     {
       "id": "rembrandt-transparent-oxide-red",
@@ -65149,7 +65199,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-transparent-oxide-umber.png"
     },
     {
       "id": "rembrandt-sepia",
@@ -65186,7 +65237,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-vandyke-brown.png"
     },
     {
       "id": "rembrandt-spinel-grey",
@@ -65352,7 +65404,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-dusk-pink.png"
     },
     {
       "id": "rembrandt-dusk-green",
@@ -65388,7 +65441,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-graphite.png"
     },
     {
       "id": "rembrandt-silver",
@@ -65405,7 +65459,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-silver.png"
     },
     {
       "id": "rembrandt-light-gold",
@@ -65422,7 +65477,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-light-gold.png"
     },
     {
       "id": "rembrandt-copper",
@@ -65439,7 +65495,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-copper.png"
     },
     {
       "id": "rembrandt-interference-white",
@@ -65456,7 +65513,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-interference-white.png"
     },
     {
       "id": "rembrandt-interference-violet",
@@ -65473,7 +65531,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-interference-violet.png"
     },
     {
       "id": "rembrandt-interference-blue",
@@ -65490,7 +65549,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-interference-blue.png"
     },
     {
       "id": "rembrandt-interference-green",
@@ -65507,7 +65567,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-interference-green.png"
     },
     {
       "id": "rembrandt-chameleon-gold-red-violet",
@@ -65524,7 +65585,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chameleon-gold-red-violet.png"
     },
     {
       "id": "rembrandt-chameleon-red-violet-blue",
@@ -65541,7 +65603,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chameleon-red-violet-blue.png"
     },
     {
       "id": "rembrandt-chameleon-violet-blue-green",
@@ -65558,7 +65621,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chameleon-violet-blue-green.png"
     },
     {
       "id": "rembrandt-chameleon-blue-green-gold",
@@ -65575,7 +65639,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-chameleon-blue-green-gold.png"
     },
     {
       "id": "rembrandt-spark-green",
@@ -65592,7 +65657,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-spark-green.png"
     },
     {
       "id": "rembrandt-spark-blue",
@@ -65609,7 +65675,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-spark-blue.png"
     },
     {
       "id": "rembrandt-spark-violet",
@@ -65626,7 +65693,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-spark-violet.png"
     },
     {
       "id": "rembrandt-spark-pink",
@@ -65643,7 +65711,8 @@
       "isVegan": true,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/rembrandt/RM-spark-pink.png"
     },
     {
       "id": "lutea-grey",

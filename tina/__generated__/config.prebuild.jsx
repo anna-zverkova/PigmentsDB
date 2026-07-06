@@ -64045,7 +64045,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-lemon-yellow.png"
     },
     {
       id: "rembrandt-transparent-yellow-medium",
@@ -64062,7 +64063,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-transparent-yellow-medium.png"
     },
     {
       id: "rembrandt-azo-yellow-light",
@@ -64079,7 +64081,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-azo-yellow-light.png"
     },
     {
       id: "rembrandt-cadmium-yellow",
@@ -64114,7 +64117,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-azo-yellow-medium.png"
     },
     {
       id: "rembrandt-azo-yellow-deep",
@@ -64131,7 +64135,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-azo-yellow-deep.png"
     },
     {
       id: "rembrandt-indian-yellow",
@@ -64149,7 +64154,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-indian-yellow.png"
     },
     {
       id: "rembrandt-aureoline",
@@ -64166,7 +64172,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-aureoline.png"
     },
     {
       id: "rembrandt-gamboge",
@@ -64184,7 +64191,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-gamboge.png"
     },
     {
       id: "rembrandt-naples-yellow-deep",
@@ -64258,7 +64266,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-benzimidazole-orange.png"
     },
     {
       id: "rembrandt-cadmium-orange",
@@ -64275,7 +64284,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cadmium-orange.png"
     },
     {
       id: "rembrandt-pyrrole-orange",
@@ -64292,7 +64302,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-pyrrole-orange.png"
     },
     {
       id: "rembrandt-brilliant-orange",
@@ -64309,7 +64320,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-brilliant-orange.png"
     },
     {
       id: "rembrandt-vermilion",
@@ -64327,7 +64339,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-vermilion.png"
     },
     {
       id: "rembrandt-permanent-red-medium",
@@ -64344,7 +64357,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-red-medium.png"
     },
     {
       id: "rembrandt-cadmium-red",
@@ -64361,7 +64375,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cadmium-red.png"
     },
     {
       id: "rembrandt-permanent-red-deep",
@@ -64378,7 +64393,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-red-deep.png"
     },
     {
       id: "rembrandt-perylene-red-dark",
@@ -64395,7 +64411,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-perylene-red-dark.png"
     },
     {
       id: "rembrandt-cadmium-red-deep",
@@ -64412,7 +64429,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cadmium-red-deep.png"
     },
     {
       id: "rembrandt-quinacridone-red",
@@ -64429,7 +64447,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-quinacridone-red.png"
     },
     {
       id: "rembrandt-perylene-red",
@@ -64446,7 +64465,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-perylene-red.png"
     },
     {
       id: "rembrandt-naphtol-red-bluish",
@@ -64463,7 +64483,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-naphtol-red-bluish.png"
     },
     {
       id: "rembrandt-alizarin-crimson",
@@ -64516,7 +64537,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-permanent-madder-lake.png"
     },
     {
       id: "rembrandt-carmine",
@@ -64533,7 +64555,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-carmine.png"
     },
     {
       id: "rembrandt-permanent-madder-brown",
@@ -64551,7 +64574,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-madder-brown.png"
     },
     {
       id: "rembrandt-permanent-madder-purple",
@@ -64569,7 +64593,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-madder-purple.png"
     },
     {
       id: "rembrandt-venetian-red",
@@ -64605,7 +64630,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-indian-red.png"
     },
     {
       id: "rembrandt-permanent-madder-light",
@@ -64623,7 +64649,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-madder-light.png"
     },
     {
       id: "rembrandt-quinacridone-rose",
@@ -64676,7 +64703,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-quinacridone-rose-magenta.png"
     },
     {
       id: "rembrandt-rose",
@@ -64694,7 +64722,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-rose.png"
     },
     {
       id: "rembrandt-permanent-red-violet",
@@ -64729,7 +64758,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-quinacridone-red-violet.png"
     },
     {
       id: "rembrandt-benzimidazole-violet",
@@ -64746,7 +64776,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-benzimidazole-violet.png"
     },
     {
       id: "rembrandt-mauve",
@@ -64782,7 +64813,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-quinacridone-purple-bluish.png"
     },
     {
       id: "rembrandt-manganese-violet",
@@ -64817,7 +64849,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-blue-violet.png"
     },
     {
       id: "rembrandt-ultramarine-violet",
@@ -64872,7 +64905,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-lavender.png"
     },
     {
       id: "rembrandt-ultramarine-deep",
@@ -64889,7 +64923,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-ultramarine-deep.png"
     },
     {
       id: "rembrandt-french-ultramarine",
@@ -64906,7 +64941,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-french-ultramarine.png"
     },
     {
       id: "rembrandt-cobalt-blue-ultramarine",
@@ -64924,7 +64960,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-cobalt-blue-ultramarine.png"
     },
     {
       id: "rembrandt-cobalt-blue",
@@ -64941,7 +64978,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cobalt-blue.png"
     },
     {
       id: "rembrandt-phthalo-blue-rs",
@@ -64994,7 +65032,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-prussian-blue.png"
     },
     {
       id: "rembrandt-indanthrene-blue",
@@ -65011,7 +65050,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-indanthrene-blue.png"
     },
     {
       id: "rembrandt-indigo",
@@ -65047,7 +65087,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cerulean-blue.png"
     },
     {
       id: "rembrandt-cerulean-blue-phthalo",
@@ -65083,7 +65124,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cobalt-turquoise-blue.png"
     },
     {
       id: "rembrandt-turquoise-blue",
@@ -65119,7 +65161,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-cerulean-blue-deep.png"
     },
     {
       id: "rembrandt-cobalt-turquoise-green",
@@ -65265,7 +65308,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-permanent-yellow-green.png"
     },
     {
       id: "rembrandt-sap-green",
@@ -65283,7 +65327,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "Hue"
+      hue: "Hue",
+      swatchImage: "/uploads/rembrandt/RM-sap-green.png"
     },
     {
       id: "rembrandt-hooker-green-light",
@@ -65394,7 +65439,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-azomethine-green-yellow.png"
     },
     {
       id: "rembrandt-yellow-ochre",
@@ -65412,7 +65458,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-yellow-ochre.png"
     },
     {
       id: "rembrandt-gold-ochre",
@@ -65429,7 +65476,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-gold-ochre.png"
     },
     {
       id: "rembrandt-transparent-oxide-yellow",
@@ -65464,7 +65512,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-raw-sienna.png"
     },
     {
       id: "rembrandt-quinacridone-orange",
@@ -65481,7 +65530,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-quinacridone-orange.png"
     },
     {
       id: "rembrandt-transparent-oxide-red",
@@ -65572,7 +65622,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-transparent-oxide-umber.png"
     },
     {
       id: "rembrandt-sepia",
@@ -65609,7 +65660,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-vandyke-brown.png"
     },
     {
       id: "rembrandt-spinel-grey",
@@ -65775,7 +65827,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-dusk-pink.png"
     },
     {
       id: "rembrandt-dusk-green",
@@ -65811,7 +65864,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-graphite.png"
     },
     {
       id: "rembrandt-silver",
@@ -65828,7 +65882,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-silver.png"
     },
     {
       id: "rembrandt-light-gold",
@@ -65845,7 +65900,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-light-gold.png"
     },
     {
       id: "rembrandt-copper",
@@ -65862,7 +65918,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-copper.png"
     },
     {
       id: "rembrandt-interference-white",
@@ -65879,7 +65936,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-interference-white.png"
     },
     {
       id: "rembrandt-interference-violet",
@@ -65896,7 +65954,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-interference-violet.png"
     },
     {
       id: "rembrandt-interference-blue",
@@ -65913,7 +65972,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-interference-blue.png"
     },
     {
       id: "rembrandt-interference-green",
@@ -65930,7 +65990,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-interference-green.png"
     },
     {
       id: "rembrandt-chameleon-gold-red-violet",
@@ -65947,7 +66008,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-chameleon-gold-red-violet.png"
     },
     {
       id: "rembrandt-chameleon-red-violet-blue",
@@ -65964,7 +66026,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-chameleon-red-violet-blue.png"
     },
     {
       id: "rembrandt-chameleon-violet-blue-green",
@@ -65981,7 +66044,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-chameleon-violet-blue-green.png"
     },
     {
       id: "rembrandt-chameleon-blue-green-gold",
@@ -65998,7 +66062,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-chameleon-blue-green-gold.png"
     },
     {
       id: "rembrandt-spark-green",
@@ -66015,7 +66080,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-spark-green.png"
     },
     {
       id: "rembrandt-spark-blue",
@@ -66032,7 +66098,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-spark-blue.png"
     },
     {
       id: "rembrandt-spark-violet",
@@ -66049,7 +66116,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-spark-violet.png"
     },
     {
       id: "rembrandt-spark-pink",
@@ -66066,7 +66134,8 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       performance: "Professional",
-      hue: "\u2014"
+      hue: "\u2014",
+      swatchImage: "/uploads/rembrandt/RM-spark-pink.png"
     },
     {
       id: "lutea-grey",
