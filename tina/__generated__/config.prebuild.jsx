@@ -17182,6 +17182,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-red.png"
     },
     {
       id: "shinhan-pwc-brown-madder",
@@ -17252,6 +17254,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-brilliant-pink.png"
     },
     {
       id: "shinhan-pwc-shell-pink",
@@ -17286,6 +17290,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-red-deep.png"
     },
     {
       id: "shinhan-pwc-quinacridone-red",
@@ -17319,6 +17325,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-pyrrole-red.png"
     },
     {
       id: "shinhan-pwc-vermilion",
@@ -17336,6 +17344,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-vermilion.png"
     },
     {
       id: "shinhan-pwc-vermilion-hue",
@@ -17352,6 +17362,8 @@ var paints_default = {
       lightfastness: "1/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-vermilion-hue.png"
     },
     {
       id: "shinhan-pwc-cadmium-red-orange",
@@ -17368,6 +17380,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-red-orange.png"
     },
     {
       id: "shinhan-pwc-brilliant-orange",
@@ -17384,6 +17398,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-brilliant-orange.png"
     },
     {
       id: "shinhan-pwc-permanent-yellow-orange",
@@ -17401,6 +17417,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-yellow-orange.png"
     },
     {
       id: "shinhan-pwc-cadmium-yellow-orange",
@@ -17435,6 +17453,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-yellow-deep.png"
     },
     {
       id: "shinhan-pwc-cadmium-yellow",
@@ -17451,6 +17471,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-yellow.png"
     },
     {
       id: "shinhan-pwc-aureolin",
@@ -17484,6 +17506,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-indian-yellow.png"
     },
     {
       id: "shinhan-pwc-permanent-yellow-deep",
@@ -17500,6 +17524,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-permanent-yellow-deep.png"
     },
     {
       id: "shinhan-pwc-permanent-yellow-light",
@@ -17533,6 +17559,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-lemon-yellow.png"
     },
     {
       id: "shinhan-pwc-cadmium-yellow-light",
@@ -17603,6 +17631,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-jaune-brilliant-1.png"
     },
     {
       id: "shinhan-pwc-jaune-brilliant-no-2",
@@ -17620,6 +17650,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-jaune-brilliant-no-2.png"
     },
     {
       id: "shinhan-pwc-greenish-yellow",
@@ -17636,6 +17668,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-greenish-yellow.png"
     },
     {
       id: "shinhan-pwc-olive-green",
@@ -17653,6 +17687,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-olive-green.png"
     },
     {
       id: "shinhan-pwc-terre-verte-ys",
@@ -17724,6 +17760,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-leaf-green.png"
     },
     {
       id: "shinhan-pwc-permanent-green-no-1",
@@ -17811,6 +17849,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cadmium-green-deep.png"
     },
     {
       id: "shinhan-pwc-oxide-of-chromium",
@@ -17863,6 +17903,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-terre-verte.png"
     },
     {
       id: "shinhan-pwc-hookers-green",
@@ -17915,6 +17957,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cobalt-green.png"
     },
     {
       id: "shinhan-pwc-viridian",
@@ -18107,6 +18151,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-phthalo-blue-rs.png"
     },
     {
       id: "shinhan-pwc-peacock-blue",
@@ -18140,7 +18186,7 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "4/4",
       isVegan: true,
-      swatchImage: "",
+      swatchImage: "/uploads/shinhan-pwc/SPWC-horizon-blue.png",
       performance: "Professional"
     },
     {
@@ -18178,6 +18224,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-turquoise-blue-light.png"
     },
     {
       id: "shinhan-pwc-verditer-blue",
@@ -18195,6 +18243,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-verditer-blue.png"
     },
     {
       id: "shinhan-pwc-cerulean-blue",
@@ -18211,6 +18261,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cerulean-blue.png"
     },
     {
       id: "shinhan-pwc-cerulean-blue-hue",
@@ -18243,7 +18295,7 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "3/3",
       isVegan: true,
-      swatchImage: "",
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cobalt-blue.png",
       performance: "Professional"
     },
     {
@@ -18261,6 +18313,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-cobalt-blue-hue.png"
     },
     {
       id: "shinhan-pwc-ultramarine-light",
@@ -18277,6 +18331,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-ultramarine-light.png"
     },
     {
       id: "shinhan-pwc-ultramarine-deep",
@@ -18293,6 +18349,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-ultramarine-deep.png"
     },
     {
       id: "shinhan-pwc-prussian-blue",
@@ -18308,7 +18366,7 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "2/3",
       isVegan: true,
-      swatchImage: "",
+      swatchImage: "/uploads/shinhan-pwc/SPWC-prussian-blue.png",
       performance: "Professional"
     },
     {
@@ -18344,6 +18402,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-indigo.png"
     },
     {
       id: "shinhan-pwc-lavender",
@@ -18361,7 +18421,7 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "3/3",
       isVegan: true,
-      swatchImage: "",
+      swatchImage: "/uploads/shinhan-pwc/SPWC-lavender.png",
       performance: "Professional"
     },
     {
@@ -18413,6 +18473,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-mineral-violet.png"
     },
     {
       id: "shinhan-pwc-cobalt-violet-light",
@@ -18448,6 +18510,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-lilac.png"
     },
     {
       id: "shinhan-pwc-purple-grey",
@@ -18465,6 +18529,8 @@ var paints_default = {
       lightfastness: "1/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-purple-grey.png"
     },
     {
       id: "shinhan-pwc-bright-violet",
@@ -18720,6 +18786,8 @@ var paints_default = {
       lightfastness: "3/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-sepia.png"
     },
     {
       id: "shinhan-pwc-ivory-black",
@@ -18771,6 +18839,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-neutral-tint.png"
     },
     {
       id: "shinhan-pwc-paynes-grey",
@@ -18788,6 +18858,8 @@ var paints_default = {
       lightfastness: "2/3",
       isVegan: true,
       performance: "Professional"
+,
+      swatchImage: "/uploads/shinhan-pwc/SPWC-paynes-grey.png"
     },
     {
       id: "shinhan-pwc-grey",
