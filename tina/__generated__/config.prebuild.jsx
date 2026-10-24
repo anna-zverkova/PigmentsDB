@@ -6128,6 +6128,7 @@ var paints_default = {
       performance: "Professional",
       paintNumber: 653,
       series: "S1",
+      swatchImage: "/uploads/winsor-newton/WN-Transparent-Yellow.png",
       binder: "Gum arabic (Gum Kordofan)"
     },
     {
@@ -6430,6 +6431,7 @@ var paints_default = {
       performance: "Professional",
       paintNumber: 650,
       series: "S3",
+      swatchImage: "/uploads/winsor-newton/WN-Transparent-Orange.png",
       binder: "Gum arabic (Gum Kordofan)"
     },
     {
@@ -7558,6 +7560,7 @@ var paints_default = {
       performance: "Professional",
       paintNumber: 745,
       series: "S1",
+      swatchImage: "/uploads/winsor-newton/WN-Yellow-Ochre-Light.png",
       binder: "Gum arabic (Gum Kordofan)"
     },
     {
