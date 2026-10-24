@@ -86838,5 +86838,371 @@
       "collection": "Neon Colours",
       "binder": "Gum arabic; mica-based pearlescent colors"
     }
+  ,
+    {
+      "id": "shinhan-pro-pyrrole-red",
+      "brandId": "shinhan-pro",
+      "name": "Pyrrole Red",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hue": "–",
+      "hex": "#F6022F",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "431",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-pyrrole-red.png"
+    },
+    {
+      "id": "shinhan-pro-shell-pink",
+      "brandId": "shinhan-pro",
+      "name": "Shell Pink",
+      "pigmentCodes": [
+        "PR9",
+        "PW6"
+      ],
+      "hue": "–",
+      "hex": "#FF838B",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "432",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-shell-pink.png"
+    },
+    {
+      "id": "shinhan-pro-permanent-yellow-orange",
+      "brandId": "shinhan-pro",
+      "name": "Permanent Yellow Orange",
+      "pigmentCodes": [
+        "PY83",
+        "PO13"
+      ],
+      "hue": "–",
+      "hex": "#FF6904",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "433",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-permanent-yellow-orange.png"
+    },
+    {
+      "id": "shinhan-pro-naples-yellow",
+      "brandId": "shinhan-pro",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PY35",
+        "PW6"
+      ],
+      "hue": "–",
+      "hex": "#FFDA6F",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "434",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-naples-yellow.png"
+    },
+    {
+      "id": "shinhan-pro-aureolin",
+      "brandId": "shinhan-pro",
+      "name": "Aureolin",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hue": "–",
+      "hex": "#FCAA06",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "435",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-aureolin.png"
+    },
+    {
+      "id": "shinhan-pro-greenish-yellow",
+      "brandId": "shinhan-pro",
+      "name": "Greenish Yellow",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hue": "–",
+      "hex": "#AE8D00",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "436",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-greenish-yellow.png"
+    },
+    {
+      "id": "shinhan-pro-oxide-of-chromium",
+      "brandId": "shinhan-pro",
+      "name": "Oxide of Chromium",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hue": "–",
+      "hex": "#4C7C54",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "437",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-oxide-of-chromium.png"
+    },
+    {
+      "id": "shinhan-pro-hooker-s-green",
+      "brandId": "shinhan-pro",
+      "name": "Hooker's Green",
+      "pigmentCodes": [
+        "PG8"
+      ],
+      "hue": "–",
+      "hex": "#006323",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "438",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-hooker-s-green.png"
+    },
+    {
+      "id": "shinhan-pro-shadow-green",
+      "brandId": "shinhan-pro",
+      "name": "Shadow Green",
+      "pigmentCodes": [
+        "PBk31"
+      ],
+      "hue": "–",
+      "hex": "#164849",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "439",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-shadow-green.png"
+    },
+    {
+      "id": "shinhan-pro-peacock-blue",
+      "brandId": "shinhan-pro",
+      "name": "Peacock Blue",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hue": "–",
+      "hex": "#0488DD",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "440",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-peacock-blue.png"
+    },
+    {
+      "id": "shinhan-pro-indigo",
+      "brandId": "shinhan-pro",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB66"
+      ],
+      "hue": "–",
+      "hex": "#12355F",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "441",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-indigo.png"
+    },
+    {
+      "id": "shinhan-pro-mineral-violet",
+      "brandId": "shinhan-pro",
+      "name": "Mineral Violet",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hue": "–",
+      "hex": "#662285",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "442",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-mineral-violet.png"
+    },
+    {
+      "id": "shinhan-pro-light-red",
+      "brandId": "shinhan-pro",
+      "name": "Light Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hue": "–",
+      "hex": "#D14416",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "443",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-light-red.png"
+    },
+    {
+      "id": "shinhan-pro-burnt-sienna",
+      "brandId": "shinhan-pro",
+      "name": "Burnt Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hue": "–",
+      "hex": "#AB3F11",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "444",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-burnt-sienna.png"
+    },
+    {
+      "id": "shinhan-pro-burnt-umber",
+      "brandId": "shinhan-pro",
+      "name": "Burnt Umber",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hue": "–",
+      "hex": "#853F1D",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "445",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-burnt-umber.png"
+    },
+    {
+      "id": "shinhan-pro-raw-sienna",
+      "brandId": "shinhan-pro",
+      "name": "Raw Sienna",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hue": "–",
+      "hex": "#C27120",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "446",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-raw-sienna.png"
+    },
+    {
+      "id": "shinhan-pro-sepia",
+      "brandId": "shinhan-pro",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PR101",
+        "PBk11"
+      ],
+      "hue": "–",
+      "hex": "#413735",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "447",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-sepia.png"
+    },
+    {
+      "id": "shinhan-pro-payne-s-grey",
+      "brandId": "shinhan-pro",
+      "name": "Payne’s Grey",
+      "pigmentCodes": [
+        "PB66",
+        "PBk31"
+      ],
+      "hue": "–",
+      "hex": "#113452",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": false,
+      "isDiscontinued": false,
+      "series": null,
+      "paintNumber": "448",
+      "performance": "Student",
+      "swatchImage": "/uploads/shinhan-pro/SPro-payne-s-grey.png"
+    }
   ]
 }
