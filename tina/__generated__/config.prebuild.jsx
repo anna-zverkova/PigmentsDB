@@ -11250,7 +11250,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "3/3",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/maimeriblu/MB-permanent-yellow-lemon.png"
     },
     {
       id: "maimeriblu-permanent-yellow-deep",
@@ -12527,7 +12528,8 @@ var paints_default = {
       granulation: "Low",
       lightfastness: "3/3",
       isVegan: false,
-      performance: "Professional"
+      performance: "Professional",
+      swatchImage: "/uploads/maimeriblu/MB-mars-black.png"
     },
     {
       id: "maimeriblu-neutral-tint",
