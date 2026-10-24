@@ -8141,6 +8141,7 @@ var paints_default = {
       id: "wn-cotman-lemon-yellow-hue",
       brandId: "wn-cotman",
       name: "Lemon Yellow Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-lemon-yellow-hue.jpeg",
       pigmentCodes: [
         "PY175"
       ],
@@ -8175,6 +8176,7 @@ var paints_default = {
       id: "wn-cotman-gamboge-hue",
       brandId: "wn-cotman",
       name: "Gamboge Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-gamboge-hue.jpg",
       pigmentCodes: [
         "PR209",
         "PY150"
@@ -8192,6 +8194,7 @@ var paints_default = {
       id: "wn-cotman-cadmium-yellow-hue",
       brandId: "wn-cotman",
       name: "Cadmium Yellow Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-yellow-hue.jpg.webp",
       pigmentCodes: [
         "PY65",
         "PY97"
@@ -8209,6 +8212,7 @@ var paints_default = {
       id: "wn-cotman-cadmium-orange-hue",
       brandId: "wn-cotman",
       name: "Cadmium Orange Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-orange-hue.jpg.webp",
       pigmentCodes: [
         "PO43",
         "PY83"
@@ -8262,6 +8266,7 @@ var paints_default = {
       id: "wn-cotman-cadmium-red-deep-hue",
       brandId: "wn-cotman",
       name: "Cadmium Red Deep Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cadmium-red-deep-hue.jpg.webp",
       pigmentCodes: [
         "PR188",
         "PR254"
@@ -8279,6 +8284,7 @@ var paints_default = {
       id: "wn-cotman-alizarin-crimson-hue",
       brandId: "wn-cotman",
       name: "Alizarin Crimson Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-alizarin-crimson-hue.jpg.jxl",
       pigmentCodes: [
         "PR206"
       ],
@@ -8346,6 +8352,7 @@ var paints_default = {
       id: "wn-cotman-mauve",
       brandId: "wn-cotman",
       name: "Mauve",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-mauve.jpg.webp",
       pigmentCodes: [
         "PR122",
         "PV23"
@@ -8363,6 +8370,7 @@ var paints_default = {
       id: "wn-cotman-dioxazine-violet",
       brandId: "wn-cotman",
       name: "Dioxazine Violet",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-dioxazine-violet.jpg.webp",
       pigmentCodes: [
         "PV23"
       ],
@@ -8379,6 +8387,7 @@ var paints_default = {
       id: "wn-cotman-ultramarine",
       brandId: "wn-cotman",
       name: "Ultramarine",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-ultramarine.jpeg",
       pigmentCodes: [
         "PB29"
       ],
@@ -8395,6 +8404,7 @@ var paints_default = {
       id: "wn-cotman-cobalt-blue-hue",
       brandId: "wn-cotman",
       name: "Cobalt Blue Hue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-cobalt-blue-hue.jpg",
       pigmentCodes: [
         "PB29",
         "PW4"
@@ -8464,6 +8474,7 @@ var paints_default = {
       id: "wn-cotman-prussian-blue",
       brandId: "wn-cotman",
       name: "Prussian Blue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-prussian-blue.jpg.webp",
       pigmentCodes: [
         "PB27"
       ],
@@ -8589,6 +8600,7 @@ var paints_default = {
       id: "wn-cotman-raw-sienna",
       brandId: "wn-cotman",
       name: "Raw Sienna",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-raw-sienna.jpg.webp",
       pigmentCodes: [
         "PR101",
         "PY42"
@@ -8765,6 +8777,7 @@ var paints_default = {
       id: "wn-cotman-payne-s-gray",
       brandId: "wn-cotman",
       name: "Payne\u2019s Gray",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-paynes-gray.jpg",
       pigmentCodes: [
         "PB15",
         "PB29",
@@ -8834,6 +8847,7 @@ var paints_default = {
       id: "wn-cotman-iridescent-blue",
       brandId: "wn-cotman",
       name: "Iridescent Blue",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-iridescent-blue.jpg",
       pigmentCodes: [
         "Mica",
         "PB27"
@@ -8851,6 +8865,7 @@ var paints_default = {
       id: "wn-cotman-yellow-gold",
       brandId: "wn-cotman",
       name: "Yellow Gold",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-yellow-gold.jpg",
       pigmentCodes: [
         "Mica"
       ],
@@ -8867,6 +8882,7 @@ var paints_default = {
       id: "wn-cotman-bronze",
       brandId: "wn-cotman",
       name: "Bronze",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-bronze.jpg",
       pigmentCodes: [
         "Mica"
       ],
@@ -8883,6 +8899,7 @@ var paints_default = {
       id: "wn-cotman-red-copper",
       brandId: "wn-cotman",
       name: "Red Copper",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-red-copper.jpg",
       pigmentCodes: [
         "Mica"
       ],
@@ -8899,6 +8916,7 @@ var paints_default = {
       id: "wn-cotman-silver",
       brandId: "wn-cotman",
       name: "Silver",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-silver.jpg",
       pigmentCodes: [
         "Mica",
         "PBk9"
@@ -8916,6 +8934,7 @@ var paints_default = {
       id: "wn-cotman-pewter",
       brandId: "wn-cotman",
       name: "Pewter",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-pewter.jpg",
       pigmentCodes: [
         "Mica"
       ],
@@ -8932,6 +8951,7 @@ var paints_default = {
       id: "wn-cotman-iridescent-black",
       brandId: "wn-cotman",
       name: "Iridescent Black",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-iridescent-black.jpg",
       pigmentCodes: [
         "Mica"
       ],
@@ -8948,6 +8968,7 @@ var paints_default = {
       id: "wn-cotman-iridescent-white",
       brandId: "wn-cotman",
       name: "Iridescent White",
+      swatchImage: "/uploads/winsor-newton-cotman/COT-iridescent-white.jpg",
       pigmentCodes: [
         "Mica"
       ],
