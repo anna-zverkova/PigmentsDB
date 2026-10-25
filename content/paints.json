@@ -67054,1528 +67054,6 @@
       "swatchImage": "/uploads/blick/BL-chinese-white.png"
     },
     {
-      "id": "qor-nickel-yellow",
-      "brandId": "qor",
-      "name": "Nickel Yellow",
-      "pigmentCodes": [
-        "PY53"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-nickel-yellow.png"
-    },
-    {
-      "id": "qor-cadmium-yellow-primrose",
-      "brandId": "qor",
-      "name": "Cadmium Yellow Primrose",
-      "pigmentCodes": [
-        "PY35"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-cadmium-yellow-primrose.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-hansa-yellow-light",
-      "brandId": "qor",
-      "name": "Hansa Yellow Light",
-      "pigmentCodes": [
-        "PY3"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-hansa-yellow-light.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-bismuth-vanadate-yellow",
-      "brandId": "qor",
-      "name": "Bismuth Vanadate Yellow",
-      "pigmentCodes": [
-        "PY184"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-bismuth-vanadate-yellow.png"
-    },
-    {
-      "id": "qor-cadmium-yellow-light",
-      "brandId": "qor",
-      "name": "Cadmium Yellow Light",
-      "pigmentCodes": [
-        "PY35"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-cadmium-yellow-light.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-benzimidazolone-yellow",
-      "brandId": "qor",
-      "name": "Benzimidazolone Yellow",
-      "pigmentCodes": [
-        "PY154"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-benzimidazolone-yellow.png"
-    },
-    {
-      "id": "qor-cadmium-yellow-medium",
-      "brandId": "qor",
-      "name": "Cadmium Yellow Medium",
-      "pigmentCodes": [
-        "PY35"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-Cadmium-yellow-medium.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-aureolin-modern",
-      "brandId": "qor",
-      "name": "Aureolin Modern",
-      "pigmentCodes": [
-        "PW6",
-        "PY150"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "swatchImage": "/uploads/qor/Q-aureolin-modern.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-cadmium-yellow-deep",
-      "brandId": "qor",
-      "name": "Cadmium Yellow Deep",
-      "pigmentCodes": [
-        "PY35"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cadmium-yellow-deep.png"
-    },
-    {
-      "id": "qor-permanent-gamboge",
-      "brandId": "qor",
-      "name": "Permanent Gamboge",
-      "pigmentCodes": [
-        "PY42",
-        "PV19",
-        "PY150"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-permanent-gamboge.png"
-    },
-    {
-      "id": "qor-quinacridone-burnt-orange",
-      "brandId": "qor",
-      "name": "Quinacridone Burnt Orange",
-      "pigmentCodes": [
-        "PR206"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-quinacridone-burnt-orange.png"
-    },
-    {
-      "id": "qor-quinacridone-gold",
-      "brandId": "qor",
-      "name": "Quinacridone Gold",
-      "pigmentCodes": [
-        "PO48",
-        "PY150"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-quinacridone-gold.png"
-    },
-    {
-      "id": "qor-diarylide-yellow",
-      "brandId": "qor",
-      "name": "Diarylide Yellow",
-      "pigmentCodes": [
-        "PY83"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-diarylide-yellow.png"
-    },
-    {
-      "id": "qor-naples-yellow",
-      "brandId": "qor",
-      "name": "Naples Yellow",
-      "pigmentCodes": [
-        "PBr24",
-        "PBk7",
-        "PW4"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "swatchImage": "/uploads/qor/Q-naples-yellow.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-quinacridone-gold-deep",
-      "brandId": "qor",
-      "name": "Quinacridone Gold Deep",
-      "pigmentCodes": [
-        "PO48"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-quinacridone-gold-deep.png"
-    },
-    {
-      "id": "qor-indian-yellow",
-      "brandId": "qor",
-      "name": "Indian Yellow",
-      "pigmentCodes": [
-        "PY154",
-        "PY150",
-        "PR206"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-indian-yellow.png"
-    },
-    {
-      "id": "qor-cadmium-orange",
-      "brandId": "qor",
-      "name": "Cadmium Orange",
-      "pigmentCodes": [
-        "PO20"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cadmium-orange.png"
-    },
-    {
-      "id": "qor-transparent-pyrrol-orange",
-      "brandId": "qor",
-      "name": "Transparent Pyrrol Orange",
-      "pigmentCodes": [
-        "PO71"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-transparent-pyrrole-orange.png"
-    },
-    {
-      "id": "qor-cadmium-red-light",
-      "brandId": "qor",
-      "name": "Cadmium Red Light",
-      "pigmentCodes": [
-        "PR108"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cadmium-red-light.png"
-    },
-    {
-      "id": "qor-pyrrole-red-light",
-      "brandId": "qor",
-      "name": "Pyrrole Red Light",
-      "pigmentCodes": [
-        "PR255"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-pyrrole-red-light.png"
-    },
-    {
-      "id": "qor-pyrrole-red-medium",
-      "brandId": "qor",
-      "name": "Pyrrole Red Medium",
-      "pigmentCodes": [
-        "PR254"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-pyrrole-red-medium.png"
-    },
-    {
-      "id": "qor-cadmium-red-medium",
-      "brandId": "qor",
-      "name": "Cadmium Red Medium",
-      "pigmentCodes": [
-        "PR108"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cadmium-red-medium.png"
-    },
-    {
-      "id": "qor-cadmium-red-deep",
-      "brandId": "qor",
-      "name": "Cadmium Red Deep",
-      "pigmentCodes": [
-        "PR108"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cadmium-red-deep.png"
-    },
-    {
-      "id": "qor-quinacridone-red-light",
-      "brandId": "qor",
-      "name": "Quinacridone Red Light",
-      "pigmentCodes": [
-        "PR207"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "High",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-pyrrole-red-deep",
-      "brandId": "qor",
-      "name": "Pyrrole Red Deep",
-      "pigmentCodes": [
-        "PR264"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "High",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-pyrrole-red-deep.png"
-    },
-    {
-      "id": "qor-permanent-scarlet",
-      "brandId": "qor",
-      "name": "Permanent Scarlet",
-      "pigmentCodes": [
-        "PR168"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-permanent-scarlet.png"
-    },
-    {
-      "id": "qor-quinacridone-red",
-      "brandId": "qor",
-      "name": "Quinacridone Red",
-      "pigmentCodes": [
-        "PV19"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-Quinacridone-red.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-permanent-alizarin-crimson",
-      "brandId": "qor",
-      "name": "Permanent Alizarin Crimson",
-      "pigmentCodes": [
-        "PR177"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-permanent-alizarin-crimson.png"
-    },
-    {
-      "id": "qor-quinacridone-crimson",
-      "brandId": "qor",
-      "name": "Quinacridone Crimson",
-      "pigmentCodes": [
-        "PR122",
-        "PR206"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-quinacridone-crimson.png"
-    },
-    {
-      "id": "qor-quinacridone-magenta",
-      "brandId": "qor",
-      "name": "Quinacridone Magenta",
-      "pigmentCodes": [
-        "PR122"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-quinacridone-magenta.png"
-    },
-    {
-      "id": "qor-ultramarine-pink",
-      "brandId": "qor",
-      "name": "Ultramarine Pink",
-      "pigmentCodes": [
-        "PV15"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-ultramarine-pink.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-quinacridone-violet",
-      "brandId": "qor",
-      "name": "Quinacridone Violet",
-      "pigmentCodes": [
-        "PV19"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-quinacridone-violet.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-cobalt-violet",
-      "brandId": "qor",
-      "name": "Cobalt Violet",
-      "pigmentCodes": [
-        "PV49"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-ultramarine-violet",
-      "brandId": "qor",
-      "name": "Ultramarine Violet",
-      "pigmentCodes": [
-        "PV15"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-ultramarine-violet.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-dioxazine-purple",
-      "brandId": "qor",
-      "name": "Dioxazine Purple",
-      "pigmentCodes": [
-        "PV23"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-dioxazine-purple.png"
-    },
-    {
-      "id": "qor-indigo",
-      "brandId": "qor",
-      "name": "Indigo",
-      "pigmentCodes": [
-        "PB15:3",
-        "PBk7",
-        "PV19"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-indigo.png"
-    },
-    {
-      "id": "qor-ultramarine-blue",
-      "brandId": "qor",
-      "name": "Ultramarine Blue",
-      "pigmentCodes": [
-        "PB29"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-ultramarine-blue.png"
-    },
-    {
-      "id": "qor-ultramarine-blue-violet",
-      "brandId": "qor",
-      "name": "Ultramarine Blue Violet",
-      "pigmentCodes": [
-        "PV15",
-        "PB29"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-ultramarine-blue-violet.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-cobalt-blue",
-      "brandId": "qor",
-      "name": "Cobalt Blue",
-      "pigmentCodes": [
-        "PB28"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cobalt-blue.png"
-    },
-    {
-      "id": "qor-cerulean-blue-chromium",
-      "brandId": "qor",
-      "name": "Cerulean Blue, Chromium",
-      "pigmentCodes": [
-        "PB36:1"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cerulean-blue-chromium.png"
-    },
-    {
-      "id": "qor-indanthrone-blue",
-      "brandId": "qor",
-      "name": "Indanthrone Blue",
-      "pigmentCodes": [
-        "PB60"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-indathrone-blue.png"
-    },
-    {
-      "id": "qor-prussian-blue",
-      "brandId": "qor",
-      "name": "Prussian Blue",
-      "pigmentCodes": [
-        "PB27"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-prussian-blue.png"
-    },
-    {
-      "id": "qor-phthalo-blue-gs",
-      "brandId": "qor",
-      "name": "Phthalo Blue (GS)",
-      "pigmentCodes": [
-        "PB15:3"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-Phthalo-blue-green-shade.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-french-cerulean-blue",
-      "brandId": "qor",
-      "name": "French Cerulean Blue",
-      "pigmentCodes": [
-        "PB36"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-french-cerulean-blue.png"
-    },
-    {
-      "id": "qor-manganese-blue",
-      "brandId": "qor",
-      "name": "Manganese Blue",
-      "pigmentCodes": [
-        "PG7",
-        "PB15:3"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-manganese-blue.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-phthalo-turquoise",
-      "brandId": "qor",
-      "name": "Phthalo Turquoise",
-      "pigmentCodes": [
-        "PB15:3",
-        "PG7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-turquoise-phthalo.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-cobalt-turquoise",
-      "brandId": "qor",
-      "name": "Cobalt Turquoise",
-      "pigmentCodes": [
-        "PB36"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-cobalt-turquoise.png"
-    },
-    {
-      "id": "qor-cobalt-teal",
-      "brandId": "qor",
-      "name": "Cobalt Teal",
-      "pigmentCodes": [
-        "PG50"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-cobalt-teal.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-phthalo-green-bs",
-      "brandId": "qor",
-      "name": "Phthalo Green (BS)",
-      "pigmentCodes": [
-        "PG7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-phthalo-green-blue-shade.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-viridian-green",
-      "brandId": "qor",
-      "name": "Viridian Green",
-      "pigmentCodes": [
-        "PG18"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-viridian-green.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-permanent-green-light",
-      "brandId": "qor",
-      "name": "Permanent Green Light",
-      "pigmentCodes": [
-        "PG7",
-        "PY3"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-permanent-green-light.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-cobalt-green",
-      "brandId": "qor",
-      "name": "Cobalt Green",
-      "pigmentCodes": [
-        "PG26"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-cobalt-green.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-hookers-green",
-      "brandId": "qor",
-      "name": "Hookers Green",
-      "pigmentCodes": [
-        "PY150",
-        "PB60",
-        "PR122"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-hookers-green.png"
-    },
-    {
-      "id": "qor-sap-green",
-      "brandId": "qor",
-      "name": "Sap Green",
-      "pigmentCodes": [
-        "PG36",
-        "PR101",
-        "PY150"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "swatchImage": "/uploads/qor/Q-sap-green.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-terre-verte",
-      "brandId": "qor",
-      "name": "Terre Verte",
-      "pigmentCodes": [
-        "PG23"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-terre-verte.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-chromium-oxide-green",
-      "brandId": "qor",
-      "name": "Chromium Oxide Green",
-      "pigmentCodes": [
-        "PG17"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-chromium-oxide-green.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-olive-green",
-      "brandId": "qor",
-      "name": "Olive Green",
-      "pigmentCodes": [
-        "PR101",
-        "PY184",
-        "PG7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-olive-green.png"
-    },
-    {
-      "id": "qor-bohemian-green-earth",
-      "brandId": "qor",
-      "name": "Bohemian Green Earth",
-      "pigmentCodes": [
-        "PBk7",
-        "PG7",
-        "PR101",
-        "PY42"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-bohemian-green-eath.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-green-gold",
-      "brandId": "qor",
-      "name": "Green Gold",
-      "pigmentCodes": [
-        "PY129"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-green-gold.png"
-    },
-    {
-      "id": "qor-titan-buff",
-      "brandId": "qor",
-      "name": "Titan Buff",
-      "pigmentCodes": [
-        "PW6:1"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-titan-buff.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-yellow-ochre-natural",
-      "brandId": "qor",
-      "name": "Yellow Ochre (Natural)",
-      "pigmentCodes": [
-        "PY43"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-yellow-ochre-natural.png"
-    },
-    {
-      "id": "qor-transparent-yellow-oxide",
-      "brandId": "qor",
-      "name": "Transparent Yellow Oxide",
-      "pigmentCodes": [
-        "PY42"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-transparent-yellow-oxide.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-raw-sienna-natural",
-      "brandId": "qor",
-      "name": "Raw Sienna (Natural)",
-      "pigmentCodes": [
-        "PY43"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-raw-sienna.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-transparent-red-oxide",
-      "brandId": "qor",
-      "name": "Transparent Red Oxide",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-transparent-red-oxide.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-mars-orange-deep",
-      "brandId": "qor",
-      "name": "Mars Orange Deep",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-mars-orange-deep.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-venetian-red",
-      "brandId": "qor",
-      "name": "Venetian Red",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-venetian-red.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-burnt-sienna-natural",
-      "brandId": "qor",
-      "name": "Burnt Sienna (Natural)",
-      "pigmentCodes": [
-        "PBr7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-burnt-sienna-natural.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-transparent-brown-oxide",
-      "brandId": "qor",
-      "name": "Transparent Brown Oxide",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-transparent-brown-oxide.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-burnt-umber-natural",
-      "brandId": "qor",
-      "name": "Burnt Umber (Natural)",
-      "pigmentCodes": [
-        "PBr7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-burnt-umber.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-raw-umber-natural",
-      "brandId": "qor",
-      "name": "Raw Umber (Natural)",
-      "pigmentCodes": [
-        "PBr7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Medium-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-raw-umber.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-nickel-azo-yellow",
-      "brandId": "qor",
-      "name": "Nickel Azo Yellow",
-      "pigmentCodes": [
-        "PY150"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-nickel-azo-yellow.png"
-    },
-    {
-      "id": "qor-van-dyke-brown",
-      "brandId": "qor",
-      "name": "Van Dyke Brown",
-      "pigmentCodes": [
-        "PR101"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "swatchImage": "/uploads/qor/Q-van-dyke-brown.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-sepia",
-      "brandId": "qor",
-      "name": "Sepia",
-      "pigmentCodes": [
-        "PR101",
-        "PY150",
-        "PBk7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "Hue",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-sepia.png"
-    },
-    {
-      "id": "qor-carbon-black",
-      "brandId": "qor",
-      "name": "Carbon Black",
-      "pigmentCodes": [
-        "PBk7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-cabon-black.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-ivory-black",
-      "brandId": "qor",
-      "name": "Ivory Black",
-      "pigmentCodes": [
-        "PBk9"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": false,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-ivory-black.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-neutral-tint",
-      "brandId": "qor",
-      "name": "Neutral Tint",
-      "pigmentCodes": [
-        "PY42",
-        "PR122",
-        "PB15:3"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Staining",
-      "granulation": "High",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "binder": "Aquazol (a unique, synthetic polymer binder)",
-      "swatchImage": "/uploads/qor/Q-neutral-tint.png"
-    },
-    {
-      "id": "qor-paynes-gray",
-      "brandId": "qor",
-      "name": "Payne’s Gray",
-      "pigmentCodes": [
-        "PB15:3",
-        "PBk7",
-        "PV19"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Staining",
-      "granulation": "None",
-      "lightfastness": "2/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-paynes-gray.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-ardoise-gray",
-      "brandId": "qor",
-      "name": "Ardoise Gray",
-      "pigmentCodes": [
-        "PBk19"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-ardoise-gray.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-titanium-white",
-      "brandId": "qor",
-      "name": "Titanium White",
-      "pigmentCodes": [
-        "PW6"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-titanium-white.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-chinese-white",
-      "brandId": "qor",
-      "name": "Chinese White",
-      "pigmentCodes": [
-        "PW4"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "None",
-      "lightfastness": "3/3",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-chinese-white.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-iridescent-gold-fine",
-      "brandId": "qor",
-      "name": "Iridescent Gold (Fine)",
-      "pigmentCodes": [
-        "Titanium Dioxide coated mica particles"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "N/A",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-iridescent-gold.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-iridescent-silver-fine",
-      "brandId": "qor",
-      "name": "Iridescent Silver (Fine)",
-      "pigmentCodes": [
-        "PBk7"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Opaque",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "N/A",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-Iridescent-silver.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
-      "id": "qor-iridescent-pearl-fine",
-      "brandId": "qor",
-      "name": "Iridescent Pearl (Fine)",
-      "pigmentCodes": [
-        "Titanium Dioxide coated mica particles"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Semi-Transparent",
-      "staining": "Non-Staining",
-      "granulation": "High",
-      "lightfastness": "N/A",
-      "isVegan": true,
-      "isDiscontinued": false,
-      "hue": "–",
-      "swatchImage": "/uploads/qor/Q-Iridescent-pearl.png",
-      "binder": "Aquazol (a unique, synthetic polymer binder)"
-    },
-    {
       "id": "utrecht-permanent-white",
       "brandId": "utrecht",
       "name": "Permanent White",
@@ -87435,6 +85913,1994 @@
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
+    },
+    {
+      "id": "qor-nickel-yellow",
+      "brandId": "qor",
+      "name": "Nickel Yellow",
+      "pigmentCodes": [
+        "PY53"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-nickel-yellow.png",
+      "paintNumber": "7000100"
+    },
+    {
+      "id": "qor-cadmium-yellow-primrose",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Primrose",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cadmium-yellow-primrose.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000105"
+    },
+    {
+      "id": "qor-hansa-yellow-light",
+      "brandId": "qor",
+      "name": "Hansa Yellow Light",
+      "pigmentCodes": [
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-hansa-yellow-light.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000110"
+    },
+    {
+      "id": "qor-bismuth-vanadate-yellow",
+      "brandId": "qor",
+      "name": "Bismuth Vanadate Yellow",
+      "pigmentCodes": [
+        "PY184"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-bismuth-vanadate-yellow.png",
+      "paintNumber": "7000115"
+    },
+    {
+      "id": "qor-cadmium-yellow-light",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Light",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cadmium-yellow-light.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000120"
+    },
+    {
+      "id": "qor-benzimidazolone-yellow",
+      "brandId": "qor",
+      "name": "Benzimidazolone Yellow",
+      "pigmentCodes": [
+        "PY154"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-benzimidazolone-yellow.png",
+      "paintNumber": "7000126"
+    },
+    {
+      "id": "qor-cadmium-yellow-medium",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Medium",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Cadmium-yellow-medium.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000130"
+    },
+    {
+      "id": "qor-aureolin-modern",
+      "brandId": "qor",
+      "name": "Aureolin Modern",
+      "pigmentCodes": [
+        "PW6",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-aureolin-modern.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000135"
+    },
+    {
+      "id": "qor-cadmium-yellow-deep",
+      "brandId": "qor",
+      "name": "Cadmium Yellow Deep",
+      "pigmentCodes": [
+        "PY35"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cadmium-yellow-deep.png",
+      "paintNumber": "7000170"
+    },
+    {
+      "id": "qor-permanent-gamboge",
+      "brandId": "qor",
+      "name": "Permanent Gamboge",
+      "pigmentCodes": [
+        "PY42",
+        "PV19",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-permanent-gamboge.png",
+      "paintNumber": "7000150"
+    },
+    {
+      "id": "qor-quinacridone-burnt-orange",
+      "brandId": "qor",
+      "name": "Quinacridone Burnt Orange",
+      "pigmentCodes": [
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-quinacridone-burnt-orange.png",
+      "paintNumber": "7000165"
+    },
+    {
+      "id": "qor-quinacridone-gold",
+      "brandId": "qor",
+      "name": "Quinacridone Gold",
+      "pigmentCodes": [
+        "PO48",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-quinacridone-gold.png",
+      "paintNumber": "7000155"
+    },
+    {
+      "id": "qor-diarylide-yellow",
+      "brandId": "qor",
+      "name": "Diarylide Yellow",
+      "pigmentCodes": [
+        "PY83"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-diarylide-yellow.png",
+      "paintNumber": "7000175"
+    },
+    {
+      "id": "qor-naples-yellow",
+      "brandId": "qor",
+      "name": "Naples Yellow",
+      "pigmentCodes": [
+        "PBr24",
+        "PBk7",
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-naples-yellow.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000435"
+    },
+    {
+      "id": "qor-quinacridone-gold-deep",
+      "brandId": "qor",
+      "name": "Quinacridone Gold Deep",
+      "pigmentCodes": [
+        "PO48"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-quinacridone-gold-deep.png",
+      "paintNumber": "7000160"
+    },
+    {
+      "id": "qor-indian-yellow",
+      "brandId": "qor",
+      "name": "Indian Yellow",
+      "pigmentCodes": [
+        "PY154",
+        "PY150",
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-indian-yellow.png",
+      "paintNumber": "7000146"
+    },
+    {
+      "id": "qor-cadmium-orange",
+      "brandId": "qor",
+      "name": "Cadmium Orange",
+      "pigmentCodes": [
+        "PO20"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cadmium-orange.png",
+      "paintNumber": "7000180"
+    },
+    {
+      "id": "qor-transparent-pyrrol-orange",
+      "brandId": "qor",
+      "name": "Transparent Pyrrol Orange",
+      "pigmentCodes": [
+        "PO71"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-transparent-pyrrole-orange.png",
+      "paintNumber": "7000185"
+    },
+    {
+      "id": "qor-cadmium-red-light",
+      "brandId": "qor",
+      "name": "Cadmium Red Light",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cadmium-red-light.png",
+      "paintNumber": "7000195"
+    },
+    {
+      "id": "qor-pyrrole-red-light",
+      "brandId": "qor",
+      "name": "Pyrrole Red Light",
+      "pigmentCodes": [
+        "PR255"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-pyrrole-red-light.png",
+      "paintNumber": "7000200"
+    },
+    {
+      "id": "qor-pyrrole-red-medium",
+      "brandId": "qor",
+      "name": "Pyrrole Red Medium",
+      "pigmentCodes": [
+        "PR254"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-pyrrole-red-medium.png",
+      "paintNumber": "7000210"
+    },
+    {
+      "id": "qor-cadmium-red-medium",
+      "brandId": "qor",
+      "name": "Cadmium Red Medium",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cadmium-red-medium.png",
+      "paintNumber": "7000215"
+    },
+    {
+      "id": "qor-cadmium-red-deep",
+      "brandId": "qor",
+      "name": "Cadmium Red Deep",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cadmium-red-deep.png",
+      "paintNumber": "7000220"
+    },
+    {
+      "id": "qor-quinacridone-red-light",
+      "brandId": "qor",
+      "name": "Quinacridone Red Light",
+      "pigmentCodes": [
+        "PR207"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "High",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)"
+    },
+    {
+      "id": "qor-pyrrole-red-deep",
+      "brandId": "qor",
+      "name": "Pyrrole Red Deep",
+      "pigmentCodes": [
+        "PR264"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "High",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-pyrrole-red-deep.png",
+      "paintNumber": "7000225"
+    },
+    {
+      "id": "qor-permanent-scarlet",
+      "brandId": "qor",
+      "name": "Permanent Scarlet",
+      "pigmentCodes": [
+        "PR168"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-permanent-scarlet.png",
+      "paintNumber": "7000230"
+    },
+    {
+      "id": "qor-quinacridone-red",
+      "brandId": "qor",
+      "name": "Quinacridone Red",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Quinacridone-red.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000235"
+    },
+    {
+      "id": "qor-permanent-alizarin-crimson",
+      "brandId": "qor",
+      "name": "Permanent Alizarin Crimson",
+      "pigmentCodes": [
+        "PR177"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-permanent-alizarin-crimson.png",
+      "paintNumber": "7000240"
+    },
+    {
+      "id": "qor-quinacridone-crimson",
+      "brandId": "qor",
+      "name": "Quinacridone Crimson",
+      "pigmentCodes": [
+        "PR122",
+        "PR206"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-quinacridone-crimson.png",
+      "paintNumber": "7000260"
+    },
+    {
+      "id": "qor-quinacridone-magenta",
+      "brandId": "qor",
+      "name": "Quinacridone Magenta",
+      "pigmentCodes": [
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-quinacridone-magenta.png",
+      "paintNumber": "7000265"
+    },
+    {
+      "id": "qor-ultramarine-pink",
+      "brandId": "qor",
+      "name": "Ultramarine Pink",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-pink.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000275"
+    },
+    {
+      "id": "qor-quinacridone-violet",
+      "brandId": "qor",
+      "name": "Quinacridone Violet",
+      "pigmentCodes": [
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-quinacridone-violet.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000280"
+    },
+    {
+      "id": "qor-cobalt-violet",
+      "brandId": "qor",
+      "name": "Cobalt Violet",
+      "pigmentCodes": [
+        "PV49"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)"
+    },
+    {
+      "id": "qor-ultramarine-violet",
+      "brandId": "qor",
+      "name": "Ultramarine Violet",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-violet.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000290"
+    },
+    {
+      "id": "qor-dioxazine-purple",
+      "brandId": "qor",
+      "name": "Dioxazine Purple",
+      "pigmentCodes": [
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-dioxazine-purple.png",
+      "paintNumber": "7000295"
+    },
+    {
+      "id": "qor-indigo",
+      "brandId": "qor",
+      "name": "Indigo",
+      "pigmentCodes": [
+        "PB15:3",
+        "PBk7",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-indigo.png",
+      "paintNumber": "7000305"
+    },
+    {
+      "id": "qor-ultramarine-blue",
+      "brandId": "qor",
+      "name": "Ultramarine Blue",
+      "pigmentCodes": [
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-ultramarine-blue.png",
+      "paintNumber": "7000310"
+    },
+    {
+      "id": "qor-ultramarine-blue-violet",
+      "brandId": "qor",
+      "name": "Ultramarine Blue Violet",
+      "pigmentCodes": [
+        "PV15",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ultramarine-blue-violet.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000316"
+    },
+    {
+      "id": "qor-cobalt-blue",
+      "brandId": "qor",
+      "name": "Cobalt Blue",
+      "pigmentCodes": [
+        "PB28"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cobalt-blue.png",
+      "paintNumber": "7000320"
+    },
+    {
+      "id": "qor-cerulean-blue-chromium",
+      "brandId": "qor",
+      "name": "Cerulean Blue, Chromium",
+      "pigmentCodes": [
+        "PB36:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cerulean-blue-chromium.png",
+      "paintNumber": "7000330"
+    },
+    {
+      "id": "qor-indanthrone-blue",
+      "brandId": "qor",
+      "name": "Indanthrone Blue",
+      "pigmentCodes": [
+        "PB60"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-indathrone-blue.png",
+      "paintNumber": "7000335"
+    },
+    {
+      "id": "qor-prussian-blue",
+      "brandId": "qor",
+      "name": "Prussian Blue",
+      "pigmentCodes": [
+        "PB27"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-prussian-blue.png",
+      "paintNumber": "7000340"
+    },
+    {
+      "id": "qor-phthalo-blue-gs",
+      "brandId": "qor",
+      "name": "Phthalo Blue (GS)",
+      "pigmentCodes": [
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Phthalo-blue-green-shade.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000345"
+    },
+    {
+      "id": "qor-french-cerulean-blue",
+      "brandId": "qor",
+      "name": "French Cerulean Blue",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-french-cerulean-blue.png",
+      "paintNumber": "7000350"
+    },
+    {
+      "id": "qor-manganese-blue",
+      "brandId": "qor",
+      "name": "Manganese Blue",
+      "pigmentCodes": [
+        "PG7",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-manganese-blue.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000355"
+    },
+    {
+      "id": "qor-phthalo-turquoise",
+      "brandId": "qor",
+      "name": "Phthalo Turquoise",
+      "pigmentCodes": [
+        "PB15:3",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-turquoise-phthalo.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000365"
+    },
+    {
+      "id": "qor-cobalt-turquoise",
+      "brandId": "qor",
+      "name": "Cobalt Turquoise",
+      "pigmentCodes": [
+        "PB36"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-cobalt-turquoise.png",
+      "paintNumber": "7000370"
+    },
+    {
+      "id": "qor-cobalt-teal",
+      "brandId": "qor",
+      "name": "Cobalt Teal",
+      "pigmentCodes": [
+        "PG50"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cobalt-teal.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000360"
+    },
+    {
+      "id": "qor-phthalo-green-bs",
+      "brandId": "qor",
+      "name": "Phthalo Green (BS)",
+      "pigmentCodes": [
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-phthalo-green-blue-shade.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000375"
+    },
+    {
+      "id": "qor-viridian-green",
+      "brandId": "qor",
+      "name": "Viridian Green",
+      "pigmentCodes": [
+        "PG18"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-viridian-green.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000380"
+    },
+    {
+      "id": "qor-permanent-green-light",
+      "brandId": "qor",
+      "name": "Permanent Green Light",
+      "pigmentCodes": [
+        "PG7",
+        "PY3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-permanent-green-light.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000385"
+    },
+    {
+      "id": "qor-cobalt-green",
+      "brandId": "qor",
+      "name": "Cobalt Green",
+      "pigmentCodes": [
+        "PG26"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cobalt-green.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000390"
+    },
+    {
+      "id": "qor-hookers-green",
+      "brandId": "qor",
+      "name": "Hookers Green",
+      "pigmentCodes": [
+        "PY150",
+        "PB60",
+        "PR122"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-hookers-green.png",
+      "paintNumber": "7000395"
+    },
+    {
+      "id": "qor-sap-green",
+      "brandId": "qor",
+      "name": "Sap Green",
+      "pigmentCodes": [
+        "PG36",
+        "PR101",
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-sap-green.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000400"
+    },
+    {
+      "id": "qor-terre-verte",
+      "brandId": "qor",
+      "name": "Terre Verte",
+      "pigmentCodes": [
+        "PG23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-terre-verte.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000405"
+    },
+    {
+      "id": "qor-chromium-oxide-green",
+      "brandId": "qor",
+      "name": "Chromium Oxide Green",
+      "pigmentCodes": [
+        "PG17"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-chromium-oxide-green.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000410"
+    },
+    {
+      "id": "qor-olive-green",
+      "brandId": "qor",
+      "name": "Olive Green",
+      "pigmentCodes": [
+        "PR101",
+        "PY184",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-olive-green.png",
+      "paintNumber": "7000420"
+    },
+    {
+      "id": "qor-bohemian-green-earth",
+      "brandId": "qor",
+      "name": "Bohemian Green Earth",
+      "pigmentCodes": [
+        "PBk7",
+        "PG7",
+        "PR101",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-bohemian-green-eath.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000415"
+    },
+    {
+      "id": "qor-green-gold",
+      "brandId": "qor",
+      "name": "Green Gold",
+      "pigmentCodes": [
+        "PY129"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-green-gold.png",
+      "paintNumber": "7000425"
+    },
+    {
+      "id": "qor-titan-buff",
+      "brandId": "qor",
+      "name": "Titan Buff",
+      "pigmentCodes": [
+        "PW6:1"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-titan-buff.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000430"
+    },
+    {
+      "id": "qor-yellow-ochre-natural",
+      "brandId": "qor",
+      "name": "Yellow Ochre (Natural)",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-yellow-ochre-natural.png",
+      "paintNumber": "7000440"
+    },
+    {
+      "id": "qor-transparent-yellow-oxide",
+      "brandId": "qor",
+      "name": "Transparent Yellow Oxide",
+      "pigmentCodes": [
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-yellow-oxide.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000445"
+    },
+    {
+      "id": "qor-raw-sienna-natural",
+      "brandId": "qor",
+      "name": "Raw Sienna (Natural)",
+      "pigmentCodes": [
+        "PY43"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-raw-sienna.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000450"
+    },
+    {
+      "id": "qor-transparent-red-oxide",
+      "brandId": "qor",
+      "name": "Transparent Red Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-red-oxide.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000455"
+    },
+    {
+      "id": "qor-mars-orange-deep",
+      "brandId": "qor",
+      "name": "Mars Orange Deep",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-mars-orange-deep.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)"
+    },
+    {
+      "id": "qor-venetian-red",
+      "brandId": "qor",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-venetian-red.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000465"
+    },
+    {
+      "id": "qor-burnt-sienna-natural",
+      "brandId": "qor",
+      "name": "Burnt Sienna (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-burnt-sienna-natural.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000470"
+    },
+    {
+      "id": "qor-transparent-brown-oxide",
+      "brandId": "qor",
+      "name": "Transparent Brown Oxide",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-transparent-brown-oxide.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000475"
+    },
+    {
+      "id": "qor-burnt-umber-natural",
+      "brandId": "qor",
+      "name": "Burnt Umber (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-burnt-umber.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000480"
+    },
+    {
+      "id": "qor-raw-umber-natural",
+      "brandId": "qor",
+      "name": "Raw Umber (Natural)",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Medium-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-raw-umber.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000485"
+    },
+    {
+      "id": "qor-nickel-azo-yellow",
+      "brandId": "qor",
+      "name": "Nickel Azo Yellow",
+      "pigmentCodes": [
+        "PY150"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-nickel-azo-yellow.png",
+      "paintNumber": "7000140"
+    },
+    {
+      "id": "qor-van-dyke-brown",
+      "brandId": "qor",
+      "name": "Van Dyke Brown",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "swatchImage": "/uploads/qor/Q-van-dyke-brown.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000495"
+    },
+    {
+      "id": "qor-sepia",
+      "brandId": "qor",
+      "name": "Sepia",
+      "pigmentCodes": [
+        "PR101",
+        "PY150",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "Hue",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-sepia.png",
+      "paintNumber": "7000490"
+    },
+    {
+      "id": "qor-carbon-black",
+      "brandId": "qor",
+      "name": "Carbon Black",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-cabon-black.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000500"
+    },
+    {
+      "id": "qor-ivory-black",
+      "brandId": "qor",
+      "name": "Ivory Black",
+      "pigmentCodes": [
+        "PBk9"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": false,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ivory-black.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000505"
+    },
+    {
+      "id": "qor-neutral-tint",
+      "brandId": "qor",
+      "name": "Neutral Tint",
+      "pigmentCodes": [
+        "PY42",
+        "PR122",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "swatchImage": "/uploads/qor/Q-neutral-tint.png",
+      "paintNumber": "7000520"
+    },
+    {
+      "id": "qor-paynes-gray",
+      "brandId": "qor",
+      "name": "Payne’s Gray",
+      "pigmentCodes": [
+        "PB15:3",
+        "PBk7",
+        "PV19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "2/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-paynes-gray.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000510"
+    },
+    {
+      "id": "qor-ardoise-gray",
+      "brandId": "qor",
+      "name": "Ardoise Gray",
+      "pigmentCodes": [
+        "PBk19"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-ardoise-gray.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000525"
+    },
+    {
+      "id": "qor-titanium-white",
+      "brandId": "qor",
+      "name": "Titanium White",
+      "pigmentCodes": [
+        "PW6"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-titanium-white.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000535"
+    },
+    {
+      "id": "qor-chinese-white",
+      "brandId": "qor",
+      "name": "Chinese White",
+      "pigmentCodes": [
+        "PW4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-chinese-white.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000530"
+    },
+    {
+      "id": "qor-iridescent-gold-fine",
+      "brandId": "qor",
+      "name": "Iridescent Gold (Fine)",
+      "pigmentCodes": [
+        "Titanium Dioxide coated mica particles"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-iridescent-gold.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000540"
+    },
+    {
+      "id": "qor-iridescent-silver-fine",
+      "brandId": "qor",
+      "name": "Iridescent Silver (Fine)",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Iridescent-silver.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000550"
+    },
+    {
+      "id": "qor-iridescent-pearl-fine",
+      "brandId": "qor",
+      "name": "Iridescent Pearl (Fine)",
+      "pigmentCodes": [
+        "Titanium Dioxide coated mica particles"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Non-Staining",
+      "granulation": "High",
+      "lightfastness": "N/A",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "swatchImage": "/uploads/qor/Q-Iridescent-pearl.png",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000545"
+    },
+    {
+      "id": "qor-isoindolinone-yellow",
+      "brandId": "qor",
+      "name": "Isoindolinone Yellow",
+      "pigmentCodes": [
+        "PY110"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Semi-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000600",
+      "swatchImage": "/uploads/qor/Q-isoindolinone-yellow.png"
+    },
+    {
+      "id": "qor-disazo-scarlet",
+      "brandId": "qor",
+      "name": "Disazo Scarlet",
+      "pigmentCodes": [
+        "PR242"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000640",
+      "swatchImage": "/uploads/qor/Q-disazo-scarlet.png"
+    },
+    {
+      "id": "qor-ultramarine-pink-dark",
+      "brandId": "qor",
+      "name": "Ultramarine Pink Dark",
+      "pigmentCodes": [
+        "PV15"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Semi-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000655",
+      "swatchImage": "/uploads/qor/Q-ultramarine-pink-dark.png"
+    },
+    {
+      "id": "qor-brown-umber-natural",
+      "brandId": "qor",
+      "name": "Brown Umber Natural",
+      "pigmentCodes": [
+        "PBr7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000570",
+      "swatchImage": "/uploads/qor/Q-brown-umber-natural.png"
+    },
+    {
+      "id": "qor-paynes-gray-violet",
+      "brandId": "qor",
+      "name": "Paynes Gray Violet",
+      "pigmentCodes": [
+        "PV29",
+        "PBk7",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000575",
+      "swatchImage": "/uploads/qor/Q-paynes-gray-violet.png"
+    },
+    {
+      "id": "qor-phthalo-blue-red-shade",
+      "brandId": "qor",
+      "name": "Phthalo Blue Red Shade",
+      "pigmentCodes": [
+        "PB15:0"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000585",
+      "swatchImage": "/uploads/qor/Q-phthalo-blue-red-shade.png"
+    },
+    {
+      "id": "qor-naples-yellow-deep",
+      "brandId": "qor",
+      "name": "Naples Yellow Deep",
+      "pigmentCodes": [
+        "PBr24"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Semi-Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000595",
+      "swatchImage": "/uploads/qor/Q-naples-yellow-deep.png"
+    },
+    {
+      "id": "qor-benzimidazolone-burnt-orange",
+      "brandId": "qor",
+      "name": "Benzimidazolone Burnt Orange",
+      "pigmentCodes": [
+        "PBr25"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000605",
+      "swatchImage": "/uploads/qor/Q-benzimidazolone-burnt-orange.png"
+    },
+    {
+      "id": "qor-interference-red",
+      "brandId": "qor",
+      "name": "Interference Red",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000610",
+      "swatchImage": "/uploads/qor/Q-interference-red.png"
+    },
+    {
+      "id": "qor-iridescent-copper",
+      "brandId": "qor",
+      "name": "Iridescent Copper",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000615",
+      "swatchImage": "/uploads/qor/Q-iridescent-copper.png"
+    },
+    {
+      "id": "qor-perylene-violet",
+      "brandId": "qor",
+      "name": "Perylene Violet",
+      "pigmentCodes": [
+        "PV29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000635",
+      "swatchImage": "/uploads/qor/Q-perylene-violet.png"
+    },
+    {
+      "id": "qor-cadmium-purple",
+      "brandId": "qor",
+      "name": "Cadmium Purple",
+      "pigmentCodes": [
+        "PR108"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Semi-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000580",
+      "swatchImage": "/uploads/qor/Q-cadmium-purple.png"
+    },
+    {
+      "id": "qor-interference-violet-green-shift",
+      "brandId": "qor",
+      "name": "Interference Violet Green Shift",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000620",
+      "swatchImage": "/uploads/qor/Q-interference-violet-green-shift.png"
+    },
+    {
+      "id": "qor-interference-green-orange-shift",
+      "brandId": "qor",
+      "name": "Interference Green Orange Shift",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000625",
+      "swatchImage": "/uploads/qor/Q-interference-green-orange-shift.png"
+    },
+    {
+      "id": "qor-interference-green-blue-shift",
+      "brandId": "qor",
+      "name": "Interference Green Blue Shift",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000630",
+      "swatchImage": "/uploads/qor/Q-interference-green-blue-shift.png"
+    },
+    {
+      "id": "qor-interference-violet",
+      "brandId": "qor",
+      "name": "Interference Violet",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000565",
+      "swatchImage": "/uploads/qor/Q-interference-violet.png"
+    },
+    {
+      "id": "qor-perylene-crimson",
+      "brandId": "qor",
+      "name": "Perylene Crimson",
+      "pigmentCodes": [
+        "PR179"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000645",
+      "swatchImage": "/uploads/qor/Q-perylene-crimson.png"
+    },
+    {
+      "id": "qor-interference-blue",
+      "brandId": "qor",
+      "name": "Interference Blue",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000555",
+      "swatchImage": "/uploads/qor/Q-interference-blue.png"
+    },
+    {
+      "id": "qor-interference-green",
+      "brandId": "qor",
+      "name": "Interference Green",
+      "pigmentCodes": [],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Transparent",
+      "staining": "N/A",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000560",
+      "swatchImage": "/uploads/qor/Q-interference-green.png"
+    },
+    {
+      "id": "qor-pyrrole-orange",
+      "brandId": "qor",
+      "name": "Pyrrole Orange",
+      "pigmentCodes": [
+        "PO73"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Semi-Opaque",
+      "staining": "Staining",
+      "granulation": "None",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000590",
+      "swatchImage": "/uploads/qor/Q-pyrrole-orange.png"
+    },
+    {
+      "id": "qor-ultramarine-turquoise",
+      "brandId": "qor",
+      "name": "Ultramarine Turquoise",
+      "pigmentCodes": [
+        "PB29",
+        "PG7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Transparent",
+      "staining": "Semi-Staining",
+      "granulation": "High",
+      "lightfastness": "3/3",
+      "isVegan": true,
+      "isDiscontinued": false,
+      "hue": "–",
+      "binder": "Aquazol (a unique, synthetic polymer binder)",
+      "paintNumber": "7000650",
+      "swatchImage": "/uploads/qor/Q-ultramarine-turquoise.png"
     }
   ]
 }

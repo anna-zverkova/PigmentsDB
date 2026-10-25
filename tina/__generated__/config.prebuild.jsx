@@ -30204,6 +30204,372 @@ var paints_default = {
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
     },
     {
+      id: "qor-isoindolinone-yellow",
+      brandId: "qor",
+      name: "Isoindolinone Yellow",
+      pigmentCodes: [
+        "PY110"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Semi-Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000600",
+      swatchImage: "/uploads/qor/Q-isoindolinone-yellow.png"
+    },
+    {
+      id: "qor-disazo-scarlet",
+      brandId: "qor",
+      name: "Disazo Scarlet",
+      pigmentCodes: [
+        "PR242"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000640",
+      swatchImage: "/uploads/qor/Q-disazo-scarlet.png"
+    },
+    {
+      id: "qor-ultramarine-pink-dark",
+      brandId: "qor",
+      name: "Ultramarine Pink Dark",
+      pigmentCodes: [
+        "PV15"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Semi-Staining",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000655",
+      swatchImage: "/uploads/qor/Q-ultramarine-pink-dark.png"
+    },
+    {
+      id: "qor-brown-umber-natural",
+      brandId: "qor",
+      name: "Brown Umber Natural",
+      pigmentCodes: [
+        "PBr7"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000570",
+      swatchImage: "/uploads/qor/Q-brown-umber-natural.png"
+    },
+    {
+      id: "qor-paynes-gray-violet",
+      brandId: "qor",
+      name: "Paynes Gray Violet",
+      pigmentCodes: [
+        "PV29",
+        "PBk7",
+        "PB15:3"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000575",
+      swatchImage: "/uploads/qor/Q-paynes-gray-violet.png"
+    },
+    {
+      id: "qor-phthalo-blue-red-shade",
+      brandId: "qor",
+      name: "Phthalo Blue Red Shade",
+      pigmentCodes: [
+        "PB15:0"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000585",
+      swatchImage: "/uploads/qor/Q-phthalo-blue-red-shade.png"
+    },
+    {
+      id: "qor-naples-yellow-deep",
+      brandId: "qor",
+      name: "Naples Yellow Deep",
+      pigmentCodes: [
+        "PBr24"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Semi-Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000595",
+      swatchImage: "/uploads/qor/Q-naples-yellow-deep.png"
+    },
+    {
+      id: "qor-benzimidazolone-burnt-orange",
+      brandId: "qor",
+      name: "Benzimidazolone Burnt Orange",
+      pigmentCodes: [
+        "PBr25"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Transparent",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000605",
+      swatchImage: "/uploads/qor/Q-benzimidazolone-burnt-orange.png"
+    },
+    {
+      id: "qor-interference-red",
+      brandId: "qor",
+      name: "Interference Red",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000610",
+      swatchImage: "/uploads/qor/Q-interference-red.png"
+    },
+    {
+      id: "qor-iridescent-copper",
+      brandId: "qor",
+      name: "Iridescent Copper",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000615",
+      swatchImage: "/uploads/qor/Q-iridescent-copper.png"
+    },
+    {
+      id: "qor-perylene-violet",
+      brandId: "qor",
+      name: "Perylene Violet",
+      pigmentCodes: [
+        "PV29"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000635",
+      swatchImage: "/uploads/qor/Q-perylene-violet.png"
+    },
+    {
+      id: "qor-cadmium-purple",
+      brandId: "qor",
+      name: "Cadmium Purple",
+      pigmentCodes: [
+        "PR108"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Semi-Staining",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000580",
+      swatchImage: "/uploads/qor/Q-cadmium-purple.png"
+    },
+    {
+      id: "qor-interference-violet-green-shift",
+      brandId: "qor",
+      name: "Interference Violet Green Shift",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000620",
+      swatchImage: "/uploads/qor/Q-interference-violet-green-shift.png"
+    },
+    {
+      id: "qor-interference-green-orange-shift",
+      brandId: "qor",
+      name: "Interference Green Orange Shift",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000625",
+      swatchImage: "/uploads/qor/Q-interference-green-orange-shift.png"
+    },
+    {
+      id: "qor-interference-green-blue-shift",
+      brandId: "qor",
+      name: "Interference Green Blue Shift",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000630",
+      swatchImage: "/uploads/qor/Q-interference-green-blue-shift.png"
+    },
+    {
+      id: "qor-interference-violet",
+      brandId: "qor",
+      name: "Interference Violet",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000565",
+      swatchImage: "/uploads/qor/Q-interference-violet.png"
+    },
+    {
+      id: "qor-perylene-crimson",
+      brandId: "qor",
+      name: "Perylene Crimson",
+      pigmentCodes: [
+        "PR179"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000645",
+      swatchImage: "/uploads/qor/Q-perylene-crimson.png"
+    },
+    {
+      id: "qor-interference-blue",
+      brandId: "qor",
+      name: "Interference Blue",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000555",
+      swatchImage: "/uploads/qor/Q-interference-blue.png"
+    },
+    {
+      id: "qor-interference-green",
+      brandId: "qor",
+      name: "Interference Green",
+      pigmentCodes: [],
+      hex: "#E6D9C6",
+      transparency: "Semi-Transparent",
+      staining: "N/A",
+      granulation: "High",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000560",
+      swatchImage: "/uploads/qor/Q-interference-green.png"
+    },
+    {
+      id: "qor-pyrrole-orange",
+      brandId: "qor",
+      name: "Pyrrole Orange",
+      pigmentCodes: [
+        "PO73"
+      ],
+      hex: "#E6D9C6",
+      transparency: "Semi-Opaque",
+      staining: "Staining",
+      granulation: "None",
+      lightfastness: "3/3",
+      isVegan: true,
+      isDiscontinued: false,
+      hue: "\u2013",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000590",
+      swatchImage: "/uploads/qor/Q-pyrrole-orange.png"
+    },
+    {
       id: "blockx-zinc-white",
       brandId: "blockx",
       name: "Zinc White",
@@ -67756,7 +68122,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-nickel-yellow.png",
+      paintNumber: "7000100"
     },
     {
       id: "qor-cadmium-yellow-primrose",
@@ -67774,7 +68142,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-cadmium-yellow-primrose.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000105"
     },
     {
       id: "qor-hansa-yellow-light",
@@ -67792,7 +68161,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-hansa-yellow-light.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000110"
     },
     {
       id: "qor-bismuth-vanadate-yellow",
@@ -67809,7 +68179,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-bismuth-vanadate-yellow.png",
+      paintNumber: "7000115"
     },
     {
       id: "qor-cadmium-yellow-light",
@@ -67827,7 +68199,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-cadmium-yellow-light.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000120"
     },
     {
       id: "qor-benzimidazolone-yellow",
@@ -67844,7 +68217,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-benzimidazolone-yellow.png",
+      paintNumber: "7000126"
     },
     {
       id: "qor-cadmium-yellow-medium",
@@ -67862,7 +68237,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-Cadmium-yellow-medium.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000130"
     },
     {
       id: "qor-aureolin-modern",
@@ -67881,7 +68257,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "Hue",
       swatchImage: "/uploads/qor/Q-aureolin-modern.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000135"
     },
     {
       id: "qor-cadmium-yellow-deep",
@@ -67898,7 +68275,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cadmium-yellow-deep.png",
+      paintNumber: "7000170"
     },
     {
       id: "qor-permanent-gamboge",
@@ -67917,7 +68296,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-permanent-gamboge.png",
+      paintNumber: "7000150"
     },
     {
       id: "qor-quinacridone-burnt-orange",
@@ -67934,7 +68315,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-quinacridone-burnt-orange.png",
+      paintNumber: "7000165"
     },
     {
       id: "qor-quinacridone-gold",
@@ -67952,7 +68335,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-quinacridone-gold.png",
+      paintNumber: "7000155"
     },
     {
       id: "qor-diarylide-yellow",
@@ -67969,7 +68354,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-diarylide-yellow.png",
+      paintNumber: "7000175"
     },
     {
       id: "qor-naples-yellow",
@@ -67989,7 +68376,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "Hue",
       swatchImage: "/uploads/qor/Q-naples-yellow.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000435"
     },
     {
       id: "qor-quinacridone-gold-deep",
@@ -68006,7 +68394,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-quinacridone-gold-deep.png",
+      paintNumber: "7000160"
     },
     {
       id: "qor-indian-yellow",
@@ -68025,7 +68415,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-indian-yellow.png",
+      paintNumber: "7000146"
     },
     {
       id: "qor-cadmium-orange",
@@ -68042,7 +68434,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cadmium-orange.png",
+      paintNumber: "7000180"
     },
     {
       id: "qor-transparent-pyrrol-orange",
@@ -68059,7 +68453,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-transparent-pyrrole-orange.png",
+      paintNumber: "7000185"
     },
     {
       id: "qor-cadmium-red-light",
@@ -68076,7 +68472,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cadmium-red-light.png",
+      paintNumber: "7000195"
     },
     {
       id: "qor-pyrrole-red-light",
@@ -68093,7 +68491,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-pyrrole-red-light.png",
+      paintNumber: "7000200"
     },
     {
       id: "qor-pyrrole-red-medium",
@@ -68110,7 +68510,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-pyrrole-red-medium.png",
+      paintNumber: "7000210"
     },
     {
       id: "qor-cadmium-red-medium",
@@ -68127,7 +68529,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cadmium-red-medium.png",
+      paintNumber: "7000215"
     },
     {
       id: "qor-cadmium-red-deep",
@@ -68144,7 +68548,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cadmium-red-deep.png",
+      paintNumber: "7000220"
     },
     {
       id: "qor-quinacridone-red-light",
@@ -68178,7 +68584,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-pyrrole-red-deep.png",
+      paintNumber: "7000225"
     },
     {
       id: "qor-permanent-scarlet",
@@ -68195,7 +68603,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-permanent-scarlet.png",
+      paintNumber: "7000230"
     },
     {
       id: "qor-quinacridone-red",
@@ -68213,7 +68623,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-Quinacridone-red.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000235"
     },
     {
       id: "qor-permanent-alizarin-crimson",
@@ -68230,7 +68641,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-permanent-alizarin-crimson.png",
+      paintNumber: "7000240"
     },
     {
       id: "qor-quinacridone-crimson",
@@ -68248,7 +68661,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-quinacridone-crimson.png",
+      paintNumber: "7000260"
     },
     {
       id: "qor-quinacridone-magenta",
@@ -68265,7 +68680,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-quinacridone-magenta.png",
+      paintNumber: "7000265"
     },
     {
       id: "qor-ultramarine-pink",
@@ -68283,7 +68700,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-ultramarine-pink.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000275"
     },
     {
       id: "qor-quinacridone-violet",
@@ -68301,7 +68719,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-quinacridone-violet.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000280"
     },
     {
       id: "qor-cobalt-violet",
@@ -68336,7 +68755,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-ultramarine-violet.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000290"
     },
     {
       id: "qor-dioxazine-purple",
@@ -68353,7 +68773,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-dioxazine-purple.png",
+      paintNumber: "7000295"
     },
     {
       id: "qor-indigo",
@@ -68372,7 +68794,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-indigo.png",
+      paintNumber: "7000305"
     },
     {
       id: "qor-ultramarine-blue",
@@ -68389,7 +68813,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-ultramarine-blue.png",
+      paintNumber: "7000310"
     },
     {
       id: "qor-ultramarine-blue-violet",
@@ -68408,7 +68834,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-ultramarine-blue-violet.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000316"
     },
     {
       id: "qor-cobalt-blue",
@@ -68425,7 +68852,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cobalt-blue.png",
+      paintNumber: "7000320"
     },
     {
       id: "qor-cerulean-blue-chromium",
@@ -68442,7 +68871,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cerulean-blue-chromium.png",
+      paintNumber: "7000330"
     },
     {
       id: "qor-indanthrone-blue",
@@ -68459,7 +68890,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-indathrone-blue.png",
+      paintNumber: "7000335"
     },
     {
       id: "qor-prussian-blue",
@@ -68476,7 +68909,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-prussian-blue.png",
+      paintNumber: "7000340"
     },
     {
       id: "qor-phthalo-blue-gs",
@@ -68494,7 +68929,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-Phthalo-blue-green-shade.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000345"
     },
     {
       id: "qor-french-cerulean-blue",
@@ -68511,7 +68947,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-french-cerulean-blue.png",
+      paintNumber: "7000350"
     },
     {
       id: "qor-manganese-blue",
@@ -68530,7 +68968,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-manganese-blue.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000355"
     },
     {
       id: "qor-phthalo-turquoise",
@@ -68549,7 +68988,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-turquoise-phthalo.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000365"
     },
     {
       id: "qor-cobalt-turquoise",
@@ -68566,7 +69006,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-cobalt-turquoise.png",
+      paintNumber: "7000370"
     },
     {
       id: "qor-cobalt-teal",
@@ -68584,7 +69026,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-cobalt-teal.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000360"
     },
     {
       id: "qor-phthalo-green-bs",
@@ -68602,7 +69045,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-phthalo-green-blue-shade.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000375"
     },
     {
       id: "qor-viridian-green",
@@ -68620,7 +69064,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-viridian-green.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000380"
     },
     {
       id: "qor-permanent-green-light",
@@ -68639,7 +69084,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-permanent-green-light.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000385"
     },
     {
       id: "qor-cobalt-green",
@@ -68657,7 +69103,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-cobalt-green.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000390"
     },
     {
       id: "qor-hookers-green",
@@ -68676,7 +69123,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-hookers-green.png",
+      paintNumber: "7000395"
     },
     {
       id: "qor-sap-green",
@@ -68696,7 +69145,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "Hue",
       swatchImage: "/uploads/qor/Q-sap-green.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000400"
     },
     {
       id: "qor-terre-verte",
@@ -68714,7 +69164,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-terre-verte.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000405"
     },
     {
       id: "qor-chromium-oxide-green",
@@ -68732,7 +69183,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-chromium-oxide-green.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000410"
     },
     {
       id: "qor-olive-green",
@@ -68751,7 +69203,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-olive-green.png",
+      paintNumber: "7000420"
     },
     {
       id: "qor-bohemian-green-earth",
@@ -68772,7 +69226,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-bohemian-green-eath.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000415"
     },
     {
       id: "qor-green-gold",
@@ -68789,7 +69244,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-green-gold.png",
+      paintNumber: "7000425"
     },
     {
       id: "qor-titan-buff",
@@ -68807,7 +69264,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-titan-buff.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000430"
     },
     {
       id: "qor-yellow-ochre-natural",
@@ -68824,7 +69282,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-yellow-ochre-natural.png",
+      paintNumber: "7000440"
     },
     {
       id: "qor-transparent-yellow-oxide",
@@ -68842,7 +69302,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-transparent-yellow-oxide.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000445"
     },
     {
       id: "qor-raw-sienna-natural",
@@ -68859,7 +69320,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      swatchImage: "/uploads/qor/Q-raw-sienna.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000450"
     },
     {
       id: "qor-transparent-red-oxide",
@@ -68877,7 +69340,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-transparent-red-oxide.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000455"
     },
     {
       id: "qor-mars-orange-deep",
@@ -68913,7 +69377,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-venetian-red.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000465"
     },
     {
       id: "qor-burnt-sienna-natural",
@@ -68931,7 +69396,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-burnt-sienna-natural.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000470"
     },
     {
       id: "qor-transparent-brown-oxide",
@@ -68949,7 +69415,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-transparent-brown-oxide.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000475"
     },
     {
       id: "qor-burnt-umber-natural",
@@ -68967,7 +69434,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-burnt-umber.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000480"
     },
     {
       id: "qor-raw-umber-natural",
@@ -68985,7 +69453,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-raw-umber.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000485"
     },
     {
       id: "qor-nickel-azo-yellow",
@@ -69002,7 +69471,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-nickel-azo-yellow.png",
+      paintNumber: "7000140"
     },
     {
       id: "qor-van-dyke-brown",
@@ -69020,7 +69491,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "Hue",
       swatchImage: "/uploads/qor/Q-van-dyke-brown.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000495"
     },
     {
       id: "qor-sepia",
@@ -69039,7 +69511,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-sepia.png",
+      paintNumber: "7000490"
     },
     {
       id: "qor-carbon-black",
@@ -69057,7 +69531,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-cabon-black.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000500"
     },
     {
       id: "qor-ivory-black",
@@ -69075,7 +69550,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-ivory-black.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000505"
     },
     {
       id: "qor-neutral-tint",
@@ -69094,7 +69570,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      swatchImage: "/uploads/qor/Q-neutral-tint.png",
+      paintNumber: "7000520"
     },
     {
       id: "qor-paynes-gray",
@@ -69113,7 +69591,9 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      swatchImage: "/uploads/qor/Q-paynes-gray.png",
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000510"
     },
     {
       id: "qor-ardoise-gray",
@@ -69131,7 +69611,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-ardoise-gray.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000525"
     },
     {
       id: "qor-titanium-white",
@@ -69149,7 +69630,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-titanium-white.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000535"
     },
     {
       id: "qor-chinese-white",
@@ -69167,7 +69649,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-chinese-white.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000530"
     },
     {
       id: "qor-iridescent-gold-fine",
@@ -69185,7 +69668,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-iridescent-gold.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000540"
     },
     {
       id: "qor-iridescent-silver-fine",
@@ -69203,7 +69687,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-Iridescent-silver.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000550"
     },
     {
       id: "qor-iridescent-pearl-fine",
@@ -69221,7 +69706,8 @@ var paints_default = {
       isDiscontinued: false,
       hue: "\u2013",
       swatchImage: "/uploads/qor/Q-Iridescent-pearl.png",
-      binder: "Aquazol (a unique, synthetic polymer binder)"
+      binder: "Aquazol (a unique, synthetic polymer binder)",
+      paintNumber: "7000545"
     },
     {
       id: "utrecht-permanent-white",
