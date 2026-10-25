@@ -28581,7 +28581,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-forest-brown.png",
+      "swatchImage": "/uploads/schmincke/SC-Ice-Blue.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -28602,7 +28602,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-volcano-yellow.png",
+      "swatchImage": "/uploads/schmincke/SC-Lapis-Lazuli.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -28623,7 +28623,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-volcano-orange.png",
+      "swatchImage": "/uploads/schmincke/SC-YInMn-Blue.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29156,7 +29156,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-volcano-red.png",
+      "swatchImage": "/uploads/schmincke/SC-forest-brown.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29200,7 +29200,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-volcano-violet.png",
+      "swatchImage": "/uploads/schmincke/SC-volcano-yellow.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29222,7 +29222,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-volcano-brown.png",
+      "swatchImage": "/uploads/schmincke/SC-volcano-orange.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29243,7 +29243,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-desert-yellow.png",
+      "swatchImage": "/uploads/schmincke/SC-volcano-red.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29265,7 +29265,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-desert-orange.png",
+      "swatchImage": "/uploads/schmincke/SC-volcano-violet.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29287,7 +29287,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-desert-brown.png",
+      "swatchImage": "/uploads/schmincke/SC-volcano-brown.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29309,7 +29309,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-desert-green.png",
+      "swatchImage": "/uploads/schmincke/SC-desert-yellow.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29331,7 +29331,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-desert-grey.png",
+      "swatchImage": "/uploads/schmincke/SC-desert-orange.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29354,7 +29354,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-shire-yellow.png",
+      "swatchImage": "/uploads/schmincke/SC-desert-brown.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29376,7 +29376,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-shire-olive.png",
+      "swatchImage": "/uploads/schmincke/SC-desert-green.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29398,7 +29398,7 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "swatchImage": "/uploads/schmincke/SC-shire-green.png",
+      "swatchImage": "/uploads/schmincke/SC-desert-grey.png",
       "hue": "–",
       "isDiscontinued": false,
       "binder": "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -82676,7 +82676,7 @@
     {
       "id": "kuretake-gansai-tambi-42-aureolin",
       "brandId": "kuretake-gansai-tambi",
-      "name": "AUREOLIN",
+      "name": "Aureolin",
       "pigmentCodes": [
         "PY3",
         "PY42"
@@ -82741,7 +82741,7 @@
     {
       "id": "kuretake-gansai-tambi-46-burnt-sienna",
       "brandId": "kuretake-gansai-tambi",
-      "name": "BURNT SIENNA",
+      "name": "Burnt Sienna",
       "pigmentCodes": [
         "PR101",
         "PY42"
@@ -82786,7 +82786,7 @@
     {
       "id": "kuretake-gansai-tambi-48-greenish-yellow",
       "brandId": "kuretake-gansai-tambi",
-      "name": "GREENISH YELLOW",
+      "name": "Greenish Yellow",
       "pigmentCodes": [
         "PY3",
         "PBk7"
@@ -82877,7 +82877,7 @@
     {
       "id": "kuretake-gansai-tambi-52-hookers-green",
       "brandId": "kuretake-gansai-tambi",
-      "name": "HOOKER'S GREEN",
+      "name": "Hooker's Green",
       "pigmentCodes": [
         "PY55",
         "PG7"
@@ -83188,7 +83188,7 @@
     {
       "id": "kuretake-gansai-tambi-67-indigo",
       "brandId": "kuretake-gansai-tambi",
-      "name": "INDIGO",
+      "name": "Indigo",
       "pigmentCodes": [
         "PY3",
         "PB27"
@@ -83989,7 +83989,7 @@
     {
       "id": "kuretake-gansai-tambi-506-shadow-green",
       "brandId": "kuretake-gansai-tambi",
-      "name": "SHADOW GREEN",
+      "name": "Shadow Green",
       "pigmentCodes": [
         "PG7",
         "PW6"

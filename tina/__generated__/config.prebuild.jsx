@@ -26056,7 +26056,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Lemon-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-forest-brown.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -26077,7 +26077,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Lemon.png",
+      swatchImage: "/uploads/schmincke/SC-volcano-yellow.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29681,7 +29681,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Lemon.png",
+      swatchImage: "/uploads/schmincke/SC-volcano-orange.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29702,7 +29702,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Vanadium-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-volcano-red.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29724,7 +29724,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Light.png",
+      swatchImage: "/uploads/schmincke/SC-volcano-violet.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29746,7 +29746,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Pure-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-volcano-brown.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29768,7 +29768,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-desert-yellow.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29790,7 +29790,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Cadmium-Yellow-Medium.png",
+      swatchImage: "/uploads/schmincke/SC-desert-orange.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29813,7 +29813,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Chromium-Yellow-Hue-Light.png",
+      swatchImage: "/uploads/schmincke/SC-desert-brown.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29835,7 +29835,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Transparent-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-desert-green.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
@@ -29857,7 +29857,7 @@ var paints_default = {
       isVegan: false,
       paintNumber: "N/A",
       performance: "Professional",
-      swatchImage: "/uploads/schmincke/SC-Turners-Yellow.png",
+      swatchImage: "/uploads/schmincke/SC-desert-grey.png",
       hue: "\u2013",
       isDiscontinued: false,
       binder: "Kordofan gum arabic, with natural oxgall as dispersant"
