@@ -69813,6 +69813,7 @@ var paints_default = {
       isVegan: false,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-paynes-gray.png",
     },
     {
       id: "utrecht-quinacridone-magenta",
@@ -69829,6 +69830,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-quinacridone-magenta.png",
     },
     {
       id: "utrecht-alizarin-crimson",
@@ -69862,6 +69864,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-intense-pink.png",
     },
     {
       id: "utrecht-cadmium-red-light",
@@ -69878,6 +69881,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-red-light.png",
     },
     {
       id: "utrecht-cadmium-free-red-light",
@@ -69896,6 +69900,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-red-light.png",
     },
     {
       id: "utrecht-cadmium-free-red-medium",
@@ -69914,6 +69919,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-red-medium.png",
     },
     {
       id: "utrecht-venetian-red",
@@ -69982,6 +69988,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-red-deep.png",
     },
     {
       id: "utrecht-cadmium-red-deep",
@@ -69998,6 +70005,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-red-deep.png",
     },
     {
       id: "utrecht-permanent-alizarin-crimson",
@@ -70014,6 +70022,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue"
+       swatchImage: "/uploads/utrecht/UT-permanent-alizarin-crimson.png",
     },
     {
       id: "utrecht-yellow-ochre",
@@ -70047,6 +70056,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-burnt-yellow.png",
     },
     {
       id: "utrecht-lemon-yellow",
@@ -70115,6 +70125,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "Hue"
+       swatchImage: "/uploads/utrecht/UT-indian-yellow.png",
     },
     {
       id: "utrecht-cadmium-free-lemon-yellow",
@@ -70131,6 +70142,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-lemon-yellow.png",
     },
     {
       id: "utrecht-cadmium-free-yellow-light",
@@ -70148,6 +70160,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-yellow-light.png",
     },
     {
       id: "utrecht-cadmium-free-yellow-medium",
@@ -70165,6 +70178,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-yellow-medium.png",
     },
     {
       id: "utrecht-naples-yellow-hue",
@@ -70199,6 +70213,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-yellow-deep.png",
     },
     {
       id: "utrecht-cadmium-free-yellow-deep",
@@ -70215,6 +70230,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-yellow-deep.png",
     },
     {
       id: "utrecht-english-yellow",
@@ -70231,6 +70247,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-english-yellow.png",
     },
     {
       id: "utrecht-cadmium-free-orange",
@@ -70249,6 +70266,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-free-orange.png",
     },
     {
       id: "utrecht-cadmium-orange",
@@ -70265,6 +70283,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cadmium-orange.png",
     },
     {
       id: "utrecht-perinone-orange",
@@ -70281,6 +70300,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-perinone-orange.png",
     },
     {
       id: "utrecht-hansa-yellow-deep",
@@ -70297,6 +70317,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-hansa-yellow-deep.png",
     },
     {
       id: "utrecht-ultramarine-blue",
@@ -70313,6 +70334,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-ultramarine-blue.png",
     },
     {
       id: "utrecht-cerulean-blue",
@@ -70329,6 +70351,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cerulean-blue.png",
     },
     {
       id: "utrecht-phthalo-blue",
@@ -70362,6 +70385,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cerulean-blue-chromium.png",
     },
     {
       id: "utrecht-cobalt-blue",
@@ -70378,6 +70402,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-cobalt-blue.png",
     },
     {
       id: "utrecht-indigo-blue",
@@ -70411,6 +70436,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-prussian-blue.png",
     },
     {
       id: "utrecht-french-ultramarine-blue",
@@ -70427,6 +70453,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-french-ultramarine-blue.png",
     },
     {
       id: "utrecht-cobalt-teal-pure",
@@ -70478,6 +70505,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-dioxazine-purple.png",
     },
     {
       id: "utrecht-quinacridone-violet",
@@ -70511,6 +70539,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-permanent-violet.png",
     },
     {
       id: "utrecht-olive-green",
@@ -70615,6 +70644,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-permanent-sap-green.png",
     },
     {
       id: "utrecht-permanent-green-light",
@@ -70667,6 +70697,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-prussian-green.png",
     },
     {
       id: "utrecht-phthalo-green",
@@ -70700,6 +70731,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-turquoise-green.png",
     },
     {
       id: "utrecht-burnt-sienna",
@@ -70821,6 +70853,7 @@ var paints_default = {
       isVegan: true,
       isDiscontinued: false,
       hue: "\u2013"
+       swatchImage: "/uploads/utrecht/UT-golden-earth.png",
     },
     {
       id: "natural-pigments-lazurite",
