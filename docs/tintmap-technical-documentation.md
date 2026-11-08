@@ -3,6 +3,10 @@ PM focus: You need a crisp product definition, who it serves, and where it stand
 
 TintMap is a non-profit, solo‑creator pigment atlas for watercolour artists. It exists to make pigment codes (Colour Index names like PB29, PV19) and paint performance attributes readable, comparable, and brand‑agnostic. The intent is practical: help artists buy smarter, avoid mismatched pigments, and understand how different brands interpret the same pigment.
 
+## Reuse and Project Boundaries
+
+TintMap is an original, independently researched project. Please do not copy this project, its structure, dataset, paint catalog, swatch organization, research workflow, or presentation to create a competing or substantially similar website, including a vibe-coded project. If you are cataloging watercolor paints, do the research and data work yourself rather than transferring TintMap's work into your own version. Do not reproduce, repackage, or present TintMap's original work as your own.
+
 **How TintMap differs from other databases**
 | Site | How it differs | Why TintMap exists alongside it |
 |---|---|---|
