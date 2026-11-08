@@ -2,19 +2,19 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# TintMap
 
-This contains everything you need to run your app locally.
+TintMap is an independent, non-profit watercolor paint and pigment reference project. It helps artists explore watercolor brands, compare paint names and pigment codes, understand properties such as lightfastness, transparency, staining, and granulation, and find related swatch images in one searchable catalog.
 
-View your app in AI Studio: https://ai.studio/apps/temp/2
+The project is built from hands-on research of watercolor paint ranges, manufacturer information, product documentation, and swatch references. Its purpose is to make paint information easier to compare while keeping the differences between brands visible.
+
+## Reuse and Project Permissions
+
+TintMap is an original solo-creator project. You may not copy this repository, its structure, dataset, paint catalog, swatch organization, research process, or presentation to create your own competing or substantially similar watercolor website, including a vibe-coded project. If you are cataloging watercolor paints, please do the research and data work yourself. Do not reproduce, repackage, or present TintMap's original work as your own.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Install dependencies: `npm install`
+2. Start the local development server: `npm run dev`
