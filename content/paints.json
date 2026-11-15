@@ -58911,7 +58911,9 @@
       "id": "kusakabe-floral-violet",
       "brandId": "kusakabe",
       "name": "Floral Violet",
-      "pigmentCodes": [],
+      "pigmentCodes": [
+        "Unknown"
+      ],
       "hue": "–",
       "hex": "",
       "transparency": "Transparent",
@@ -59090,7 +59092,10 @@
       "id": "kusakabe-turquoise-blue",
       "brandId": "kusakabe",
       "name": "Turquoise Blue",
-      "pigmentCodes": [],
+      "pigmentCodes": [
+        "PG36",
+        "Unknown"
+      ],
       "hue": null,
       "hex": "",
       "transparency": "Transparent",
@@ -59189,7 +59194,9 @@
       "id": "kusakabe-aurora-blue",
       "brandId": "kusakabe",
       "name": "Aurora Blue",
-      "pigmentCodes": [],
+      "pigmentCodes": [
+        "Unknown"
+      ],
       "hue": "–",
       "hex": "",
       "transparency": "Semi-Transparent",
@@ -60673,6 +60680,31 @@
       "series": "A",
       "paintNumber": "201",
       "swatchImage": "/uploads/kusakabe/KU-light-red.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "performance": "Professional",
+      "toxicity": "No",
+      "collection": "Standard Assortment"
+    },
+    {
+      "id": "kusakabe-venetian-red",
+      "brandId": "kusakabe",
+      "name": "Venetian Red",
+      "pigmentCodes": [
+        "PR101"
+      ],
+      "hue": "–",
+      "hex": "",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": null,
+      "isVegan": null,
+      "isDiscontinued": false,
+      "series": "A",
+      "paintNumber": "203",
+      "swatchImage": "/uploads/kusakabe/KU-venetian-red.png",
       "stainingVsLifting": null,
       "flow": null,
       "tintingStrength": null,
@@ -88254,52 +88286,6 @@
       "performance": "Professional",
       "toxicity": "No",
       "collection": "Harmonia Granulating Colors Plus"
-    },
-    {
-      "id": "kusakabe-fresh-pink",
-      "brandId": "kusakabe",
-      "name": "Fresh Pink",
-      "pigmentCodes": [],
-      "hue": "–",
-      "hex": "",
-      "transparency": null,
-      "staining": null,
-      "granulation": null,
-      "lightfastness": null,
-      "isVegan": null,
-      "isDiscontinued": false,
-      "series": "B",
-      "paintNumber": "188",
-      "swatchImage": "",
-      "stainingVsLifting": null,
-      "flow": null,
-      "tintingStrength": null,
-      "performance": "Professional",
-      "toxicity": "No",
-      "collection": "Standard Assortment"
-    },
-    {
-      "id": "kusakabe-venetian-red",
-      "brandId": "kusakabe",
-      "name": "Venetian Red",
-      "pigmentCodes": [],
-      "hue": "–",
-      "hex": "",
-      "transparency": null,
-      "staining": null,
-      "granulation": null,
-      "lightfastness": null,
-      "isVegan": null,
-      "isDiscontinued": false,
-      "series": "A",
-      "paintNumber": "203",
-      "swatchImage": "/uploads/kusakabe/KU-venetian-red.png",
-      "stainingVsLifting": null,
-      "flow": null,
-      "tintingStrength": null,
-      "performance": "Professional",
-      "toxicity": "No",
-      "collection": "Standard Assortment"
     }
   ]
 }
