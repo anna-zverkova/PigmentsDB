@@ -62852,7 +62852,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-indanthrone-blue.jpg"
     },
     {
       "id": "daler-rowney-prof-prussian-blue",
@@ -62869,7 +62870,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-prussian-blue.jpg"
     },
     {
       "id": "daler-rowney-prof-indigo",
@@ -63144,7 +63146,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-viridian-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-phthalo-green",
@@ -63277,7 +63280,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-sap-green.jpg"
     },
     {
       "id": "daler-rowney-prof-olive-green",
