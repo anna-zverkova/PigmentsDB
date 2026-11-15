@@ -62215,23 +62215,6 @@
       "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-naples-yellow.jpg"
     },
     {
-      "id": "daler-rowney-prof-nickel-titanium-yellow",
-      "brandId": "daler-rowney-prof",
-      "name": "Nickel Titanium Yellow",
-      "pigmentCodes": [
-        "PY53"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": "Opaque",
-      "staining": "–",
-      "granulation": "–",
-      "lightfastness": "3/4",
-      "isVegan": false,
-      "isDiscontinued": false,
-      "performance": "Professional",
-      "hue": "—"
-    },
-    {
       "id": "daler-rowney-prof-nickel-titanate-yellow",
       "brandId": "daler-rowney-prof",
       "name": "Nickel Titanate Yellow",

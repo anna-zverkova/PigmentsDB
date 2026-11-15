@@ -28,7 +28,14 @@ export const BrandDetail: React.FC = () => {
   const binder = brand.binder || 'Unknown';
   const description = brand.description?.trim() || `${brand.name} is a watercolor paint brand based in ${country}.`;
   const comment = brand.comment?.trim();
-  const colourChartHref = brand.id === 'kusakabe' ? '/pdfs/kusakabe-colour-chart.pdf' : undefined;
+  const colourChartHref = brand.id === 'kusakabe'
+    ? '/pdfs/kusakabe-colour-chart.pdf'
+    : brand.id === 'daler-rowney-prof'
+      ? '/pdfs/daler-rowney-prof-colour-chart.pdf'
+      : undefined;
+  const colourChartLabel = brand.id === 'daler-rowney-prof'
+    ? 'View Daler Rowney Professional colour chart (PDF)'
+    : 'View Kusakabe colour chart (PDF)';
 
   return (
     <div className="min-h-screen bg-neutral-50 pb-20">
@@ -60,7 +67,7 @@ export const BrandDetail: React.FC = () => {
                 rel="noreferrer"
                 className="inline-flex items-center rounded-md border border-neutral-300 bg-white px-4 py-2 text-sm font-medium text-neutral-800 shadow-sm transition-colors hover:border-neutral-500 hover:bg-neutral-50"
               >
-                View Kusakabe colour chart (PDF)
+                {colourChartLabel}
               </a>
             )}
           </div>
