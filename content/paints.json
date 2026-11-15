@@ -61170,7 +61170,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-starry-winter",
@@ -61196,7 +61197,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-dusk-sky",
@@ -61223,7 +61225,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-witch-bordeaux",
@@ -61249,7 +61252,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-sunrise-blossom",
@@ -61275,7 +61279,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-blue-hole",
@@ -61301,7 +61306,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-mint-beryl",
@@ -61327,7 +61333,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-olive-safari",
@@ -61354,7 +61361,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-castle-green",
@@ -61380,7 +61388,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-arctic-ocean",
@@ -61407,7 +61416,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-fog-ash",
@@ -61434,7 +61444,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-darkness-sand",
@@ -61460,7 +61471,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors"
+      "collection": "Harmonia Granulating Colors",
+      "binder": "Gum arabic"
     },
     {
       "id": "ken-bromley-titanium-white",
@@ -62199,7 +62211,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-naples-yellow.jpg"
     },
     {
       "id": "daler-rowney-prof-nickel-titanium-yellow",
@@ -62233,7 +62246,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-nickel-titanate-yellow.jpg"
     },
     {
       "id": "daler-rowney-prof-lemon-yellow",
@@ -62286,7 +62300,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-bismuth-yellow.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-yellow",
@@ -62303,7 +62318,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-permanent-yellow.jpg"
     },
     {
       "id": "daler-rowney-prof-aureolin",
@@ -62320,7 +62336,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-aureolin.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-yellow",
@@ -62355,7 +62372,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-yellow-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-yellow-deep",
@@ -62429,7 +62447,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-indian-yellow.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-orange",
@@ -62447,7 +62466,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-orange.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-orange-hue",
@@ -62465,7 +62485,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-orange-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-warm-orange",
@@ -62482,7 +62503,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-warm-orange.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-red",
@@ -62500,7 +62522,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-permanent-red.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red-pale",
@@ -62517,7 +62540,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red-pale.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red-pale-hue",
@@ -62535,7 +62559,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red-pale-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-vermilion-hue",
@@ -62552,7 +62577,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-vermilion-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red",
@@ -62569,7 +62595,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red-hue",
@@ -62587,7 +62614,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-quinacridone-red",
@@ -62604,7 +62632,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-quinacridone-red.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red-deep",
@@ -62621,7 +62650,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red-deep.jpg"
     },
     {
       "id": "daler-rowney-prof-cadmium-red-deep-hue",
@@ -62639,7 +62669,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cadmium-red-deep-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-perylene-red",
@@ -62656,7 +62687,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-perylene-red.jpg"
     },
     {
       "id": "daler-rowney-prof-alizarin-crimson",
@@ -62692,7 +62724,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-alizarin-crimson-hue.jpg"
     },
     {
       "id": "daler-rowney-prof-carmine",
@@ -62709,7 +62742,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "Hue"
+      "hue": "Hue",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-carmine.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-rose",
@@ -62744,7 +62778,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-quinacridone-magenta.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-magenta",
@@ -62797,7 +62832,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-ultramarine-violet.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-mauve",
@@ -62814,7 +62850,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-permanent-mauve.jpg"
     },
     {
       "id": "daler-rowney-prof-indanthrone-blue",
@@ -62940,7 +62977,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-coeruleum.jpg"
     },
     {
       "id": "daler-rowney-prof-cobalt-blue",
@@ -62957,7 +62995,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cobalt-blue.jpg"
     },
     {
       "id": "daler-rowney-prof-cobalt-blue-deep",
@@ -62974,7 +63013,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cobalt-blue-deep.jpg"
     },
     {
       "id": "daler-rowney-prof-permanent-blue",
@@ -62991,7 +63031,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-permanent-blue.jpg"
     },
     {
       "id": "daler-rowney-prof-french-ultramarine",
@@ -63008,7 +63049,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-french-ultramarine.jpg"
     },
     {
       "id": "daler-rowney-prof-cobalt-turquoise-rs",
@@ -63025,7 +63067,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cobalt-turquoise-rs.jpg"
     },
     {
       "id": "daler-rowney-prof-cobalt-turquoise-gs",
@@ -63042,7 +63085,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cobalt-turquoise-gs.jpg"
     },
     {
       "id": "daler-rowney-prof-transparent-turquoise",
@@ -63078,7 +63122,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-cobalt-green-deep.jpg"
     },
     {
       "id": "daler-rowney-prof-phthalo-turquoise",
@@ -63228,7 +63273,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-vivid-green.jpg"
     },
     {
       "id": "daler-rowney-prof-sap-green",
@@ -63266,7 +63312,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-olive-green.jpg"
     },
     {
       "id": "daler-rowney-prof-green-gold",
@@ -63283,7 +63330,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-green-gold.jpg"
     },
     {
       "id": "daler-rowney-prof-yellow-ochre",
@@ -63319,7 +63367,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-raw-sienna.jpg"
     },
     {
       "id": "daler-rowney-prof-burnt-sienna",
@@ -63390,7 +63439,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-transparent-red-brown.jpg"
     },
     {
       "id": "daler-rowney-prof-perylene-maroon",
@@ -63407,7 +63457,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-perylene-maroon.jpg"
     },
     {
       "id": "daler-rowney-prof-indian-red",
@@ -63460,7 +63511,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-burnt-umber.jpg"
     },
     {
       "id": "daler-rowney-prof-raw-umber",
@@ -63535,7 +63587,8 @@
       "isVegan": false,
       "isDiscontinued": false,
       "performance": "Professional",
-      "hue": "—"
+      "hue": "—",
+      "swatchImage": "/uploads/daler-rowney-pro/daler-rowney-prof-neutral-tint.jpg"
     },
     {
       "id": "daler-rowney-prof-paynes-grey",
@@ -87992,7 +88045,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-caribbean-azul",
@@ -88019,7 +88073,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-drift-ice",
@@ -88047,7 +88102,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-lime-sparkle",
@@ -88073,7 +88129,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-gold-citrine",
@@ -88099,7 +88156,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-fairy-conch-pearl",
@@ -88126,7 +88184,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-mandarin-carmelian",
@@ -88152,7 +88211,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-cranberry-punch",
@@ -88178,7 +88238,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-chiffon-pink",
@@ -88204,7 +88265,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-geographic",
@@ -88231,7 +88293,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-phantom-mist",
@@ -88258,7 +88321,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     },
     {
       "id": "kusakabe-raven-butler",
@@ -88285,7 +88349,8 @@
       "tintingStrength": null,
       "performance": "Professional",
       "toxicity": "No",
-      "collection": "Harmonia Granulating Colors Plus"
+      "collection": "Harmonia Granulating Colors Plus",
+      "binder": "Gum arabic"
     }
   ]
 }
