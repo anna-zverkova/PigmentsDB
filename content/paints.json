@@ -20082,7 +20082,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/lemon-yellow.jpg"
     },
     {
       "id": "daniel-smith-indian-yellow",
@@ -20648,7 +20649,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/permanent-alizarin-crimson.jpg"
     },
     {
       "id": "daniel-smith-carmine",
@@ -22788,7 +22790,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/burnt-sienna-light.jpg"
     },
     {
       "id": "daniel-smith-enviro-friendly-red-iron-oxide",
@@ -23023,7 +23026,8 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/joseph-zs-neutral-grey.jpg"
     },
     {
       "id": "daniel-smith-joseph-zs-cool-grey",
@@ -23043,7 +23047,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/joseph-zs-cool-grey.jpg"
     },
     {
       "id": "daniel-smith-joseph-zs-warm-grey",
@@ -23063,7 +23068,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/joseph-zs-warm-grey.jpg"
     },
     {
       "id": "daniel-smith-janes-grey",
@@ -23082,7 +23088,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/janes-grey.jpg"
     },
     {
       "id": "daniel-smith-alvaros-fresco-grey",
@@ -23102,7 +23109,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/alvaros-fresco-grey.jpg"
     },
     {
       "id": "daniel-smith-alvaros-caliente-grey",
@@ -23142,7 +23150,8 @@
       "isVegan": true,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/paynes-blue-grey.jpg"
     },
     {
       "id": "daniel-smith-paynes-grey",
@@ -23161,7 +23170,8 @@
       "isVegan": false,
       "paintNumber": "N/A",
       "performance": "Professional",
-      "binder": "Gum arabic"
+      "binder": "Gum arabic",
+      "swatchImage": "/uploads/daniel-smith/paynes-grey.jpg"
     },
     {
       "id": "daniel-smith-lamp-black",
@@ -61679,7 +61689,8 @@
       "lightfastness": "1/2",
       "isVegan": true,
       "isDiscontinued": false,
-      "hue": "–"
+      "hue": "–",
+      "swatchImage": "/uploads/daniel-smith/lemon-yellow.jpg"
     },
     {
       "id": "ken-bromley-manganese-violet",
