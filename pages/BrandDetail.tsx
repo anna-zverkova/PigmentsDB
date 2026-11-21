@@ -34,11 +34,15 @@ export const BrandDetail: React.FC = () => {
       ? '/pdfs/daler-rowney-prof-colour-chart.pdf'
       : brand.id === 'white-nights'
         ? '/pdfs/white-nights-colour-chart.pdf'
+      : brand.id === 'ds'
+        ? '/pdfs/daniel-smith-colour-chart.pdf'
       : undefined;
   const colourChartLabel = brand.id === 'daler-rowney-prof'
     ? 'View Daler Rowney Professional colour chart (PDF)'
     : brand.id === 'white-nights'
       ? 'View White Nights colour chart (PDF)'
+      : brand.id === 'ds'
+        ? 'View Daniel Smith colour chart (PDF)'
       : 'View Kusakabe colour chart (PDF)';
 
   return (
