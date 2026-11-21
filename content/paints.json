@@ -88687,126 +88687,132 @@
   "brandId": "ds",
   "name": "Kyanite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Kyanite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/kyanite-genuine.jpg"
 },
     {
   "id": "daniel-smith-sodalite-genuine",
   "brandId": "ds",
   "name": "Sodalite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Sodalite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/sodalite-genuine.jpg"
 },
     {
   "id": "daniel-smith-lapis-lazuli-genuine",
   "brandId": "ds",
   "name": "Lapis Lazuli Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Lapis Lazuli"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "5",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/lapis-lazuli-genuine.jpg"
 },
     {
   "id": "daniel-smith-mayan-blue-genuine",
   "brandId": "ds",
   "name": "Mayan Blue Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Mayan Blue"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "3/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/mayan-blue-genuine.jpg"
 },
     {
   "id": "daniel-smith-kingman-green-turq-gen",
   "brandId": "ds",
-  "name": "Kingman Green Turq. Gen.",
+  "name": "Kingman Green Turquoise Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Kingman Green Turquoise"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "5",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/kingman-green-turquoise-genuine.jpg"
 },
     {
   "id": "daniel-smith-sleeping-beauty-turq-gen",
   "brandId": "ds",
-  "name": "Sleeping Beauty Turq. Gen.",
+  "name": "Sleeping Beauty Turquoise Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Sleeping Beauty Turquoise"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "5",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/sleeping-beauty-turquoise-genuine.jpg"
 },
     {
   "id": "daniel-smith-amazonite-genuine",
@@ -88834,126 +88840,154 @@
   "brandId": "ds",
   "name": "Blue Apatite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Blue Apatite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/blue-apatite-genuine.jpg"
 },
     {
   "id": "daniel-smith-serpentine-genuine",
   "brandId": "ds",
   "name": "Serpentine Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Serpentine"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/serpentine-genuine.jpg"
 },
     {
   "id": "daniel-smith-green-apatite-genuine",
   "brandId": "ds",
   "name": "Green Apatite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Green Apatite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/green-apatite-genuine.jpg"
 },
     {
   "id": "daniel-smith-yavapai-genuine",
   "brandId": "ds",
   "name": "Yavapai Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Natural Brown Ochre"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/yavapai-genuine.jpg"
 },
     {
   "id": "daniel-smith-garnet-genuine",
   "brandId": "ds",
   "name": "Garnet Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Garnet"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/garnet-genuine.jpg"
+},
+    {
+  "id": "daniel-smith-fuchsite-genuine",
+  "brandId": "ds",
+  "name": "Fuchsite Genuine",
+  "pigmentCodes": [
+    "Genuine Fuchsite"
+  ],
+  "hue": "Unknown",
+  "hex": "#E6D9C6",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
+  "isVegan": null,
+  "isDiscontinued": false,
+  "series": "2",
+  "paintNumber": "N/A",
+  "performance": "Professional",
+  "collection": "Extra Fine",
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/red-fuchsite-genuine.jpg"
 },
     {
   "id": "daniel-smith-red-fuchsite-genuine",
   "brandId": "ds",
   "name": "Red Fuchsite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Red Fuchsite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/red-fuchsite-genuine-2.jpg"
 },
     {
   "id": "daniel-smith-minnesota-pipestone-gen",
@@ -88981,21 +89015,22 @@
   "brandId": "ds",
   "name": "Red Jasper Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Red Jasper"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/red-jasper-genuine.jpg"
 },
     {
   "id": "daniel-smith-piemontite-genuine",
