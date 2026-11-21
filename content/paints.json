@@ -89105,21 +89105,22 @@
   "brandId": "ds",
   "name": "Hematite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Hematite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/hematite-genuine.jpg"
 },
     {
   "id": "daniel-smith-mummy-bauxite",
@@ -89130,38 +89131,40 @@
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/mummy-bauxite.jpg"
 },
     {
   "id": "daniel-smith-bloodstone-genuine",
   "brandId": "ds",
   "name": "Bloodstone Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Bloodstone"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/bloodstone-genuine.jpg"
 },
     {
   "id": "daniel-smith-sickerlite-genuine",
@@ -89189,651 +89192,713 @@
   "brandId": "ds",
   "name": "McCracken Black",
   "pigmentCodes": [
-    "Unknown"
+    "PB27",
+    "PR101",
+    "PV23",
+    "PV19",
+    "PR177",
+    "PY150",
+    "PR149"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/mccracken-black.jpg"
 },
     {
   "id": "daniel-smith-black-tourmaline-genuine",
   "brandId": "ds",
   "name": "Black Tourmaline Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Black Tourmaline"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/black-tourmaline-genuine.jpg"
 },
     {
   "id": "daniel-smith-duochrome-green-pearl",
   "brandId": "ds",
   "name": "Duochrome Green Pearl",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-green-pearl.png"
 },
     {
   "id": "daniel-smith-duochrome-blue-pearl",
   "brandId": "ds",
   "name": "Duochrome Blue Pearl",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-blue-pearl.png"
 },
     {
   "id": "daniel-smith-duochrome-oceanic",
   "brandId": "ds",
   "name": "Duochrome Oceanic",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-oceanic.png"
 },
     {
   "id": "daniel-smith-duochrome-turquoise",
   "brandId": "ds",
   "name": "Duochrome Turquoise",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-turquoise.png"
 },
     {
   "id": "daniel-smith-duochrome-cabo-blue",
   "brandId": "ds",
   "name": "Duochrome Cabo Blue",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-cabo-blue.png"
 },
     {
   "id": "daniel-smith-duochrome-aquamarine",
   "brandId": "ds",
   "name": "Duochrome Aquamarine",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-aquamarine.png"
 },
     {
   "id": "daniel-smith-duochrome-emerald",
   "brandId": "ds",
   "name": "Duochrome Emerald",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-emerald.png"
 },
     {
   "id": "daniel-smith-duochrome-desert-bronze",
   "brandId": "ds",
   "name": "Duochrome Desert Bronze",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-desert-bronze.png"
 },
     {
   "id": "daniel-smith-duochrome-saguaro-green",
   "brandId": "ds",
   "name": "Duochrome Saguaro Green",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-saguaro-green.png"
 },
     {
   "id": "daniel-smith-duochrome-adobe",
   "brandId": "ds",
   "name": "Duochrome Adobe",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6",
+    "Iron Oxide"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-adobe.png"
 },
     {
   "id": "daniel-smith-duochrome-autumn-mystery",
   "brandId": "ds",
   "name": "Duochrome Autumn Mystery",
   "pigmentCodes": [
-    "Unknown"
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-autumn-mystery.png"
 },
     {
   "id": "daniel-smith-duochrome-cactus-flower",
   "brandId": "ds",
   "name": "Duochrome Cactus Flower",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-cactus-flower.png"
 },
     {
   "id": "daniel-smith-duochrome-hibiscus",
   "brandId": "ds",
   "name": "Duochrome Hibiscus",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-hibiscus.png"
 },
     {
   "id": "daniel-smith-duochrome-violet-pearl",
   "brandId": "ds",
   "name": "Duochrome Violet Pearl",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-violet-pearl.png"
 },
     {
   "id": "daniel-smith-duochrome-mauve",
   "brandId": "ds",
   "name": "Duochrome Mauve",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-mauve.png"
 },
     {
   "id": "daniel-smith-duochrome-tropic-sunrise",
   "brandId": "ds",
   "name": "Duochrome Tropic Sunrise",
   "pigmentCodes": [
-    "Unknown"
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-tropic-sunrise.png"
 },
     {
   "id": "daniel-smith-duochrome-lapis-sunlight",
   "brandId": "ds",
   "name": "Duochrome Lapis Sunlight",
   "pigmentCodes": [
-    "Unknown"
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-lapis-sunlight.png"
 },
     {
   "id": "daniel-smith-duochrome-violet-fantasy",
   "brandId": "ds",
   "name": "Duochrome Violet Fantasy",
   "pigmentCodes": [
-    "Unknown"
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-violet-fantasy.png"
 },
     {
   "id": "daniel-smith-duochrome-arctic-fire",
   "brandId": "ds",
   "name": "Duochrome Arctic Fire",
   "pigmentCodes": [
-    "Unknown"
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/duochrome-arctic-fire.png"
 },
     {
   "id": "daniel-smith-interference-blue",
   "brandId": "ds",
   "name": "Interference Blue",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-blue.png"
 },
     {
   "id": "daniel-smith-interference-copper",
   "brandId": "ds",
   "name": "Interference Copper",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-copper.png"
 },
     {
   "id": "daniel-smith-interference-gold",
   "brandId": "ds",
   "name": "Interference Gold",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-gold.png"
 },
     {
   "id": "daniel-smith-interference-green",
   "brandId": "ds",
   "name": "Interference Green",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-green.png"
 },
     {
   "id": "daniel-smith-interference-lilac",
   "brandId": "ds",
   "name": "Interference Lilac",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-lilac.png"
 },
     {
   "id": "daniel-smith-interference-red",
   "brandId": "ds",
   "name": "Interference Red",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-red.png"
 },
     {
   "id": "daniel-smith-interference-silver",
   "brandId": "ds",
   "name": "Interference Silver",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/interference-silver.png"
 },
     {
   "id": "daniel-smith-pearlescent-shimmer",
   "brandId": "ds",
   "name": "Pearlescent Shimmer",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/pearlescent-shimmer.png"
 },
     {
   "id": "daniel-smith-pearlescent-white",
   "brandId": "ds",
   "name": "Pearlescent White",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/pearlescent-white.png"
 },
     {
   "id": "daniel-smith-iridescent-moonstone",
   "brandId": "ds",
   "name": "Iridescent Moonstone",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-moonstone.png"
 },
     {
   "id": "daniel-smith-iridescent-blue-silver",
@@ -89875,364 +89940,393 @@
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-blue-silver.png"
 },
     {
   "id": "daniel-smith-iridescent-aztec-gold",
   "brandId": "ds",
   "name": "Iridescent Aztec Gold",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-aztec-gold.png"
 },
     {
   "id": "daniel-smith-iridescent-bronze",
   "brandId": "ds",
   "name": "Iridescent Bronze",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-bronze.png"
 },
     {
   "id": "daniel-smith-iridescent-goldstone",
   "brandId": "ds",
   "name": "Iridescent Goldstone",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-goldstone.png"
 },
     {
   "id": "daniel-smith-iridescent-copper",
   "brandId": "ds",
   "name": "Iridescent Copper",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-copper.png"
 },
     {
   "id": "daniel-smith-iridescent-gold",
   "brandId": "ds",
   "name": "Iridescent Gold",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-gold.png"
 },
     {
   "id": "daniel-smith-iridescent-topaz",
   "brandId": "ds",
   "name": "Iridescent Topaz",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-topaz.png"
 },
     {
   "id": "daniel-smith-iridescent-jade",
   "brandId": "ds",
   "name": "Iridescent Jade",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6",
+    "PG17"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-jade.png"
 },
     {
   "id": "daniel-smith-iridescent-garnet",
   "brandId": "ds",
   "name": "Iridescent Garnet",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-garnet.png"
 },
     {
   "id": "daniel-smith-iridescent-russet",
   "brandId": "ds",
   "name": "Iridescent Russet",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "Iron Oxide"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-russet.png"
 },
     {
   "id": "daniel-smith-iridescent-ruby",
   "brandId": "ds",
   "name": "Iridescent Ruby",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-ruby.png"
 },
     {
   "id": "daniel-smith-iridescent-scarab-red",
   "brandId": "ds",
   "name": "Iridescent Scarab Red",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PR101"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-scarab-red.png"
 },
     {
   "id": "daniel-smith-iridescent-electric-blue",
   "brandId": "ds",
   "name": "Iridescent Electric Blue",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-electric-blue.png"
 },
     {
   "id": "daniel-smith-iridescent-sapphire",
   "brandId": "ds",
   "name": "Iridescent Sapphire",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-sapphire.png"
 },
     {
   "id": "daniel-smith-iridescent-antique-bronze",
   "brandId": "ds",
   "name": "Iridescent Antique Bronze",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-antique-bronze.png"
 },
     {
   "id": "daniel-smith-iridescent-antique-copper",
   "brandId": "ds",
   "name": "Iridescent Antique Copper",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-antique-copper.png"
 },
     {
   "id": "daniel-smith-iridescent-antique-gold",
   "brandId": "ds",
   "name": "Iridescent Antique Gold",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-antique-gold.png"
 },
     {
   "id": "daniel-smith-iridescent-antique-silver",
   "brandId": "ds",
   "name": "Iridescent Antique Silver",
   "pigmentCodes": [
-    "Unknown"
+    "PW20"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-antique-silver.png"
 },
     {
       "id": "daniel-smith-ultramarine-red",
