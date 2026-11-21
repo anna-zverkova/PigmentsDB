@@ -88819,21 +88819,22 @@
   "brandId": "ds",
   "name": "Amazonite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Amazonite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/amazonite-genuine.png"
 },
     {
   "id": "daniel-smith-blue-apatite-genuine",
@@ -88992,23 +88993,24 @@
     {
   "id": "daniel-smith-minnesota-pipestone-gen",
   "brandId": "ds",
-  "name": "Minnesota Pipestone Gen.",
+  "name": "Minnesota Pipestone Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Catlinite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/minnesota-pipestone-genuine.jpg"
 },
     {
   "id": "daniel-smith-red-jasper-genuine",
@@ -89037,63 +89039,66 @@
   "brandId": "ds",
   "name": "Piemontite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Piemontite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/piemontite-genuine.jpg"
 },
     {
   "id": "daniel-smith-tigers-eye-genuine",
   "brandId": "ds",
   "name": "Tiger's Eye Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Tiger’s Eye"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Non-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/tigers-eye-genuine.jpg"
 },
     {
   "id": "daniel-smith-burnt-tigers-eye-genuine",
   "brandId": "ds",
   "name": "Burnt Tiger's Eye Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Tiger’s Eye"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/burnt-tigers-eye-genuine.jpg"
 },
     {
   "id": "daniel-smith-hematite-genuine",
