@@ -88599,84 +88599,88 @@
   "brandId": "ds",
   "name": "Rhodonite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Rhodonite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Non-Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/rhodonite-genuine.jpg"
 },
     {
   "id": "daniel-smith-purpurite-genuine",
   "brandId": "ds",
   "name": "Purpurite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Purpurite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "2",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/purpurite-genuine.jpg"
 },
     {
   "id": "daniel-smith-amethyst-genuine",
   "brandId": "ds",
   "name": "Amethyst Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Amethyst"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Semi-Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/amethyst-genuine.jpg"
 },
     {
   "id": "daniel-smith-sugilite-genuine",
   "brandId": "ds",
   "name": "Sugilite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Sugilite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
-  "staining": "Unknown",
-  "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "transparency": "Transparent",
+  "staining": "Low-Staining",
+  "granulation": "Granulating",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "3",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/sugilite-genuine.jpg"
 },
     {
   "id": "daniel-smith-kyanite-genuine",
