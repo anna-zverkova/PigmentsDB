@@ -89171,21 +89171,22 @@
   "brandId": "ds",
   "name": "Sickerlite Genuine",
   "pigmentCodes": [
-    "Unknown"
+    "Genuine Sicklerite"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
+  "transparency": "Transparent",
   "staining": "Unknown",
   "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "4",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/sicklerite-genuine.png"
 },
     {
   "id": "daniel-smith-mccracken-black",
@@ -89905,21 +89906,23 @@
   "brandId": "ds",
   "name": "Iridescent Blue-Silver",
   "pigmentCodes": [
-    "Unknown"
+    "PW20",
+    "PW6"
   ],
   "hue": "Unknown",
   "hex": "#E6D9C6",
-  "transparency": "Unknown",
+  "transparency": "Transparent",
   "staining": "Unknown",
   "granulation": "Unknown",
-  "lightfastness": "Unknown",
+  "lightfastness": "4/4",
   "isVegan": null,
   "isDiscontinued": false,
-  "series": "Unknown",
+  "series": "1",
   "paintNumber": "N/A",
   "performance": "Professional",
   "collection": "Extra Fine",
-  "binder": "Gum arabic"
+  "binder": "Gum arabic",
+  "swatchImage": "/uploads/daniel-smith/iridescent-blue-silver.png"
 },
     {
   "id": "daniel-smith-iridescent-sunstone",
