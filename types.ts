@@ -48,6 +48,7 @@ export interface Paint {
   pigmentMix?: "Single" | "Multi";
   isFeatured?: boolean;
   hue?: string;
+  colorWarmth?: "Warmest" | "Warm" | "Cool" | "Coolest";
   hex: string;
   transparency: Transparency;
   staining: Staining;

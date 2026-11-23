@@ -104,6 +104,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
     'Swatch',
     'Color No.',
     'Hue',
+    'Color Warmth',
     'Series',
     'Colour',
     'Light',
@@ -154,6 +155,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                 </td>
                 <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">{paint.paintNumber || '—'}</td>
                 <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.hue || '—'}</td>
+                <td className="px-4 py-3 text-neutral-600 whitespace-nowrap">{paint.colorWarmth || '—'}</td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.series || '—'}</td>
                 <td className="px-4 py-3 text-center">
                   <div

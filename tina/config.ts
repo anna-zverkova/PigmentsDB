@@ -513,6 +513,11 @@ export default defineConfig({
               },
               {
                 type: "string",
+                name: "colorWarmth",
+                label: "Color Warmth",
+              },
+              {
+                type: "string",
                 name: "hex",
                 label: "Hex",
               },
