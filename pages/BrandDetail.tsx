@@ -36,6 +36,8 @@ export const BrandDetail: React.FC = () => {
         ? '/pdfs/white-nights-colour-chart.pdf'
       : brand.id === 'ds'
         ? '/pdfs/daniel-smith-colour-chart.pdf'
+      : brand.id === 'a-gallo'
+        ? '/pdfs/A_Gallo_color_chart.pdf'
       : undefined;
   const colourChartLabel = brand.id === 'daler-rowney-prof'
     ? 'View Daler Rowney Professional colour chart (PDF)'
@@ -43,6 +45,8 @@ export const BrandDetail: React.FC = () => {
       ? 'View White Nights colour chart (PDF)'
       : brand.id === 'ds'
         ? 'View Daniel Smith colour chart (PDF)'
+      : brand.id === 'a-gallo'
+        ? 'View A Gallo colour chart (PDF)'
       : 'View Kusakabe colour chart (PDF)';
 
   return (
