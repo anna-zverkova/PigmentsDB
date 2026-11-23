@@ -38,6 +38,8 @@ export const BrandDetail: React.FC = () => {
         ? '/pdfs/daniel-smith-colour-chart.pdf'
       : brand.id === 'a-gallo'
         ? '/pdfs/A_Gallo_color_chart.pdf'
+      : brand.id === 'grumbacher-finest'
+        ? '/pdfs/grumbacher-finest-colour-chart.pdf'
       : undefined;
   const colourChartLabel = brand.id === 'daler-rowney-prof'
     ? 'View Daler Rowney Professional colour chart (PDF)'
@@ -47,6 +49,8 @@ export const BrandDetail: React.FC = () => {
         ? 'View Daniel Smith colour chart (PDF)'
       : brand.id === 'a-gallo'
         ? 'View A Gallo colour chart (PDF)'
+      : brand.id === 'grumbacher-finest'
+        ? 'View Grumbacher Finest colour chart (PDF)'
       : 'View Kusakabe colour chart (PDF)';
 
   return (
