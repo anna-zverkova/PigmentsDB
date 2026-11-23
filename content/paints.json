@@ -91047,7 +91047,9 @@
       "brandId": "a-gallo",
       "name": "Giallorino hue",
       "pigmentCodes": [
-        "Unknown"
+        "PY3",
+        "PW4",
+        "PY43"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91057,8 +91059,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "261",
       "swatchImage": "/uploads/a-gallo/giallorino-hue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91069,7 +91071,7 @@
       "brandId": "a-gallo",
       "name": "Lemon yellow, perm.",
       "pigmentCodes": [
-        "Unknown"
+        "PY184"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91079,8 +91081,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "203",
       "swatchImage": "/uploads/a-gallo/lemon-yellow-perm.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91091,7 +91093,7 @@
       "brandId": "a-gallo",
       "name": "Pyrrole orange",
       "pigmentCodes": [
-        "Unknown"
+        "PO73"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91101,8 +91103,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "337",
       "swatchImage": "/uploads/a-gallo/pyrrole-orange.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91113,7 +91115,9 @@
       "brandId": "a-gallo",
       "name": "Cinabro hue",
       "pigmentCodes": [
-        "Unknown"
+        "PW27",
+        "PR101",
+        "PR254"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91123,8 +91127,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "302",
       "swatchImage": "/uploads/a-gallo/cinabro-hue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91135,7 +91139,7 @@
       "brandId": "a-gallo",
       "name": "Rose Madder",
       "pigmentCodes": [
-        "Unknown"
+        "NR9"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91145,8 +91149,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "401",
       "swatchImage": "/uploads/a-gallo/rose-madder.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91157,7 +91161,9 @@
       "brandId": "a-gallo",
       "name": "Lilac",
       "pigmentCodes": [
-        "Unknown"
+        "PR233",
+        "PV15",
+        "PV16"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91167,8 +91173,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "313",
       "swatchImage": "/uploads/a-gallo/lilac.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91179,7 +91185,7 @@
       "brandId": "a-gallo",
       "name": "Han purple",
       "pigmentCodes": [
-        "Unknown"
+        "Copper silicate and Barium"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91189,8 +91195,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "405",
       "swatchImage": "/uploads/a-gallo/han-purple.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91201,7 +91207,8 @@
       "brandId": "a-gallo",
       "name": "Harbor blue",
       "pigmentCodes": [
-        "Unknown"
+        "PB15:3",
+        "PBr8"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91211,8 +91218,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "233",
       "swatchImage": "/uploads/a-gallo/harbor-blue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91223,7 +91230,8 @@
       "brandId": "a-gallo",
       "name": "Lapis lazuli",
       "pigmentCodes": [
-        "Unknown"
+        "Fra Angelico",
+        "genuine"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91233,8 +91241,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "402",
       "swatchImage": "/uploads/a-gallo/lapis-lazuli.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91245,7 +91253,7 @@
       "brandId": "a-gallo",
       "name": "YlnMn blue",
       "pigmentCodes": [
-        "Unknown"
+        "PB86"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91255,8 +91263,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "5",
+      "paintNumber": "501",
       "swatchImage": "/uploads/a-gallo/ylnmn-blue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91267,7 +91275,11 @@
       "brandId": "a-gallo",
       "name": "Azurite hue",
       "pigmentCodes": [
-        "Unknown"
+        "Sodalite",
+        "PB15:3",
+        "PB29",
+        "PW4",
+        "PY43"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91277,8 +91289,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "317",
       "swatchImage": "/uploads/a-gallo/azurite-hue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91289,7 +91301,8 @@
       "brandId": "a-gallo",
       "name": "Ultramarine turquoise",
       "pigmentCodes": [
-        "Unknown"
+        "PB29",
+        "PG7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91299,8 +91312,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "259",
       "swatchImage": "/uploads/a-gallo/ultramarine-turquoise.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91311,7 +91324,7 @@
       "brandId": "a-gallo",
       "name": "Phthalo blue (RS)",
       "pigmentCodes": [
-        "Unknown"
+        "PB15:1"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91321,8 +91334,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "262",
       "swatchImage": "/uploads/a-gallo/phthalo-blue-rs.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91333,7 +91346,7 @@
       "brandId": "a-gallo",
       "name": "Perylene green",
       "pigmentCodes": [
-        "Unknown"
+        "PBk31"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91343,8 +91356,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "320",
       "swatchImage": "/uploads/a-gallo/perylene-green.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91355,7 +91368,7 @@
       "brandId": "a-gallo",
       "name": "Ultramarine blue",
       "pigmentCodes": [
-        "Unknown"
+        "PB29"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91365,8 +91378,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "228",
       "swatchImage": "/uploads/a-gallo/ultramarine-blue.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91377,7 +91390,7 @@
       "brandId": "a-gallo",
       "name": "Victoria green",
       "pigmentCodes": [
-        "Unknown"
+        "PG51"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91387,8 +91400,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "237",
       "swatchImage": "/uploads/a-gallo/victoria-green.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91399,7 +91412,7 @@
       "brandId": "a-gallo",
       "name": "English red",
       "pigmentCodes": [
-        "Unknown"
+        "PR101"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91409,8 +91422,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "1",
+      "paintNumber": "119",
       "swatchImage": "/uploads/a-gallo/english-red.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91421,7 +91434,7 @@
       "brandId": "a-gallo",
       "name": "Icelandic red earth",
       "pigmentCodes": [
-        "Unknown"
+        "Natural earth"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91431,8 +91444,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "312",
       "swatchImage": "/uploads/a-gallo/icelandic-red-earth.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91443,7 +91456,7 @@
       "brandId": "a-gallo",
       "name": "Leighton red ochre",
       "pigmentCodes": [
-        "Unknown"
+        "PR102"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91453,8 +91466,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "249",
       "swatchImage": "/uploads/a-gallo/leighton-red-ochre.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91465,7 +91478,7 @@
       "brandId": "a-gallo",
       "name": "Burnt sienna, Mt. Amiata",
       "pigmentCodes": [
-        "Unknown"
+        "PBr7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91475,8 +91488,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "115",
       "swatchImage": "/uploads/a-gallo/burnt-sienna-mt-amiata.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91487,7 +91500,7 @@
       "brandId": "a-gallo",
       "name": "Yellow weld",
       "pigmentCodes": [
-        "Unknown"
+        "Reseda luteolas"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91497,8 +91510,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "400",
       "swatchImage": "/uploads/a-gallo/yellow-weld.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91509,7 +91522,7 @@
       "brandId": "a-gallo",
       "name": "Hematite",
       "pigmentCodes": [
-        "Unknown"
+        "PR102"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91519,8 +91532,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "1",
+      "paintNumber": "120",
       "swatchImage": "/uploads/a-gallo/hematite.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91531,7 +91544,7 @@
       "brandId": "a-gallo",
       "name": "Orange iron oxide",
       "pigmentCodes": [
-        "Unknown"
+        "PR102"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91541,8 +91554,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "301",
       "swatchImage": "/uploads/a-gallo/orange-iron-oxide.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91553,7 +91566,7 @@
       "brandId": "a-gallo",
       "name": "Perylene maroon",
       "pigmentCodes": [
-        "Unknown"
+        "PR179"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91563,8 +91576,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "332",
       "swatchImage": "/uploads/a-gallo/perylene-maroon.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91575,7 +91588,7 @@
       "brandId": "a-gallo",
       "name": "Moroccan red ochre",
       "pigmentCodes": [
-        "Unknown"
+        "PR102"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91585,8 +91598,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "252",
       "swatchImage": "/uploads/a-gallo/moroccan-red-ochre.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91597,7 +91610,7 @@
       "brandId": "a-gallo",
       "name": "Slate gray",
       "pigmentCodes": [
-        "Unknown"
+        "PBk19"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91607,8 +91620,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "258",
       "swatchImage": "/uploads/a-gallo/slate-gray.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91619,7 +91632,8 @@
       "brandId": "a-gallo",
       "name": "Tourmaline",
       "pigmentCodes": [
-        "Unknown"
+        "Tourmaline",
+        "genuine"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91629,8 +91643,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "318",
       "swatchImage": "/uploads/a-gallo/tourmaline.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91641,7 +91655,7 @@
       "brandId": "a-gallo",
       "name": "Chinese white",
       "pigmentCodes": [
-        "Unknown"
+        "PW4"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91651,31 +91665,9 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "260",
       "swatchImage": "/uploads/a-gallo/chinese-white.png",
-      "performance": "Professional",
-      "collection": "Main",
-      "binder": "Gum arabic"
-    },
-    {
-      "id": "a-gallo-paynesgrayneutraltint",
-      "brandId": "a-gallo",
-      "name": "Payne\u2019s gray Neutral tint",
-      "pigmentCodes": [
-        "Unknown"
-      ],
-      "hue": "Unknown",
-      "hex": "#E6D9C6",
-      "transparency": "Unknown",
-      "staining": "Unknown",
-      "granulation": "Unknown",
-      "lightfastness": "Unknown",
-      "isVegan": null,
-      "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
-      "swatchImage": "/uploads/a-gallo/paynesgrayneutraltint.png",
       "performance": "Professional",
       "collection": "Main",
       "binder": "Gum arabic"
@@ -91685,7 +91677,8 @@
       "brandId": "a-gallo",
       "name": "Vivianite",
       "pigmentCodes": [
-        "Unknown"
+        "Vivianite",
+        "genuine"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91695,8 +91688,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "408",
       "swatchImage": "/uploads/a-gallo/vivianite.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91707,7 +91700,9 @@
       "brandId": "a-gallo",
       "name": "Bronze",
       "pigmentCodes": [
-        "Unknown"
+        "metallic pigment",
+        "PR101",
+        "PY43"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91717,8 +91712,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "336",
       "swatchImage": "/uploads/a-gallo/bronze.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91729,7 +91724,8 @@
       "brandId": "a-gallo",
       "name": "Meteorite brown",
       "pigmentCodes": [
-        "Unknown"
+        "Chondrites",
+        "genuine"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91739,8 +91735,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "4",
+      "paintNumber": "410",
       "swatchImage": "/uploads/a-gallo/meteorite-brown.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91751,7 +91747,7 @@
       "brandId": "a-gallo",
       "name": "Van Dyck brown",
       "pigmentCodes": [
-        "Unknown"
+        "NBr8"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91761,8 +91757,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "1",
+      "paintNumber": "125",
       "swatchImage": "/uploads/a-gallo/van-dyck-brown.png",
       "performance": "Professional",
       "collection": "Main",
@@ -91773,7 +91769,9 @@
       "brandId": "a-gallo",
       "name": "Rosa 22",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PY3",
+        "PR264"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91783,8 +91781,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "942",
       "swatchImage": "/uploads/a-gallo/rosa-22.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91795,7 +91793,8 @@
       "brandId": "a-gallo",
       "name": "Sand",
       "pigmentCodes": [
-        "Unknown"
+        "PY43",
+        "PW6"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91805,8 +91804,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "951",
       "swatchImage": "/uploads/a-gallo/sand.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91817,7 +91816,9 @@
       "brandId": "a-gallo",
       "name": "Antique rose",
       "pigmentCodes": [
-        "Unknown"
+        "PR101",
+        "PW6",
+        "PO73"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91827,8 +91828,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "963",
       "swatchImage": "/uploads/a-gallo/antique-rose.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91839,7 +91840,9 @@
       "brandId": "a-gallo",
       "name": "Rosewood",
       "pigmentCodes": [
-        "Unknown"
+        "PV15",
+        "PW6",
+        "PR254"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91849,8 +91852,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "957",
       "swatchImage": "/uploads/a-gallo/rosewood.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91861,7 +91864,9 @@
       "brandId": "a-gallo",
       "name": "Jaune brilliant No. 2",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PY184",
+        "PO73"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91871,8 +91876,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "906",
       "swatchImage": "/uploads/a-gallo/jaune-brilliant-no-2.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91883,7 +91888,10 @@
       "brandId": "a-gallo",
       "name": "Sunshine yellow",
       "pigmentCodes": [
-        "Unknown"
+        "PY151",
+        "PW6",
+        "PY43",
+        "PY110"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91893,8 +91901,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "948",
       "swatchImage": "/uploads/a-gallo/sunshine-yellow.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91905,7 +91913,9 @@
       "brandId": "a-gallo",
       "name": "Atomic orange",
       "pigmentCodes": [
-        "Unknown"
+        "PY110",
+        "PW6",
+        "PR255"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91915,8 +91925,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "915",
       "swatchImage": "/uploads/a-gallo/atomic-orange.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91927,7 +91937,10 @@
       "brandId": "a-gallo",
       "name": "Coral red",
       "pigmentCodes": [
-        "Unknown"
+        "PW27",
+        "PR101",
+        "PR254",
+        "PW6"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91937,8 +91950,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "939",
       "swatchImage": "/uploads/a-gallo/coral-red.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91949,7 +91962,10 @@
       "brandId": "a-gallo",
       "name": "Leather brown",
       "pigmentCodes": [
-        "Unknown"
+        "PBr8",
+        "PBk11",
+        "PW6",
+        "PR101"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91959,8 +91975,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "921",
       "swatchImage": "/uploads/a-gallo/leather-brown.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91971,7 +91987,10 @@
       "brandId": "a-gallo",
       "name": "Cognac",
       "pigmentCodes": [
-        "Unknown"
+        "PBr8",
+        "PW6",
+        "PR102",
+        "PR101"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -91981,8 +92000,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "924",
       "swatchImage": "/uploads/a-gallo/cognac.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -91993,7 +92012,8 @@
       "brandId": "a-gallo",
       "name": "Fuchsia",
       "pigmentCodes": [
-        "Unknown"
+        "PV19",
+        "PW6"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92003,8 +92023,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "936",
       "swatchImage": "/uploads/a-gallo/fuchsia.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92015,7 +92035,9 @@
       "brandId": "a-gallo",
       "name": "Jaune brilliant No. 1",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PY154",
+        "PY83"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92025,8 +92047,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "903",
       "swatchImage": "/uploads/a-gallo/jaune-brilliant-no-1.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92037,7 +92059,9 @@
       "brandId": "a-gallo",
       "name": "Modern mauve",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PV37",
+        "PV19"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92047,8 +92071,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "966",
       "swatchImage": "/uploads/a-gallo/modern-mauve.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92059,7 +92083,9 @@
       "brandId": "a-gallo",
       "name": "Warm gray",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PBr7",
+        "PBk7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92069,8 +92095,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "933",
       "swatchImage": "/uploads/a-gallo/warm-gray.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92081,7 +92107,9 @@
       "brandId": "a-gallo",
       "name": "Lavender",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PV15",
+        "PB29"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92091,8 +92119,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "900",
       "swatchImage": "/uploads/a-gallo/lavender.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92103,7 +92131,9 @@
       "brandId": "a-gallo",
       "name": "Navy blue",
       "pigmentCodes": [
-        "Unknown"
+        "PB15:1",
+        "PW6",
+        "PBk7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92113,8 +92143,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "960",
       "swatchImage": "/uploads/a-gallo/navy-blue.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92125,7 +92155,8 @@
       "brandId": "a-gallo",
       "name": "Master\u2019s white",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PY43"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92135,8 +92166,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "1",
+      "paintNumber": "139",
       "swatchImage": "/uploads/a-gallo/masters-white.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92147,7 +92178,8 @@
       "brandId": "a-gallo",
       "name": "Lamp black",
       "pigmentCodes": [
-        "Unknown"
+        "PBk7",
+        "PBk11"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92157,8 +92189,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "954",
       "swatchImage": "/uploads/a-gallo/lamp-black.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92169,7 +92201,10 @@
       "brandId": "a-gallo",
       "name": "Eames green",
       "pigmentCodes": [
-        "Unknown"
+        "PG7",
+        "PG18",
+        "PBk31",
+        "PW6"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92179,8 +92214,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "912",
       "swatchImage": "/uploads/a-gallo/eames-green.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92191,7 +92226,9 @@
       "brandId": "a-gallo",
       "name": "Dusty sage",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PG17",
+        "PB29"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92201,8 +92238,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "927",
       "swatchImage": "/uploads/a-gallo/dusty-sage.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92213,7 +92250,10 @@
       "brandId": "a-gallo",
       "name": "Turquoise",
       "pigmentCodes": [
-        "Unknown"
+        "PG18",
+        "PW6",
+        "PB15:4",
+        "PBk11"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92223,8 +92263,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "909",
       "swatchImage": "/uploads/a-gallo/turquoise.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92235,7 +92275,10 @@
       "brandId": "a-gallo",
       "name": "Avocado green",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PY184",
+        "PG17",
+        "PBk11"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92245,8 +92288,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "945",
       "swatchImage": "/uploads/a-gallo/avocado-green.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92257,7 +92300,10 @@
       "brandId": "a-gallo",
       "name": "Mcm blue",
       "pigmentCodes": [
-        "Unknown"
+        "PB15:1",
+        "PW6",
+        "PBk11",
+        "PG7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92267,8 +92313,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "918",
       "swatchImage": "/uploads/a-gallo/mcm-blue.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92279,7 +92325,9 @@
       "brandId": "a-gallo",
       "name": "Powder blue",
       "pigmentCodes": [
-        "Unknown"
+        "PW6",
+        "PB15:1",
+        "PBk11"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92289,8 +92337,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "2",
+      "paintNumber": "930",
       "swatchImage": "/uploads/a-gallo/powder-blue.png",
       "performance": "Professional",
       "collection": "Mid-Century",
@@ -92301,7 +92349,10 @@
       "brandId": "a-gallo",
       "name": "Iridescent lime",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PG7",
+        "PY184",
+        "PB29"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92311,8 +92362,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "645",
       "swatchImage": "/uploads/a-gallo/iridescent-lime.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92323,7 +92374,9 @@
       "brandId": "a-gallo",
       "name": "Iridescent seafoam",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PB29",
+        "PG7"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92333,8 +92386,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "640",
       "swatchImage": "/uploads/a-gallo/iridescent-seafoam.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92345,7 +92398,10 @@
       "brandId": "a-gallo",
       "name": "Silver smoke",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PBk7",
+        "PR122",
+        "PB15:3"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92355,8 +92411,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "655",
       "swatchImage": "/uploads/a-gallo/silver-smoke.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92367,7 +92423,10 @@
       "brandId": "a-gallo",
       "name": "Iridescent aquamarine",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PB15:4",
+        "PG7",
+        "PB29"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92377,8 +92436,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "635",
       "swatchImage": "/uploads/a-gallo/iridescent-aquamarine.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92389,7 +92448,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent moonlight",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PB60"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92399,8 +92459,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "630",
       "swatchImage": "/uploads/a-gallo/iridescent-moonlight.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92411,7 +92471,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent pine",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PBk31"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92421,8 +92482,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "650",
       "swatchImage": "/uploads/a-gallo/iridescent-pine.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92433,7 +92494,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent rust",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PO73"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92443,8 +92505,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "615",
       "swatchImage": "/uploads/a-gallo/iridescent-rust.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92455,7 +92517,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent hibiscus",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PR202"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92465,8 +92528,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "620",
       "swatchImage": "/uploads/a-gallo/iridescent-hibiscus.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92477,7 +92540,9 @@
       "brandId": "a-gallo",
       "name": "Iridescent clementine",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PY154",
+        "PY110"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92487,8 +92552,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "610",
       "swatchImage": "/uploads/a-gallo/iridescent-clementine.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92499,7 +92564,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent dark orchid",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PV55"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92509,8 +92575,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "625",
       "swatchImage": "/uploads/a-gallo/iridescent-dark-orchid.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92521,7 +92587,8 @@
       "brandId": "a-gallo",
       "name": "Iridescent sunshine",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PY151"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92531,8 +92598,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "605",
       "swatchImage": "/uploads/a-gallo/iridescent-sunshine.png",
       "performance": "Professional",
       "collection": "Iridescent",
@@ -92543,7 +92610,8 @@
       "brandId": "a-gallo",
       "name": "Champagne",
       "pigmentCodes": [
-        "Unknown"
+        "Mineral pigment",
+        "PY43"
       ],
       "hue": "Unknown",
       "hex": "#E6D9C6",
@@ -92553,8 +92621,8 @@
       "lightfastness": "Unknown",
       "isVegan": null,
       "isDiscontinued": false,
-      "series": null,
-      "paintNumber": "N/A",
+      "series": "3",
+      "paintNumber": "600",
       "swatchImage": "/uploads/a-gallo/champagne.png",
       "performance": "Professional",
       "collection": "Iridescent",
