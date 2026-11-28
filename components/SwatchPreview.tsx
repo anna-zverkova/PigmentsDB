@@ -30,12 +30,14 @@ export const SwatchPreview: React.FC<SwatchPreviewProps> = ({
 
   if (shouldShowImage) {
     return (
-      <img
-        src={src as string}
-        alt={alt}
-        onError={() => setImageError(true)}
-        className={className}
-      />
+      <div className={['overflow-hidden rounded', className].filter(Boolean).join(' ')}>
+        <img
+          src={src as string}
+          alt={alt}
+          onError={() => setImageError(true)}
+          className="block h-full w-full object-cover object-center"
+        />
+      </div>
     );
   }
 
