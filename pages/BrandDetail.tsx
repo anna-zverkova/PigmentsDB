@@ -115,6 +115,7 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
     'Color Warmth',
     'Series',
     'Colour',
+    'Hex Code',
     'Light',
     'Staining',
     'Staining vs Lifting',
@@ -168,13 +169,12 @@ const PaintTable: React.FC<{ paints: Paint[] }> = ({ paints }) => {
                 <td className="px-4 py-3 text-center">
                   <div
                     className="w-6 h-6 rounded-full border border-neutral-200 shadow-sm mx-auto"
-                    style={
-                      paint.swatchImage
-                        ? { backgroundImage: `url(${paint.swatchImage})`, backgroundSize: 'cover', backgroundPosition: 'center' }
-                        : { backgroundColor: paint.hex }
-                    }
+                    style={{ backgroundColor: paint.hex || '#E6D9C6' }}
                     title={paint.name}
                   />
+                </td>
+                <td className="px-4 py-3 text-neutral-600 font-mono text-xs whitespace-nowrap">
+                  {paint.hex || '—'}
                 </td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.lightfastness}</td>
                 <td className="px-4 py-3 text-neutral-600 text-center whitespace-nowrap">{paint.staining}</td>
