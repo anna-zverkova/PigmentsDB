@@ -78825,7 +78825,7 @@
     {
       "id": "prima-the-classics-dove-white-01",
       "brandId": "prima",
-      "name": "Dove / White",
+      "name": "Dove White",
       "pigmentCodes": [
         "PW6"
       ],
@@ -78833,19 +78833,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "01"
+      "paintNumber": "01",
+      "swatchImage": "/uploads/prima/dove-white-01.png"
     },
     {
       "id": "prima-the-classics-candy-pinky-02",
       "brandId": "prima",
-      "name": "Candy / Pinky",
+      "name": "Candy Pinky",
       "pigmentCodes": [
         "PR81"
       ],
@@ -78853,19 +78854,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "1/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "02"
+      "paintNumber": "02",
+      "swatchImage": "/uploads/prima/candy-pinky-02.png"
     },
     {
       "id": "prima-the-classics-rouge-red-03",
       "brandId": "prima",
-      "name": "Rouge / Red",
+      "name": "Rouge Red",
       "pigmentCodes": [
         "PR112",
         "PR170"
@@ -78874,19 +78876,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "03"
+      "paintNumber": "03",
+      "swatchImage": "/uploads/prima/rouge-red-03.png"
     },
     {
       "id": "prima-the-classics-carrot-orange-04",
       "brandId": "prima",
-      "name": "Carrot / Orange",
+      "name": "Carrot Orange",
       "pigmentCodes": [
         "PO13",
         "PY14"
@@ -78895,19 +78898,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "04"
+      "paintNumber": "04",
+      "swatchImage": "/uploads/prima/carrot-orange-04.png"
     },
     {
       "id": "prima-the-classics-canary-yellow-05",
       "brandId": "prima",
-      "name": "Canary / Yellow",
+      "name": "Canary Yellow",
       "pigmentCodes": [
         "PY14"
       ],
@@ -78915,19 +78919,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "05"
+      "paintNumber": "05",
+      "swatchImage": "/uploads/prima/canary-yellow-05.png"
     },
     {
       "id": "prima-the-classics-green-apple-green-06",
       "brandId": "prima",
-      "name": "Green Apple / Green",
+      "name": "Green Apple Green",
       "pigmentCodes": [
         "PY14",
         "PG7"
@@ -78936,19 +78941,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "06"
+      "paintNumber": "06",
+      "swatchImage": "/uploads/prima/green-apple-green-06.png"
     },
     {
       "id": "prima-the-classics-breeze-icy-blue-07",
       "brandId": "prima",
-      "name": "Breeze / Icy Blue",
+      "name": "Breeze Icy Blue",
       "pigmentCodes": [
         "PB15:3",
         "PG7"
@@ -78957,19 +78963,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "07"
+      "paintNumber": "07",
+      "swatchImage": "/uploads/prima/breeze-icy-blue-07.png"
     },
     {
       "id": "prima-the-classics-sailor-blue-08",
       "brandId": "prima",
-      "name": "Sailor / Blue",
+      "name": "Sailor Blue",
       "pigmentCodes": [
         "PB29"
       ],
@@ -78977,19 +78984,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "08"
+      "paintNumber": "08",
+      "swatchImage": "/uploads/prima/sailor-blue-08.png"
     },
     {
       "id": "prima-the-classics-lavender-purple-09",
       "brandId": "prima",
-      "name": "Lavender / Purple",
+      "name": "Lavender Purple",
       "pigmentCodes": [
         "PB81",
         "PV23"
@@ -78998,14 +79006,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "09"
+      "paintNumber": "09",
+      "swatchImage": "/uploads/prima/lavender-purple-09.png"
     },
     {
       "id": "prima-the-classics-roasted-coffee-10",
@@ -79014,67 +79023,70 @@
       "pigmentCodes": [
         "PR101",
         "PY14",
-        "PBk9"
+        "PBk7"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "10"
+      "paintNumber": "10",
+      "swatchImage": "/uploads/prima/roasted-coffee-10.png"
     },
     {
       "id": "prima-the-classics-slate-grey-11",
       "brandId": "prima",
-      "name": "Slate / Grey",
+      "name": "Slate Grey",
       "pigmentCodes": [
         "PW6",
-        "PBk9",
+        "PBk7",
         "PB29"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "11"
+      "paintNumber": "11",
+      "swatchImage": "/uploads/prima/slate-grey-11.png"
     },
     {
       "id": "prima-the-classics-dark-night-black-12",
       "brandId": "prima",
-      "name": "Dark Night / Black",
+      "name": "Dark Night Black",
       "pigmentCodes": [
-        "PBk9"
+        "PBk7"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "The Classics",
-      "paintNumber": "12"
+      "paintNumber": "12",
+      "swatchImage": "/uploads/prima/dark-night-black-12.png"
     },
     {
       "id": "prima-tropicals-grassland-island-13",
       "brandId": "prima",
-      "name": "Grassland / Island",
+      "name": "Grassland Island",
       "pigmentCodes": [
         "PG7"
       ],
@@ -79082,19 +79094,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "13"
+      "paintNumber": "13",
+      "swatchImage": "/uploads/prima/grassland-island-13.png"
     },
     {
       "id": "prima-tropicals-plantain-coconut-14",
       "brandId": "prima",
-      "name": "Plantain / Coconut",
+      "name": "Plantain Coconut",
       "pigmentCodes": [
         "PY42",
         "PY14"
@@ -79103,14 +79116,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "14"
+      "paintNumber": "14",
+      "swatchImage": "/uploads/prima/plantain-coconut-14.png"
     },
     {
       "id": "prima-tropicals-thunderstorm-15",
@@ -79124,19 +79138,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "15"
+      "paintNumber": "15",
+      "swatchImage": "/uploads/prima/thunderstorm-15.png"
     },
     {
       "id": "prima-tropicals-avocado-parrot-16",
       "brandId": "prima",
-      "name": "Avocado / Parrot",
+      "name": "Avocado Parrot",
       "pigmentCodes": [
         "PY42",
         "PY14",
@@ -79147,19 +79162,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "16"
+      "paintNumber": "16",
+      "swatchImage": "/uploads/prima/avocado-parrot-16.png"
     },
     {
       "id": "prima-tropicals-tropicana-hibiscus-17",
       "brandId": "prima",
-      "name": "Tropicana / Hibiscus",
+      "name": "Tropicana Hibiscus",
       "pigmentCodes": [
         "PO13",
         "PR112"
@@ -79168,19 +79184,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "17"
+      "paintNumber": "17",
+      "swatchImage": "/uploads/prima/tropicana-hibiscus-17.png"
     },
     {
       "id": "prima-tropicals-rainforest-palms-18",
       "brandId": "prima",
-      "name": "Rainforest / Palms",
+      "name": "Rainforest Palms",
       "pigmentCodes": [
         "PG7",
         "PB15:3",
@@ -79190,19 +79207,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "18"
+      "paintNumber": "18",
+      "swatchImage": "/uploads/prima/rainforest-palms-18.png"
     },
     {
       "id": "prima-tropicals-red-parrot-pitaya-19",
       "brandId": "prima",
-      "name": "Red Parrot / Pitaya",
+      "name": "Red Parrot Pitaya",
       "pigmentCodes": [
         "PR57:1"
       ],
@@ -79210,19 +79228,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "19"
+      "paintNumber": "19",
+      "swatchImage": "/uploads/prima/red-parrot-pitaya-19.png"
     },
     {
       "id": "prima-tropicals-north-isle-reef-20",
       "brandId": "prima",
-      "name": "North Isle / Reef",
+      "name": "North Isle Reef",
       "pigmentCodes": [
         "PV23"
       ],
@@ -79230,19 +79249,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "20"
+      "paintNumber": "20",
+      "swatchImage": "/uploads/prima/north-isle-reef-20.png"
     },
     {
       "id": "prima-tropicals-sunset-pineapple-21",
       "brandId": "prima",
-      "name": "Sunset / Pineapple",
+      "name": "Sunset Pineapple",
       "pigmentCodes": [
         "PY83"
       ],
@@ -79250,19 +79270,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "21"
+      "paintNumber": "21",
+      "swatchImage": "/uploads/prima/sunset-pineapple-21.png"
     },
     {
       "id": "prima-tropicals-lush-sunset-22",
       "brandId": "prima",
-      "name": "Lush / Sunset",
+      "name": "Lush Sunset",
       "pigmentCodes": [
         "PR81"
       ],
@@ -79270,19 +79291,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "22"
+      "paintNumber": "22",
+      "swatchImage": "/uploads/prima/lush-sunset-22.png"
     },
     {
       "id": "prima-tropicals-wild-berry-ocean-23",
       "brandId": "prima",
-      "name": "Wild Berry / Ocean",
+      "name": "Wild Berry Ocean",
       "pigmentCodes": [
         "PB27"
       ],
@@ -79290,19 +79312,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "23"
+      "paintNumber": "23",
+      "swatchImage": "/uploads/prima/wild-berry-ocean-23.png"
     },
     {
       "id": "prima-tropicals-cacao-tiki-24",
       "brandId": "prima",
-      "name": "Cacao / Tiki",
+      "name": "Cacao Tiki",
       "pigmentCodes": [
         "PR101",
         "PY14",
@@ -79313,19 +79336,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Tropicals",
-      "paintNumber": "24"
+      "paintNumber": "24",
+      "swatchImage": "/uploads/prima/cacao-tiki-24.png"
     },
     {
       "id": "prima-decadent-pies-frosting-white-25",
       "brandId": "prima",
-      "name": "Frosting / White",
+      "name": "Frosting White",
       "pigmentCodes": [
         "PW20"
       ],
@@ -79333,19 +79357,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "25"
+      "paintNumber": "25",
+      "swatchImage": "/uploads/prima/white-mocha-25.png"
     },
     {
       "id": "prima-decadent-pies-silver-pearl-earl-grey-26",
       "brandId": "prima",
-      "name": "Silver Pearl / Earl Grey",
+      "name": "Silver Pearl Earl Grey",
       "pigmentCodes": [
         "PW20",
         "PBk9",
@@ -79355,19 +79380,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "26"
+      "paintNumber": "26",
+      "swatchImage": "/uploads/prima/earl-grey-26.png"
     },
     {
       "id": "prima-decadent-pies-praline-pischahio-27",
       "brandId": "prima",
-      "name": "Praline / Pischahio",
+      "name": "Praline Pischahio",
       "pigmentCodes": [
         "PW20",
         "PY83",
@@ -79377,19 +79403,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "27"
+      "paintNumber": "27",
+      "swatchImage": "/uploads/prima/pistachio-cream-27.png"
     },
     {
       "id": "prima-decadent-pies-rose-petal-guava-28",
       "brandId": "prima",
-      "name": "Rose Petal / Guava",
+      "name": "Rose Petal Guava",
       "pigmentCodes": [
         "PW20",
         "PR101",
@@ -79399,19 +79426,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "28"
+      "paintNumber": "28",
+      "swatchImage": "/uploads/prima/guava-meringue-28.png"
     },
     {
       "id": "prima-decadent-pies-vanilla-cream-banana-29",
       "brandId": "prima",
-      "name": "Vanilla Cream / Banana",
+      "name": "Vanilla Cream Banana",
       "pigmentCodes": [
         "PY6",
         "PY42"
@@ -79420,14 +79448,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "29"
+      "paintNumber": "29",
+      "swatchImage": "/uploads/prima/banana-cream-29.png"
     },
     {
       "id": "prima-decadent-pies-dark-chocolate-30",
@@ -79442,19 +79471,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "30"
+      "paintNumber": "30",
+      "swatchImage": "/uploads/prima/pecan-30.png"
     },
     {
       "id": "prima-decadent-pies-frappe-peach-cobler-31",
       "brandId": "prima",
-      "name": "Frappe / Peach Cobler",
+      "name": "Frappe Peach Cobler",
       "pigmentCodes": [
         "PW6",
         "PO13",
@@ -79464,19 +79494,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "31"
+      "paintNumber": "31",
+      "swatchImage": "/uploads/prima/peach-cobbler-31.png"
     },
     {
       "id": "prima-decadent-pies-sweet-jam-apple-32",
       "brandId": "prima",
-      "name": "Sweet Jam / Apple",
+      "name": "Sweet Jam Apple",
       "pigmentCodes": [
         "PR101",
         "PY14",
@@ -79486,19 +79517,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "32"
+      "paintNumber": "32",
+      "swatchImage": "/uploads/prima/apple-32.png"
     },
     {
       "id": "prima-decadent-pies-caramel-pumpkin-33",
       "brandId": "prima",
-      "name": "Caramel / Pumpkin",
+      "name": "Caramel Pumpkin",
       "pigmentCodes": [
         "PY42",
         "PR101",
@@ -79508,19 +79540,20 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "33"
+      "paintNumber": "33",
+      "swatchImage": "/uploads/prima/pumpkin-33.png"
     },
     {
       "id": "prima-decadent-pies-pistachio-keylime-34",
       "brandId": "prima",
-      "name": "Pistachio / Keylime",
+      "name": "Pistachio Keylime",
       "pigmentCodes": [
         "PB27",
         "PY14",
@@ -79530,14 +79563,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "34"
+      "paintNumber": "34",
+      "swatchImage": "/uploads/prima/keylime-34.png"
     },
     {
       "id": "prima-decadent-pies-blue-berry-35",
@@ -79552,14 +79586,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "35"
+      "paintNumber": "35",
+      "swatchImage": "/uploads/prima/blackberry-35.png"
     },
     {
       "id": "prima-decadent-pies-berry-syrup-36",
@@ -79572,14 +79607,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Decadent Pies",
-      "paintNumber": "36"
+      "paintNumber": "36",
+      "swatchImage": "/uploads/prima/blueberry-36.png"
     },
     {
       "id": "prima-pastel-dreams-brown-37",
@@ -79594,14 +79630,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "37"
+      "paintNumber": "37",
+      "swatchImage": "/uploads/prima/brown-37.png"
     },
     {
       "id": "prima-pastel-dreams-chocolate-38",
@@ -79611,20 +79648,21 @@
         "PR101",
         "PY14",
         "PR48:4",
-        "PBk9"
+        "PBk7"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "38"
+      "paintNumber": "38",
+      "swatchImage": "/uploads/prima/chocolate-38.png"
     },
     {
       "id": "prima-pastel-dreams-crimson-39",
@@ -79638,14 +79676,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "39"
+      "paintNumber": "39",
+      "swatchImage": "/uploads/prima/crimson-39.png"
     },
     {
       "id": "prima-pastel-dreams-rose-40",
@@ -79659,14 +79698,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "40"
+      "paintNumber": "40",
+      "swatchImage": "/uploads/prima/rose-40.png"
     },
     {
       "id": "prima-pastel-dreams-lemonade-41",
@@ -79681,14 +79721,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "41"
+      "paintNumber": "41",
+      "swatchImage": "/uploads/prima/lemonade-41.png"
     },
     {
       "id": "prima-pastel-dreams-citrus-42",
@@ -79701,14 +79742,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "42"
+      "paintNumber": "42",
+      "swatchImage": "/uploads/prima/citrus-42.png"
     },
     {
       "id": "prima-pastel-dreams-bumblebee-43",
@@ -79721,14 +79763,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "43"
+      "paintNumber": "43",
+      "swatchImage": "/uploads/prima/bumblebee-43.png"
     },
     {
       "id": "prima-pastel-dreams-sea-dream-44",
@@ -79742,14 +79785,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "44"
+      "paintNumber": "44",
+      "swatchImage": "/uploads/prima/sea-dream-44.png"
     },
     {
       "id": "prima-pastel-dreams-paradise-45",
@@ -79764,14 +79808,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "45"
+      "paintNumber": "45",
+      "swatchImage": "/uploads/prima/paradise-45.png"
     },
     {
       "id": "prima-pastel-dreams-pool-party-46",
@@ -79784,14 +79829,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "46"
+      "paintNumber": "46",
+      "swatchImage": "/uploads/prima/pool-party-46.png"
     },
     {
       "id": "prima-pastel-dreams-icy-sky-47",
@@ -79804,14 +79850,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "47"
+      "paintNumber": "47",
+      "swatchImage": "/uploads/prima/icy-sky-47.png"
     },
     {
       "id": "prima-pastel-dreams-lilac-rain-48",
@@ -79824,94 +79871,101 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Pastel Dreams",
-      "paintNumber": "48"
+      "paintNumber": "48",
+      "swatchImage": "/uploads/prima/lilac-rain-48.png"
     },
     {
       "id": "prima-shimmering-lights-gold-49",
       "brandId": "prima",
       "name": "Gold",
       "pigmentCodes": [
-        "PW20"
+        "Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "49"
+      "paintNumber": "49",
+      "swatchImage": "/uploads/prima/gold-49.png"
     },
     {
       "id": "prima-shimmering-lights-twinkle-50",
       "brandId": "prima",
       "name": "Twinkle",
       "pigmentCodes": [
-        "PW20"
+        "Gold",
+        "Pale Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "50"
+      "paintNumber": "50",
+      "swatchImage": "/uploads/prima/twinkle-50.png"
     },
     {
       "id": "prima-shimmering-lights-allure-51",
       "brandId": "prima",
       "name": "Allure",
       "pigmentCodes": [
-        "PW20"
+        "Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "51"
+      "paintNumber": "51",
+      "swatchImage": "/uploads/prima/allure-51.png"
     },
     {
       "id": "prima-shimmering-lights-treasure-52",
       "brandId": "prima",
       "name": "Treasure",
       "pigmentCodes": [
-        "PB27"
+        "PB27",
+        "Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "52"
+      "paintNumber": "52",
+      "swatchImage": "/uploads/prima/treasure-52.png"
     },
     {
       "id": "prima-shimmering-lights-glaze-53",
@@ -79925,34 +79979,37 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "53"
+      "paintNumber": "53",
+      "swatchImage": "/uploads/prima/glaze-53.png"
     },
     {
       "id": "prima-shimmering-lights-antique-54",
       "brandId": "prima",
       "name": "Antique",
       "pigmentCodes": [
-        "PB27"
+        "PB27",
+        "Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "54"
+      "paintNumber": "54",
+      "swatchImage": "/uploads/prima/antique-54.png"
     },
     {
       "id": "prima-shimmering-lights-coppered-55",
@@ -79967,14 +80024,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "55"
+      "paintNumber": "55",
+      "swatchImage": "/uploads/prima/coppered-55.png"
     },
     {
       "id": "prima-shimmering-lights-flare-56",
@@ -79989,14 +80047,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "56"
+      "paintNumber": "56",
+      "swatchImage": "/uploads/prima/flare-56.png"
     },
     {
       "id": "prima-shimmering-lights-disco-57",
@@ -80010,14 +80069,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "57"
+      "paintNumber": "57",
+      "swatchImage": "/uploads/prima/disco-57.png"
     },
     {
       "id": "prima-shimmering-lights-goldstone-58",
@@ -80025,61 +80085,64 @@
       "name": "Goldstone",
       "pigmentCodes": [
         "PO13",
-        "PY14",
+        "PY42",
         "PB27"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "58"
+      "paintNumber": "58",
+      "swatchImage": "/uploads/prima/goldstone-58.png"
     },
     {
       "id": "prima-shimmering-lights-champagne-59",
       "brandId": "prima",
       "name": "Champagne",
       "pigmentCodes": [
-        "PW20"
+        "Pearl"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "59"
+      "paintNumber": "59",
+      "swatchImage": "/uploads/prima/champagne-59.png"
     },
     {
       "id": "prima-shimmering-lights-chandelier-60",
       "brandId": "prima",
       "name": "Chandelier",
       "pigmentCodes": [
-        "PW20"
+        "Pearl"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Shimmering Lights",
-      "paintNumber": "60"
+      "paintNumber": "60",
+      "swatchImage": "/uploads/prima/chandelier-60.png"
     },
     {
       "id": "prima-celestial-venus-61",
@@ -80309,14 +80372,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "73"
+      "paintNumber": "73",
+      "swatchImage": "/uploads/prima/tokyo-73.png"
     },
     {
       "id": "prima-odyssey-rome-74",
@@ -80331,14 +80395,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "74"
+      "paintNumber": "74",
+      "swatchImage": "/uploads/prima/rome-74.png"
     },
     {
       "id": "prima-odyssey-amsterdam-75",
@@ -80352,14 +80417,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "75"
+      "paintNumber": "75",
+      "swatchImage": "/uploads/prima/amsterdam-75.png"
     },
     {
       "id": "prima-odyssey-maui-76",
@@ -80373,14 +80439,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "76"
+      "paintNumber": "76",
+      "swatchImage": "/uploads/prima/maui-76.png"
     },
     {
       "id": "prima-odyssey-jordan-77",
@@ -80396,14 +80463,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "77"
+      "paintNumber": "77",
+      "swatchImage": "/uploads/prima/jordan-77.png"
     },
     {
       "id": "prima-odyssey-cusco-78",
@@ -80419,14 +80487,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "78"
+      "paintNumber": "78",
+      "swatchImage": "/uploads/prima/cusco-78.png"
     },
     {
       "id": "prima-odyssey-dubai-79",
@@ -80442,14 +80511,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "79"
+      "paintNumber": "79",
+      "swatchImage": "/uploads/prima/dubai-79.png"
     },
     {
       "id": "prima-odyssey-jamaica-80",
@@ -80464,14 +80534,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "80"
+      "paintNumber": "80",
+      "swatchImage": "/uploads/prima/jamaica-80.png"
     },
     {
       "id": "prima-odyssey-london-81",
@@ -80486,14 +80557,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "81"
+      "paintNumber": "81",
+      "swatchImage": "/uploads/prima/london-81.png"
     },
     {
       "id": "prima-odyssey-inca-82",
@@ -80507,14 +80579,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "1/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "82"
+      "paintNumber": "82",
+      "swatchImage": "/uploads/prima/inca-82.png"
     },
     {
       "id": "prima-odyssey-budapest-83",
@@ -80530,14 +80603,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "83"
+      "paintNumber": "83",
+      "swatchImage": "/uploads/prima/budapest-83.png"
     },
     {
       "id": "prima-odyssey-calgary-84",
@@ -80550,14 +80624,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Odyssey",
-      "paintNumber": "84"
+      "paintNumber": "84",
+      "swatchImage": "/uploads/prima/calgary-84.png"
     },
     {
       "id": "prima-woodlands-sand-ridge-85",
@@ -80571,14 +80646,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "85"
+      "paintNumber": "85",
+      "swatchImage": "/uploads/prima/sand-ridge-85.png"
     },
     {
       "id": "prima-woodlands-shadow-86",
@@ -80591,14 +80667,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "86"
+      "paintNumber": "86",
+      "swatchImage": "/uploads/prima/shadow-86.png"
     },
     {
       "id": "prima-woodlands-cavern-87",
@@ -80613,14 +80690,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "87"
+      "paintNumber": "87",
+      "swatchImage": "/uploads/prima/cavern-87.png"
     },
     {
       "id": "prima-woodlands-foxberry-88",
@@ -80634,14 +80712,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "88"
+      "paintNumber": "88",
+      "swatchImage": "/uploads/prima/foxberry-88.png"
     },
     {
       "id": "prima-woodlands-pond-89",
@@ -80655,14 +80734,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "89"
+      "paintNumber": "89",
+      "swatchImage": "/uploads/prima/pond-89.png"
     },
     {
       "id": "prima-woodlands-stream-90",
@@ -80676,14 +80756,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "90"
+      "paintNumber": "90",
+      "swatchImage": "/uploads/prima/stream-90.png"
     },
     {
       "id": "prima-woodlands-bear-91",
@@ -80698,14 +80779,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "91"
+      "paintNumber": "91",
+      "swatchImage": "/uploads/prima/bear-91.png"
     },
     {
       "id": "prima-woodlands-mist-92",
@@ -80720,14 +80802,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "92"
+      "paintNumber": "92",
+      "swatchImage": "/uploads/prima/mist-92.png"
     },
     {
       "id": "prima-woodlands-greystone-93",
@@ -80742,14 +80825,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "93"
+      "paintNumber": "93",
+      "swatchImage": "/uploads/prima/greystone-93.png"
     },
     {
       "id": "prima-woodlands-daylight-94",
@@ -80764,14 +80848,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "1/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "94"
+      "paintNumber": "94",
+      "swatchImage": "/uploads/prima/daylight-94.png"
     },
     {
       "id": "prima-woodlands-redwood-95",
@@ -80787,14 +80872,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "95"
+      "paintNumber": "95",
+      "swatchImage": "/uploads/prima/redwood-95.png"
     },
     {
       "id": "prima-woodlands-deep-moss-96",
@@ -80809,14 +80895,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Woodlands",
-      "paintNumber": "96"
+      "paintNumber": "96",
+      "swatchImage": "/uploads/prima/deep-moss-96.png"
     },
     {
       "id": "prima-essence-adore-97",
@@ -80831,14 +80918,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "97"
+      "paintNumber": "97",
+      "swatchImage": "/uploads/prima/adore-97.png"
     },
     {
       "id": "prima-essence-chant-98",
@@ -80853,14 +80941,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "98"
+      "paintNumber": "98",
+      "swatchImage": "/uploads/prima/chant-98.png"
     },
     {
       "id": "prima-essence-emotion-99",
@@ -80874,14 +80963,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "99"
+      "paintNumber": "99",
+      "swatchImage": "/uploads/prima/emotion-99.png"
     },
     {
       "id": "prima-essence-earth-100",
@@ -80896,14 +80986,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "100"
+      "paintNumber": "100",
+      "swatchImage": "/uploads/prima/earth-100.png"
     },
     {
       "id": "prima-essence-namaste-101",
@@ -80918,14 +81009,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "101"
+      "paintNumber": "101",
+      "swatchImage": "/uploads/prima/namaste-101.png"
     },
     {
       "id": "prima-essence-ponder-102",
@@ -80939,14 +81031,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "102"
+      "paintNumber": "102",
+      "swatchImage": "/uploads/prima/ponder-102.png"
     },
     {
       "id": "prima-essence-eternity-103",
@@ -80961,14 +81054,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "103"
+      "paintNumber": "103",
+      "swatchImage": "/uploads/prima/eternity-103.png"
     },
     {
       "id": "prima-essence-nirvana-104",
@@ -80982,14 +81076,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "104"
+      "paintNumber": "104",
+      "swatchImage": "/uploads/prima/nirvana-104.png"
     },
     {
       "id": "prima-essence-unite-105",
@@ -81005,14 +81100,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "105"
+      "paintNumber": "105",
+      "swatchImage": "/uploads/prima/unite-105.png"
     },
     {
       "id": "prima-essence-awake-106",
@@ -81028,14 +81124,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "106"
+      "paintNumber": "106",
+      "swatchImage": "/uploads/prima/awake-106.png"
     },
     {
       "id": "prima-essence-creation-107",
@@ -81050,14 +81147,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "107"
+      "paintNumber": "107",
+      "swatchImage": "/uploads/prima/creation-107.png"
     },
     {
       "id": "prima-essence-serenity-108",
@@ -81071,34 +81169,36 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Essence",
-      "paintNumber": "108"
+      "paintNumber": "108",
+      "swatchImage": "/uploads/prima/serenity-108.png"
     },
     {
       "id": "prima-complexion-black-12",
       "brandId": "prima",
       "name": "Black",
       "pigmentCodes": [
-        "PBk9"
+        "PBk7"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "12"
+      "paintNumber": "12",
+      "swatchImage": "/uploads/prima/black-12.png"
     },
     {
       "id": "prima-complexion-coconut-14",
@@ -81112,14 +81212,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "14"
+      "paintNumber": "14",
+      "swatchImage": "/uploads/prima/coconut-14.png"
     },
     {
       "id": "prima-complexion-tiki-24",
@@ -81129,20 +81230,21 @@
         "PR101",
         "PY14",
         "PR48:4",
-        "PBk9"
+        "PBk7"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "24"
+      "paintNumber": "24",
+      "swatchImage": "/uploads/prima/tiki-24.png"
     },
     {
       "id": "prima-complexion-peach-cobbler-31",
@@ -81157,14 +81259,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "31"
+      "paintNumber": "31",
+      "swatchImage": "/uploads/prima/peach-cobbler-31.png"
     },
     {
       "id": "prima-complexion-lemonade-41",
@@ -81179,34 +81282,36 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "41"
+      "paintNumber": "41",
+      "swatchImage": "/uploads/prima/lemonade-41.png"
     },
     {
       "id": "prima-complexion-gold-49",
       "brandId": "prima",
       "name": "Gold",
       "pigmentCodes": [
-        "PW20"
+        "Gold"
       ],
       "hex": "#E6D9C6",
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "49"
+      "paintNumber": "49",
+      "swatchImage": "/uploads/prima/gold-49.png"
     },
     {
       "id": "prima-complexion-cavern-87",
@@ -81221,14 +81326,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "2/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "87"
+      "paintNumber": "87",
+      "swatchImage": "/uploads/prima/cavern-87.png"
     },
     {
       "id": "prima-complexion-bear-91",
@@ -81243,14 +81349,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "91"
+      "paintNumber": "91",
+      "swatchImage": "/uploads/prima/bear-91.png"
     },
     {
       "id": "prima-complexion-redwood-95",
@@ -81266,19 +81373,44 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "95"
+      "paintNumber": "95",
+      "swatchImage": "/uploads/prima/redwood-95.png"
     },
     {
       "id": "prima-complexion-chant-98",
       "brandId": "prima",
       "name": "Chant",
+      "pigmentCodes": [
+        "PR48:4",
+        "PR101",
+        "PB15:3",
+        "PY14"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": null,
+      "staining": null,
+      "granulation": null,
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "toxicity": "No",
+      "collection": "Complexion",
+      "paintNumber": "98",
+      "swatchImage": "/uploads/prima/chant-98.png"
+    },
+    {
+      "id": "prima-complexion-namaste-101",
+      "brandId": "prima",
+      "name": "Namaste",
       "pigmentCodes": [
         "PY42",
         "PR101",
@@ -81288,36 +81420,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "98"
-    },
-    {
-      "id": "prima-complexion-namaste-101",
-      "brandId": "prima",
-      "name": "Namaste",
-      "pigmentCodes": [
-        "PY42",
-        "PY14",
-        "PB29"
-      ],
-      "hex": "#E6D9C6",
-      "transparency": null,
-      "staining": null,
-      "granulation": null,
-      "lightfastness": null,
-      "isVegan": null,
-      "isDiscontinued": false,
-      "hue": "—",
-      "performance": "Student",
-      "toxicity": "No",
-      "collection": "Complexion",
-      "paintNumber": "101"
+      "paintNumber": "101",
+      "swatchImage": "/uploads/prima/namaste-101.png"
     },
     {
       "id": "prima-complexion-unite-105",
@@ -81333,14 +81444,15 @@
       "transparency": null,
       "staining": null,
       "granulation": null,
-      "lightfastness": null,
+      "lightfastness": "3/3",
       "isVegan": null,
       "isDiscontinued": false,
       "hue": "—",
       "performance": "Student",
       "toxicity": "No",
       "collection": "Complexion",
-      "paintNumber": "105"
+      "paintNumber": "105",
+      "swatchImage": "/uploads/prima/unite-105.png"
     },
     {
       "id": "kuretake-gansai-tambi-10-white",
@@ -92734,6 +92846,370 @@
       "hue": "—",
       "swatchImage": "/uploads/grumbacher-finest/GF-attached-permanent-green.png",
       "series": "1"
+    },
+    {
+      "id": "prima-vintage-pastels-periwinkle-109",
+      "brandId": "prima",
+      "name": "Periwinkle",
+      "pigmentCodes": [
+        "PW6",
+        "PB29",
+        "PR101"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "1/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "109",
+      "swatchImage": "/uploads/prima/periwinkle-109.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-sage-110",
+      "brandId": "prima",
+      "name": "Sage",
+      "pigmentCodes": [
+        "PY42",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "110",
+      "swatchImage": "/uploads/prima/sage-110.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-golden-glow-111",
+      "brandId": "prima",
+      "name": "Golden Glow",
+      "pigmentCodes": [
+        "PY42",
+        "PB29"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "111",
+      "swatchImage": "/uploads/prima/golden-glow-111.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-terracotta-112",
+      "brandId": "prima",
+      "name": "Terracotta",
+      "pigmentCodes": [
+        "PY42",
+        "PR101",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "2/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "112",
+      "swatchImage": "/uploads/prima/terracotta-112.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-suede-113",
+      "brandId": "prima",
+      "name": "Suede",
+      "pigmentCodes": [
+        "PY42",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "113",
+      "swatchImage": "/uploads/prima/suede-113.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-stone-grey-114",
+      "brandId": "prima",
+      "name": "Stone Grey",
+      "pigmentCodes": [
+        "PY42",
+        "PR101",
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "114",
+      "swatchImage": "/uploads/prima/stone-grey-114.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-breezy-115",
+      "brandId": "prima",
+      "name": "Breezy",
+      "pigmentCodes": [
+        "PB29",
+        "PB27",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "2/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "115",
+      "swatchImage": "/uploads/prima/breezy-115.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-soft-lilac-116",
+      "brandId": "prima",
+      "name": "Soft Lilac",
+      "pigmentCodes": [
+        "PB27",
+        "PR48:4"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "116",
+      "swatchImage": "/uploads/prima/soft-lilac-116.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-charcoal-117",
+      "brandId": "prima",
+      "name": "Charcoal",
+      "pigmentCodes": [
+        "PBk7"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "117",
+      "swatchImage": "/uploads/prima/charcoal-117.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-dark-roe-118",
+      "brandId": "prima",
+      "name": "Dark Roe",
+      "pigmentCodes": [
+        "PR101",
+        "PV23"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "118",
+      "swatchImage": "/uploads/prima/dark-roe-118.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-appleblossom-119",
+      "brandId": "prima",
+      "name": "Appleblossom",
+      "pigmentCodes": [
+        "PR48:4",
+        "PY42"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "119",
+      "swatchImage": "/uploads/prima/appleblossom-119.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
+    },
+    {
+      "id": "prima-vintage-pastels-dusky-mauve-120",
+      "brandId": "prima",
+      "name": "Dusky Mauve",
+      "pigmentCodes": [
+        "PR48:4",
+        "PR101",
+        "PB15:3"
+      ],
+      "hex": "#E6D9C6",
+      "transparency": "Unknown",
+      "staining": "Unknown",
+      "granulation": "Unknown",
+      "lightfastness": "3/3",
+      "isVegan": null,
+      "isDiscontinued": false,
+      "hue": "—",
+      "performance": "Student",
+      "description": "",
+      "website": "#",
+      "country": "United States",
+      "status": "Student",
+      "series": "1",
+      "paintNumber": "120",
+      "swatchImage": "/uploads/prima/dusky-mauve-120.png",
+      "stainingVsLifting": null,
+      "flow": null,
+      "tintingStrength": null,
+      "toxicity": "Unknown",
+      "collection": "Vintage Pastels"
     }
   ]
 }
