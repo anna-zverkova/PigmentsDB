@@ -387,10 +387,11 @@
       "id": "prima",
       "name": "Prima Marketing",
       "logo": "PM",
-      "description": "",
+      "description": "Prima Marketing makes the Watercolor Confections line of watercolor paints. Although the brand is student grade, it was the first to introduce pastel watercolor paints and expand the range beyond 100 colors.",
       "website": "#",
       "country": "United States",
-      "status": "Student"
+      "status": "Student",
+      "binder": "Does not publicly disclose"
     },
     {
       "id": "della-magna-watercolors",
